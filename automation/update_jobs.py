@@ -71,25 +71,24 @@ def official(url: str, domains: list[str]) -> bool:
 
 
 def bing_results(company: dict) -> list[dict]:
-    domain_query = " OR ".join(f"site:{d}" for d in company["domains"])
-    terms = '"데이터" OR "AI" OR "머신러닝" OR "Data"'
-    entry = '"신입" OR "인턴" OR "경력무관" OR "new grad" OR "intern"'
-    query = f'({domain_query}) "{company["name"]}" ({terms}) ({entry}) 채용'
-    url = "https://www.bing.com/search?format=rss&q=" + quote_plus(query)
-    response = requests.get(url, headers=HEADERS, timeout=20)
-    response.raise_for_status()
-    root = ET.fromstring(response.text)
     results = []
-    for item in root.findall(".//item")[:12]:
-        link = normalized_url(item.findtext("link") or "")
-        if not link or not official(link, company["domains"]):
-            continue
-        results.append({
-            "company": company["name"],
-            "url": link,
-            "title": clean_text(item.findtext("title") or ""),
-            "snippet": clean_text(item.findtext("description") or ""),
-        })
+    for domain in company["domains"]:
+        for keyword in ("데이터", "AI 머신러닝"):
+            query = f'site:{domain} "{company["name"]}" {keyword} 채용'
+            url = "https://www.bing.com/search?format=rss&count=20&q=" + quote_plus(query)
+            response = requests.get(url, headers=HEADERS, timeout=20)
+            response.raise_for_status()
+            root = ET.fromstring(response.text)
+            for item in root.findall(".//item")[:20]:
+                link = normalized_url(item.findtext("link") or "")
+                if not link or not official(link, company["domains"]):
+                    continue
+                results.append({
+                    "company": company["name"],
+                    "url": link,
+                    "title": clean_text(item.findtext("title") or ""),
+                    "snippet": clean_text(item.findtext("description") or ""),
+                })
     return results
 
 
