@@ -1,5 +1,6 @@
 from __future__ import annotations
 
+import base64
 import hashlib
 import html
 import json
@@ -54,7 +55,11 @@ def normalized_url(raw: str) -> str:
     if "bing.com" in parsed.netloc and parsed.path.startswith("/ck/a"):
         candidate = parse_qs(parsed.query).get("u", [raw])[0]
         if candidate.startswith("a1"):
-            candidate = candidate[2:]
+            encoded = candidate[2:]
+            try:
+                candidate = base64.urlsafe_b64decode(encoded + "=" * (-len(encoded) % 4)).decode("utf-8")
+            except (ValueError, UnicodeDecodeError):
+                candidate = encoded
         raw = candidate
         parsed = urlparse(raw)
     return parsed._replace(fragment="").geturl().rstrip("/")
