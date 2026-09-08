@@ -41,6 +41,7 @@ EXCLUDE_TERMS = [
     "시니어", "팀장", "파트장", "lead data", "principal", "임원",
 ]
 CLOSED_TERMS = ["접수마감", "채용마감", "모집마감", "지원마감", "closed", "마감된 공고"]
+RECRUIT_TERMS = ["채용", "모집", "공고", "recruit", "career", "job", "신입", "인턴", "지원자격"]
 
 
 def read_json(path: Path, default):
@@ -188,6 +189,12 @@ def company_style(name: str) -> tuple[str, str]:
 
 def classify(candidate: dict, page_text: str) -> tuple[dict | None, str]:
     title = candidate["title"].strip()
+    preview = " ".join([title, candidate["snippet"]])
+    path = urlparse(candidate["url"]).path.lower()
+    if not contains_any(preview, DATA_TERMS):
+        return None, "not_related_result"
+    if not contains_any(preview, RECRUIT_TERMS) and not any(token in path for token in ["recruit", "career", "job", "apply", "notification"]):
+        return None, "not_job_posting"
     combined = " ".join([candidate["company"], title, candidate["snippet"], page_text])
     if not contains_any(combined, DATA_TERMS):
         return None, "not_data_track"
@@ -236,7 +243,7 @@ def main() -> None:
     retained = {}
     for job in old_feed.get("jobs", []):
         try:
-            if not job.get("deadline") or datetime.fromisoformat(job["deadline"]) >= NOW:
+            if job.get("deadline") and datetime.fromisoformat(job["deadline"]) >= NOW:
                 retained[job["id"]] = job
         except (KeyError, ValueError):
             pass
