@@ -1,1 +1,18 @@
-[]
+[
+  {
+    "company": "POSCO DX",
+    "url": "https://my.posco.com/s/?language=en_US",
+    "title": "My POSCO | 마이 포스코",
+    "snippet": "My POSCO는 더욱 편리한 주문 서비스와 맞춤형 제품 탐색 기능으로 새로운 구매 경험을 제공합니다.",
+    "reason": "insufficient_text",
+    "checkedAt": "2026-09-08T18:27:32+09:00"
+  },
+  {
+    "company": "POSCO DX",
+    "url": "https://www.posco.com/global",
+    "title": "POSCO",
+    "snippet": "POSCO.",
+    "reason": "insufficient_text",
+    "checkedAt": "2026-09-08T18:27:32+09:00"
+  }
+]

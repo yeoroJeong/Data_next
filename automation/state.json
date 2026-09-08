@@ -1,5 +1,5 @@
 {
-  "lastRunAt": "2026-09-08T18:01:31+09:00",
+  "lastRunAt": "2026-09-08T18:27:32+09:00",
   "companies": {
     "삼성전자": {
       "discovered": 0,
@@ -11,7 +11,42 @@
       "verified": 0,
       "error": null
     },
+    "삼성디스플레이": {
+      "discovered": 0,
+      "verified": 0,
+      "error": null
+    },
+    "삼성SDI": {
+      "discovered": 0,
+      "verified": 0,
+      "error": null
+    },
+    "삼성전기": {
+      "discovered": 0,
+      "verified": 0,
+      "error": null
+    },
     "삼성생명": {
+      "discovered": 0,
+      "verified": 0,
+      "error": null
+    },
+    "삼성화재": {
+      "discovered": 0,
+      "verified": 0,
+      "error": null
+    },
+    "삼성카드": {
+      "discovered": 0,
+      "verified": 0,
+      "error": null
+    },
+    "삼성증권": {
+      "discovered": 0,
+      "verified": 0,
+      "error": null
+    },
+    "삼성물산": {
       "discovered": 0,
       "verified": 0,
       "error": null
@@ -31,6 +66,21 @@
       "verified": 0,
       "error": null
     },
+    "SK이노베이션": {
+      "discovered": 0,
+      "verified": 0,
+      "error": null
+    },
+    "SK에코플랜트": {
+      "discovered": 0,
+      "verified": 0,
+      "error": null
+    },
+    "SK쉴더스": {
+      "discovered": 0,
+      "verified": 0,
+      "error": null
+    },
     "LG전자": {
       "discovered": 0,
       "verified": 0,
@@ -41,8 +91,28 @@
       "verified": 0,
       "error": null
     },
+    "LG유플러스": {
+      "discovered": 0,
+      "verified": 0,
+      "error": null
+    },
+    "LG디스플레이": {
+      "discovered": 0,
+      "verified": 0,
+      "error": null
+    },
     "LG에너지솔루션": {
-      "discovered": 2,
+      "discovered": 0,
+      "verified": 0,
+      "error": null
+    },
+    "LG화학": {
+      "discovered": 0,
+      "verified": 0,
+      "error": null
+    },
+    "LG이노텍": {
+      "discovered": 0,
       "verified": 0,
       "error": null
     },
@@ -66,6 +136,26 @@
       "verified": 0,
       "error": null
     },
+    "현대로템": {
+      "discovered": 0,
+      "verified": 0,
+      "error": null
+    },
+    "현대글로비스": {
+      "discovered": 0,
+      "verified": 0,
+      "error": null
+    },
+    "현대카드": {
+      "discovered": 0,
+      "verified": 0,
+      "error": null
+    },
+    "현대캐피탈": {
+      "discovered": 0,
+      "verified": 0,
+      "error": null
+    },
     "한화생명": {
       "discovered": 0,
       "verified": 0,
@@ -81,6 +171,16 @@
       "verified": 0,
       "error": null
     },
+    "한화손해보험": {
+      "discovered": 0,
+      "verified": 0,
+      "error": null
+    },
+    "한화비전": {
+      "discovered": 0,
+      "verified": 0,
+      "error": null
+    },
     "롯데이노베이트": {
       "discovered": 0,
       "verified": 0,
@@ -91,14 +191,229 @@
       "verified": 0,
       "error": null
     },
+    "롯데카드": {
+      "discovered": 0,
+      "verified": 0,
+      "error": null
+    },
+    "롯데e커머스": {
+      "discovered": 0,
+      "verified": 0,
+      "error": null
+    },
     "KT": {
       "discovered": 0,
       "verified": 0,
       "error": null
     },
-    "이노션": {
+    "KT DS": {
       "discovered": 0,
       "verified": 0,
+      "error": null
+    },
+    "KT cloud": {
+      "discovered": 0,
+      "verified": 0,
+      "error": null
+    },
+    "NAVER": {
+      "discovered": 0,
+      "verified": 0,
+      "error": null
+    },
+    "NAVER Cloud": {
+      "discovered": 0,
+      "verified": 0,
+      "error": null
+    },
+    "카카오": {
+      "discovered": 0,
+      "verified": 0,
+      "error": null
+    },
+    "카카오모빌리티": {
+      "discovered": 0,
+      "verified": 0,
+      "error": null
+    },
+    "카카오페이": {
+      "discovered": 0,
+      "verified": 0,
+      "error": null
+    },
+    "LINE Plus": {
+      "discovered": 0,
+      "verified": 0,
+      "error": null
+    },
+    "쿠팡": {
+      "discovered": 0,
+      "verified": 0,
+      "error": null
+    },
+    "우아한형제들": {
+      "discovered": 0,
+      "verified": 0,
+      "error": null
+    },
+    "당근": {
+      "discovered": 0,
+      "verified": 0,
+      "error": null
+    },
+    "토스": {
+      "discovered": 0,
+      "verified": 0,
+      "error": null
+    },
+    "카카오뱅크": {
+      "discovered": 0,
+      "verified": 0,
+      "error": null
+    },
+    "두나무": {
+      "discovered": 0,
+      "verified": 0,
+      "error": null
+    },
+    "쏘카": {
+      "discovered": 6,
+      "verified": 1,
+      "error": null
+    },
+    "컬리": {
+      "discovered": 0,
+      "verified": 0,
+      "error": null
+    },
+    "NHN": {
+      "discovered": 0,
+      "verified": 0,
+      "error": null
+    },
+    "넥슨": {
+      "discovered": 0,
+      "verified": 0,
+      "error": null
+    },
+    "넷마블": {
+      "discovered": 0,
+      "verified": 0,
+      "error": null
+    },
+    "크래프톤": {
+      "discovered": 0,
+      "verified": 0,
+      "error": null
+    },
+    "엔씨소프트": {
+      "discovered": 0,
+      "verified": 0,
+      "error": null
+    },
+    "스마일게이트": {
+      "discovered": 0,
+      "verified": 0,
+      "error": null
+    },
+    "KB국민은행": {
+      "discovered": 0,
+      "verified": 0,
+      "error": null
+    },
+    "신한은행": {
+      "discovered": 0,
+      "verified": 0,
+      "error": null
+    },
+    "하나은행": {
+      "discovered": 0,
+      "verified": 0,
+      "error": null
+    },
+    "우리은행": {
+      "discovered": 12,
+      "verified": 2,
+      "error": null
+    },
+    "NH농협은행": {
+      "discovered": 0,
+      "verified": 0,
+      "error": null
+    },
+    "미래에셋증권": {
+      "discovered": 0,
+      "verified": 0,
+      "error": null
+    },
+    "한국투자증권": {
+      "discovered": 0,
+      "verified": 0,
+      "error": null
+    },
+    "CJ올리브네트웍스": {
+      "discovered": 0,
+      "verified": 0,
+      "error": null
+    },
+    "CJ대한통운": {
+      "discovered": 0,
+      "verified": 0,
+      "error": null
+    },
+    "신세계I&C": {
+      "discovered": 0,
+      "verified": 0,
+      "error": null
+    },
+    "이마트": {
+      "discovered": 0,
+      "verified": 0,
+      "error": null
+    },
+    "GS리테일": {
+      "discovered": 0,
+      "verified": 0,
+      "error": null
+    },
+    "GS칼텍스": {
+      "discovered": 0,
+      "verified": 0,
+      "error": null
+    },
+    "POSCO DX": {
+      "discovered": 6,
+      "verified": 1,
+      "error": null
+    },
+    "포스코": {
+      "discovered": 0,
+      "verified": 0,
+      "error": null
+    },
+    "HD현대": {
+      "discovered": 0,
+      "verified": 0,
+      "error": null
+    },
+    "두산디지털이노베이션": {
+      "discovered": 0,
+      "verified": 0,
+      "error": null
+    },
+    "아모레퍼시픽": {
+      "discovered": 0,
+      "verified": 0,
+      "error": null
+    },
+    "BGF리테일": {
+      "discovered": 0,
+      "verified": 0,
+      "error": null
+    },
+    "이노션": {
+      "discovered": 12,
+      "verified": 1,
       "error": null
     }
   }
