@@ -1,0 +1,22 @@
+[
+  {"name":"삼성전자","domains":["samsungcareers.com"],"career_home":"https://www.samsungcareers.com/"},
+  {"name":"삼성SDS","domains":["samsungcareers.com"],"career_home":"https://www.samsungcareers.com/"},
+  {"name":"삼성생명","domains":["samsungcareers.com"],"career_home":"https://www.samsungcareers.com/"},
+  {"name":"SK하이닉스","domains":["skcareers.com"],"career_home":"https://www.skcareers.com/Recruit"},
+  {"name":"SK텔레콤","domains":["skcareers.com"],"career_home":"https://www.skcareers.com/Recruit"},
+  {"name":"SK AX","domains":["skcareers.com"],"career_home":"https://www.skcareers.com/Recruit"},
+  {"name":"LG전자","domains":["careers.lg.com"],"career_home":"https://careers.lg.com/"},
+  {"name":"LG CNS","domains":["careers.lg.com"],"career_home":"https://careers.lg.com/"},
+  {"name":"LG에너지솔루션","domains":["careers.lg.com","lgensol.com"],"career_home":"https://careers.lg.com/"},
+  {"name":"현대자동차","domains":["talent.hyundai.com"],"career_home":"https://talent.hyundai.com/apply/applyList.hc"},
+  {"name":"기아","domains":["career.kia.com"],"career_home":"https://career.kia.com/apply/applyList.kc"},
+  {"name":"현대오토에버","domains":["career.hyundai-autoever.com"],"career_home":"https://career.hyundai-autoever.com/"},
+  {"name":"현대모비스","domains":["careers.mobis.com"],"career_home":"https://careers.mobis.com/"},
+  {"name":"한화생명","domains":["hanwhain.com"],"career_home":"https://www.hanwhain.com/web/apply/notification/list.do"},
+  {"name":"한화시스템","domains":["hanwhain.com"],"career_home":"https://www.hanwhain.com/web/apply/notification/list.do"},
+  {"name":"한화에어로스페이스","domains":["hanwhain.com"],"career_home":"https://www.hanwhain.com/web/apply/notification/list.do"},
+  {"name":"롯데이노베이트","domains":["recruit.lotte.co.kr"],"career_home":"https://recruit.lotte.co.kr/"},
+  {"name":"롯데쇼핑","domains":["recruit.lotte.co.kr"],"career_home":"https://recruit.lotte.co.kr/"},
+  {"name":"KT","domains":["recruit.kt.com"],"career_home":"https://recruit.kt.com/"},
+  {"name":"이노션","domains":["innocean.com","recruit.innocean.com"],"career_home":"https://recruit.innocean.com/"}
+]
