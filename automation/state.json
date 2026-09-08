@@ -1,5 +1,5 @@
 {
-  "lastRunAt": "2026-09-08T15:22:08+09:00",
+  "lastRunAt": "2026-09-08T15:31:28+09:00",
   "companies": {
     "삼성전자": {
       "discovered": 0,
@@ -42,7 +42,7 @@
       "error": null
     },
     "LG에너지솔루션": {
-      "discovered": 0,
+      "discovered": 1,
       "verified": 0,
       "error": null
     },
