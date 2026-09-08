@@ -1,5 +1,5 @@
 {
-  "lastRunAt": "2026-09-08T18:27:32+09:00",
+  "lastRunAt": "2026-09-08T18:31:52+09:00",
   "companies": {
     "삼성전자": {
       "discovered": 0,
@@ -262,7 +262,7 @@
       "error": null
     },
     "토스": {
-      "discovered": 0,
+      "discovered": 4,
       "verified": 0,
       "error": null
     },
@@ -278,7 +278,7 @@
     },
     "쏘카": {
       "discovered": 6,
-      "verified": 1,
+      "verified": 0,
       "error": null
     },
     "컬리": {
@@ -327,13 +327,13 @@
       "error": null
     },
     "하나은행": {
-      "discovered": 0,
+      "discovered": 8,
       "verified": 0,
       "error": null
     },
     "우리은행": {
       "discovered": 12,
-      "verified": 2,
+      "verified": 0,
       "error": null
     },
     "NH농협은행": {
@@ -382,8 +382,8 @@
       "error": null
     },
     "POSCO DX": {
-      "discovered": 6,
-      "verified": 1,
+      "discovered": 4,
+      "verified": 0,
       "error": null
     },
     "포스코": {
@@ -412,8 +412,8 @@
       "error": null
     },
     "이노션": {
-      "discovered": 12,
-      "verified": 1,
+      "discovered": 0,
+      "verified": 0,
       "error": null
     }
   }

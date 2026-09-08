@@ -1,18 +1,98 @@
 [
   {
-    "company": "POSCO DX",
-    "url": "https://my.posco.com/s/?language=en_US",
-    "title": "My POSCO | 마이 포스코",
-    "snippet": "My POSCO는 더욱 편리한 주문 서비스와 맞춤형 제품 탐색 기능으로 새로운 구매 경험을 제공합니다.",
+    "company": "토스",
+    "url": "https://toss.im",
+    "title": "Toss - 토스",
+    "snippet": "금융부터 일상까지 마침내 토스 하나로.",
     "reason": "insufficient_text",
-    "checkedAt": "2026-09-08T18:27:32+09:00"
+    "checkedAt": "2026-09-08T18:31:52+09:00"
+  },
+  {
+    "company": "토스",
+    "url": "https://toss.im/en",
+    "title": "토스 - Toss",
+    "snippet": "From money to everyday life. All in one place.",
+    "reason": "insufficient_text",
+    "checkedAt": "2026-09-08T18:31:52+09:00"
+  },
+  {
+    "company": "쏘카",
+    "url": "https://www.socar.kr",
+    "title": "차가 필요할 땐, 쏘카 | 전국 및 제주 렌터카·렌트카·카셰어링 예약",
+    "snippet": "쏘카존이란 무엇인가요? 쏘카존은 쏘카 차량을 예약하고 이용을 시작하며 반납할 수 있는 전국 지정 주차 공간입니다. 전국 5,000개 이상 …",
+    "reason": "not_related_result",
+    "checkedAt": "2026-09-08T18:31:52+09:00"
+  },
+  {
+    "company": "쏘카",
+    "url": "https://www.socar.kr/fare",
+    "title": "차가 필요할 땐, 쏘카 | 쏘카 요금 안내 - SOCAR",
+    "snippet": "쏘카 내연기관 차량은 기본적으로 30km까진 주행요금을 받지 않습니다. 30km 주행 이후엔 이용한 거리(km)에 따라 계산됩니다. …",
+    "reason": "not_related_result",
+    "checkedAt": "2026-09-08T18:31:52+09:00"
+  },
+  {
+    "company": "쏘카",
+    "url": "https://socar-mkt.socar.kr/search/brand_sub",
+    "title": "차가 필요한 모든 순간, 쏘카 - SOCAR",
+    "snippet": "패스포트 멤버십 상세 혜택 및 가입, 해지 환불 내용은 쏘카 앱 내에서 확인해 주세요. 이용 가능한 차종과 차량 수는 제한될 수 있습니다. …",
+    "reason": "not_related_result",
+    "checkedAt": "2026-09-08T18:31:52+09:00"
+  },
+  {
+    "company": "하나은행",
+    "url": "https://www.hanabank.com/common/login.do",
+    "title": "하나 은행",
+    "snippet": "We would like to show you a description here but the site won’t allow us.",
+    "reason": "not_related_result",
+    "checkedAt": "2026-09-08T18:31:52+09:00"
+  },
+  {
+    "company": "하나은행",
+    "url": "https://www.hanabank.com/cont/info/info01/info0107/index.jsp",
+    "title": "인터넷뱅킹 혜택 < 인터넷뱅킹 < 이용안내 < 하나 은행",
+    "snippet": "하나은행우대혜택 계좌이동서비스알아두세요 계좌이동 계좌이동조회/변경 계좌이동결과조회/취소 계좌통합관리서비스 착오송금 …",
+    "reason": "not_related_result",
+    "checkedAt": "2026-09-08T18:31:52+09:00"
+  },
+  {
+    "company": "우리은행",
+    "url": "https://www.wooribank.com",
+    "title": "우리 은행",
+    "snippet": "Mongolian (Монгол хэл) 인터넷뱅킹 웹 브라우저 이용시 유의사항 안내 항상 우리은행을 이용해주시는 고객님께 진심으로 …",
+    "reason": "not_related_result",
+    "checkedAt": "2026-09-08T18:31:52+09:00"
+  },
+  {
+    "company": "우리은행",
+    "url": "http://spib.wooribank.com/pib/Dream?withyou=ps",
+    "title": "개인 - 우리 은행",
+    "snippet": "펀드신규 대출이자납입 퇴직연금 WON플러스 예금 우리은행 대표 예금 기간도 금액도 내맘대로 자세히보기 우리은행에서 한번에 …",
+    "reason": "not_related_result",
+    "checkedAt": "2026-09-08T18:31:52+09:00"
+  },
+  {
+    "company": "우리은행",
+    "url": "https://www.wooribank.com/index_mw.html",
+    "title": "우리 은행",
+    "snippet": "항상 우리은행을 이용해 주시는 고객님께 깊이 감사드립니다. 시스템 정기점검으로 인한 금융거래 중단 안내 드립니다. 고객님의 양해를 …",
+    "reason": "not_related_result",
+    "checkedAt": "2026-09-08T18:31:52+09:00"
   },
   {
     "company": "POSCO DX",
-    "url": "https://www.posco.com/global",
+    "url": "http://www.posco.com/homepage/docs/eng7/jsp/s91a0000001i.jsp",
     "title": "POSCO",
-    "snippet": "POSCO.",
+    "snippet": "POSCO Steel Industry Specialist Company, Investor Information, Product and Technology Introduction, Recruitment Information …",
+    "reason": "not_related_result",
+    "checkedAt": "2026-09-08T18:31:52+09:00"
+  },
+  {
+    "company": "POSCO DX",
+    "url": "http://www.posco.com/homepage/docs/eng6/jsp/s91a0000001i.jsp",
+    "title": "POSCO",
+    "snippet": "POSCO FUTURE M POSCO MC MATERIALS POSCO-Pilbara LITHIUM SOLUTION POSCO HY CLEAN METAL P&O CHEMICAL …",
     "reason": "insufficient_text",
-    "checkedAt": "2026-09-08T18:27:32+09:00"
+    "checkedAt": "2026-09-08T18:31:52+09:00"
   }
 ]
