@@ -73,22 +73,31 @@ def official(url: str, domains: list[str]) -> bool:
 def bing_results(company: dict) -> list[dict]:
     results = []
     for domain in company["domains"]:
-        for keyword in ("데이터", "AI 머신러닝"):
-            query = f'site:{domain} "{company["name"]}" {keyword} 채용'
-            url = "https://www.bing.com/search?format=rss&count=20&q=" + quote_plus(query)
-            response = requests.get(url, headers=HEADERS, timeout=20)
-            response.raise_for_status()
-            root = ET.fromstring(response.text)
-            for item in root.findall(".//item")[:20]:
-                link = normalized_url(item.findtext("link") or "")
-                if not link or not official(link, company["domains"]):
-                    continue
-                results.append({
-                    "company": company["name"],
-                    "url": link,
-                    "title": clean_text(item.findtext("title") or ""),
-                    "snippet": clean_text(item.findtext("description") or ""),
-                })
+        query = f'site:{domain} "{company["name"]}" 데이터 AI 채용'
+        response = requests.get(
+            "https://html.duckduckgo.com/html/",
+            params={"q": query}, headers=HEADERS, timeout=25,
+        )
+        response.raise_for_status()
+        soup = BeautifulSoup(response.text, "html.parser")
+        for row in soup.select(".result")[:20]:
+            anchor = row.select_one("a.result__a")
+            if not anchor:
+                continue
+            link = anchor.get("href", "")
+            parsed = urlparse(link)
+            if "duckduckgo.com" in parsed.netloc:
+                link = parse_qs(parsed.query).get("uddg", [link])[0]
+            link = normalized_url(link)
+            if not link or not official(link, company["domains"]):
+                continue
+            snippet = row.select_one(".result__snippet")
+            results.append({
+                "company": company["name"],
+                "url": link,
+                "title": clean_text(anchor.get_text(" ", strip=True)),
+                "snippet": clean_text(snippet.get_text(" ", strip=True) if snippet else ""),
+            })
     return results
 
 
