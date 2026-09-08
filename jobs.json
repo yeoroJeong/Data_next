@@ -1,0 +1,24 @@
+{
+  "schemaVersion": 1,
+  "updatedAt": "2026-09-08T14:47:36+09:00",
+  "jobs": [
+    {
+      "id": "hanwha-life-2026-ai-data",
+      "company": "한화생명",
+      "title": "2026 신입공채 · AI/데이터",
+      "kind": "신입 · 정규직",
+      "place": "서울 영등포구",
+      "deadline": "2026-09-18T15:00:00+09:00",
+      "deadlineLabel": "09.18 15:00",
+      "track": "AI / 데이터",
+      "note": "AI 모델 개발·데이터 엔지니어링 분야의 신입 공채입니다.",
+      "check": "2027년 1월 입사 가능자. 재학생은 2027년 2월 졸업 가능 여부를 확인하세요.",
+      "url": "https://www.hanwhain.com/web/apply/notification/list.do",
+      "source": "한화 공식 채용",
+      "initial": "HW",
+      "color": "orange",
+      "verifiedAt": "2026-09-08T14:00:00+09:00"
+    }
+  ]
+}
+
