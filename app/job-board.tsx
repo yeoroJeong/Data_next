@@ -1,19 +1,17 @@
 'use client';
 
-import { useEffect, useMemo, useState } from 'react';
+import { useMemo, useState } from 'react';
 import { ArrowUpRight, Building2, CheckCircle2, Database, RefreshCw, Search } from 'lucide-react';
 
-type Job = {
+export type Job = {
   id: string; company: string; title: string; kind: string; place: string;
   deadline: string | null; deadlineLabel: string; track: string; note: string;
   check: string; url: string; source: string; initial: string;
   color: 'blue' | 'orange' | 'green'; verifiedAt: string;
 };
-type Feed = { schemaVersion: number; updatedAt: string; jobs: Job[] };
-type Company = { name: string; group: string; category: string; career_home: string };
+export type Feed = { schemaVersion: number; updatedAt: string; jobs: Job[] };
+export type Company = { name: string; group: string; category: string; career_home: string };
 
-const FEED_URL = 'https://raw.githubusercontent.com/yeoroJeong/Data_next/main/jobs.json';
-const COMPANIES_URL = 'https://raw.githubusercontent.com/yeoroJeong/Data_next/main/automation/companies.json';
 const fallback: Feed = {
   schemaVersion: 1,
   updatedAt: '2026-09-08T14:00:00+09:00',
@@ -39,36 +37,14 @@ function formatChecked(value: string) {
   }).format(date);
 }
 
-export default function JobBoard() {
-  const [feed, setFeed] = useState<Feed>(fallback);
-  const [companies, setCompanies] = useState<Company[]>([]);
+export default function JobBoard({ initialFeed = fallback, initialCompanies = [] }: {
+  initialFeed?: Feed;
+  initialCompanies?: Company[];
+}) {
   const [companyQuery, setCompanyQuery] = useState('');
-  const [live, setLive] = useState(false);
-
-  useEffect(() => {
-    const controller = new AbortController();
-    fetch(`${FEED_URL}?t=${Date.now()}`, { cache: 'no-store', signal: controller.signal })
-      .then((response) => {
-        if (!response.ok) throw new Error('feed unavailable');
-        return response.json() as Promise<Feed>;
-      })
-      .then((data) => {
-        if (data.schemaVersion !== 1 || !Array.isArray(data.jobs)) throw new Error('invalid feed');
-        setFeed(data);
-        setLive(true);
-      })
-      .catch(() => setLive(false));
-    return () => controller.abort();
-  }, []);
-
-  useEffect(() => {
-    const controller = new AbortController();
-    fetch(`${COMPANIES_URL}?t=${Date.now()}`, { cache: 'no-store', signal: controller.signal })
-      .then((response) => response.ok ? response.json() as Promise<Company[]> : Promise.reject())
-      .then((data) => setCompanies(Array.isArray(data) ? data : []))
-      .catch(() => setCompanies([]));
-    return () => controller.abort();
-  }, []);
+  const feed = initialFeed;
+  const companies = initialCompanies;
+  const live = false;
 
   const jobs = useMemo(() => [...feed.jobs].sort(
     (a, b) => (a.deadline ? new Date(a.deadline).getTime() : Infinity) - (b.deadline ? new Date(b.deadline).getTime() : Infinity),
@@ -94,7 +70,7 @@ export default function JobBoard() {
         <div className="date-panel"><span>LAST CHECKED</span><strong>{checked.slice(0, 10)}</strong><p>{checked.slice(11)} · 한국 시간</p></div>
       </section>
       <div className="scope">{live ? <RefreshCw size={18}/> : <CheckCircle2 size={18}/>}<p>
-        <b>{live ? '클라우드 자동 갱신' : '마지막 검증 데이터'}</b>
+        <b>{live ? '원격 데이터 동기화' : '저장된 최신 데이터'}</b>
         {companies.length || '80+'}개 대기업·주요 테크 기업의 신입·인턴·주니어 공고를 폭넓게 확인합니다. 지원자격이 불명확한 공고도 관련성이 있으면 표시합니다.
       </p></div>
       <div className="content"><section>
@@ -122,7 +98,7 @@ export default function JobBoard() {
         </a>)}</div>
         {companies.length > 0 && visibleCompanies.length === 0 && <div className="directory-empty">검색 결과가 없습니다.</div>}
       </section>
-      <footer><span className="brand">DATA NEXT</span><p>클라우드가 하루 두 번 관련 채용정보를 확인합니다.<br/>공고는 조기 마감·변경될 수 있으므로 지원 전 원문을 확인하세요.</p><a href="#">맨 위로 ↑</a></footer>
+      <footer><span className="brand">DATA NEXT</span><p>자동화가 매일 오전 9시 17분과 오후 6시 17분(한국 시간)에 공고 원문 재확인을 시도합니다.<br/>접근 실패·조기 마감·변경이 있을 수 있으므로 지원 전 원문을 확인하세요.</p><a href="#">맨 위로 ↑</a></footer>
     </main>
   </>;
 }
