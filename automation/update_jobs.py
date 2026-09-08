@@ -24,7 +24,12 @@ DATA_TERMS = [
     "데이터 분석", "데이터분석", "데이터 엔지니어", "데이터엔지니어",
     "데이터 사이언", "머신러닝", "machine learning", "data analyst",
     "data engineer", "data scientist", "ml engineer", "ai engineer",
-    "인공지능", "ai/데이터", "ai · 데이터",
+    "인공지능", "ai/데이터", "ai · 데이터", "생성형 ai", "llm",
+    "소프트웨어", "software", "sw개발", "sw 개발", "백엔드", "backend",
+    "클라우드", "cloud", "플랫폼", "platform", "devops", "mlops",
+    "데이터베이스", "database", "dba", "sql", "python", "통계",
+    "business intelligence", "bi 분석", "디지털", "자동화", "rpa",
+    "추천", "검색", "리서치", "research", "마케팅 분석", "crm",
 ]
 ENTRY_TERMS = [
     "신입", "경력무", "인턴", "경력무", "경력무관", "경력 무관",
@@ -33,7 +38,7 @@ ENTRY_TERMS = [
 EXCLUDE_TERMS = [
     "데이터센터 시설", "데이터 센터 시설", "시설관리", "시공관리", "안전관리",
     "단순 라벨링", "데이터 라벨러", "cx 기획", "마케팅 기획", "senior",
-    "시니어", "팀장", "파트장", "lead data", "principal",
+    "시니어", "팀장", "파트장", "lead data", "principal", "임원",
 ]
 CLOSED_TERMS = ["접수마감", "채용마감", "모집마감", "지원마감", "closed", "마감된 공고"]
 
@@ -73,31 +78,35 @@ def official(url: str, domains: list[str]) -> bool:
 def bing_results(company: dict) -> list[dict]:
     results = []
     for domain in company["domains"]:
-        query = f'site:{domain} "{company["name"]}" 데이터 AI 채용'
-        response = requests.get(
-            "https://www.bing.com/search",
-            params={"q": query}, headers=HEADERS, timeout=25,
-        )
-        response.raise_for_status()
-        soup = BeautifulSoup(response.text, "html.parser")
-        for row in soup.select("li.b_algo")[:20]:
-            anchor = row.select_one("h2 a")
-            if not anchor:
-                continue
-            link = anchor.get("href", "")
-            parsed = urlparse(link)
-            if "duckduckgo.com" in parsed.netloc:
-                link = parse_qs(parsed.query).get("uddg", [link])[0]
-            link = normalized_url(link)
-            if not link or not official(link, company["domains"]):
-                continue
-            snippet = row.select_one(".b_caption p")
-            results.append({
-                "company": company["name"],
-                "url": link,
-                "title": clean_text(anchor.get_text(" ", strip=True)),
-                "snippet": clean_text(snippet.get_text(" ", strip=True) if snippet else ""),
-            })
+        queries = [
+            f'site:{domain} "{company["name"]}" (데이터 OR AI OR 소프트웨어 OR 디지털) 채용',
+            f'site:{domain} "{company["name"]}" (신입 OR 인턴 OR 주니어) 채용',
+        ]
+        for query in queries:
+            response = requests.get(
+                "https://www.bing.com/search",
+                params={"q": query}, headers=HEADERS, timeout=25,
+            )
+            response.raise_for_status()
+            soup = BeautifulSoup(response.text, "html.parser")
+            for row in soup.select("li.b_algo")[:20]:
+                anchor = row.select_one("h2 a")
+                if not anchor:
+                    continue
+                link = anchor.get("href", "")
+                parsed = urlparse(link)
+                if "duckduckgo.com" in parsed.netloc:
+                    link = parse_qs(parsed.query).get("uddg", [link])[0]
+                link = normalized_url(link)
+                if not link or not official(link, company["domains"]):
+                    continue
+                snippet = row.select_one(".b_caption p")
+                results.append({
+                    "company": company["name"],
+                    "url": link,
+                    "title": clean_text(anchor.get_text(" ", strip=True)),
+                    "snippet": clean_text(snippet.get_text(" ", strip=True) if snippet else ""),
+                })
     return results
 
 
@@ -143,11 +152,12 @@ def deadline_from(text: str) -> datetime | None:
     return max(dates) if dates else None
 
 
-def career_required(text: str) -> bool:
+def senior_career_required(text: str) -> bool:
     lower = text.lower()
     if "경력무관" in lower or "경력 무관" in lower:
         return False
-    return bool(re.search(r"경력\s*[1-9]\d*\s*년\s*(?:이상|필수|~)", lower))
+    matches = re.findall(r"경력\s*([1-9]\d*)\s*년\s*(?:이상|필수|~)", lower)
+    return any(int(years) >= 4 for years in matches)
 
 
 def track_for(text: str) -> str:
@@ -158,7 +168,13 @@ def track_for(text: str) -> str:
         return "AI / ML"
     if any(term in lower for term in ["data scientist", "데이터 사이언"]):
         return "데이터 사이언스"
-    return "데이터 분석"
+    if any(term in lower for term in ["소프트웨어", "software", "sw개발", "sw 개발", "백엔드", "backend"]):
+        return "SW / 백엔드"
+    if any(term in lower for term in ["클라우드", "cloud", "platform", "플랫폼", "devops"]):
+        return "클라우드 / 플랫폼"
+    if any(term in lower for term in ["마케팅", "crm", "리서치", "research"]):
+        return "비즈니스 분석"
+    return "데이터 / 디지털"
 
 
 def company_style(name: str) -> tuple[str, str]:
@@ -177,21 +193,18 @@ def classify(candidate: dict, page_text: str) -> tuple[dict | None, str]:
         return None, "not_data_track"
     if contains_any(title + " " + candidate["snippet"], EXCLUDE_TERMS):
         return None, "excluded_role"
-    if not contains_any(combined, ENTRY_TERMS):
-        return None, "entry_status_unconfirmed"
-    if career_required(combined):
-        return None, "career_required"
+    if senior_career_required(combined):
+        return None, "senior_career_required"
     if re.search(r"(?:석사|박사)\s*(?:이상|필수)", combined):
         return None, "advanced_degree_required"
     deadline = deadline_from(combined)
-    if not deadline:
-        return None, "deadline_unconfirmed"
-    if deadline < NOW:
+    if deadline and deadline < NOW:
         return None, "expired"
     if contains_any(page_text[:2500], CLOSED_TERMS):
         return None, "marked_closed"
     track = track_for(combined)
-    kind = "인턴" if contains_any(combined, ["인턴", "intern"]) else "신입 · 정규직"
+    entry_confirmed = contains_any(combined, ENTRY_TERMS)
+    kind = "인턴" if contains_any(combined, ["인턴", "intern"]) else ("신입 · 정규직" if entry_confirmed else "지원자격 확인")
     if kind == "인턴" and contains_any(combined, ["채용연계", "전환형"]):
         kind = "신입 · 채용연계형 인턴"
     elif kind == "인턴":
@@ -204,11 +217,11 @@ def classify(candidate: dict, page_text: str) -> tuple[dict | None, str]:
         "title": title[:120],
         "kind": kind,
         "place": "원문 확인",
-        "deadline": deadline.isoformat(),
-        "deadlineLabel": deadline.strftime("%m.%d %H:%M"),
+        "deadline": deadline.isoformat() if deadline else None,
+        "deadlineLabel": deadline.strftime("%m.%d %H:%M") if deadline else "원문 확인",
         "track": track,
-        "note": f"공식 채용 원문에서 {track} 업무와 신입 지원 조건이 확인된 공고입니다.",
-        "check": "지원 전 상세 자격, 졸업·입사 가능 시기와 근무지를 원문에서 다시 확인하세요.",
+        "note": f"공식 채용 원문에서 {track} 연관성이 확인된 공고입니다.",
+        "check": ("신입·인턴 지원 조건을 확인했습니다. 상세 자격과 근무지는 원문에서 다시 확인하세요." if entry_confirmed else "데이터 트랙 연관성으로 먼저 포착했습니다. 신입 지원 가능 여부와 마감일을 원문에서 확인하세요."),
         "url": normalized_url(candidate["url"]),
         "source": f"{candidate['company']} 공식 채용",
         "initial": initial,
@@ -223,7 +236,7 @@ def main() -> None:
     retained = {}
     for job in old_feed.get("jobs", []):
         try:
-            if datetime.fromisoformat(job["deadline"]) >= NOW:
+            if not job.get("deadline") or datetime.fromisoformat(job["deadline"]) >= NOW:
                 retained[job["id"]] = job
         except (KeyError, ValueError):
             pass
@@ -257,7 +270,7 @@ def main() -> None:
         state["companies"][company["name"]] = company_state
         time.sleep(0.35)
 
-    jobs = sorted(verified.values(), key=lambda item: item.get("deadline", "9999"))
+    jobs = sorted(verified.values(), key=lambda item: item.get("deadline") or "9999")
     feed = {"schemaVersion": 1, "updatedAt": NOW.isoformat(timespec="seconds"), "jobs": jobs}
     (ROOT / "jobs.json").write_text(json.dumps(feed, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
     (ROOT / "automation" / "state.json").write_text(json.dumps(state, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
