@@ -75,13 +75,13 @@ def bing_results(company: dict) -> list[dict]:
     for domain in company["domains"]:
         query = f'site:{domain} "{company["name"]}" 데이터 AI 채용'
         response = requests.get(
-            "https://html.duckduckgo.com/html/",
+            "https://www.bing.com/search",
             params={"q": query}, headers=HEADERS, timeout=25,
         )
         response.raise_for_status()
         soup = BeautifulSoup(response.text, "html.parser")
-        for row in soup.select(".result")[:20]:
-            anchor = row.select_one("a.result__a")
+        for row in soup.select("li.b_algo")[:20]:
+            anchor = row.select_one("h2 a")
             if not anchor:
                 continue
             link = anchor.get("href", "")
@@ -91,7 +91,7 @@ def bing_results(company: dict) -> list[dict]:
             link = normalized_url(link)
             if not link or not official(link, company["domains"]):
                 continue
-            snippet = row.select_one(".result__snippet")
+            snippet = row.select_one(".b_caption p")
             results.append({
                 "company": company["name"],
                 "url": link,
