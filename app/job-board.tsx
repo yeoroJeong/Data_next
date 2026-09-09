@@ -1,7 +1,7 @@
 'use client';
 
 import { useMemo, useState } from 'react';
-import { ArrowUpRight, Building2, CheckCircle2, Database, RefreshCw, Search } from 'lucide-react';
+import { ArrowUpRight, Building2, CheckCircle2, ChevronDown, Database, RefreshCw, Search } from 'lucide-react';
 
 export type Job = {
   id: string; company: string; title: string; kind: string; place: string;
@@ -49,6 +49,15 @@ export default function JobBoard({ initialFeed = fallback, initialCompanies = []
   const jobs = useMemo(() => [...feed.jobs].sort(
     (a, b) => (a.deadline ? new Date(a.deadline).getTime() : Infinity) - (b.deadline ? new Date(b.deadline).getTime() : Infinity),
   ), [feed.jobs]);
+  const jobGroups = useMemo(() => {
+    const grouped = new Map<string, Job[]>();
+    for (const job of jobs) grouped.set(job.company, [...(grouped.get(job.company) ?? []), job]);
+    return [...grouped.entries()].map(([company, companyJobs]) => ({
+      company,
+      jobs: companyJobs,
+      first: companyJobs[0],
+    }));
+  }, [jobs]);
   const visibleCompanies = useMemo(() => {
     const query = companyQuery.trim().toLowerCase();
     return companies.filter((company) => !query || `${company.name} ${company.group} ${company.category}`.toLowerCase().includes(query));
@@ -74,13 +83,20 @@ export default function JobBoard({ initialFeed = fallback, initialCompanies = []
         {companies.length || '80+'}개 대기업·주요 테크 기업의 신입·인턴·주니어 공고를 폭넓게 확인합니다. 지원자격이 불명확한 공고도 관련성이 있으면 표시합니다.
       </p></div>
       <div className="content"><section>
-        <div className="section-heading"><h2>지원 검토할 공고 <span>{jobs.length.toString().padStart(2, '0')}</span></h2><span>마감일 빠른 순</span></div>
-        {jobs.length === 0 ? <div className="empty-job">현재 조건이 확인된 모집 공고가 없습니다. 다음 수집에서 다시 확인합니다.</div> : jobs.map((job) => <article className="job" key={job.id}>
-          <div className="job-top"><span className={`monogram ${job.color}`}>{job.initial}</span><div className="company">{job.company}<small>{job.kind} · {job.place}</small></div><span className="deadline">{job.deadlineLabel}{job.deadline ? ' 마감' : ''}</span></div>
-          <div className="job-title"><h3>{job.title}</h3><span className="tag">{job.track}</span></div>
-          <p>{job.note}</p><div className="job-bottom"><span>{job.check}</span><a href={job.url} target="_blank" rel="noopener noreferrer">공고 원문 <ArrowUpRight size={17}/></a></div>
-          <div className="source">출처: {job.source} · {formatChecked(job.verifiedAt)} 확인</div>
-        </article>)}
+        <div className="section-heading"><h2>지원 검토할 기업 <span>{jobGroups.length.toString().padStart(2, '0')}</span></h2><span>총 {jobs.length}개 직무 · 마감일 빠른 순</span></div>
+        {jobs.length === 0 ? <div className="empty-job">현재 조건이 확인된 모집 공고가 없습니다. 다음 수집에서 다시 확인합니다.</div> : jobGroups.map((group) => <details className="company-jobs" key={group.company}>
+          <summary>
+            <span className={`monogram ${group.first.color}`}>{group.first.initial}</span>
+            <span className="company group-company">{group.company}<small>{group.jobs.length}개 직무 · 눌러서 상세 공고 보기</small></span>
+            <span className="group-summary-meta"><span className="deadline">{group.first.deadlineLabel}{group.first.deadline ? ' 마감' : ''}</span><ChevronDown className="group-chevron" size={20}/></span>
+          </summary>
+          <div className="company-job-list">{group.jobs.map((job) => <article className="job-role" key={job.id}>
+            <div className="role-heading"><div className="job-title"><h3>{job.title}</h3><span className="tag">{job.track}</span></div><span className="role-deadline">{job.deadlineLabel}{job.deadline ? ' 마감' : ''}</span></div>
+            <div className="role-meta">{job.kind} · {job.place}</div>
+            <p>{job.note}</p><div className="job-bottom"><span>{job.check}</span><a href={job.url} target="_blank" rel="noopener noreferrer">공고 원문 <ArrowUpRight size={17}/></a></div>
+            <div className="source">출처: {job.source} · {formatChecked(job.verifiedAt)} 확인</div>
+          </article>)}</div>
+        </details>)}
       </section><aside>
         <div className="aside-card"><span className="eyebrow">APPLICATION NOTE</span><h2>수업에서 만든 경험을,<br/>지원서의 근거로.</h2><ol>
           <li><b>분석 프로젝트</b><p>문제 정의 → SQL 추출 → 분석 → 제안의 흐름을 한 장으로 정리하세요.</p></li>
