@@ -1,5 +1,5 @@
 {
-  "lastRunAt": "2026-09-09T13:45:46+09:00",
+  "lastRunAt": "2026-09-09T22:45:13+09:00",
   "companies": {
     "삼성전자": {
       "discovered": 22,
@@ -193,7 +193,8 @@
       "discovered": 25,
       "verified": 0,
       "sources": {
-        "sitemap": 25
+        "sitemap": 24,
+        "bing": 1
       },
       "errors": []
     },
@@ -207,10 +208,10 @@
       "errors": []
     },
     "현대모비스": {
-      "discovered": 85,
+      "discovered": 88,
       "verified": 23,
       "sources": {
-        "official_page": 84,
+        "official_page": 87,
         "sitemap": 1
       },
       "errors": []
@@ -240,11 +241,11 @@
       ]
     },
     "현대캐피탈": {
-      "discovered": 12,
+      "discovered": 11,
       "verified": 0,
       "sources": {
         "official_page": 5,
-        "sitemap": 7
+        "sitemap": 6
       },
       "errors": []
     },
@@ -279,34 +280,34 @@
       "errors": []
     },
     "롯데이노베이트": {
-      "discovered": 70,
+      "discovered": 74,
       "verified": 1,
       "sources": {
-        "official_page": 70
+        "official_page": 74
       },
       "errors": []
     },
     "롯데쇼핑": {
-      "discovered": 70,
+      "discovered": 74,
       "verified": 1,
       "sources": {
-        "official_page": 70
+        "official_page": 74
       },
       "errors": []
     },
     "롯데카드": {
-      "discovered": 70,
+      "discovered": 74,
       "verified": 1,
       "sources": {
-        "official_page": 70
+        "official_page": 74
       },
       "errors": []
     },
     "롯데e커머스": {
-      "discovered": 70,
+      "discovered": 74,
       "verified": 1,
       "sources": {
-        "official_page": 70
+        "official_page": 74
       },
       "errors": []
     },
@@ -338,17 +339,17 @@
       "errors": []
     },
     "NAVER Cloud": {
-      "discovered": 18,
-      "verified": 1,
+      "discovered": 14,
+      "verified": 0,
       "sources": {
-        "official_api": 10,
+        "official_api": 6,
         "official_page": 8
       },
       "errors": []
     },
     "카카오": {
       "discovered": 23,
-      "verified": 0,
+      "verified": 1,
       "sources": {
         "official_api": 23
       },
@@ -498,34 +499,35 @@
       "errors": []
     },
     "신한은행": {
-      "discovered": 0,
+      "discovered": 5,
       "verified": 0,
-      "sources": {},
+      "sources": {
+        "bing": 5
+      },
       "errors": []
     },
     "하나은행": {
-      "discovered": 0,
+      "discovered": 2,
       "verified": 0,
-      "sources": {},
+      "sources": {
+        "bing": 2
+      },
       "errors": []
     },
     "우리은행": {
-      "discovered": 1,
+      "discovered": 7,
       "verified": 0,
       "sources": {
-        "sitemap": 1
+        "sitemap": 1,
+        "bing": 6
       },
-      "errors": [
-        "official_page:ConnectionError"
-      ]
+      "errors": []
     },
     "NH농협은행": {
       "discovered": 0,
       "verified": 0,
       "sources": {},
-      "errors": [
-        "official_page:ConnectionError"
-      ]
+      "errors": []
     },
     "미래에셋증권": {
       "discovered": 0,
@@ -554,10 +556,11 @@
       "errors": []
     },
     "신세계I&C": {
-      "discovered": 1,
+      "discovered": 3,
       "verified": 0,
       "sources": {
-        "official_page": 1
+        "official_page": 1,
+        "bing": 2
       },
       "errors": []
     },
@@ -584,22 +587,20 @@
       "errors": []
     },
     "POSCO DX": {
-      "discovered": 4,
+      "discovered": 2,
       "verified": 0,
       "sources": {
-        "bing": 4
+        "bing": 2
       },
-      "errors": [
-        "official_page:ConnectionError"
-      ]
+      "errors": []
     },
     "포스코": {
-      "discovered": 0,
+      "discovered": 1,
       "verified": 0,
-      "sources": {},
-      "errors": [
-        "official_page:ConnectionError"
-      ]
+      "sources": {
+        "bing": 1
+      },
+      "errors": []
     },
     "HD현대": {
       "discovered": 0,
@@ -614,10 +615,10 @@
       "errors": []
     },
     "아모레퍼시픽": {
-      "discovered": 15,
+      "discovered": 16,
       "verified": 0,
       "sources": {
-        "official_page": 15
+        "official_page": 16
       },
       "errors": []
     },
