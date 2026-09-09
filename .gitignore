@@ -1,6 +1,9 @@
 node_modules/
 .next/
+.vinext/
 out/
+dist/
+.wrangler/
 .env*
 !.env.example
 npm-debug.log*

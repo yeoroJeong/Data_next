@@ -11,6 +11,7 @@ export type Job = {
 };
 export type Feed = { schemaVersion: number; updatedAt: string; jobs: Job[] };
 export type Company = { name: string; group: string; category: string; career_home: string };
+export type CurrentUser = { displayName: string };
 
 const fallback: Feed = {
   schemaVersion: 1,
@@ -37,11 +38,25 @@ function formatChecked(value: string) {
   }).format(date);
 }
 
-export default function JobBoard({ initialFeed = fallback, initialCompanies = [] }: {
+export default function JobBoard({
+  initialFeed = fallback,
+  initialCompanies = [],
+  currentUser = null,
+  completedJobIds = [],
+  signInPath = '/signin-with-chatgpt?return_to=%2F',
+  signOutPath = '/signout-with-chatgpt?return_to=%2F',
+}: {
   initialFeed?: Feed;
   initialCompanies?: Company[];
+  currentUser?: CurrentUser | null;
+  completedJobIds?: string[];
+  signInPath?: string;
+  signOutPath?: string;
 }) {
   const [companyQuery, setCompanyQuery] = useState('');
+  const [completedJobs, setCompletedJobs] = useState(() => new Set(completedJobIds));
+  const [savingJobs, setSavingJobs] = useState(() => new Set<string>());
+  const [saveError, setSaveError] = useState('');
   const feed = initialFeed;
   const companies = initialCompanies;
   const live = false;
@@ -63,12 +78,41 @@ export default function JobBoard({ initialFeed = fallback, initialCompanies = []
     return companies.filter((company) => !query || `${company.name} ${company.group} ${company.category}`.toLowerCase().includes(query));
   }, [companies, companyQuery]);
   const checked = formatChecked(feed.updatedAt);
+  const completedCount = completedJobs.size;
+
+  async function toggleCompleted(jobId: string, completed: boolean) {
+    const previous = new Set(completedJobs);
+    const next = new Set(previous);
+    if (completed) next.add(jobId); else next.delete(jobId);
+    setCompletedJobs(next);
+    setSavingJobs((value) => new Set(value).add(jobId));
+    setSaveError('');
+
+    try {
+      const response = await fetch('/api/applications', {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({ jobId, completed }),
+      });
+      if (!response.ok) throw new Error('save failed');
+    } catch {
+      setCompletedJobs(previous);
+      setSaveError('지원 상태를 저장하지 못했습니다. 잠시 후 다시 시도해 주세요.');
+    } finally {
+      setSavingJobs((value) => {
+        const remaining = new Set(value);
+        remaining.delete(jobId);
+        return remaining;
+      });
+    }
+  }
 
   return <>
     <header className="topbar">
       <a className="brand" href="#"><Database size={24}/>DATA <span>NEXT</span></a>
       <span className="edition">SSAFY DATA CLASS　 /　 CAREER COLLECTION</span>
-      <span className="issue">AUTO<small>{live ? 'CLOUD LIVE' : 'LAST VERIFIED'}</small></span>
+      {currentUser ? <div className="account-area"><span className="account-name">{currentUser.displayName}<small>지원 완료 {completedCount}/{jobs.length}</small></span><a className="account-action" href={signOutPath} target="_top">로그아웃</a></div>
+        : <a className="login-button" href={signInPath} target="_top">ChatGPT로 로그인</a>}
     </header>
     <main>
       <section className="intro">
@@ -84,14 +128,15 @@ export default function JobBoard({ initialFeed = fallback, initialCompanies = []
       </p></div>
       <div className="content"><section>
         <div className="section-heading"><h2>지원 검토할 기업 <span>{jobGroups.length.toString().padStart(2, '0')}</span></h2><span>총 {jobs.length}개 직무 · 마감일 빠른 순</span></div>
+        {saveError && <div className="save-error" role="alert">{saveError}</div>}
         {jobs.length === 0 ? <div className="empty-job">현재 조건이 확인된 모집 공고가 없습니다. 다음 수집에서 다시 확인합니다.</div> : jobGroups.map((group) => <details className="company-jobs" key={group.company}>
           <summary>
             <span className={`monogram ${group.first.color}`}>{group.first.initial}</span>
-            <span className="company group-company">{group.company}<small>{group.jobs.length}개 직무 · 눌러서 상세 공고 보기</small></span>
+            <span className="company group-company">{group.company}<small>{group.jobs.length}개 직무{currentUser ? ` · 지원 완료 ${group.jobs.filter((job) => completedJobs.has(job.id)).length}개` : ''} · 눌러서 상세 공고 보기</small></span>
             <span className="group-summary-meta"><span className="deadline">{group.first.deadlineLabel}{group.first.deadline ? ' 마감' : ''}</span><ChevronDown className="group-chevron" size={20}/></span>
           </summary>
           <div className="company-job-list">{group.jobs.map((job) => <article className="job-role" key={job.id}>
-            <div className="role-heading"><div className="job-title"><h3>{job.title}</h3><span className="tag">{job.track}</span></div><span className="role-deadline">{job.deadlineLabel}{job.deadline ? ' 마감' : ''}</span></div>
+            <div className="role-heading"><div className="job-title"><h3>{job.title}</h3><span className="tag">{job.track}</span></div><div className="role-actions"><span className="role-deadline">{job.deadlineLabel}{job.deadline ? ' 마감' : ''}</span>{currentUser ? <label className={`apply-checkbox ${completedJobs.has(job.id) ? 'checked' : ''}`}><input type="checkbox" checked={completedJobs.has(job.id)} disabled={savingJobs.has(job.id)} onChange={(event) => toggleCompleted(job.id, event.target.checked)}/><span>{savingJobs.has(job.id) ? '저장 중' : '지원 완료'}</span></label> : <a className="apply-login" href={signInPath} target="_top">로그인 후 체크</a>}</div></div>
             <div className="role-meta">{job.kind} · {job.place}</div>
             <p>{job.note}</p><div className="job-bottom"><span>{job.check}</span><a href={job.url} target="_blank" rel="noopener noreferrer">공고 원문 <ArrowUpRight size={17}/></a></div>
             <div className="source">출처: {job.source} · {formatChecked(job.verifiedAt)} 확인</div>
