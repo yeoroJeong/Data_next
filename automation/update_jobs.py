@@ -126,14 +126,30 @@ def candidate(company: dict, url: str, title: str, snippet: str, source: str) ->
 def direct_results(company: dict) -> list[dict]:
     """Discover postings exposed in official HTML and JobPosting JSON-LD."""
     results = []
-    for discovery_url in dict.fromkeys([company["career_home"], *company.get("discovery_urls", [])]):
+    discovery_urls = list(dict.fromkeys([company["career_home"], *company.get("discovery_urls", [])]))
+    visited_pages = set()
+    for discovery_url in discovery_urls:
+        if discovery_url in visited_pages or len(visited_pages) >= 5:
+            continue
+        visited_pages.add(discovery_url)
         response = requests.get(discovery_url, headers=HEADERS, timeout=25)
         response.raise_for_status()
         soup = BeautifulSoup(response.text, "html.parser")
         for anchor in soup.select("a[href]"):
+            target_url = normalized_url(urljoin(discovery_url, anchor.get("href", "")))
             context = clean_text(anchor.parent.get_text(" ", strip=True))[:1000]
-            title = clean_text(anchor.get_text(" ", strip=True))
+            title_node = anchor.select_one(".tit, .title, .job-title, [class*='job-title']")
+            title = clean_text(title_node.get_text(" ", strip=True) if title_node else anchor.get_text(" ", strip=True))
             url = anchor.get("href", "")
+            target_path = urlparse(target_url).path.lower().rstrip("/")
+            listing_label = contains_any(title, ["전체 채용공고", "채용공고", "채용정보", "채용 보기", "jobs", "job openings"])
+            listing_path = target_path.endswith(("/jobs", "/recruit", "/careers", "/apply", "/notification")) or any(
+                token in target_path for token in ["applylist", "recruit/list", "rcrt/list"]
+            )
+            detail_path = any(token in target_path for token in ["jobs-view", "/view", "/detail"])
+            if official(target_url, company["domains"]) and not detail_path and (listing_label or listing_path):
+                if target_url not in visited_pages and target_url not in discovery_urls and len(discovery_urls) < 5:
+                    discovery_urls.append(target_url)
             if not contains_any(f"{title} {context} {url}", RECRUIT_TERMS + DATA_TERMS):
                 continue
             item = candidate(company, urljoin(discovery_url, url), title or context[:120], context, "official_page")
@@ -356,10 +372,11 @@ def technical_relevance(title: str, context: str) -> bool:
 
 
 def deadline_from(text: str) -> datetime | None:
-    contexts = []
+    # Some career sites show the application range beside the title without a
+    # separate "deadline" label, so always inspect the top of the posting too.
+    contexts = [text[:5000]]
     for match in re.finditer(r"마감|접수기간|지원기간|지원 마감|deadline|until|접수", text, re.I):
         contexts.append(text[max(0, match.start() - 45):match.end() + 90])
-    contexts = contexts or [text[:1500]]
     dates = []
     patterns = [
         r"(20\d{2})[./-]\s*(\d{1,2})[./-]\s*(\d{1,2})(?:\D{0,12}(\d{1,2})[:시]\s*(\d{1,2})?)?",
@@ -426,7 +443,7 @@ def classify(candidate: dict, page_text: str) -> tuple[dict | None, str]:
     path = urlparse(candidate["url"]).path.lower()
     if len(title) < 4 or title.lower().strip() in NON_POSTING_TITLES:
         return None, "not_job_posting"
-    if re.search(r"\.(?:hc|kc)(?:\?|$)|[?=&]", title.lower()) or title.count("-") >= 5:
+    if re.search(r"\.(?:hc|kc)(?:\?|$)|[?=&]", title.lower()):
         return None, "not_job_posting"
     if re.fullmatch(r"[a-z0-9_-]+", title.lower()) and " " not in title:
         return None, "not_job_posting"
@@ -573,6 +590,20 @@ def main() -> None:
                 if candidate["url"] in seen_urls or candidate["url"].rstrip("/") == company["career_home"].rstrip("/"):
                     continue
                 seen_urls.add(candidate["url"])
+                if candidate.get("discoveredBy") in {"official_page", "bing"}:
+                    title = candidate["title"]
+                    preview = f"{title} {candidate['snippet']}"
+                    batch_recruit = contains_any(title, BATCH_RECRUIT_TERMS) and any(
+                        title.lower().startswith(prefix.lower()) or (
+                            not candidate["company"].startswith("롯데")
+                            and candidate["company"].lower().startswith(prefix.lower())
+                        )
+                        for prefix in TECH_BATCH_PREFIXES
+                    )
+                    if not contains_any(title, RELATED_TERMS) and not (
+                        contains_any(title, ENTRY_TERMS) and contains_any(preview, RELATED_TERMS)
+                    ) and not batch_recruit:
+                        continue
                 if candidate.get("discoveredBy") == "official_api":
                     page_text, fetch_error = candidate.get("snippet", ""), None
                 else:

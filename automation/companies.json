@@ -25,7 +25,7 @@
   {"name":"현대자동차","group":"현대차","category":"모빌리티","domains":["talent.hyundai.com"],"career_home":"https://talent.hyundai.com/apply/applyList.hc"},
   {"name":"기아","group":"현대차","category":"모빌리티","domains":["career.kia.com"],"career_home":"https://career.kia.com/apply/applyList.kc"},
   {"name":"현대오토에버","group":"현대차","category":"전자·IT","domains":["career.hyundai-autoever.com"],"career_home":"https://career.hyundai-autoever.com/"},
-  {"name":"현대모비스","group":"현대차","category":"모빌리티","domains":["careers.mobis.com"],"career_home":"https://careers.mobis.com/"},
+  {"name":"현대모비스","group":"현대차","category":"모빌리티","domains":["careers.mobis.com"],"career_home":"https://careers.mobis.com/","discovery_urls":["https://careers.mobis.com/jobs"]},
   {"name":"현대로템","group":"현대차","category":"모빌리티","domains":["hyundai-rotem.co.kr"],"career_home":"https://www.hyundai-rotem.co.kr/ko/career/recruit.do"},
   {"name":"현대글로비스","group":"현대차","category":"제조·서비스","domains":["glovis.net"],"career_home":"https://www.glovis.net/Kor/career/recruit/list.do"},
   {"name":"현대카드","group":"현대차","category":"금융","domains":["career.hyundaicard.com"],"career_home":"https://career.hyundaicard.com/"},

@@ -1,5 +1,5 @@
 {
-  "lastRunAt": "2026-09-09T01:07:55+09:00",
+  "lastRunAt": "2026-09-09T09:36:00+09:00",
   "companies": {
     "삼성전자": {
       "discovered": 22,
@@ -95,7 +95,8 @@
       "discovered": 4,
       "verified": 0,
       "sources": {
-        "official_page": 4
+        "bing": 2,
+        "official_page": 2
       },
       "errors": []
     },
@@ -103,7 +104,8 @@
       "discovered": 4,
       "verified": 0,
       "sources": {
-        "official_page": 4
+        "bing": 2,
+        "official_page": 2
       },
       "errors": []
     },
@@ -111,7 +113,8 @@
       "discovered": 4,
       "verified": 0,
       "sources": {
-        "official_page": 4
+        "bing": 2,
+        "official_page": 2
       },
       "errors": []
     },
@@ -119,7 +122,8 @@
       "discovered": 4,
       "verified": 0,
       "sources": {
-        "official_page": 4
+        "bing": 2,
+        "official_page": 2
       },
       "errors": []
     },
@@ -127,7 +131,8 @@
       "discovered": 4,
       "verified": 0,
       "sources": {
-        "official_page": 4
+        "bing": 2,
+        "official_page": 2
       },
       "errors": []
     },
@@ -135,7 +140,8 @@
       "discovered": 4,
       "verified": 0,
       "sources": {
-        "official_page": 4
+        "bing": 2,
+        "official_page": 2
       },
       "errors": []
     },
@@ -190,28 +196,28 @@
       "errors": []
     },
     "기아": {
-      "discovered": 25,
+      "discovered": 26,
       "verified": 0,
       "sources": {
         "sitemap": 24,
-        "bing": 1
+        "bing": 2
       },
       "errors": []
     },
     "현대오토에버": {
-      "discovered": 8,
+      "discovered": 50,
       "verified": 0,
       "sources": {
-        "official_page": 6,
+        "official_page": 48,
         "sitemap": 2
       },
       "errors": []
     },
     "현대모비스": {
-      "discovered": 16,
-      "verified": 0,
+      "discovered": 85,
+      "verified": 23,
       "sources": {
-        "official_page": 15,
+        "official_page": 84,
         "sitemap": 1
       },
       "errors": []
@@ -290,34 +296,34 @@
       "errors": []
     },
     "롯데이노베이트": {
-      "discovered": 40,
+      "discovered": 70,
       "verified": 1,
       "sources": {
-        "official_page": 40
+        "official_page": 70
       },
       "errors": []
     },
     "롯데쇼핑": {
-      "discovered": 40,
+      "discovered": 70,
       "verified": 1,
       "sources": {
-        "official_page": 40
+        "official_page": 70
       },
       "errors": []
     },
     "롯데카드": {
-      "discovered": 40,
+      "discovered": 70,
       "verified": 1,
       "sources": {
-        "official_page": 40
+        "official_page": 70
       },
       "errors": []
     },
     "롯데e커머스": {
-      "discovered": 40,
+      "discovered": 70,
       "verified": 1,
       "sources": {
-        "official_page": 40
+        "official_page": 70
       },
       "errors": []
     },
@@ -340,20 +346,20 @@
       "errors": []
     },
     "NAVER": {
-      "discovered": 34,
+      "discovered": 37,
       "verified": 0,
       "sources": {
         "official_api": 29,
-        "official_page": 5
+        "official_page": 8
       },
       "errors": []
     },
     "NAVER Cloud": {
-      "discovered": 12,
+      "discovered": 17,
       "verified": 1,
       "sources": {
         "official_api": 9,
-        "official_page": 3
+        "official_page": 8
       },
       "errors": []
     },
@@ -382,19 +388,19 @@
       ]
     },
     "LINE Plus": {
-      "discovered": 2,
+      "discovered": 3,
       "verified": 0,
       "sources": {
-        "official_page": 2
+        "official_page": 3
       },
       "errors": []
     },
     "쿠팡": {
-      "discovered": 43,
+      "discovered": 49,
       "verified": 0,
       "sources": {
         "sitemap": 40,
-        "official_page": 3
+        "official_page": 9
       },
       "errors": []
     },
@@ -414,12 +420,12 @@
       "errors": []
     },
     "토스": {
-      "discovered": 14,
+      "discovered": 15,
       "verified": 0,
       "sources": {
         "official_page": 5,
         "sitemap": 7,
-        "bing": 2
+        "bing": 3
       },
       "errors": []
     },
@@ -482,10 +488,10 @@
       ]
     },
     "크래프톤": {
-      "discovered": 30,
+      "discovered": 70,
       "verified": 0,
       "sources": {
-        "official_page": 30
+        "official_page": 70
       },
       "errors": []
     },
@@ -514,26 +520,25 @@
       "errors": []
     },
     "신한은행": {
-      "discovered": 7,
+      "discovered": 6,
       "verified": 0,
       "sources": {
-        "bing": 7
+        "bing": 6
       },
       "errors": []
     },
     "하나은행": {
-      "discovered": 2,
+      "discovered": 0,
       "verified": 0,
-      "sources": {
-        "bing": 2
-      },
+      "sources": {},
       "errors": []
     },
     "우리은행": {
-      "discovered": 1,
+      "discovered": 8,
       "verified": 0,
       "sources": {
-        "sitemap": 1
+        "sitemap": 1,
+        "bing": 7
       },
       "errors": []
     },
@@ -546,9 +551,11 @@
       "errors": []
     },
     "미래에셋증권": {
-      "discovered": 0,
+      "discovered": 4,
       "verified": 0,
-      "sources": {},
+      "sources": {
+        "bing": 4
+      },
       "errors": []
     },
     "한국투자증권": {
@@ -572,11 +579,11 @@
       "errors": []
     },
     "신세계I&C": {
-      "discovered": 4,
+      "discovered": 5,
       "verified": 0,
       "sources": {
         "official_page": 1,
-        "bing": 3
+        "bing": 4
       },
       "errors": []
     },
@@ -603,25 +610,25 @@
       "errors": []
     },
     "POSCO DX": {
-      "discovered": 3,
+      "discovered": 2,
       "verified": 0,
       "sources": {
-        "bing": 3
+        "bing": 2
       },
       "errors": []
     },
     "포스코": {
-      "discovered": 0,
+      "discovered": 2,
       "verified": 0,
-      "sources": {},
+      "sources": {
+        "bing": 2
+      },
       "errors": []
     },
     "HD현대": {
-      "discovered": 1,
+      "discovered": 0,
       "verified": 0,
-      "sources": {
-        "bing": 1
-      },
+      "sources": {},
       "errors": []
     },
     "두산디지털이노베이션": {
@@ -633,10 +640,11 @@
       "errors": []
     },
     "아모레퍼시픽": {
-      "discovered": 15,
+      "discovered": 17,
       "verified": 0,
       "sources": {
-        "official_page": 15
+        "official_page": 15,
+        "bing": 2
       },
       "errors": []
     },

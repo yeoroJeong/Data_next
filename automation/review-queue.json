@@ -1,156 +1,12 @@
 [
   {
     "company": "삼성전자",
-    "url": "https://www.samsungcareers.com/hr",
-    "title": "30 개의 채용공고가 진행 중입니다.",
-    "snippet": "30 개의 채용공고가 진행 중입니다.",
-    "discoveredBy": "official_page",
-    "reason": "not_html",
-    "checkedAt": "2026-09-09T01:07:55+09:00"
-  },
-  {
-    "company": "삼성전자",
-    "url": "https://www.samsungcareers.com/subsid",
-    "title": "관계사 소개",
-    "snippet": "메뉴 채용공고 관계사 소개 지원 가이드 나의 지원서 전체보기",
-    "discoveredBy": "official_page",
-    "reason": "not_html",
-    "checkedAt": "2026-09-09T01:07:55+09:00"
-  },
-  {
-    "company": "삼성전자",
-    "url": "https://www.samsungcareers.com/guide/process",
-    "title": "채용 프로세스",
-    "snippet": "채용 프로세스 채용 공정성안내 자주 하는 질문 1:1 문의하기 채용서류반환신청",
-    "discoveredBy": "official_page",
-    "reason": "not_job_posting",
-    "checkedAt": "2026-09-09T01:07:55+09:00"
-  },
-  {
-    "company": "삼성전자",
     "url": "https://www.samsungcareers.com/subsid/detail/M20",
     "title": "삼성글로벌리서치",
     "snippet": "삼성글로벌리서치",
     "discoveredBy": "official_page",
     "reason": "not_job_posting",
-    "checkedAt": "2026-09-09T01:07:55+09:00"
-  },
-  {
-    "company": "삼성전자",
-    "url": "https://www.samsungcareers.com/guide/fairness",
-    "title": "채용 공정성안내",
-    "snippet": "채용 프로세스 채용 공정성안내 자주 하는 질문 1:1 문의하기 채용서류반환신청",
-    "discoveredBy": "official_page",
-    "reason": "not_job_posting",
-    "checkedAt": "2026-09-09T01:07:55+09:00"
-  },
-  {
-    "company": "삼성전자",
-    "url": "https://www.samsungcareers.com/guide/faq",
-    "title": "자주 하는 질문",
-    "snippet": "채용 프로세스 채용 공정성안내 자주 하는 질문 1:1 문의하기 채용서류반환신청",
-    "discoveredBy": "official_page",
-    "reason": "not_job_posting",
-    "checkedAt": "2026-09-09T01:07:55+09:00"
-  },
-  {
-    "company": "삼성전자",
-    "url": "https://www.samsungcareers.com/guide/ask",
-    "title": "1:1 문의하기",
-    "snippet": "채용 프로세스 채용 공정성안내 자주 하는 질문 1:1 문의하기 채용서류반환신청",
-    "discoveredBy": "official_page",
-    "reason": "not_job_posting",
-    "checkedAt": "2026-09-09T01:07:55+09:00"
-  },
-  {
-    "company": "삼성전자",
-    "url": "https://www.samsungcareers.com/guide/return",
-    "title": "채용서류반환신청",
-    "snippet": "채용 프로세스 채용 공정성안내 자주 하는 질문 1:1 문의하기 채용서류반환신청",
-    "discoveredBy": "official_page",
-    "reason": "not_job_posting",
-    "checkedAt": "2026-09-09T01:07:55+09:00"
-  },
-  {
-    "company": "삼성전자",
-    "url": "https://www.samsungcareers.com/user/signup",
-    "title": "회원가입",
-    "snippet": "원활한 입사 지원 및 채용 서비스 이용을 위해 회원가입을 해주시기 바랍니다. 회원가입",
-    "discoveredBy": "official_page",
-    "reason": "not_job_posting",
-    "checkedAt": "2026-09-09T01:07:55+09:00"
-  },
-  {
-    "company": "삼성전자",
-    "url": "https://www.samsungcareers.com/hr/?ty=A",
-    "title": "",
-    "snippet": "",
-    "discoveredBy": "official_page",
-    "reason": "not_job_posting",
-    "checkedAt": "2026-09-09T01:07:55+09:00"
-  },
-  {
-    "company": "삼성전자",
-    "url": "https://www.samsungcareers.com/policy/tos",
-    "title": "이용약관",
-    "snippet": "footer menu 이용약관 개인정보처리방침 이메일무단수집거부 채용 문의처",
-    "discoveredBy": "official_page",
-    "reason": "not_job_posting",
-    "checkedAt": "2026-09-09T01:07:55+09:00"
-  },
-  {
-    "company": "삼성전자",
-    "url": "https://www.samsungcareers.com/policy/privacy",
-    "title": "개인정보처리방침",
-    "snippet": "footer menu 이용약관 개인정보처리방침 이메일무단수집거부 채용 문의처",
-    "discoveredBy": "official_page",
-    "reason": "not_job_posting",
-    "checkedAt": "2026-09-09T01:07:55+09:00"
-  },
-  {
-    "company": "삼성전자",
-    "url": "https://www.samsungcareers.com/policy/email",
-    "title": "이메일무단수집거부",
-    "snippet": "footer menu 이용약관 개인정보처리방침 이메일무단수집거부 채용 문의처",
-    "discoveredBy": "official_page",
-    "reason": "not_job_posting",
-    "checkedAt": "2026-09-09T01:07:55+09:00"
-  },
-  {
-    "company": "삼성전자",
-    "url": "https://www.samsungcareers.com/policy/phoneBook",
-    "title": "채용 문의처",
-    "snippet": "footer menu 이용약관 개인정보처리방침 이메일무단수집거부 채용 문의처",
-    "discoveredBy": "official_page",
-    "reason": "not_job_posting",
-    "checkedAt": "2026-09-09T01:07:55+09:00"
-  },
-  {
-    "company": "삼성SDS",
-    "url": "https://www.samsungcareers.com/hr",
-    "title": "30 개의 채용공고가 진행 중입니다.",
-    "snippet": "30 개의 채용공고가 진행 중입니다.",
-    "discoveredBy": "official_page",
-    "reason": "not_html",
-    "checkedAt": "2026-09-09T01:07:55+09:00"
-  },
-  {
-    "company": "삼성SDS",
-    "url": "https://www.samsungcareers.com/subsid",
-    "title": "관계사 소개",
-    "snippet": "메뉴 채용공고 관계사 소개 지원 가이드 나의 지원서 전체보기",
-    "discoveredBy": "official_page",
-    "reason": "not_html",
-    "checkedAt": "2026-09-09T01:07:55+09:00"
-  },
-  {
-    "company": "삼성SDS",
-    "url": "https://www.samsungcareers.com/guide/process",
-    "title": "채용 프로세스",
-    "snippet": "채용 프로세스 채용 공정성안내 자주 하는 질문 1:1 문의하기 채용서류반환신청",
-    "discoveredBy": "official_page",
-    "reason": "not_job_posting",
-    "checkedAt": "2026-09-09T01:07:55+09:00"
+    "checkedAt": "2026-09-09T09:36:00+09:00"
   },
   {
     "company": "삼성SDS",
@@ -159,124 +15,7 @@
     "snippet": "삼성글로벌리서치",
     "discoveredBy": "official_page",
     "reason": "not_job_posting",
-    "checkedAt": "2026-09-09T01:07:55+09:00"
-  },
-  {
-    "company": "삼성SDS",
-    "url": "https://www.samsungcareers.com/guide/fairness",
-    "title": "채용 공정성안내",
-    "snippet": "채용 프로세스 채용 공정성안내 자주 하는 질문 1:1 문의하기 채용서류반환신청",
-    "discoveredBy": "official_page",
-    "reason": "not_job_posting",
-    "checkedAt": "2026-09-09T01:07:55+09:00"
-  },
-  {
-    "company": "삼성SDS",
-    "url": "https://www.samsungcareers.com/guide/faq",
-    "title": "자주 하는 질문",
-    "snippet": "채용 프로세스 채용 공정성안내 자주 하는 질문 1:1 문의하기 채용서류반환신청",
-    "discoveredBy": "official_page",
-    "reason": "not_job_posting",
-    "checkedAt": "2026-09-09T01:07:55+09:00"
-  },
-  {
-    "company": "삼성SDS",
-    "url": "https://www.samsungcareers.com/guide/ask",
-    "title": "1:1 문의하기",
-    "snippet": "채용 프로세스 채용 공정성안내 자주 하는 질문 1:1 문의하기 채용서류반환신청",
-    "discoveredBy": "official_page",
-    "reason": "not_job_posting",
-    "checkedAt": "2026-09-09T01:07:55+09:00"
-  },
-  {
-    "company": "삼성SDS",
-    "url": "https://www.samsungcareers.com/guide/return",
-    "title": "채용서류반환신청",
-    "snippet": "채용 프로세스 채용 공정성안내 자주 하는 질문 1:1 문의하기 채용서류반환신청",
-    "discoveredBy": "official_page",
-    "reason": "not_job_posting",
-    "checkedAt": "2026-09-09T01:07:55+09:00"
-  },
-  {
-    "company": "삼성SDS",
-    "url": "https://www.samsungcareers.com/user/signup",
-    "title": "회원가입",
-    "snippet": "원활한 입사 지원 및 채용 서비스 이용을 위해 회원가입을 해주시기 바랍니다. 회원가입",
-    "discoveredBy": "official_page",
-    "reason": "not_job_posting",
-    "checkedAt": "2026-09-09T01:07:55+09:00"
-  },
-  {
-    "company": "삼성SDS",
-    "url": "https://www.samsungcareers.com/hr/?ty=A",
-    "title": "",
-    "snippet": "",
-    "discoveredBy": "official_page",
-    "reason": "not_job_posting",
-    "checkedAt": "2026-09-09T01:07:55+09:00"
-  },
-  {
-    "company": "삼성SDS",
-    "url": "https://www.samsungcareers.com/policy/tos",
-    "title": "이용약관",
-    "snippet": "footer menu 이용약관 개인정보처리방침 이메일무단수집거부 채용 문의처",
-    "discoveredBy": "official_page",
-    "reason": "not_job_posting",
-    "checkedAt": "2026-09-09T01:07:55+09:00"
-  },
-  {
-    "company": "삼성SDS",
-    "url": "https://www.samsungcareers.com/policy/privacy",
-    "title": "개인정보처리방침",
-    "snippet": "footer menu 이용약관 개인정보처리방침 이메일무단수집거부 채용 문의처",
-    "discoveredBy": "official_page",
-    "reason": "not_job_posting",
-    "checkedAt": "2026-09-09T01:07:55+09:00"
-  },
-  {
-    "company": "삼성SDS",
-    "url": "https://www.samsungcareers.com/policy/email",
-    "title": "이메일무단수집거부",
-    "snippet": "footer menu 이용약관 개인정보처리방침 이메일무단수집거부 채용 문의처",
-    "discoveredBy": "official_page",
-    "reason": "not_job_posting",
-    "checkedAt": "2026-09-09T01:07:55+09:00"
-  },
-  {
-    "company": "삼성SDS",
-    "url": "https://www.samsungcareers.com/policy/phoneBook",
-    "title": "채용 문의처",
-    "snippet": "footer menu 이용약관 개인정보처리방침 이메일무단수집거부 채용 문의처",
-    "discoveredBy": "official_page",
-    "reason": "not_job_posting",
-    "checkedAt": "2026-09-09T01:07:55+09:00"
-  },
-  {
-    "company": "삼성디스플레이",
-    "url": "https://www.samsungcareers.com/hr",
-    "title": "30 개의 채용공고가 진행 중입니다.",
-    "snippet": "30 개의 채용공고가 진행 중입니다.",
-    "discoveredBy": "official_page",
-    "reason": "not_html",
-    "checkedAt": "2026-09-09T01:07:55+09:00"
-  },
-  {
-    "company": "삼성디스플레이",
-    "url": "https://www.samsungcareers.com/subsid",
-    "title": "관계사 소개",
-    "snippet": "메뉴 채용공고 관계사 소개 지원 가이드 나의 지원서 전체보기",
-    "discoveredBy": "official_page",
-    "reason": "not_html",
-    "checkedAt": "2026-09-09T01:07:55+09:00"
-  },
-  {
-    "company": "삼성디스플레이",
-    "url": "https://www.samsungcareers.com/guide/process",
-    "title": "채용 프로세스",
-    "snippet": "채용 프로세스 채용 공정성안내 자주 하는 질문 1:1 문의하기 채용서류반환신청",
-    "discoveredBy": "official_page",
-    "reason": "not_job_posting",
-    "checkedAt": "2026-09-09T01:07:55+09:00"
+    "checkedAt": "2026-09-09T09:36:00+09:00"
   },
   {
     "company": "삼성디스플레이",
@@ -285,124 +24,7 @@
     "snippet": "삼성글로벌리서치",
     "discoveredBy": "official_page",
     "reason": "not_job_posting",
-    "checkedAt": "2026-09-09T01:07:55+09:00"
-  },
-  {
-    "company": "삼성디스플레이",
-    "url": "https://www.samsungcareers.com/guide/fairness",
-    "title": "채용 공정성안내",
-    "snippet": "채용 프로세스 채용 공정성안내 자주 하는 질문 1:1 문의하기 채용서류반환신청",
-    "discoveredBy": "official_page",
-    "reason": "not_job_posting",
-    "checkedAt": "2026-09-09T01:07:55+09:00"
-  },
-  {
-    "company": "삼성디스플레이",
-    "url": "https://www.samsungcareers.com/guide/faq",
-    "title": "자주 하는 질문",
-    "snippet": "채용 프로세스 채용 공정성안내 자주 하는 질문 1:1 문의하기 채용서류반환신청",
-    "discoveredBy": "official_page",
-    "reason": "not_job_posting",
-    "checkedAt": "2026-09-09T01:07:55+09:00"
-  },
-  {
-    "company": "삼성디스플레이",
-    "url": "https://www.samsungcareers.com/guide/ask",
-    "title": "1:1 문의하기",
-    "snippet": "채용 프로세스 채용 공정성안내 자주 하는 질문 1:1 문의하기 채용서류반환신청",
-    "discoveredBy": "official_page",
-    "reason": "not_job_posting",
-    "checkedAt": "2026-09-09T01:07:55+09:00"
-  },
-  {
-    "company": "삼성디스플레이",
-    "url": "https://www.samsungcareers.com/guide/return",
-    "title": "채용서류반환신청",
-    "snippet": "채용 프로세스 채용 공정성안내 자주 하는 질문 1:1 문의하기 채용서류반환신청",
-    "discoveredBy": "official_page",
-    "reason": "not_job_posting",
-    "checkedAt": "2026-09-09T01:07:55+09:00"
-  },
-  {
-    "company": "삼성디스플레이",
-    "url": "https://www.samsungcareers.com/user/signup",
-    "title": "회원가입",
-    "snippet": "원활한 입사 지원 및 채용 서비스 이용을 위해 회원가입을 해주시기 바랍니다. 회원가입",
-    "discoveredBy": "official_page",
-    "reason": "not_job_posting",
-    "checkedAt": "2026-09-09T01:07:55+09:00"
-  },
-  {
-    "company": "삼성디스플레이",
-    "url": "https://www.samsungcareers.com/hr/?ty=A",
-    "title": "",
-    "snippet": "",
-    "discoveredBy": "official_page",
-    "reason": "not_job_posting",
-    "checkedAt": "2026-09-09T01:07:55+09:00"
-  },
-  {
-    "company": "삼성디스플레이",
-    "url": "https://www.samsungcareers.com/policy/tos",
-    "title": "이용약관",
-    "snippet": "footer menu 이용약관 개인정보처리방침 이메일무단수집거부 채용 문의처",
-    "discoveredBy": "official_page",
-    "reason": "not_job_posting",
-    "checkedAt": "2026-09-09T01:07:55+09:00"
-  },
-  {
-    "company": "삼성디스플레이",
-    "url": "https://www.samsungcareers.com/policy/privacy",
-    "title": "개인정보처리방침",
-    "snippet": "footer menu 이용약관 개인정보처리방침 이메일무단수집거부 채용 문의처",
-    "discoveredBy": "official_page",
-    "reason": "not_job_posting",
-    "checkedAt": "2026-09-09T01:07:55+09:00"
-  },
-  {
-    "company": "삼성디스플레이",
-    "url": "https://www.samsungcareers.com/policy/email",
-    "title": "이메일무단수집거부",
-    "snippet": "footer menu 이용약관 개인정보처리방침 이메일무단수집거부 채용 문의처",
-    "discoveredBy": "official_page",
-    "reason": "not_job_posting",
-    "checkedAt": "2026-09-09T01:07:55+09:00"
-  },
-  {
-    "company": "삼성디스플레이",
-    "url": "https://www.samsungcareers.com/policy/phoneBook",
-    "title": "채용 문의처",
-    "snippet": "footer menu 이용약관 개인정보처리방침 이메일무단수집거부 채용 문의처",
-    "discoveredBy": "official_page",
-    "reason": "not_job_posting",
-    "checkedAt": "2026-09-09T01:07:55+09:00"
-  },
-  {
-    "company": "삼성SDI",
-    "url": "https://www.samsungcareers.com/hr",
-    "title": "30 개의 채용공고가 진행 중입니다.",
-    "snippet": "30 개의 채용공고가 진행 중입니다.",
-    "discoveredBy": "official_page",
-    "reason": "not_html",
-    "checkedAt": "2026-09-09T01:07:55+09:00"
-  },
-  {
-    "company": "삼성SDI",
-    "url": "https://www.samsungcareers.com/subsid",
-    "title": "관계사 소개",
-    "snippet": "메뉴 채용공고 관계사 소개 지원 가이드 나의 지원서 전체보기",
-    "discoveredBy": "official_page",
-    "reason": "not_html",
-    "checkedAt": "2026-09-09T01:07:55+09:00"
-  },
-  {
-    "company": "삼성SDI",
-    "url": "https://www.samsungcareers.com/guide/process",
-    "title": "채용 프로세스",
-    "snippet": "채용 프로세스 채용 공정성안내 자주 하는 질문 1:1 문의하기 채용서류반환신청",
-    "discoveredBy": "official_page",
-    "reason": "not_job_posting",
-    "checkedAt": "2026-09-09T01:07:55+09:00"
+    "checkedAt": "2026-09-09T09:36:00+09:00"
   },
   {
     "company": "삼성SDI",
@@ -411,124 +33,7 @@
     "snippet": "삼성글로벌리서치",
     "discoveredBy": "official_page",
     "reason": "not_job_posting",
-    "checkedAt": "2026-09-09T01:07:55+09:00"
-  },
-  {
-    "company": "삼성SDI",
-    "url": "https://www.samsungcareers.com/guide/fairness",
-    "title": "채용 공정성안내",
-    "snippet": "채용 프로세스 채용 공정성안내 자주 하는 질문 1:1 문의하기 채용서류반환신청",
-    "discoveredBy": "official_page",
-    "reason": "not_job_posting",
-    "checkedAt": "2026-09-09T01:07:55+09:00"
-  },
-  {
-    "company": "삼성SDI",
-    "url": "https://www.samsungcareers.com/guide/faq",
-    "title": "자주 하는 질문",
-    "snippet": "채용 프로세스 채용 공정성안내 자주 하는 질문 1:1 문의하기 채용서류반환신청",
-    "discoveredBy": "official_page",
-    "reason": "not_job_posting",
-    "checkedAt": "2026-09-09T01:07:55+09:00"
-  },
-  {
-    "company": "삼성SDI",
-    "url": "https://www.samsungcareers.com/guide/ask",
-    "title": "1:1 문의하기",
-    "snippet": "채용 프로세스 채용 공정성안내 자주 하는 질문 1:1 문의하기 채용서류반환신청",
-    "discoveredBy": "official_page",
-    "reason": "not_job_posting",
-    "checkedAt": "2026-09-09T01:07:55+09:00"
-  },
-  {
-    "company": "삼성SDI",
-    "url": "https://www.samsungcareers.com/guide/return",
-    "title": "채용서류반환신청",
-    "snippet": "채용 프로세스 채용 공정성안내 자주 하는 질문 1:1 문의하기 채용서류반환신청",
-    "discoveredBy": "official_page",
-    "reason": "not_job_posting",
-    "checkedAt": "2026-09-09T01:07:55+09:00"
-  },
-  {
-    "company": "삼성SDI",
-    "url": "https://www.samsungcareers.com/user/signup",
-    "title": "회원가입",
-    "snippet": "원활한 입사 지원 및 채용 서비스 이용을 위해 회원가입을 해주시기 바랍니다. 회원가입",
-    "discoveredBy": "official_page",
-    "reason": "not_job_posting",
-    "checkedAt": "2026-09-09T01:07:55+09:00"
-  },
-  {
-    "company": "삼성SDI",
-    "url": "https://www.samsungcareers.com/hr/?ty=A",
-    "title": "",
-    "snippet": "",
-    "discoveredBy": "official_page",
-    "reason": "not_job_posting",
-    "checkedAt": "2026-09-09T01:07:55+09:00"
-  },
-  {
-    "company": "삼성SDI",
-    "url": "https://www.samsungcareers.com/policy/tos",
-    "title": "이용약관",
-    "snippet": "footer menu 이용약관 개인정보처리방침 이메일무단수집거부 채용 문의처",
-    "discoveredBy": "official_page",
-    "reason": "not_job_posting",
-    "checkedAt": "2026-09-09T01:07:55+09:00"
-  },
-  {
-    "company": "삼성SDI",
-    "url": "https://www.samsungcareers.com/policy/privacy",
-    "title": "개인정보처리방침",
-    "snippet": "footer menu 이용약관 개인정보처리방침 이메일무단수집거부 채용 문의처",
-    "discoveredBy": "official_page",
-    "reason": "not_job_posting",
-    "checkedAt": "2026-09-09T01:07:55+09:00"
-  },
-  {
-    "company": "삼성SDI",
-    "url": "https://www.samsungcareers.com/policy/email",
-    "title": "이메일무단수집거부",
-    "snippet": "footer menu 이용약관 개인정보처리방침 이메일무단수집거부 채용 문의처",
-    "discoveredBy": "official_page",
-    "reason": "not_job_posting",
-    "checkedAt": "2026-09-09T01:07:55+09:00"
-  },
-  {
-    "company": "삼성SDI",
-    "url": "https://www.samsungcareers.com/policy/phoneBook",
-    "title": "채용 문의처",
-    "snippet": "footer menu 이용약관 개인정보처리방침 이메일무단수집거부 채용 문의처",
-    "discoveredBy": "official_page",
-    "reason": "not_job_posting",
-    "checkedAt": "2026-09-09T01:07:55+09:00"
-  },
-  {
-    "company": "삼성전기",
-    "url": "https://www.samsungcareers.com/hr",
-    "title": "30 개의 채용공고가 진행 중입니다.",
-    "snippet": "30 개의 채용공고가 진행 중입니다.",
-    "discoveredBy": "official_page",
-    "reason": "not_html",
-    "checkedAt": "2026-09-09T01:07:55+09:00"
-  },
-  {
-    "company": "삼성전기",
-    "url": "https://www.samsungcareers.com/subsid",
-    "title": "관계사 소개",
-    "snippet": "메뉴 채용공고 관계사 소개 지원 가이드 나의 지원서 전체보기",
-    "discoveredBy": "official_page",
-    "reason": "not_html",
-    "checkedAt": "2026-09-09T01:07:55+09:00"
-  },
-  {
-    "company": "삼성전기",
-    "url": "https://www.samsungcareers.com/guide/process",
-    "title": "채용 프로세스",
-    "snippet": "채용 프로세스 채용 공정성안내 자주 하는 질문 1:1 문의하기 채용서류반환신청",
-    "discoveredBy": "official_page",
-    "reason": "not_job_posting",
-    "checkedAt": "2026-09-09T01:07:55+09:00"
+    "checkedAt": "2026-09-09T09:36:00+09:00"
   },
   {
     "company": "삼성전기",
@@ -537,124 +42,7 @@
     "snippet": "삼성글로벌리서치",
     "discoveredBy": "official_page",
     "reason": "not_job_posting",
-    "checkedAt": "2026-09-09T01:07:55+09:00"
-  },
-  {
-    "company": "삼성전기",
-    "url": "https://www.samsungcareers.com/guide/fairness",
-    "title": "채용 공정성안내",
-    "snippet": "채용 프로세스 채용 공정성안내 자주 하는 질문 1:1 문의하기 채용서류반환신청",
-    "discoveredBy": "official_page",
-    "reason": "not_job_posting",
-    "checkedAt": "2026-09-09T01:07:55+09:00"
-  },
-  {
-    "company": "삼성전기",
-    "url": "https://www.samsungcareers.com/guide/faq",
-    "title": "자주 하는 질문",
-    "snippet": "채용 프로세스 채용 공정성안내 자주 하는 질문 1:1 문의하기 채용서류반환신청",
-    "discoveredBy": "official_page",
-    "reason": "not_job_posting",
-    "checkedAt": "2026-09-09T01:07:55+09:00"
-  },
-  {
-    "company": "삼성전기",
-    "url": "https://www.samsungcareers.com/guide/ask",
-    "title": "1:1 문의하기",
-    "snippet": "채용 프로세스 채용 공정성안내 자주 하는 질문 1:1 문의하기 채용서류반환신청",
-    "discoveredBy": "official_page",
-    "reason": "not_job_posting",
-    "checkedAt": "2026-09-09T01:07:55+09:00"
-  },
-  {
-    "company": "삼성전기",
-    "url": "https://www.samsungcareers.com/guide/return",
-    "title": "채용서류반환신청",
-    "snippet": "채용 프로세스 채용 공정성안내 자주 하는 질문 1:1 문의하기 채용서류반환신청",
-    "discoveredBy": "official_page",
-    "reason": "not_job_posting",
-    "checkedAt": "2026-09-09T01:07:55+09:00"
-  },
-  {
-    "company": "삼성전기",
-    "url": "https://www.samsungcareers.com/user/signup",
-    "title": "회원가입",
-    "snippet": "원활한 입사 지원 및 채용 서비스 이용을 위해 회원가입을 해주시기 바랍니다. 회원가입",
-    "discoveredBy": "official_page",
-    "reason": "not_job_posting",
-    "checkedAt": "2026-09-09T01:07:55+09:00"
-  },
-  {
-    "company": "삼성전기",
-    "url": "https://www.samsungcareers.com/hr/?ty=A",
-    "title": "",
-    "snippet": "",
-    "discoveredBy": "official_page",
-    "reason": "not_job_posting",
-    "checkedAt": "2026-09-09T01:07:55+09:00"
-  },
-  {
-    "company": "삼성전기",
-    "url": "https://www.samsungcareers.com/policy/tos",
-    "title": "이용약관",
-    "snippet": "footer menu 이용약관 개인정보처리방침 이메일무단수집거부 채용 문의처",
-    "discoveredBy": "official_page",
-    "reason": "not_job_posting",
-    "checkedAt": "2026-09-09T01:07:55+09:00"
-  },
-  {
-    "company": "삼성전기",
-    "url": "https://www.samsungcareers.com/policy/privacy",
-    "title": "개인정보처리방침",
-    "snippet": "footer menu 이용약관 개인정보처리방침 이메일무단수집거부 채용 문의처",
-    "discoveredBy": "official_page",
-    "reason": "not_job_posting",
-    "checkedAt": "2026-09-09T01:07:55+09:00"
-  },
-  {
-    "company": "삼성전기",
-    "url": "https://www.samsungcareers.com/policy/email",
-    "title": "이메일무단수집거부",
-    "snippet": "footer menu 이용약관 개인정보처리방침 이메일무단수집거부 채용 문의처",
-    "discoveredBy": "official_page",
-    "reason": "not_job_posting",
-    "checkedAt": "2026-09-09T01:07:55+09:00"
-  },
-  {
-    "company": "삼성전기",
-    "url": "https://www.samsungcareers.com/policy/phoneBook",
-    "title": "채용 문의처",
-    "snippet": "footer menu 이용약관 개인정보처리방침 이메일무단수집거부 채용 문의처",
-    "discoveredBy": "official_page",
-    "reason": "not_job_posting",
-    "checkedAt": "2026-09-09T01:07:55+09:00"
-  },
-  {
-    "company": "삼성생명",
-    "url": "https://www.samsungcareers.com/hr",
-    "title": "30 개의 채용공고가 진행 중입니다.",
-    "snippet": "30 개의 채용공고가 진행 중입니다.",
-    "discoveredBy": "official_page",
-    "reason": "not_html",
-    "checkedAt": "2026-09-09T01:07:55+09:00"
-  },
-  {
-    "company": "삼성생명",
-    "url": "https://www.samsungcareers.com/subsid",
-    "title": "관계사 소개",
-    "snippet": "메뉴 채용공고 관계사 소개 지원 가이드 나의 지원서 전체보기",
-    "discoveredBy": "official_page",
-    "reason": "not_html",
-    "checkedAt": "2026-09-09T01:07:55+09:00"
-  },
-  {
-    "company": "삼성생명",
-    "url": "https://www.samsungcareers.com/guide/process",
-    "title": "채용 프로세스",
-    "snippet": "채용 프로세스 채용 공정성안내 자주 하는 질문 1:1 문의하기 채용서류반환신청",
-    "discoveredBy": "official_page",
-    "reason": "not_job_posting",
-    "checkedAt": "2026-09-09T01:07:55+09:00"
+    "checkedAt": "2026-09-09T09:36:00+09:00"
   },
   {
     "company": "삼성생명",
@@ -663,124 +51,7 @@
     "snippet": "삼성글로벌리서치",
     "discoveredBy": "official_page",
     "reason": "not_job_posting",
-    "checkedAt": "2026-09-09T01:07:55+09:00"
-  },
-  {
-    "company": "삼성생명",
-    "url": "https://www.samsungcareers.com/guide/fairness",
-    "title": "채용 공정성안내",
-    "snippet": "채용 프로세스 채용 공정성안내 자주 하는 질문 1:1 문의하기 채용서류반환신청",
-    "discoveredBy": "official_page",
-    "reason": "not_job_posting",
-    "checkedAt": "2026-09-09T01:07:55+09:00"
-  },
-  {
-    "company": "삼성생명",
-    "url": "https://www.samsungcareers.com/guide/faq",
-    "title": "자주 하는 질문",
-    "snippet": "채용 프로세스 채용 공정성안내 자주 하는 질문 1:1 문의하기 채용서류반환신청",
-    "discoveredBy": "official_page",
-    "reason": "not_job_posting",
-    "checkedAt": "2026-09-09T01:07:55+09:00"
-  },
-  {
-    "company": "삼성생명",
-    "url": "https://www.samsungcareers.com/guide/ask",
-    "title": "1:1 문의하기",
-    "snippet": "채용 프로세스 채용 공정성안내 자주 하는 질문 1:1 문의하기 채용서류반환신청",
-    "discoveredBy": "official_page",
-    "reason": "not_job_posting",
-    "checkedAt": "2026-09-09T01:07:55+09:00"
-  },
-  {
-    "company": "삼성생명",
-    "url": "https://www.samsungcareers.com/guide/return",
-    "title": "채용서류반환신청",
-    "snippet": "채용 프로세스 채용 공정성안내 자주 하는 질문 1:1 문의하기 채용서류반환신청",
-    "discoveredBy": "official_page",
-    "reason": "not_job_posting",
-    "checkedAt": "2026-09-09T01:07:55+09:00"
-  },
-  {
-    "company": "삼성생명",
-    "url": "https://www.samsungcareers.com/user/signup",
-    "title": "회원가입",
-    "snippet": "원활한 입사 지원 및 채용 서비스 이용을 위해 회원가입을 해주시기 바랍니다. 회원가입",
-    "discoveredBy": "official_page",
-    "reason": "not_job_posting",
-    "checkedAt": "2026-09-09T01:07:55+09:00"
-  },
-  {
-    "company": "삼성생명",
-    "url": "https://www.samsungcareers.com/hr/?ty=A",
-    "title": "",
-    "snippet": "",
-    "discoveredBy": "official_page",
-    "reason": "not_job_posting",
-    "checkedAt": "2026-09-09T01:07:55+09:00"
-  },
-  {
-    "company": "삼성생명",
-    "url": "https://www.samsungcareers.com/policy/tos",
-    "title": "이용약관",
-    "snippet": "footer menu 이용약관 개인정보처리방침 이메일무단수집거부 채용 문의처",
-    "discoveredBy": "official_page",
-    "reason": "not_job_posting",
-    "checkedAt": "2026-09-09T01:07:55+09:00"
-  },
-  {
-    "company": "삼성생명",
-    "url": "https://www.samsungcareers.com/policy/privacy",
-    "title": "개인정보처리방침",
-    "snippet": "footer menu 이용약관 개인정보처리방침 이메일무단수집거부 채용 문의처",
-    "discoveredBy": "official_page",
-    "reason": "not_job_posting",
-    "checkedAt": "2026-09-09T01:07:55+09:00"
-  },
-  {
-    "company": "삼성생명",
-    "url": "https://www.samsungcareers.com/policy/email",
-    "title": "이메일무단수집거부",
-    "snippet": "footer menu 이용약관 개인정보처리방침 이메일무단수집거부 채용 문의처",
-    "discoveredBy": "official_page",
-    "reason": "not_job_posting",
-    "checkedAt": "2026-09-09T01:07:55+09:00"
-  },
-  {
-    "company": "삼성생명",
-    "url": "https://www.samsungcareers.com/policy/phoneBook",
-    "title": "채용 문의처",
-    "snippet": "footer menu 이용약관 개인정보처리방침 이메일무단수집거부 채용 문의처",
-    "discoveredBy": "official_page",
-    "reason": "not_job_posting",
-    "checkedAt": "2026-09-09T01:07:55+09:00"
-  },
-  {
-    "company": "삼성화재",
-    "url": "https://www.samsungcareers.com/hr",
-    "title": "30 개의 채용공고가 진행 중입니다.",
-    "snippet": "30 개의 채용공고가 진행 중입니다.",
-    "discoveredBy": "official_page",
-    "reason": "not_html",
-    "checkedAt": "2026-09-09T01:07:55+09:00"
-  },
-  {
-    "company": "삼성화재",
-    "url": "https://www.samsungcareers.com/subsid",
-    "title": "관계사 소개",
-    "snippet": "메뉴 채용공고 관계사 소개 지원 가이드 나의 지원서 전체보기",
-    "discoveredBy": "official_page",
-    "reason": "not_html",
-    "checkedAt": "2026-09-09T01:07:55+09:00"
-  },
-  {
-    "company": "삼성화재",
-    "url": "https://www.samsungcareers.com/guide/process",
-    "title": "채용 프로세스",
-    "snippet": "채용 프로세스 채용 공정성안내 자주 하는 질문 1:1 문의하기 채용서류반환신청",
-    "discoveredBy": "official_page",
-    "reason": "not_job_posting",
-    "checkedAt": "2026-09-09T01:07:55+09:00"
+    "checkedAt": "2026-09-09T09:36:00+09:00"
   },
   {
     "company": "삼성화재",
@@ -789,114 +60,843 @@
     "snippet": "삼성글로벌리서치",
     "discoveredBy": "official_page",
     "reason": "not_job_posting",
-    "checkedAt": "2026-09-09T01:07:55+09:00"
-  },
-  {
-    "company": "삼성화재",
-    "url": "https://www.samsungcareers.com/guide/fairness",
-    "title": "채용 공정성안내",
-    "snippet": "채용 프로세스 채용 공정성안내 자주 하는 질문 1:1 문의하기 채용서류반환신청",
-    "discoveredBy": "official_page",
-    "reason": "not_job_posting",
-    "checkedAt": "2026-09-09T01:07:55+09:00"
-  },
-  {
-    "company": "삼성화재",
-    "url": "https://www.samsungcareers.com/guide/faq",
-    "title": "자주 하는 질문",
-    "snippet": "채용 프로세스 채용 공정성안내 자주 하는 질문 1:1 문의하기 채용서류반환신청",
-    "discoveredBy": "official_page",
-    "reason": "not_job_posting",
-    "checkedAt": "2026-09-09T01:07:55+09:00"
-  },
-  {
-    "company": "삼성화재",
-    "url": "https://www.samsungcareers.com/guide/ask",
-    "title": "1:1 문의하기",
-    "snippet": "채용 프로세스 채용 공정성안내 자주 하는 질문 1:1 문의하기 채용서류반환신청",
-    "discoveredBy": "official_page",
-    "reason": "not_job_posting",
-    "checkedAt": "2026-09-09T01:07:55+09:00"
-  },
-  {
-    "company": "삼성화재",
-    "url": "https://www.samsungcareers.com/guide/return",
-    "title": "채용서류반환신청",
-    "snippet": "채용 프로세스 채용 공정성안내 자주 하는 질문 1:1 문의하기 채용서류반환신청",
-    "discoveredBy": "official_page",
-    "reason": "not_job_posting",
-    "checkedAt": "2026-09-09T01:07:55+09:00"
-  },
-  {
-    "company": "삼성화재",
-    "url": "https://www.samsungcareers.com/user/signup",
-    "title": "회원가입",
-    "snippet": "원활한 입사 지원 및 채용 서비스 이용을 위해 회원가입을 해주시기 바랍니다. 회원가입",
-    "discoveredBy": "official_page",
-    "reason": "not_job_posting",
-    "checkedAt": "2026-09-09T01:07:55+09:00"
-  },
-  {
-    "company": "삼성화재",
-    "url": "https://www.samsungcareers.com/hr/?ty=A",
-    "title": "",
-    "snippet": "",
-    "discoveredBy": "official_page",
-    "reason": "not_job_posting",
-    "checkedAt": "2026-09-09T01:07:55+09:00"
-  },
-  {
-    "company": "삼성화재",
-    "url": "https://www.samsungcareers.com/policy/tos",
-    "title": "이용약관",
-    "snippet": "footer menu 이용약관 개인정보처리방침 이메일무단수집거부 채용 문의처",
-    "discoveredBy": "official_page",
-    "reason": "not_job_posting",
-    "checkedAt": "2026-09-09T01:07:55+09:00"
-  },
-  {
-    "company": "삼성화재",
-    "url": "https://www.samsungcareers.com/policy/privacy",
-    "title": "개인정보처리방침",
-    "snippet": "footer menu 이용약관 개인정보처리방침 이메일무단수집거부 채용 문의처",
-    "discoveredBy": "official_page",
-    "reason": "not_job_posting",
-    "checkedAt": "2026-09-09T01:07:55+09:00"
-  },
-  {
-    "company": "삼성화재",
-    "url": "https://www.samsungcareers.com/policy/email",
-    "title": "이메일무단수집거부",
-    "snippet": "footer menu 이용약관 개인정보처리방침 이메일무단수집거부 채용 문의처",
-    "discoveredBy": "official_page",
-    "reason": "not_job_posting",
-    "checkedAt": "2026-09-09T01:07:55+09:00"
-  },
-  {
-    "company": "삼성화재",
-    "url": "https://www.samsungcareers.com/policy/phoneBook",
-    "title": "채용 문의처",
-    "snippet": "footer menu 이용약관 개인정보처리방침 이메일무단수집거부 채용 문의처",
-    "discoveredBy": "official_page",
-    "reason": "not_job_posting",
-    "checkedAt": "2026-09-09T01:07:55+09:00"
+    "checkedAt": "2026-09-09T09:36:00+09:00"
   },
   {
     "company": "삼성카드",
-    "url": "https://www.samsungcareers.com/hr",
-    "title": "30 개의 채용공고가 진행 중입니다.",
-    "snippet": "30 개의 채용공고가 진행 중입니다.",
+    "url": "https://www.samsungcareers.com/subsid/detail/M20",
+    "title": "삼성글로벌리서치",
+    "snippet": "삼성글로벌리서치",
     "discoveredBy": "official_page",
-    "reason": "not_html",
-    "checkedAt": "2026-09-09T01:07:55+09:00"
+    "reason": "not_job_posting",
+    "checkedAt": "2026-09-09T09:36:00+09:00"
   },
   {
-    "company": "삼성카드",
-    "url": "https://www.samsungcareers.com/subsid",
-    "title": "관계사 소개",
-    "snippet": "메뉴 채용공고 관계사 소개 지원 가이드 나의 지원서 전체보기",
+    "company": "삼성증권",
+    "url": "https://www.samsungcareers.com/subsid/detail/M20",
+    "title": "삼성글로벌리서치",
+    "snippet": "삼성글로벌리서치",
     "discoveredBy": "official_page",
-    "reason": "not_html",
-    "checkedAt": "2026-09-09T01:07:55+09:00"
+    "reason": "not_job_posting",
+    "checkedAt": "2026-09-09T09:36:00+09:00"
+  },
+  {
+    "company": "삼성물산",
+    "url": "https://www.samsungcareers.com/subsid/detail/M20",
+    "title": "삼성글로벌리서치",
+    "snippet": "삼성글로벌리서치",
+    "discoveredBy": "official_page",
+    "reason": "not_job_posting",
+    "checkedAt": "2026-09-09T09:36:00+09:00"
+  },
+  {
+    "company": "현대자동차",
+    "url": "https://talent.hyundai.com/apply/applyProcess.hc",
+    "title": "applyProcess.hc",
+    "snippet": "",
+    "discoveredBy": "sitemap",
+    "reason": "not_job_posting",
+    "checkedAt": "2026-09-09T09:36:00+09:00"
+  },
+  {
+    "company": "현대자동차",
+    "url": "https://talent.hyundai.com/eng/apply/applyProcess.hc",
+    "title": "applyProcess.hc",
+    "snippet": "",
+    "discoveredBy": "sitemap",
+    "reason": "not_job_posting",
+    "checkedAt": "2026-09-09T09:36:00+09:00"
+  },
+  {
+    "company": "현대자동차",
+    "url": "https://talent.hyundai.com/eng/apply/applyList.hc",
+    "title": "applyList.hc",
+    "snippet": "",
+    "discoveredBy": "sitemap",
+    "reason": "insufficient_text",
+    "checkedAt": "2026-09-09T09:36:00+09:00"
+  },
+  {
+    "company": "기아",
+    "url": "https://career.kia.com/job/global.kc?code=R008&codeGb=2400",
+    "title": "global.kc?code=R008&codeGb=2400",
+    "snippet": "",
+    "discoveredBy": "sitemap",
+    "reason": "not_job_posting",
+    "checkedAt": "2026-09-09T09:36:00+09:00"
+  },
+  {
+    "company": "기아",
+    "url": "https://career.kia.com/myApply/apply.kc",
+    "title": "apply.kc",
+    "snippet": "",
+    "discoveredBy": "sitemap",
+    "reason": "insufficient_text",
+    "checkedAt": "2026-09-09T09:36:00+09:00"
+  },
+  {
+    "company": "기아",
+    "url": "https://career.kia.com/job/global.kc?code=R004&codeGb=2400",
+    "title": "global.kc?code=R004&codeGb=2400",
+    "snippet": "",
+    "discoveredBy": "sitemap",
+    "reason": "not_job_posting",
+    "checkedAt": "2026-09-09T09:36:00+09:00"
+  },
+  {
+    "company": "기아",
+    "url": "https://career.kia.com/job/aboutKia.kc",
+    "title": "aboutKia.kc",
+    "snippet": "",
+    "discoveredBy": "sitemap",
+    "reason": "not_job_posting",
+    "checkedAt": "2026-09-09T09:36:00+09:00"
+  },
+  {
+    "company": "기아",
+    "url": "https://career.kia.com/job/global.kc?code=R005&codeGb=2400",
+    "title": "global.kc?code=R005&codeGb=2400",
+    "snippet": "",
+    "discoveredBy": "sitemap",
+    "reason": "not_job_posting",
+    "checkedAt": "2026-09-09T09:36:00+09:00"
+  },
+  {
+    "company": "기아",
+    "url": "https://career.kia.com/job/global.kc?code=R007&codeGb=2400",
+    "title": "global.kc?code=R007&codeGb=2400",
+    "snippet": "",
+    "discoveredBy": "sitemap",
+    "reason": "not_job_posting",
+    "checkedAt": "2026-09-09T09:36:00+09:00"
+  },
+  {
+    "company": "기아",
+    "url": "https://career.kia.com/life/career.kc",
+    "title": "career.kc",
+    "snippet": "",
+    "discoveredBy": "sitemap",
+    "reason": "not_job_posting",
+    "checkedAt": "2026-09-09T09:36:00+09:00"
+  },
+  {
+    "company": "기아",
+    "url": "https://career.kia.com/job/global.kc?code=R003&codeGb=2400",
+    "title": "global.kc?code=R003&codeGb=2400",
+    "snippet": "",
+    "discoveredBy": "sitemap",
+    "reason": "not_job_posting",
+    "checkedAt": "2026-09-09T09:36:00+09:00"
+  },
+  {
+    "company": "기아",
+    "url": "https://career.kia.com/job/global.kc?code=R002&codeGb=2400",
+    "title": "global.kc?code=R002&codeGb=2400",
+    "snippet": "",
+    "discoveredBy": "sitemap",
+    "reason": "not_job_posting",
+    "checkedAt": "2026-09-09T09:36:00+09:00"
+  },
+  {
+    "company": "기아",
+    "url": "https://career.kia.com/job/global.kc?code=R001&codeGb=2400",
+    "title": "global.kc?code=R001&codeGb=2400",
+    "snippet": "",
+    "discoveredBy": "sitemap",
+    "reason": "not_job_posting",
+    "checkedAt": "2026-09-09T09:36:00+09:00"
+  },
+  {
+    "company": "기아",
+    "url": "https://career.kia.com/job/global.kc?code=R009&codeGb=2400",
+    "title": "global.kc?code=R009&codeGb=2400",
+    "snippet": "",
+    "discoveredBy": "sitemap",
+    "reason": "not_job_posting",
+    "checkedAt": "2026-09-09T09:36:00+09:00"
+  },
+  {
+    "company": "기아",
+    "url": "https://career.kia.com/eng/job/global.kc?code=R002&codeGb=2400",
+    "title": "global.kc?code=R002&codeGb=2400",
+    "snippet": "",
+    "discoveredBy": "sitemap",
+    "reason": "not_job_posting",
+    "checkedAt": "2026-09-09T09:36:00+09:00"
+  },
+  {
+    "company": "기아",
+    "url": "https://career.kia.com/eng/job/global.kc?code=R001&codeGb=2400",
+    "title": "global.kc?code=R001&codeGb=2400",
+    "snippet": "",
+    "discoveredBy": "sitemap",
+    "reason": "not_job_posting",
+    "checkedAt": "2026-09-09T09:36:00+09:00"
+  },
+  {
+    "company": "기아",
+    "url": "https://career.kia.com/eng/job/global.kc?code=R003&codeGb=2400",
+    "title": "global.kc?code=R003&codeGb=2400",
+    "snippet": "",
+    "discoveredBy": "sitemap",
+    "reason": "not_job_posting",
+    "checkedAt": "2026-09-09T09:36:00+09:00"
+  },
+  {
+    "company": "기아",
+    "url": "https://career.kia.com/eng/apply/applyList.kc",
+    "title": "applyList.kc",
+    "snippet": "",
+    "discoveredBy": "sitemap",
+    "reason": "insufficient_text",
+    "checkedAt": "2026-09-09T09:36:00+09:00"
+  },
+  {
+    "company": "기아",
+    "url": "https://career.kia.com/eng/job/global.kc?code=R004&codeGb=2400",
+    "title": "global.kc?code=R004&codeGb=2400",
+    "snippet": "",
+    "discoveredBy": "sitemap",
+    "reason": "not_job_posting",
+    "checkedAt": "2026-09-09T09:36:00+09:00"
+  },
+  {
+    "company": "기아",
+    "url": "https://career.kia.com/eng/job/global.kc?code=R008&codeGb=2400",
+    "title": "global.kc?code=R008&codeGb=2400",
+    "snippet": "",
+    "discoveredBy": "sitemap",
+    "reason": "not_job_posting",
+    "checkedAt": "2026-09-09T09:36:00+09:00"
+  },
+  {
+    "company": "기아",
+    "url": "https://career.kia.com/eng/job/global.kc?code=R009&codeGb=2400",
+    "title": "global.kc?code=R009&codeGb=2400",
+    "snippet": "",
+    "discoveredBy": "sitemap",
+    "reason": "not_job_posting",
+    "checkedAt": "2026-09-09T09:36:00+09:00"
+  },
+  {
+    "company": "기아",
+    "url": "https://career.kia.com/eng/job/global.kc?code=R005&codeGb=2400",
+    "title": "global.kc?code=R005&codeGb=2400",
+    "snippet": "",
+    "discoveredBy": "sitemap",
+    "reason": "not_job_posting",
+    "checkedAt": "2026-09-09T09:36:00+09:00"
+  },
+  {
+    "company": "기아",
+    "url": "https://career.kia.com/eng/job/global.kc?code=R007&codeGb=2400",
+    "title": "global.kc?code=R007&codeGb=2400",
+    "snippet": "",
+    "discoveredBy": "sitemap",
+    "reason": "not_job_posting",
+    "checkedAt": "2026-09-09T09:36:00+09:00"
+  },
+  {
+    "company": "기아",
+    "url": "https://career.kia.com/eng/job/jobs.kc",
+    "title": "jobs.kc",
+    "snippet": "",
+    "discoveredBy": "sitemap",
+    "reason": "not_job_posting",
+    "checkedAt": "2026-09-09T09:36:00+09:00"
+  },
+  {
+    "company": "기아",
+    "url": "https://career.kia.com/eng/job/aboutKia.kc",
+    "title": "aboutKia.kc",
+    "snippet": "",
+    "discoveredBy": "sitemap",
+    "reason": "not_job_posting",
+    "checkedAt": "2026-09-09T09:36:00+09:00"
+  },
+  {
+    "company": "기아",
+    "url": "https://career.kia.com/eng/life/career.kc",
+    "title": "career.kc",
+    "snippet": "",
+    "discoveredBy": "sitemap",
+    "reason": "not_job_posting",
+    "checkedAt": "2026-09-09T09:36:00+09:00"
+  },
+  {
+    "company": "현대오토에버",
+    "url": "https://career.hyundai-autoever.com/ko/o/235625",
+    "title": "[Tech] Service Strategy - Robot 플랫폼 기술 기획 Core Tech(AI/DATA/Cloud/보안) Strategy 경력 10년 이상 정규직 서울/경기 2026. 09. 28, 14:59까지 D -19",
+    "snippet": "[Tech] Service Strategy - Robot 플랫폼 기술 기획 Core Tech(AI/DATA/Cloud/보안) Strategy 경력 10년 이상 정규직 서울/경기 2026. 09. 28, 14:59까지 D -19 [공통] Financial & Investment analysis - 투자분석 업무 공통/신사업/기타 경영기획/관리/지원 경력 3년 이상 정규직 서울/경기 2026. 09. 28, 14:59까지 D -19 [EnIT] Solution Developer - SAP ERP ABAP 개발 및 솔루션 기획 Enterprise IT 솔루션아키텍트/개발(ERP/CRM/MS 등) 경력 7~20년 정규직 서울/경기 2026. 09. 28, 14:59까지 D -19 [SDx] IT PM - Robot MES 개발 총괄 PM SDx(스마트제조) Project Manager 경력 13년 이상 정규직 서울/경기 2026. 09. 28, 14:59까지 D -19 [EnIT] IT Architect - Application Architect Enterprise IT IT아키텍트/기획/품질 경력 10~20년 정규직 서울/경기 2026. 09. 28, 14:59까지 D -19 [EnIT] Backend Developer - 인증/계정플랫폼 개발 및 운영 Enterprise IT SW 개발 공통 경력 7~15년 정규직 서울/경기 2026. 09. 28, 14:59까지 D -19 [EnIT] Frontend Developer - 계정 시스템 프론트엔드 개발 및 운영 Enterprise IT SW 개발 공통 경력 5~15년 정규직 서울/경기 2026. 09. 28, 14:59까지 D -19 [Tech] RX 기술 리더(팀장) Core Tech(AI/DATA/Cloud/보안) Data/AI(인공지능) 경력 10년 이상 정규직 서울/경기 2026. 09. 28, 14:59까지 D -19 [Tech] Infra Security Engineer - 북미 기술 보안 주재원(네트웍",
+    "discoveredBy": "official_page",
+    "reason": "not_job_posting",
+    "checkedAt": "2026-09-09T09:36:00+09:00"
+  },
+  {
+    "company": "현대오토에버",
+    "url": "https://career.hyundai-autoever.com/ko/o/235322",
+    "title": "[EnIT] Solution Developer - SAP ERP ABAP 개발 및 솔루션 기획 Enterprise IT 솔루션아키텍트/개발(ERP/CRM/MS 등) 경력 7~20년 정규직 서울/경기 2026. 09. 28, 14:59까지 D -19",
+    "snippet": "[Tech] Service Strategy - Robot 플랫폼 기술 기획 Core Tech(AI/DATA/Cloud/보안) Strategy 경력 10년 이상 정규직 서울/경기 2026. 09. 28, 14:59까지 D -19 [공통] Financial & Investment analysis - 투자분석 업무 공통/신사업/기타 경영기획/관리/지원 경력 3년 이상 정규직 서울/경기 2026. 09. 28, 14:59까지 D -19 [EnIT] Solution Developer - SAP ERP ABAP 개발 및 솔루션 기획 Enterprise IT 솔루션아키텍트/개발(ERP/CRM/MS 등) 경력 7~20년 정규직 서울/경기 2026. 09. 28, 14:59까지 D -19 [SDx] IT PM - Robot MES 개발 총괄 PM SDx(스마트제조) Project Manager 경력 13년 이상 정규직 서울/경기 2026. 09. 28, 14:59까지 D -19 [EnIT] IT Architect - Application Architect Enterprise IT IT아키텍트/기획/품질 경력 10~20년 정규직 서울/경기 2026. 09. 28, 14:59까지 D -19 [EnIT] Backend Developer - 인증/계정플랫폼 개발 및 운영 Enterprise IT SW 개발 공통 경력 7~15년 정규직 서울/경기 2026. 09. 28, 14:59까지 D -19 [EnIT] Frontend Developer - 계정 시스템 프론트엔드 개발 및 운영 Enterprise IT SW 개발 공통 경력 5~15년 정규직 서울/경기 2026. 09. 28, 14:59까지 D -19 [Tech] RX 기술 리더(팀장) Core Tech(AI/DATA/Cloud/보안) Data/AI(인공지능) 경력 10년 이상 정규직 서울/경기 2026. 09. 28, 14:59까지 D -19 [Tech] Infra Security Engineer - 북미 기술 보안 주재원(네트웍",
+    "discoveredBy": "official_page",
+    "reason": "not_job_posting",
+    "checkedAt": "2026-09-09T09:36:00+09:00"
+  },
+  {
+    "company": "현대오토에버",
+    "url": "https://career.hyundai-autoever.com/ko/o/234478",
+    "title": "[SDx] IT PM - Robot MES 개발 총괄 PM SDx(스마트제조) Project Manager 경력 13년 이상 정규직 서울/경기 2026. 09. 28, 14:59까지 D -19",
+    "snippet": "[Tech] Service Strategy - Robot 플랫폼 기술 기획 Core Tech(AI/DATA/Cloud/보안) Strategy 경력 10년 이상 정규직 서울/경기 2026. 09. 28, 14:59까지 D -19 [공통] Financial & Investment analysis - 투자분석 업무 공통/신사업/기타 경영기획/관리/지원 경력 3년 이상 정규직 서울/경기 2026. 09. 28, 14:59까지 D -19 [EnIT] Solution Developer - SAP ERP ABAP 개발 및 솔루션 기획 Enterprise IT 솔루션아키텍트/개발(ERP/CRM/MS 등) 경력 7~20년 정규직 서울/경기 2026. 09. 28, 14:59까지 D -19 [SDx] IT PM - Robot MES 개발 총괄 PM SDx(스마트제조) Project Manager 경력 13년 이상 정규직 서울/경기 2026. 09. 28, 14:59까지 D -19 [EnIT] IT Architect - Application Architect Enterprise IT IT아키텍트/기획/품질 경력 10~20년 정규직 서울/경기 2026. 09. 28, 14:59까지 D -19 [EnIT] Backend Developer - 인증/계정플랫폼 개발 및 운영 Enterprise IT SW 개발 공통 경력 7~15년 정규직 서울/경기 2026. 09. 28, 14:59까지 D -19 [EnIT] Frontend Developer - 계정 시스템 프론트엔드 개발 및 운영 Enterprise IT SW 개발 공통 경력 5~15년 정규직 서울/경기 2026. 09. 28, 14:59까지 D -19 [Tech] RX 기술 리더(팀장) Core Tech(AI/DATA/Cloud/보안) Data/AI(인공지능) 경력 10년 이상 정규직 서울/경기 2026. 09. 28, 14:59까지 D -19 [Tech] Infra Security Engineer - 북미 기술 보안 주재원(네트웍",
+    "discoveredBy": "official_page",
+    "reason": "not_job_posting",
+    "checkedAt": "2026-09-09T09:36:00+09:00"
+  },
+  {
+    "company": "현대오토에버",
+    "url": "https://career.hyundai-autoever.com/ko/o/234018",
+    "title": "[EnIT] Backend Developer - 인증/계정플랫폼 개발 및 운영 Enterprise IT SW 개발 공통 경력 7~15년 정규직 서울/경기 2026. 09. 28, 14:59까지 D -19",
+    "snippet": "[Tech] Service Strategy - Robot 플랫폼 기술 기획 Core Tech(AI/DATA/Cloud/보안) Strategy 경력 10년 이상 정규직 서울/경기 2026. 09. 28, 14:59까지 D -19 [공통] Financial & Investment analysis - 투자분석 업무 공통/신사업/기타 경영기획/관리/지원 경력 3년 이상 정규직 서울/경기 2026. 09. 28, 14:59까지 D -19 [EnIT] Solution Developer - SAP ERP ABAP 개발 및 솔루션 기획 Enterprise IT 솔루션아키텍트/개발(ERP/CRM/MS 등) 경력 7~20년 정규직 서울/경기 2026. 09. 28, 14:59까지 D -19 [SDx] IT PM - Robot MES 개발 총괄 PM SDx(스마트제조) Project Manager 경력 13년 이상 정규직 서울/경기 2026. 09. 28, 14:59까지 D -19 [EnIT] IT Architect - Application Architect Enterprise IT IT아키텍트/기획/품질 경력 10~20년 정규직 서울/경기 2026. 09. 28, 14:59까지 D -19 [EnIT] Backend Developer - 인증/계정플랫폼 개발 및 운영 Enterprise IT SW 개발 공통 경력 7~15년 정규직 서울/경기 2026. 09. 28, 14:59까지 D -19 [EnIT] Frontend Developer - 계정 시스템 프론트엔드 개발 및 운영 Enterprise IT SW 개발 공통 경력 5~15년 정규직 서울/경기 2026. 09. 28, 14:59까지 D -19 [Tech] RX 기술 리더(팀장) Core Tech(AI/DATA/Cloud/보안) Data/AI(인공지능) 경력 10년 이상 정규직 서울/경기 2026. 09. 28, 14:59까지 D -19 [Tech] Infra Security Engineer - 북미 기술 보안 주재원(네트웍",
+    "discoveredBy": "official_page",
+    "reason": "not_job_posting",
+    "checkedAt": "2026-09-09T09:36:00+09:00"
+  },
+  {
+    "company": "현대오토에버",
+    "url": "https://career.hyundai-autoever.com/ko/o/234006",
+    "title": "[EnIT] Frontend Developer - 계정 시스템 프론트엔드 개발 및 운영 Enterprise IT SW 개발 공통 경력 5~15년 정규직 서울/경기 2026. 09. 28, 14:59까지 D -19",
+    "snippet": "[Tech] Service Strategy - Robot 플랫폼 기술 기획 Core Tech(AI/DATA/Cloud/보안) Strategy 경력 10년 이상 정규직 서울/경기 2026. 09. 28, 14:59까지 D -19 [공통] Financial & Investment analysis - 투자분석 업무 공통/신사업/기타 경영기획/관리/지원 경력 3년 이상 정규직 서울/경기 2026. 09. 28, 14:59까지 D -19 [EnIT] Solution Developer - SAP ERP ABAP 개발 및 솔루션 기획 Enterprise IT 솔루션아키텍트/개발(ERP/CRM/MS 등) 경력 7~20년 정규직 서울/경기 2026. 09. 28, 14:59까지 D -19 [SDx] IT PM - Robot MES 개발 총괄 PM SDx(스마트제조) Project Manager 경력 13년 이상 정규직 서울/경기 2026. 09. 28, 14:59까지 D -19 [EnIT] IT Architect - Application Architect Enterprise IT IT아키텍트/기획/품질 경력 10~20년 정규직 서울/경기 2026. 09. 28, 14:59까지 D -19 [EnIT] Backend Developer - 인증/계정플랫폼 개발 및 운영 Enterprise IT SW 개발 공통 경력 7~15년 정규직 서울/경기 2026. 09. 28, 14:59까지 D -19 [EnIT] Frontend Developer - 계정 시스템 프론트엔드 개발 및 운영 Enterprise IT SW 개발 공통 경력 5~15년 정규직 서울/경기 2026. 09. 28, 14:59까지 D -19 [Tech] RX 기술 리더(팀장) Core Tech(AI/DATA/Cloud/보안) Data/AI(인공지능) 경력 10년 이상 정규직 서울/경기 2026. 09. 28, 14:59까지 D -19 [Tech] Infra Security Engineer - 북미 기술 보안 주재원(네트웍",
+    "discoveredBy": "official_page",
+    "reason": "not_job_posting",
+    "checkedAt": "2026-09-09T09:36:00+09:00"
+  },
+  {
+    "company": "현대오토에버",
+    "url": "https://career.hyundai-autoever.com/ko/o/233221",
+    "title": "[Tech] RX 기술 리더(팀장) Core Tech(AI/DATA/Cloud/보안) Data/AI(인공지능) 경력 10년 이상 정규직 서울/경기 2026. 09. 28, 14:59까지 D -19",
+    "snippet": "[Tech] Service Strategy - Robot 플랫폼 기술 기획 Core Tech(AI/DATA/Cloud/보안) Strategy 경력 10년 이상 정규직 서울/경기 2026. 09. 28, 14:59까지 D -19 [공통] Financial & Investment analysis - 투자분석 업무 공통/신사업/기타 경영기획/관리/지원 경력 3년 이상 정규직 서울/경기 2026. 09. 28, 14:59까지 D -19 [EnIT] Solution Developer - SAP ERP ABAP 개발 및 솔루션 기획 Enterprise IT 솔루션아키텍트/개발(ERP/CRM/MS 등) 경력 7~20년 정규직 서울/경기 2026. 09. 28, 14:59까지 D -19 [SDx] IT PM - Robot MES 개발 총괄 PM SDx(스마트제조) Project Manager 경력 13년 이상 정규직 서울/경기 2026. 09. 28, 14:59까지 D -19 [EnIT] IT Architect - Application Architect Enterprise IT IT아키텍트/기획/품질 경력 10~20년 정규직 서울/경기 2026. 09. 28, 14:59까지 D -19 [EnIT] Backend Developer - 인증/계정플랫폼 개발 및 운영 Enterprise IT SW 개발 공통 경력 7~15년 정규직 서울/경기 2026. 09. 28, 14:59까지 D -19 [EnIT] Frontend Developer - 계정 시스템 프론트엔드 개발 및 운영 Enterprise IT SW 개발 공통 경력 5~15년 정규직 서울/경기 2026. 09. 28, 14:59까지 D -19 [Tech] RX 기술 리더(팀장) Core Tech(AI/DATA/Cloud/보안) Data/AI(인공지능) 경력 10년 이상 정규직 서울/경기 2026. 09. 28, 14:59까지 D -19 [Tech] Infra Security Engineer - 북미 기술 보안 주재원(네트웍",
+    "discoveredBy": "official_page",
+    "reason": "not_job_posting",
+    "checkedAt": "2026-09-09T09:36:00+09:00"
+  },
+  {
+    "company": "현대오토에버",
+    "url": "https://career.hyundai-autoever.com/ko/o/232348",
+    "title": "[Tech] Infra Security Engineer - 북미 기술 보안 주재원(네트웍 보안) Core Tech(AI/DATA/Cloud/보안) Security 경력 7년 이상 정규직 2026. 09. 28, 14:59까지 D -19",
+    "snippet": "[Tech] Service Strategy - Robot 플랫폼 기술 기획 Core Tech(AI/DATA/Cloud/보안) Strategy 경력 10년 이상 정규직 서울/경기 2026. 09. 28, 14:59까지 D -19 [공통] Financial & Investment analysis - 투자분석 업무 공통/신사업/기타 경영기획/관리/지원 경력 3년 이상 정규직 서울/경기 2026. 09. 28, 14:59까지 D -19 [EnIT] Solution Developer - SAP ERP ABAP 개발 및 솔루션 기획 Enterprise IT 솔루션아키텍트/개발(ERP/CRM/MS 등) 경력 7~20년 정규직 서울/경기 2026. 09. 28, 14:59까지 D -19 [SDx] IT PM - Robot MES 개발 총괄 PM SDx(스마트제조) Project Manager 경력 13년 이상 정규직 서울/경기 2026. 09. 28, 14:59까지 D -19 [EnIT] IT Architect - Application Architect Enterprise IT IT아키텍트/기획/품질 경력 10~20년 정규직 서울/경기 2026. 09. 28, 14:59까지 D -19 [EnIT] Backend Developer - 인증/계정플랫폼 개발 및 운영 Enterprise IT SW 개발 공통 경력 7~15년 정규직 서울/경기 2026. 09. 28, 14:59까지 D -19 [EnIT] Frontend Developer - 계정 시스템 프론트엔드 개발 및 운영 Enterprise IT SW 개발 공통 경력 5~15년 정규직 서울/경기 2026. 09. 28, 14:59까지 D -19 [Tech] RX 기술 리더(팀장) Core Tech(AI/DATA/Cloud/보안) Data/AI(인공지능) 경력 10년 이상 정규직 서울/경기 2026. 09. 28, 14:59까지 D -19 [Tech] Infra Security Engineer - 북미 기술 보안 주재원(네트웍",
+    "discoveredBy": "official_page",
+    "reason": "not_job_posting",
+    "checkedAt": "2026-09-09T09:36:00+09:00"
+  },
+  {
+    "company": "현대오토에버",
+    "url": "https://career.hyundai-autoever.com/ko/o/232234",
+    "title": "[EnIT] Solution Architect - Canias ERP FCM 컨설팅 Enterprise IT 솔루션아키텍트/개발(ERP/CRM/MS 등) 경력 4년 이상 정규직 서울/경기 2026. 09. 28, 14:59까지 D -19",
+    "snippet": "[Tech] Service Strategy - Robot 플랫폼 기술 기획 Core Tech(AI/DATA/Cloud/보안) Strategy 경력 10년 이상 정규직 서울/경기 2026. 09. 28, 14:59까지 D -19 [공통] Financial & Investment analysis - 투자분석 업무 공통/신사업/기타 경영기획/관리/지원 경력 3년 이상 정규직 서울/경기 2026. 09. 28, 14:59까지 D -19 [EnIT] Solution Developer - SAP ERP ABAP 개발 및 솔루션 기획 Enterprise IT 솔루션아키텍트/개발(ERP/CRM/MS 등) 경력 7~20년 정규직 서울/경기 2026. 09. 28, 14:59까지 D -19 [SDx] IT PM - Robot MES 개발 총괄 PM SDx(스마트제조) Project Manager 경력 13년 이상 정규직 서울/경기 2026. 09. 28, 14:59까지 D -19 [EnIT] IT Architect - Application Architect Enterprise IT IT아키텍트/기획/품질 경력 10~20년 정규직 서울/경기 2026. 09. 28, 14:59까지 D -19 [EnIT] Backend Developer - 인증/계정플랫폼 개발 및 운영 Enterprise IT SW 개발 공통 경력 7~15년 정규직 서울/경기 2026. 09. 28, 14:59까지 D -19 [EnIT] Frontend Developer - 계정 시스템 프론트엔드 개발 및 운영 Enterprise IT SW 개발 공통 경력 5~15년 정규직 서울/경기 2026. 09. 28, 14:59까지 D -19 [Tech] RX 기술 리더(팀장) Core Tech(AI/DATA/Cloud/보안) Data/AI(인공지능) 경력 10년 이상 정규직 서울/경기 2026. 09. 28, 14:59까지 D -19 [Tech] Infra Security Engineer - 북미 기술 보안 주재원(네트웍",
+    "discoveredBy": "official_page",
+    "reason": "not_job_posting",
+    "checkedAt": "2026-09-09T09:36:00+09:00"
+  },
+  {
+    "company": "현대오토에버",
+    "url": "https://career.hyundai-autoever.com/ko/o/231922",
+    "title": "[Tech] Infra Security Engineer - 북미 기술 보안 주재원(Endpoint) Core Tech(AI/DATA/Cloud/보안) Security 경력 7년 이상 정규직 2026. 09. 28, 14:59까지 D -19",
+    "snippet": "[Tech] Service Strategy - Robot 플랫폼 기술 기획 Core Tech(AI/DATA/Cloud/보안) Strategy 경력 10년 이상 정규직 서울/경기 2026. 09. 28, 14:59까지 D -19 [공통] Financial & Investment analysis - 투자분석 업무 공통/신사업/기타 경영기획/관리/지원 경력 3년 이상 정규직 서울/경기 2026. 09. 28, 14:59까지 D -19 [EnIT] Solution Developer - SAP ERP ABAP 개발 및 솔루션 기획 Enterprise IT 솔루션아키텍트/개발(ERP/CRM/MS 등) 경력 7~20년 정규직 서울/경기 2026. 09. 28, 14:59까지 D -19 [SDx] IT PM - Robot MES 개발 총괄 PM SDx(스마트제조) Project Manager 경력 13년 이상 정규직 서울/경기 2026. 09. 28, 14:59까지 D -19 [EnIT] IT Architect - Application Architect Enterprise IT IT아키텍트/기획/품질 경력 10~20년 정규직 서울/경기 2026. 09. 28, 14:59까지 D -19 [EnIT] Backend Developer - 인증/계정플랫폼 개발 및 운영 Enterprise IT SW 개발 공통 경력 7~15년 정규직 서울/경기 2026. 09. 28, 14:59까지 D -19 [EnIT] Frontend Developer - 계정 시스템 프론트엔드 개발 및 운영 Enterprise IT SW 개발 공통 경력 5~15년 정규직 서울/경기 2026. 09. 28, 14:59까지 D -19 [Tech] RX 기술 리더(팀장) Core Tech(AI/DATA/Cloud/보안) Data/AI(인공지능) 경력 10년 이상 정규직 서울/경기 2026. 09. 28, 14:59까지 D -19 [Tech] Infra Security Engineer - 북미 기술 보안 주재원(네트웍",
+    "discoveredBy": "official_page",
+    "reason": "not_job_posting",
+    "checkedAt": "2026-09-09T09:36:00+09:00"
+  },
+  {
+    "company": "현대오토에버",
+    "url": "https://career.hyundai-autoever.com/ko/o/229348",
+    "title": "[Tech] AI Engineer - Physical AI Engineer Core Tech(AI/DATA/Cloud/보안) Data/AI(인공지능) 경력 3년 이상 정규직 서울/경기 2026. 09. 28, 14:59까지 D -19",
+    "snippet": "[Tech] Service Strategy - Robot 플랫폼 기술 기획 Core Tech(AI/DATA/Cloud/보안) Strategy 경력 10년 이상 정규직 서울/경기 2026. 09. 28, 14:59까지 D -19 [공통] Financial & Investment analysis - 투자분석 업무 공통/신사업/기타 경영기획/관리/지원 경력 3년 이상 정규직 서울/경기 2026. 09. 28, 14:59까지 D -19 [EnIT] Solution Developer - SAP ERP ABAP 개발 및 솔루션 기획 Enterprise IT 솔루션아키텍트/개발(ERP/CRM/MS 등) 경력 7~20년 정규직 서울/경기 2026. 09. 28, 14:59까지 D -19 [SDx] IT PM - Robot MES 개발 총괄 PM SDx(스마트제조) Project Manager 경력 13년 이상 정규직 서울/경기 2026. 09. 28, 14:59까지 D -19 [EnIT] IT Architect - Application Architect Enterprise IT IT아키텍트/기획/품질 경력 10~20년 정규직 서울/경기 2026. 09. 28, 14:59까지 D -19 [EnIT] Backend Developer - 인증/계정플랫폼 개발 및 운영 Enterprise IT SW 개발 공통 경력 7~15년 정규직 서울/경기 2026. 09. 28, 14:59까지 D -19 [EnIT] Frontend Developer - 계정 시스템 프론트엔드 개발 및 운영 Enterprise IT SW 개발 공통 경력 5~15년 정규직 서울/경기 2026. 09. 28, 14:59까지 D -19 [Tech] RX 기술 리더(팀장) Core Tech(AI/DATA/Cloud/보안) Data/AI(인공지능) 경력 10년 이상 정규직 서울/경기 2026. 09. 28, 14:59까지 D -19 [Tech] Infra Security Engineer - 북미 기술 보안 주재원(네트웍",
+    "discoveredBy": "official_page",
+    "reason": "not_job_posting",
+    "checkedAt": "2026-09-09T09:36:00+09:00"
+  },
+  {
+    "company": "현대오토에버",
+    "url": "https://career.hyundai-autoever.com/ko/o/229073",
+    "title": "[SDx] Data Engineer - Robot Data Engineer SDx(스마트제조) Data/AI(인공지능) 경력 9년 이상 정규직 서울/경기 2026. 09. 28, 14:59까지 D -19",
+    "snippet": "[Tech] Service Strategy - Robot 플랫폼 기술 기획 Core Tech(AI/DATA/Cloud/보안) Strategy 경력 10년 이상 정규직 서울/경기 2026. 09. 28, 14:59까지 D -19 [공통] Financial & Investment analysis - 투자분석 업무 공통/신사업/기타 경영기획/관리/지원 경력 3년 이상 정규직 서울/경기 2026. 09. 28, 14:59까지 D -19 [EnIT] Solution Developer - SAP ERP ABAP 개발 및 솔루션 기획 Enterprise IT 솔루션아키텍트/개발(ERP/CRM/MS 등) 경력 7~20년 정규직 서울/경기 2026. 09. 28, 14:59까지 D -19 [SDx] IT PM - Robot MES 개발 총괄 PM SDx(스마트제조) Project Manager 경력 13년 이상 정규직 서울/경기 2026. 09. 28, 14:59까지 D -19 [EnIT] IT Architect - Application Architect Enterprise IT IT아키텍트/기획/품질 경력 10~20년 정규직 서울/경기 2026. 09. 28, 14:59까지 D -19 [EnIT] Backend Developer - 인증/계정플랫폼 개발 및 운영 Enterprise IT SW 개발 공통 경력 7~15년 정규직 서울/경기 2026. 09. 28, 14:59까지 D -19 [EnIT] Frontend Developer - 계정 시스템 프론트엔드 개발 및 운영 Enterprise IT SW 개발 공통 경력 5~15년 정규직 서울/경기 2026. 09. 28, 14:59까지 D -19 [Tech] RX 기술 리더(팀장) Core Tech(AI/DATA/Cloud/보안) Data/AI(인공지능) 경력 10년 이상 정규직 서울/경기 2026. 09. 28, 14:59까지 D -19 [Tech] Infra Security Engineer - 북미 기술 보안 주재원(네트웍",
+    "discoveredBy": "official_page",
+    "reason": "not_job_posting",
+    "checkedAt": "2026-09-09T09:36:00+09:00"
+  },
+  {
+    "company": "현대오토에버",
+    "url": "https://career.hyundai-autoever.com/ko/o/228246",
+    "title": "[EnIT] IT PM - CRM시스템 Delivery Manager Enterprise IT Project Manager 경력 7~20년 정규직 서울/경기 2026. 09. 28, 14:59까지 D -19",
+    "snippet": "[Tech] Service Strategy - Robot 플랫폼 기술 기획 Core Tech(AI/DATA/Cloud/보안) Strategy 경력 10년 이상 정규직 서울/경기 2026. 09. 28, 14:59까지 D -19 [공통] Financial & Investment analysis - 투자분석 업무 공통/신사업/기타 경영기획/관리/지원 경력 3년 이상 정규직 서울/경기 2026. 09. 28, 14:59까지 D -19 [EnIT] Solution Developer - SAP ERP ABAP 개발 및 솔루션 기획 Enterprise IT 솔루션아키텍트/개발(ERP/CRM/MS 등) 경력 7~20년 정규직 서울/경기 2026. 09. 28, 14:59까지 D -19 [SDx] IT PM - Robot MES 개발 총괄 PM SDx(스마트제조) Project Manager 경력 13년 이상 정규직 서울/경기 2026. 09. 28, 14:59까지 D -19 [EnIT] IT Architect - Application Architect Enterprise IT IT아키텍트/기획/품질 경력 10~20년 정규직 서울/경기 2026. 09. 28, 14:59까지 D -19 [EnIT] Backend Developer - 인증/계정플랫폼 개발 및 운영 Enterprise IT SW 개발 공통 경력 7~15년 정규직 서울/경기 2026. 09. 28, 14:59까지 D -19 [EnIT] Frontend Developer - 계정 시스템 프론트엔드 개발 및 운영 Enterprise IT SW 개발 공통 경력 5~15년 정규직 서울/경기 2026. 09. 28, 14:59까지 D -19 [Tech] RX 기술 리더(팀장) Core Tech(AI/DATA/Cloud/보안) Data/AI(인공지능) 경력 10년 이상 정규직 서울/경기 2026. 09. 28, 14:59까지 D -19 [Tech] Infra Security Engineer - 북미 기술 보안 주재원(네트웍",
+    "discoveredBy": "official_page",
+    "reason": "not_job_posting",
+    "checkedAt": "2026-09-09T09:36:00+09:00"
+  },
+  {
+    "company": "현대오토에버",
+    "url": "https://career.hyundai-autoever.com/ko/o/228233",
+    "title": "[EnIT] Business Planning - Robot SI Enterprise IT Platform Developer 경력 10~15년 정규직 서울/경기 2026. 09. 28, 14:59까지 D -19",
+    "snippet": "[Tech] Service Strategy - Robot 플랫폼 기술 기획 Core Tech(AI/DATA/Cloud/보안) Strategy 경력 10년 이상 정규직 서울/경기 2026. 09. 28, 14:59까지 D -19 [공통] Financial & Investment analysis - 투자분석 업무 공통/신사업/기타 경영기획/관리/지원 경력 3년 이상 정규직 서울/경기 2026. 09. 28, 14:59까지 D -19 [EnIT] Solution Developer - SAP ERP ABAP 개발 및 솔루션 기획 Enterprise IT 솔루션아키텍트/개발(ERP/CRM/MS 등) 경력 7~20년 정규직 서울/경기 2026. 09. 28, 14:59까지 D -19 [SDx] IT PM - Robot MES 개발 총괄 PM SDx(스마트제조) Project Manager 경력 13년 이상 정규직 서울/경기 2026. 09. 28, 14:59까지 D -19 [EnIT] IT Architect - Application Architect Enterprise IT IT아키텍트/기획/품질 경력 10~20년 정규직 서울/경기 2026. 09. 28, 14:59까지 D -19 [EnIT] Backend Developer - 인증/계정플랫폼 개발 및 운영 Enterprise IT SW 개발 공통 경력 7~15년 정규직 서울/경기 2026. 09. 28, 14:59까지 D -19 [EnIT] Frontend Developer - 계정 시스템 프론트엔드 개발 및 운영 Enterprise IT SW 개발 공통 경력 5~15년 정규직 서울/경기 2026. 09. 28, 14:59까지 D -19 [Tech] RX 기술 리더(팀장) Core Tech(AI/DATA/Cloud/보안) Data/AI(인공지능) 경력 10년 이상 정규직 서울/경기 2026. 09. 28, 14:59까지 D -19 [Tech] Infra Security Engineer - 북미 기술 보안 주재원(네트웍",
+    "discoveredBy": "official_page",
+    "reason": "not_job_posting",
+    "checkedAt": "2026-09-09T09:36:00+09:00"
+  },
+  {
+    "company": "현대오토에버",
+    "url": "https://career.hyundai-autoever.com/ko/o/226439",
+    "title": "[Tech] IDC Architect - 데이터센터 설비 기획 및 운영 (전기/기계/소방/안전) Core Tech(AI/DATA/Cloud/보안) Infra/Cloud 경력 5년 이상 정규직 ＊전국(다지역) 2026. 09. 28, 14:59까지 D -19",
+    "snippet": "[Tech] Service Strategy - Robot 플랫폼 기술 기획 Core Tech(AI/DATA/Cloud/보안) Strategy 경력 10년 이상 정규직 서울/경기 2026. 09. 28, 14:59까지 D -19 [공통] Financial & Investment analysis - 투자분석 업무 공통/신사업/기타 경영기획/관리/지원 경력 3년 이상 정규직 서울/경기 2026. 09. 28, 14:59까지 D -19 [EnIT] Solution Developer - SAP ERP ABAP 개발 및 솔루션 기획 Enterprise IT 솔루션아키텍트/개발(ERP/CRM/MS 등) 경력 7~20년 정규직 서울/경기 2026. 09. 28, 14:59까지 D -19 [SDx] IT PM - Robot MES 개발 총괄 PM SDx(스마트제조) Project Manager 경력 13년 이상 정규직 서울/경기 2026. 09. 28, 14:59까지 D -19 [EnIT] IT Architect - Application Architect Enterprise IT IT아키텍트/기획/품질 경력 10~20년 정규직 서울/경기 2026. 09. 28, 14:59까지 D -19 [EnIT] Backend Developer - 인증/계정플랫폼 개발 및 운영 Enterprise IT SW 개발 공통 경력 7~15년 정규직 서울/경기 2026. 09. 28, 14:59까지 D -19 [EnIT] Frontend Developer - 계정 시스템 프론트엔드 개발 및 운영 Enterprise IT SW 개발 공통 경력 5~15년 정규직 서울/경기 2026. 09. 28, 14:59까지 D -19 [Tech] RX 기술 리더(팀장) Core Tech(AI/DATA/Cloud/보안) Data/AI(인공지능) 경력 10년 이상 정규직 서울/경기 2026. 09. 28, 14:59까지 D -19 [Tech] Infra Security Engineer - 북미 기술 보안 주재원(네트웍",
+    "discoveredBy": "official_page",
+    "reason": "not_job_posting",
+    "checkedAt": "2026-09-09T09:36:00+09:00"
+  },
+  {
+    "company": "현대오토에버",
+    "url": "https://career.hyundai-autoever.com/ko/o/226103",
+    "title": "[Tech] Security Engineer - 신규 IT시스템 보안성검토 및 운영시스템 보안관리 Core Tech(AI/DATA/Cloud/보안) Security 경력 3년 이상 정규직 서울/경기 2026. 09. 28, 14:59까지 D -19",
+    "snippet": "[Tech] Service Strategy - Robot 플랫폼 기술 기획 Core Tech(AI/DATA/Cloud/보안) Strategy 경력 10년 이상 정규직 서울/경기 2026. 09. 28, 14:59까지 D -19 [공통] Financial & Investment analysis - 투자분석 업무 공통/신사업/기타 경영기획/관리/지원 경력 3년 이상 정규직 서울/경기 2026. 09. 28, 14:59까지 D -19 [EnIT] Solution Developer - SAP ERP ABAP 개발 및 솔루션 기획 Enterprise IT 솔루션아키텍트/개발(ERP/CRM/MS 등) 경력 7~20년 정규직 서울/경기 2026. 09. 28, 14:59까지 D -19 [SDx] IT PM - Robot MES 개발 총괄 PM SDx(스마트제조) Project Manager 경력 13년 이상 정규직 서울/경기 2026. 09. 28, 14:59까지 D -19 [EnIT] IT Architect - Application Architect Enterprise IT IT아키텍트/기획/품질 경력 10~20년 정규직 서울/경기 2026. 09. 28, 14:59까지 D -19 [EnIT] Backend Developer - 인증/계정플랫폼 개발 및 운영 Enterprise IT SW 개발 공통 경력 7~15년 정규직 서울/경기 2026. 09. 28, 14:59까지 D -19 [EnIT] Frontend Developer - 계정 시스템 프론트엔드 개발 및 운영 Enterprise IT SW 개발 공통 경력 5~15년 정규직 서울/경기 2026. 09. 28, 14:59까지 D -19 [Tech] RX 기술 리더(팀장) Core Tech(AI/DATA/Cloud/보안) Data/AI(인공지능) 경력 10년 이상 정규직 서울/경기 2026. 09. 28, 14:59까지 D -19 [Tech] Infra Security Engineer - 북미 기술 보안 주재원(네트웍",
+    "discoveredBy": "official_page",
+    "reason": "not_job_posting",
+    "checkedAt": "2026-09-09T09:36:00+09:00"
+  },
+  {
+    "company": "현대오토에버",
+    "url": "https://career.hyundai-autoever.com/ko/o/225007",
+    "title": "[SDx] IT PM - Robot Field Application Engineer SDx(스마트제조) Project Manager 경력 4년 이상 정규직 서울/경기 2026. 09. 28, 14:59까지 D -19",
+    "snippet": "[Tech] Service Strategy - Robot 플랫폼 기술 기획 Core Tech(AI/DATA/Cloud/보안) Strategy 경력 10년 이상 정규직 서울/경기 2026. 09. 28, 14:59까지 D -19 [공통] Financial & Investment analysis - 투자분석 업무 공통/신사업/기타 경영기획/관리/지원 경력 3년 이상 정규직 서울/경기 2026. 09. 28, 14:59까지 D -19 [EnIT] Solution Developer - SAP ERP ABAP 개발 및 솔루션 기획 Enterprise IT 솔루션아키텍트/개발(ERP/CRM/MS 등) 경력 7~20년 정규직 서울/경기 2026. 09. 28, 14:59까지 D -19 [SDx] IT PM - Robot MES 개발 총괄 PM SDx(스마트제조) Project Manager 경력 13년 이상 정규직 서울/경기 2026. 09. 28, 14:59까지 D -19 [EnIT] IT Architect - Application Architect Enterprise IT IT아키텍트/기획/품질 경력 10~20년 정규직 서울/경기 2026. 09. 28, 14:59까지 D -19 [EnIT] Backend Developer - 인증/계정플랫폼 개발 및 운영 Enterprise IT SW 개발 공통 경력 7~15년 정규직 서울/경기 2026. 09. 28, 14:59까지 D -19 [EnIT] Frontend Developer - 계정 시스템 프론트엔드 개발 및 운영 Enterprise IT SW 개발 공통 경력 5~15년 정규직 서울/경기 2026. 09. 28, 14:59까지 D -19 [Tech] RX 기술 리더(팀장) Core Tech(AI/DATA/Cloud/보안) Data/AI(인공지능) 경력 10년 이상 정규직 서울/경기 2026. 09. 28, 14:59까지 D -19 [Tech] Infra Security Engineer - 북미 기술 보안 주재원(네트웍",
+    "discoveredBy": "official_page",
+    "reason": "not_job_posting",
+    "checkedAt": "2026-09-09T09:36:00+09:00"
+  },
+  {
+    "company": "현대오토에버",
+    "url": "https://career.hyundai-autoever.com/ko/o/223881",
+    "title": "[IVI] Embedded SW Architect - Android Framework 개발 Developer IVI(내비게이션/지도) 임베디드SW 개발/관리 경력 5년 이상 정규직 서울/경기",
+    "snippet": "[Tech] Service Strategy - Robot 플랫폼 기술 기획 Core Tech(AI/DATA/Cloud/보안) Strategy 경력 10년 이상 정규직 서울/경기 2026. 09. 28, 14:59까지 D -19 [공통] Financial & Investment analysis - 투자분석 업무 공통/신사업/기타 경영기획/관리/지원 경력 3년 이상 정규직 서울/경기 2026. 09. 28, 14:59까지 D -19 [EnIT] Solution Developer - SAP ERP ABAP 개발 및 솔루션 기획 Enterprise IT 솔루션아키텍트/개발(ERP/CRM/MS 등) 경력 7~20년 정규직 서울/경기 2026. 09. 28, 14:59까지 D -19 [SDx] IT PM - Robot MES 개발 총괄 PM SDx(스마트제조) Project Manager 경력 13년 이상 정규직 서울/경기 2026. 09. 28, 14:59까지 D -19 [EnIT] IT Architect - Application Architect Enterprise IT IT아키텍트/기획/품질 경력 10~20년 정규직 서울/경기 2026. 09. 28, 14:59까지 D -19 [EnIT] Backend Developer - 인증/계정플랫폼 개발 및 운영 Enterprise IT SW 개발 공통 경력 7~15년 정규직 서울/경기 2026. 09. 28, 14:59까지 D -19 [EnIT] Frontend Developer - 계정 시스템 프론트엔드 개발 및 운영 Enterprise IT SW 개발 공통 경력 5~15년 정규직 서울/경기 2026. 09. 28, 14:59까지 D -19 [Tech] RX 기술 리더(팀장) Core Tech(AI/DATA/Cloud/보안) Data/AI(인공지능) 경력 10년 이상 정규직 서울/경기 2026. 09. 28, 14:59까지 D -19 [Tech] Infra Security Engineer - 북미 기술 보안 주재원(네트웍",
+    "discoveredBy": "official_page",
+    "reason": "not_job_posting",
+    "checkedAt": "2026-09-09T09:36:00+09:00"
+  },
+  {
+    "company": "현대오토에버",
+    "url": "https://career.hyundai-autoever.com/ko/o/223816",
+    "title": "[IVI] Embedded SW Architect - Android Framework 개발 Architector IVI(내비게이션/지도) 임베디드SW 개발/관리 경력 8년 이상 정규직 서울/경기",
+    "snippet": "[Tech] Service Strategy - Robot 플랫폼 기술 기획 Core Tech(AI/DATA/Cloud/보안) Strategy 경력 10년 이상 정규직 서울/경기 2026. 09. 28, 14:59까지 D -19 [공통] Financial & Investment analysis - 투자분석 업무 공통/신사업/기타 경영기획/관리/지원 경력 3년 이상 정규직 서울/경기 2026. 09. 28, 14:59까지 D -19 [EnIT] Solution Developer - SAP ERP ABAP 개발 및 솔루션 기획 Enterprise IT 솔루션아키텍트/개발(ERP/CRM/MS 등) 경력 7~20년 정규직 서울/경기 2026. 09. 28, 14:59까지 D -19 [SDx] IT PM - Robot MES 개발 총괄 PM SDx(스마트제조) Project Manager 경력 13년 이상 정규직 서울/경기 2026. 09. 28, 14:59까지 D -19 [EnIT] IT Architect - Application Architect Enterprise IT IT아키텍트/기획/품질 경력 10~20년 정규직 서울/경기 2026. 09. 28, 14:59까지 D -19 [EnIT] Backend Developer - 인증/계정플랫폼 개발 및 운영 Enterprise IT SW 개발 공통 경력 7~15년 정규직 서울/경기 2026. 09. 28, 14:59까지 D -19 [EnIT] Frontend Developer - 계정 시스템 프론트엔드 개발 및 운영 Enterprise IT SW 개발 공통 경력 5~15년 정규직 서울/경기 2026. 09. 28, 14:59까지 D -19 [Tech] RX 기술 리더(팀장) Core Tech(AI/DATA/Cloud/보안) Data/AI(인공지능) 경력 10년 이상 정규직 서울/경기 2026. 09. 28, 14:59까지 D -19 [Tech] Infra Security Engineer - 북미 기술 보안 주재원(네트웍",
+    "discoveredBy": "official_page",
+    "reason": "not_job_posting",
+    "checkedAt": "2026-09-09T09:36:00+09:00"
+  },
+  {
+    "company": "현대오토에버",
+    "url": "https://career.hyundai-autoever.com/ko/o/223741",
+    "title": "[Tech] Service Security Engineer - Security Analyst (보안 위협 분석/ 글로벌 사이버 위협 대응 체계 고도화) Core Tech(AI/DATA/Cloud/보안) Security 경력 3년 이상 정규직 서울/경기 2026. 09. 28, 14:59까지 D -19",
+    "snippet": "[Tech] Service Strategy - Robot 플랫폼 기술 기획 Core Tech(AI/DATA/Cloud/보안) Strategy 경력 10년 이상 정규직 서울/경기 2026. 09. 28, 14:59까지 D -19 [공통] Financial & Investment analysis - 투자분석 업무 공통/신사업/기타 경영기획/관리/지원 경력 3년 이상 정규직 서울/경기 2026. 09. 28, 14:59까지 D -19 [EnIT] Solution Developer - SAP ERP ABAP 개발 및 솔루션 기획 Enterprise IT 솔루션아키텍트/개발(ERP/CRM/MS 등) 경력 7~20년 정규직 서울/경기 2026. 09. 28, 14:59까지 D -19 [SDx] IT PM - Robot MES 개발 총괄 PM SDx(스마트제조) Project Manager 경력 13년 이상 정규직 서울/경기 2026. 09. 28, 14:59까지 D -19 [EnIT] IT Architect - Application Architect Enterprise IT IT아키텍트/기획/품질 경력 10~20년 정규직 서울/경기 2026. 09. 28, 14:59까지 D -19 [EnIT] Backend Developer - 인증/계정플랫폼 개발 및 운영 Enterprise IT SW 개발 공통 경력 7~15년 정규직 서울/경기 2026. 09. 28, 14:59까지 D -19 [EnIT] Frontend Developer - 계정 시스템 프론트엔드 개발 및 운영 Enterprise IT SW 개발 공통 경력 5~15년 정규직 서울/경기 2026. 09. 28, 14:59까지 D -19 [Tech] RX 기술 리더(팀장) Core Tech(AI/DATA/Cloud/보안) Data/AI(인공지능) 경력 10년 이상 정규직 서울/경기 2026. 09. 28, 14:59까지 D -19 [Tech] Infra Security Engineer - 북미 기술 보안 주재원(네트웍",
+    "discoveredBy": "official_page",
+    "reason": "not_job_posting",
+    "checkedAt": "2026-09-09T09:36:00+09:00"
+  },
+  {
+    "company": "현대오토에버",
+    "url": "https://career.hyundai-autoever.com/ko/o/221287",
+    "title": "[SDx] Service Engineer - 스마트팩토리 시스템(스마트태그) 개발 및 운영 SDx(스마트제조) Service Engineer 경력 5년 이상 정규직 영남권역 2026. 09. 28, 14:59까지 D -19",
+    "snippet": "[Tech] Service Strategy - Robot 플랫폼 기술 기획 Core Tech(AI/DATA/Cloud/보안) Strategy 경력 10년 이상 정규직 서울/경기 2026. 09. 28, 14:59까지 D -19 [공통] Financial & Investment analysis - 투자분석 업무 공통/신사업/기타 경영기획/관리/지원 경력 3년 이상 정규직 서울/경기 2026. 09. 28, 14:59까지 D -19 [EnIT] Solution Developer - SAP ERP ABAP 개발 및 솔루션 기획 Enterprise IT 솔루션아키텍트/개발(ERP/CRM/MS 등) 경력 7~20년 정규직 서울/경기 2026. 09. 28, 14:59까지 D -19 [SDx] IT PM - Robot MES 개발 총괄 PM SDx(스마트제조) Project Manager 경력 13년 이상 정규직 서울/경기 2026. 09. 28, 14:59까지 D -19 [EnIT] IT Architect - Application Architect Enterprise IT IT아키텍트/기획/품질 경력 10~20년 정규직 서울/경기 2026. 09. 28, 14:59까지 D -19 [EnIT] Backend Developer - 인증/계정플랫폼 개발 및 운영 Enterprise IT SW 개발 공통 경력 7~15년 정규직 서울/경기 2026. 09. 28, 14:59까지 D -19 [EnIT] Frontend Developer - 계정 시스템 프론트엔드 개발 및 운영 Enterprise IT SW 개발 공통 경력 5~15년 정규직 서울/경기 2026. 09. 28, 14:59까지 D -19 [Tech] RX 기술 리더(팀장) Core Tech(AI/DATA/Cloud/보안) Data/AI(인공지능) 경력 10년 이상 정규직 서울/경기 2026. 09. 28, 14:59까지 D -19 [Tech] Infra Security Engineer - 북미 기술 보안 주재원(네트웍",
+    "discoveredBy": "official_page",
+    "reason": "not_job_posting",
+    "checkedAt": "2026-09-09T09:36:00+09:00"
+  },
+  {
+    "company": "현대오토에버",
+    "url": "https://career.hyundai-autoever.com/ko/o/220755",
+    "title": "[SDx] Backend Developer - Robot/Smart Factory SDx(스마트제조) Backend 개발 경력 3년 이상 정규직 서울/경기 2026. 09. 28, 14:59까지 D -19",
+    "snippet": "[Tech] Service Strategy - Robot 플랫폼 기술 기획 Core Tech(AI/DATA/Cloud/보안) Strategy 경력 10년 이상 정규직 서울/경기 2026. 09. 28, 14:59까지 D -19 [공통] Financial & Investment analysis - 투자분석 업무 공통/신사업/기타 경영기획/관리/지원 경력 3년 이상 정규직 서울/경기 2026. 09. 28, 14:59까지 D -19 [EnIT] Solution Developer - SAP ERP ABAP 개발 및 솔루션 기획 Enterprise IT 솔루션아키텍트/개발(ERP/CRM/MS 등) 경력 7~20년 정규직 서울/경기 2026. 09. 28, 14:59까지 D -19 [SDx] IT PM - Robot MES 개발 총괄 PM SDx(스마트제조) Project Manager 경력 13년 이상 정규직 서울/경기 2026. 09. 28, 14:59까지 D -19 [EnIT] IT Architect - Application Architect Enterprise IT IT아키텍트/기획/품질 경력 10~20년 정규직 서울/경기 2026. 09. 28, 14:59까지 D -19 [EnIT] Backend Developer - 인증/계정플랫폼 개발 및 운영 Enterprise IT SW 개발 공통 경력 7~15년 정규직 서울/경기 2026. 09. 28, 14:59까지 D -19 [EnIT] Frontend Developer - 계정 시스템 프론트엔드 개발 및 운영 Enterprise IT SW 개발 공통 경력 5~15년 정규직 서울/경기 2026. 09. 28, 14:59까지 D -19 [Tech] RX 기술 리더(팀장) Core Tech(AI/DATA/Cloud/보안) Data/AI(인공지능) 경력 10년 이상 정규직 서울/경기 2026. 09. 28, 14:59까지 D -19 [Tech] Infra Security Engineer - 북미 기술 보안 주재원(네트웍",
+    "discoveredBy": "official_page",
+    "reason": "not_job_posting",
+    "checkedAt": "2026-09-09T09:36:00+09:00"
+  },
+  {
+    "company": "현대오토에버",
+    "url": "https://career.hyundai-autoever.com/ko/o/220750",
+    "title": "[SDx] Frontend Developer - Robot/Smart Factory SDx(스마트제조) Frontend 개발 경력 3년 이상 정규직 서울/경기 2026. 09. 28, 14:59까지 D -19",
+    "snippet": "[Tech] Service Strategy - Robot 플랫폼 기술 기획 Core Tech(AI/DATA/Cloud/보안) Strategy 경력 10년 이상 정규직 서울/경기 2026. 09. 28, 14:59까지 D -19 [공통] Financial & Investment analysis - 투자분석 업무 공통/신사업/기타 경영기획/관리/지원 경력 3년 이상 정규직 서울/경기 2026. 09. 28, 14:59까지 D -19 [EnIT] Solution Developer - SAP ERP ABAP 개발 및 솔루션 기획 Enterprise IT 솔루션아키텍트/개발(ERP/CRM/MS 등) 경력 7~20년 정규직 서울/경기 2026. 09. 28, 14:59까지 D -19 [SDx] IT PM - Robot MES 개발 총괄 PM SDx(스마트제조) Project Manager 경력 13년 이상 정규직 서울/경기 2026. 09. 28, 14:59까지 D -19 [EnIT] IT Architect - Application Architect Enterprise IT IT아키텍트/기획/품질 경력 10~20년 정규직 서울/경기 2026. 09. 28, 14:59까지 D -19 [EnIT] Backend Developer - 인증/계정플랫폼 개발 및 운영 Enterprise IT SW 개발 공통 경력 7~15년 정규직 서울/경기 2026. 09. 28, 14:59까지 D -19 [EnIT] Frontend Developer - 계정 시스템 프론트엔드 개발 및 운영 Enterprise IT SW 개발 공통 경력 5~15년 정규직 서울/경기 2026. 09. 28, 14:59까지 D -19 [Tech] RX 기술 리더(팀장) Core Tech(AI/DATA/Cloud/보안) Data/AI(인공지능) 경력 10년 이상 정규직 서울/경기 2026. 09. 28, 14:59까지 D -19 [Tech] Infra Security Engineer - 북미 기술 보안 주재원(네트웍",
+    "discoveredBy": "official_page",
+    "reason": "not_job_posting",
+    "checkedAt": "2026-09-09T09:36:00+09:00"
+  },
+  {
+    "company": "현대오토에버",
+    "url": "https://career.hyundai-autoever.com/ko/o/220742",
+    "title": "[SDx] Platform Developer - Robot SDx(스마트제조) Platform Developer 경력 3년 이상 정규직 서울/경기 2026. 09. 28, 14:59까지 D -19",
+    "snippet": "[Tech] Service Strategy - Robot 플랫폼 기술 기획 Core Tech(AI/DATA/Cloud/보안) Strategy 경력 10년 이상 정규직 서울/경기 2026. 09. 28, 14:59까지 D -19 [공통] Financial & Investment analysis - 투자분석 업무 공통/신사업/기타 경영기획/관리/지원 경력 3년 이상 정규직 서울/경기 2026. 09. 28, 14:59까지 D -19 [EnIT] Solution Developer - SAP ERP ABAP 개발 및 솔루션 기획 Enterprise IT 솔루션아키텍트/개발(ERP/CRM/MS 등) 경력 7~20년 정규직 서울/경기 2026. 09. 28, 14:59까지 D -19 [SDx] IT PM - Robot MES 개발 총괄 PM SDx(스마트제조) Project Manager 경력 13년 이상 정규직 서울/경기 2026. 09. 28, 14:59까지 D -19 [EnIT] IT Architect - Application Architect Enterprise IT IT아키텍트/기획/품질 경력 10~20년 정규직 서울/경기 2026. 09. 28, 14:59까지 D -19 [EnIT] Backend Developer - 인증/계정플랫폼 개발 및 운영 Enterprise IT SW 개발 공통 경력 7~15년 정규직 서울/경기 2026. 09. 28, 14:59까지 D -19 [EnIT] Frontend Developer - 계정 시스템 프론트엔드 개발 및 운영 Enterprise IT SW 개발 공통 경력 5~15년 정규직 서울/경기 2026. 09. 28, 14:59까지 D -19 [Tech] RX 기술 리더(팀장) Core Tech(AI/DATA/Cloud/보안) Data/AI(인공지능) 경력 10년 이상 정규직 서울/경기 2026. 09. 28, 14:59까지 D -19 [Tech] Infra Security Engineer - 북미 기술 보안 주재원(네트웍",
+    "discoveredBy": "official_page",
+    "reason": "not_job_posting",
+    "checkedAt": "2026-09-09T09:36:00+09:00"
+  },
+  {
+    "company": "현대오토에버",
+    "url": "https://career.hyundai-autoever.com/ko/o/220505",
+    "title": "[공통] Service Strategy - 플랫폼 계정 서비스 PO 공통/신사업/기타 Strategy 경력 8~13년 정규직 서울/경기 2026. 09. 28, 14:59까지 D -19",
+    "snippet": "[Tech] Service Strategy - Robot 플랫폼 기술 기획 Core Tech(AI/DATA/Cloud/보안) Strategy 경력 10년 이상 정규직 서울/경기 2026. 09. 28, 14:59까지 D -19 [공통] Financial & Investment analysis - 투자분석 업무 공통/신사업/기타 경영기획/관리/지원 경력 3년 이상 정규직 서울/경기 2026. 09. 28, 14:59까지 D -19 [EnIT] Solution Developer - SAP ERP ABAP 개발 및 솔루션 기획 Enterprise IT 솔루션아키텍트/개발(ERP/CRM/MS 등) 경력 7~20년 정규직 서울/경기 2026. 09. 28, 14:59까지 D -19 [SDx] IT PM - Robot MES 개발 총괄 PM SDx(스마트제조) Project Manager 경력 13년 이상 정규직 서울/경기 2026. 09. 28, 14:59까지 D -19 [EnIT] IT Architect - Application Architect Enterprise IT IT아키텍트/기획/품질 경력 10~20년 정규직 서울/경기 2026. 09. 28, 14:59까지 D -19 [EnIT] Backend Developer - 인증/계정플랫폼 개발 및 운영 Enterprise IT SW 개발 공통 경력 7~15년 정규직 서울/경기 2026. 09. 28, 14:59까지 D -19 [EnIT] Frontend Developer - 계정 시스템 프론트엔드 개발 및 운영 Enterprise IT SW 개발 공통 경력 5~15년 정규직 서울/경기 2026. 09. 28, 14:59까지 D -19 [Tech] RX 기술 리더(팀장) Core Tech(AI/DATA/Cloud/보안) Data/AI(인공지능) 경력 10년 이상 정규직 서울/경기 2026. 09. 28, 14:59까지 D -19 [Tech] Infra Security Engineer - 북미 기술 보안 주재원(네트웍",
+    "discoveredBy": "official_page",
+    "reason": "not_job_posting",
+    "checkedAt": "2026-09-09T09:36:00+09:00"
+  },
+  {
+    "company": "현대오토에버",
+    "url": "https://career.hyundai-autoever.com/ko/o/219459",
+    "title": "[공통] Service Strategy - 플랫폼 계정 서비스 기획 공통/신사업/기타 서비스/사업 개발/운영/영업 경력 5년 이상 정규직 서울/경기 2026. 09. 28, 14:59까지 D -19",
+    "snippet": "[Tech] Service Strategy - Robot 플랫폼 기술 기획 Core Tech(AI/DATA/Cloud/보안) Strategy 경력 10년 이상 정규직 서울/경기 2026. 09. 28, 14:59까지 D -19 [공통] Financial & Investment analysis - 투자분석 업무 공통/신사업/기타 경영기획/관리/지원 경력 3년 이상 정규직 서울/경기 2026. 09. 28, 14:59까지 D -19 [EnIT] Solution Developer - SAP ERP ABAP 개발 및 솔루션 기획 Enterprise IT 솔루션아키텍트/개발(ERP/CRM/MS 등) 경력 7~20년 정규직 서울/경기 2026. 09. 28, 14:59까지 D -19 [SDx] IT PM - Robot MES 개발 총괄 PM SDx(스마트제조) Project Manager 경력 13년 이상 정규직 서울/경기 2026. 09. 28, 14:59까지 D -19 [EnIT] IT Architect - Application Architect Enterprise IT IT아키텍트/기획/품질 경력 10~20년 정규직 서울/경기 2026. 09. 28, 14:59까지 D -19 [EnIT] Backend Developer - 인증/계정플랫폼 개발 및 운영 Enterprise IT SW 개발 공통 경력 7~15년 정규직 서울/경기 2026. 09. 28, 14:59까지 D -19 [EnIT] Frontend Developer - 계정 시스템 프론트엔드 개발 및 운영 Enterprise IT SW 개발 공통 경력 5~15년 정규직 서울/경기 2026. 09. 28, 14:59까지 D -19 [Tech] RX 기술 리더(팀장) Core Tech(AI/DATA/Cloud/보안) Data/AI(인공지능) 경력 10년 이상 정규직 서울/경기 2026. 09. 28, 14:59까지 D -19 [Tech] Infra Security Engineer - 북미 기술 보안 주재원(네트웍",
+    "discoveredBy": "official_page",
+    "reason": "not_job_posting",
+    "checkedAt": "2026-09-09T09:36:00+09:00"
+  },
+  {
+    "company": "현대오토에버",
+    "url": "https://career.hyundai-autoever.com/ko/o/215441",
+    "title": "[Tech] Service Security Engineer - DAST 솔루션 운영 및 피싱 모의해킹 플랫폼 운영 Core Tech(AI/DATA/Cloud/보안) Security 경력 2년 이상 정규직 서울/경기 2026. 09. 28, 14:59까지 D -19",
+    "snippet": "[Tech] Service Strategy - Robot 플랫폼 기술 기획 Core Tech(AI/DATA/Cloud/보안) Strategy 경력 10년 이상 정규직 서울/경기 2026. 09. 28, 14:59까지 D -19 [공통] Financial & Investment analysis - 투자분석 업무 공통/신사업/기타 경영기획/관리/지원 경력 3년 이상 정규직 서울/경기 2026. 09. 28, 14:59까지 D -19 [EnIT] Solution Developer - SAP ERP ABAP 개발 및 솔루션 기획 Enterprise IT 솔루션아키텍트/개발(ERP/CRM/MS 등) 경력 7~20년 정규직 서울/경기 2026. 09. 28, 14:59까지 D -19 [SDx] IT PM - Robot MES 개발 총괄 PM SDx(스마트제조) Project Manager 경력 13년 이상 정규직 서울/경기 2026. 09. 28, 14:59까지 D -19 [EnIT] IT Architect - Application Architect Enterprise IT IT아키텍트/기획/품질 경력 10~20년 정규직 서울/경기 2026. 09. 28, 14:59까지 D -19 [EnIT] Backend Developer - 인증/계정플랫폼 개발 및 운영 Enterprise IT SW 개발 공통 경력 7~15년 정규직 서울/경기 2026. 09. 28, 14:59까지 D -19 [EnIT] Frontend Developer - 계정 시스템 프론트엔드 개발 및 운영 Enterprise IT SW 개발 공통 경력 5~15년 정규직 서울/경기 2026. 09. 28, 14:59까지 D -19 [Tech] RX 기술 리더(팀장) Core Tech(AI/DATA/Cloud/보안) Data/AI(인공지능) 경력 10년 이상 정규직 서울/경기 2026. 09. 28, 14:59까지 D -19 [Tech] Infra Security Engineer - 북미 기술 보안 주재원(네트웍",
+    "discoveredBy": "official_page",
+    "reason": "not_job_posting",
+    "checkedAt": "2026-09-09T09:36:00+09:00"
+  },
+  {
+    "company": "현대오토에버",
+    "url": "https://career.hyundai-autoever.com/ko/o/213899",
+    "title": "[EnIT] Solution Architect - SuccessFactors 구축 및 운영 Enterprise IT 솔루션아키텍트/개발(ERP/CRM/MS 등) 경력 6년 이상 정규직 서울/경기 2026. 09. 28, 14:59까지 D -19",
+    "snippet": "[Tech] Service Strategy - Robot 플랫폼 기술 기획 Core Tech(AI/DATA/Cloud/보안) Strategy 경력 10년 이상 정규직 서울/경기 2026. 09. 28, 14:59까지 D -19 [공통] Financial & Investment analysis - 투자분석 업무 공통/신사업/기타 경영기획/관리/지원 경력 3년 이상 정규직 서울/경기 2026. 09. 28, 14:59까지 D -19 [EnIT] Solution Developer - SAP ERP ABAP 개발 및 솔루션 기획 Enterprise IT 솔루션아키텍트/개발(ERP/CRM/MS 등) 경력 7~20년 정규직 서울/경기 2026. 09. 28, 14:59까지 D -19 [SDx] IT PM - Robot MES 개발 총괄 PM SDx(스마트제조) Project Manager 경력 13년 이상 정규직 서울/경기 2026. 09. 28, 14:59까지 D -19 [EnIT] IT Architect - Application Architect Enterprise IT IT아키텍트/기획/품질 경력 10~20년 정규직 서울/경기 2026. 09. 28, 14:59까지 D -19 [EnIT] Backend Developer - 인증/계정플랫폼 개발 및 운영 Enterprise IT SW 개발 공통 경력 7~15년 정규직 서울/경기 2026. 09. 28, 14:59까지 D -19 [EnIT] Frontend Developer - 계정 시스템 프론트엔드 개발 및 운영 Enterprise IT SW 개발 공통 경력 5~15년 정규직 서울/경기 2026. 09. 28, 14:59까지 D -19 [Tech] RX 기술 리더(팀장) Core Tech(AI/DATA/Cloud/보안) Data/AI(인공지능) 경력 10년 이상 정규직 서울/경기 2026. 09. 28, 14:59까지 D -19 [Tech] Infra Security Engineer - 북미 기술 보안 주재원(네트웍",
+    "discoveredBy": "official_page",
+    "reason": "not_job_posting",
+    "checkedAt": "2026-09-09T09:36:00+09:00"
+  },
+  {
+    "company": "현대오토에버",
+    "url": "https://career.hyundai-autoever.com/ko/o/213503",
+    "title": "[EnIT] Solution Architect - SAP ERP 컨설팅/운영 (SD, MM, PM) Enterprise IT 솔루션아키텍트/개발(ERP/CRM/MS 등) 경력 3년 이상 정규직 서울/경기 2026. 09. 28, 14:59까지 D -19",
+    "snippet": "[Tech] Service Strategy - Robot 플랫폼 기술 기획 Core Tech(AI/DATA/Cloud/보안) Strategy 경력 10년 이상 정규직 서울/경기 2026. 09. 28, 14:59까지 D -19 [공통] Financial & Investment analysis - 투자분석 업무 공통/신사업/기타 경영기획/관리/지원 경력 3년 이상 정규직 서울/경기 2026. 09. 28, 14:59까지 D -19 [EnIT] Solution Developer - SAP ERP ABAP 개발 및 솔루션 기획 Enterprise IT 솔루션아키텍트/개발(ERP/CRM/MS 등) 경력 7~20년 정규직 서울/경기 2026. 09. 28, 14:59까지 D -19 [SDx] IT PM - Robot MES 개발 총괄 PM SDx(스마트제조) Project Manager 경력 13년 이상 정규직 서울/경기 2026. 09. 28, 14:59까지 D -19 [EnIT] IT Architect - Application Architect Enterprise IT IT아키텍트/기획/품질 경력 10~20년 정규직 서울/경기 2026. 09. 28, 14:59까지 D -19 [EnIT] Backend Developer - 인증/계정플랫폼 개발 및 운영 Enterprise IT SW 개발 공통 경력 7~15년 정규직 서울/경기 2026. 09. 28, 14:59까지 D -19 [EnIT] Frontend Developer - 계정 시스템 프론트엔드 개발 및 운영 Enterprise IT SW 개발 공통 경력 5~15년 정규직 서울/경기 2026. 09. 28, 14:59까지 D -19 [Tech] RX 기술 리더(팀장) Core Tech(AI/DATA/Cloud/보안) Data/AI(인공지능) 경력 10년 이상 정규직 서울/경기 2026. 09. 28, 14:59까지 D -19 [Tech] Infra Security Engineer - 북미 기술 보안 주재원(네트웍",
+    "discoveredBy": "official_page",
+    "reason": "not_job_posting",
+    "checkedAt": "2026-09-09T09:36:00+09:00"
+  },
+  {
+    "company": "현대오토에버",
+    "url": "https://career.hyundai-autoever.com/ko/o/213305",
+    "title": "[Tech] Security Engineer - 모의 해킹 및 취약점 진단 Core Tech(AI/DATA/Cloud/보안) Security 경력 2년 이상 정규직 서울/경기 2026. 09. 28, 14:59까지 D -19",
+    "snippet": "[Tech] Service Strategy - Robot 플랫폼 기술 기획 Core Tech(AI/DATA/Cloud/보안) Strategy 경력 10년 이상 정규직 서울/경기 2026. 09. 28, 14:59까지 D -19 [공통] Financial & Investment analysis - 투자분석 업무 공통/신사업/기타 경영기획/관리/지원 경력 3년 이상 정규직 서울/경기 2026. 09. 28, 14:59까지 D -19 [EnIT] Solution Developer - SAP ERP ABAP 개발 및 솔루션 기획 Enterprise IT 솔루션아키텍트/개발(ERP/CRM/MS 등) 경력 7~20년 정규직 서울/경기 2026. 09. 28, 14:59까지 D -19 [SDx] IT PM - Robot MES 개발 총괄 PM SDx(스마트제조) Project Manager 경력 13년 이상 정규직 서울/경기 2026. 09. 28, 14:59까지 D -19 [EnIT] IT Architect - Application Architect Enterprise IT IT아키텍트/기획/품질 경력 10~20년 정규직 서울/경기 2026. 09. 28, 14:59까지 D -19 [EnIT] Backend Developer - 인증/계정플랫폼 개발 및 운영 Enterprise IT SW 개발 공통 경력 7~15년 정규직 서울/경기 2026. 09. 28, 14:59까지 D -19 [EnIT] Frontend Developer - 계정 시스템 프론트엔드 개발 및 운영 Enterprise IT SW 개발 공통 경력 5~15년 정규직 서울/경기 2026. 09. 28, 14:59까지 D -19 [Tech] RX 기술 리더(팀장) Core Tech(AI/DATA/Cloud/보안) Data/AI(인공지능) 경력 10년 이상 정규직 서울/경기 2026. 09. 28, 14:59까지 D -19 [Tech] Infra Security Engineer - 북미 기술 보안 주재원(네트웍",
+    "discoveredBy": "official_page",
+    "reason": "not_job_posting",
+    "checkedAt": "2026-09-09T09:36:00+09:00"
+  },
+  {
+    "company": "현대오토에버",
+    "url": "https://career.hyundai-autoever.com/ko/o/210927",
+    "title": "[EnIT] Solution Developer - Salesforce CRM 시스템 개발/운영 Enterprise IT 솔루션아키텍트/개발(ERP/CRM/MS 등) 경력 3년 이상 정규직 서울/경기 2026. 09. 28, 14:59까지 D -19",
+    "snippet": "[Tech] Service Strategy - Robot 플랫폼 기술 기획 Core Tech(AI/DATA/Cloud/보안) Strategy 경력 10년 이상 정규직 서울/경기 2026. 09. 28, 14:59까지 D -19 [공통] Financial & Investment analysis - 투자분석 업무 공통/신사업/기타 경영기획/관리/지원 경력 3년 이상 정규직 서울/경기 2026. 09. 28, 14:59까지 D -19 [EnIT] Solution Developer - SAP ERP ABAP 개발 및 솔루션 기획 Enterprise IT 솔루션아키텍트/개발(ERP/CRM/MS 등) 경력 7~20년 정규직 서울/경기 2026. 09. 28, 14:59까지 D -19 [SDx] IT PM - Robot MES 개발 총괄 PM SDx(스마트제조) Project Manager 경력 13년 이상 정규직 서울/경기 2026. 09. 28, 14:59까지 D -19 [EnIT] IT Architect - Application Architect Enterprise IT IT아키텍트/기획/품질 경력 10~20년 정규직 서울/경기 2026. 09. 28, 14:59까지 D -19 [EnIT] Backend Developer - 인증/계정플랫폼 개발 및 운영 Enterprise IT SW 개발 공통 경력 7~15년 정규직 서울/경기 2026. 09. 28, 14:59까지 D -19 [EnIT] Frontend Developer - 계정 시스템 프론트엔드 개발 및 운영 Enterprise IT SW 개발 공통 경력 5~15년 정규직 서울/경기 2026. 09. 28, 14:59까지 D -19 [Tech] RX 기술 리더(팀장) Core Tech(AI/DATA/Cloud/보안) Data/AI(인공지능) 경력 10년 이상 정규직 서울/경기 2026. 09. 28, 14:59까지 D -19 [Tech] Infra Security Engineer - 북미 기술 보안 주재원(네트웍",
+    "discoveredBy": "official_page",
+    "reason": "not_job_posting",
+    "checkedAt": "2026-09-09T09:36:00+09:00"
+  },
+  {
+    "company": "현대오토에버",
+    "url": "https://career.hyundai-autoever.com/ko/o/210281",
+    "title": "[EnIT] Service Engineer - AD 운영 및 아키텍처 설계 Enterprise IT IT시스템 BA/운영/개발 경력 5년 이상 정규직 서울/경기 2026. 09. 28, 14:59까지 D -19",
+    "snippet": "[Tech] Service Strategy - Robot 플랫폼 기술 기획 Core Tech(AI/DATA/Cloud/보안) Strategy 경력 10년 이상 정규직 서울/경기 2026. 09. 28, 14:59까지 D -19 [공통] Financial & Investment analysis - 투자분석 업무 공통/신사업/기타 경영기획/관리/지원 경력 3년 이상 정규직 서울/경기 2026. 09. 28, 14:59까지 D -19 [EnIT] Solution Developer - SAP ERP ABAP 개발 및 솔루션 기획 Enterprise IT 솔루션아키텍트/개발(ERP/CRM/MS 등) 경력 7~20년 정규직 서울/경기 2026. 09. 28, 14:59까지 D -19 [SDx] IT PM - Robot MES 개발 총괄 PM SDx(스마트제조) Project Manager 경력 13년 이상 정규직 서울/경기 2026. 09. 28, 14:59까지 D -19 [EnIT] IT Architect - Application Architect Enterprise IT IT아키텍트/기획/품질 경력 10~20년 정규직 서울/경기 2026. 09. 28, 14:59까지 D -19 [EnIT] Backend Developer - 인증/계정플랫폼 개발 및 운영 Enterprise IT SW 개발 공통 경력 7~15년 정규직 서울/경기 2026. 09. 28, 14:59까지 D -19 [EnIT] Frontend Developer - 계정 시스템 프론트엔드 개발 및 운영 Enterprise IT SW 개발 공통 경력 5~15년 정규직 서울/경기 2026. 09. 28, 14:59까지 D -19 [Tech] RX 기술 리더(팀장) Core Tech(AI/DATA/Cloud/보안) Data/AI(인공지능) 경력 10년 이상 정규직 서울/경기 2026. 09. 28, 14:59까지 D -19 [Tech] Infra Security Engineer - 북미 기술 보안 주재원(네트웍",
+    "discoveredBy": "official_page",
+    "reason": "not_job_posting",
+    "checkedAt": "2026-09-09T09:36:00+09:00"
+  },
+  {
+    "company": "현대오토에버",
+    "url": "https://career.hyundai-autoever.com/ko/o/210274",
+    "title": "[Tech] AI Engineer - AI Researcher Core Tech(AI/DATA/Cloud/보안) Data/AI(인공지능) 경력 5년 이상 정규직 서울/경기 2026. 09. 28, 14:59까지 D -19",
+    "snippet": "[Tech] Service Strategy - Robot 플랫폼 기술 기획 Core Tech(AI/DATA/Cloud/보안) Strategy 경력 10년 이상 정규직 서울/경기 2026. 09. 28, 14:59까지 D -19 [공통] Financial & Investment analysis - 투자분석 업무 공통/신사업/기타 경영기획/관리/지원 경력 3년 이상 정규직 서울/경기 2026. 09. 28, 14:59까지 D -19 [EnIT] Solution Developer - SAP ERP ABAP 개발 및 솔루션 기획 Enterprise IT 솔루션아키텍트/개발(ERP/CRM/MS 등) 경력 7~20년 정규직 서울/경기 2026. 09. 28, 14:59까지 D -19 [SDx] IT PM - Robot MES 개발 총괄 PM SDx(스마트제조) Project Manager 경력 13년 이상 정규직 서울/경기 2026. 09. 28, 14:59까지 D -19 [EnIT] IT Architect - Application Architect Enterprise IT IT아키텍트/기획/품질 경력 10~20년 정규직 서울/경기 2026. 09. 28, 14:59까지 D -19 [EnIT] Backend Developer - 인증/계정플랫폼 개발 및 운영 Enterprise IT SW 개발 공통 경력 7~15년 정규직 서울/경기 2026. 09. 28, 14:59까지 D -19 [EnIT] Frontend Developer - 계정 시스템 프론트엔드 개발 및 운영 Enterprise IT SW 개발 공통 경력 5~15년 정규직 서울/경기 2026. 09. 28, 14:59까지 D -19 [Tech] RX 기술 리더(팀장) Core Tech(AI/DATA/Cloud/보안) Data/AI(인공지능) 경력 10년 이상 정규직 서울/경기 2026. 09. 28, 14:59까지 D -19 [Tech] Infra Security Engineer - 북미 기술 보안 주재원(네트웍",
+    "discoveredBy": "official_page",
+    "reason": "not_job_posting",
+    "checkedAt": "2026-09-09T09:36:00+09:00"
+  },
+  {
+    "company": "현대오토에버",
+    "url": "https://career.hyundai-autoever.com/ko/o/210269",
+    "title": "[Tech] AI Engineer - AI Agent 엔지니어 Core Tech(AI/DATA/Cloud/보안) Data/AI(인공지능) 경력 5년 이상 정규직 서울/경기 2026. 09. 28, 14:59까지 D -19",
+    "snippet": "[Tech] Service Strategy - Robot 플랫폼 기술 기획 Core Tech(AI/DATA/Cloud/보안) Strategy 경력 10년 이상 정규직 서울/경기 2026. 09. 28, 14:59까지 D -19 [공통] Financial & Investment analysis - 투자분석 업무 공통/신사업/기타 경영기획/관리/지원 경력 3년 이상 정규직 서울/경기 2026. 09. 28, 14:59까지 D -19 [EnIT] Solution Developer - SAP ERP ABAP 개발 및 솔루션 기획 Enterprise IT 솔루션아키텍트/개발(ERP/CRM/MS 등) 경력 7~20년 정규직 서울/경기 2026. 09. 28, 14:59까지 D -19 [SDx] IT PM - Robot MES 개발 총괄 PM SDx(스마트제조) Project Manager 경력 13년 이상 정규직 서울/경기 2026. 09. 28, 14:59까지 D -19 [EnIT] IT Architect - Application Architect Enterprise IT IT아키텍트/기획/품질 경력 10~20년 정규직 서울/경기 2026. 09. 28, 14:59까지 D -19 [EnIT] Backend Developer - 인증/계정플랫폼 개발 및 운영 Enterprise IT SW 개발 공통 경력 7~15년 정규직 서울/경기 2026. 09. 28, 14:59까지 D -19 [EnIT] Frontend Developer - 계정 시스템 프론트엔드 개발 및 운영 Enterprise IT SW 개발 공통 경력 5~15년 정규직 서울/경기 2026. 09. 28, 14:59까지 D -19 [Tech] RX 기술 리더(팀장) Core Tech(AI/DATA/Cloud/보안) Data/AI(인공지능) 경력 10년 이상 정규직 서울/경기 2026. 09. 28, 14:59까지 D -19 [Tech] Infra Security Engineer - 북미 기술 보안 주재원(네트웍",
+    "discoveredBy": "official_page",
+    "reason": "not_job_posting",
+    "checkedAt": "2026-09-09T09:36:00+09:00"
+  },
+  {
+    "company": "현대오토에버",
+    "url": "https://career.hyundai-autoever.com/ko/o/210263",
+    "title": "[Tech] AI Engineer - LLM 엔지니어 Core Tech(AI/DATA/Cloud/보안) Data/AI(인공지능) 경력 5년 이상 정규직 서울/경기 2026. 09. 28, 14:59까지 D -19",
+    "snippet": "[Tech] Service Strategy - Robot 플랫폼 기술 기획 Core Tech(AI/DATA/Cloud/보안) Strategy 경력 10년 이상 정규직 서울/경기 2026. 09. 28, 14:59까지 D -19 [공통] Financial & Investment analysis - 투자분석 업무 공통/신사업/기타 경영기획/관리/지원 경력 3년 이상 정규직 서울/경기 2026. 09. 28, 14:59까지 D -19 [EnIT] Solution Developer - SAP ERP ABAP 개발 및 솔루션 기획 Enterprise IT 솔루션아키텍트/개발(ERP/CRM/MS 등) 경력 7~20년 정규직 서울/경기 2026. 09. 28, 14:59까지 D -19 [SDx] IT PM - Robot MES 개발 총괄 PM SDx(스마트제조) Project Manager 경력 13년 이상 정규직 서울/경기 2026. 09. 28, 14:59까지 D -19 [EnIT] IT Architect - Application Architect Enterprise IT IT아키텍트/기획/품질 경력 10~20년 정규직 서울/경기 2026. 09. 28, 14:59까지 D -19 [EnIT] Backend Developer - 인증/계정플랫폼 개발 및 운영 Enterprise IT SW 개발 공통 경력 7~15년 정규직 서울/경기 2026. 09. 28, 14:59까지 D -19 [EnIT] Frontend Developer - 계정 시스템 프론트엔드 개발 및 운영 Enterprise IT SW 개발 공통 경력 5~15년 정규직 서울/경기 2026. 09. 28, 14:59까지 D -19 [Tech] RX 기술 리더(팀장) Core Tech(AI/DATA/Cloud/보안) Data/AI(인공지능) 경력 10년 이상 정규직 서울/경기 2026. 09. 28, 14:59까지 D -19 [Tech] Infra Security Engineer - 북미 기술 보안 주재원(네트웍",
+    "discoveredBy": "official_page",
+    "reason": "not_job_posting",
+    "checkedAt": "2026-09-09T09:36:00+09:00"
+  },
+  {
+    "company": "현대오토에버",
+    "url": "https://career.hyundai-autoever.com/apply",
+    "title": "apply",
+    "snippet": "",
+    "discoveredBy": "sitemap",
+    "reason": "not_job_posting",
+    "checkedAt": "2026-09-09T09:36:00+09:00"
+  },
+  {
+    "company": "현대오토에버",
+    "url": "https://career.hyundai-autoever.com/2026newrecruit3q",
+    "title": "2026newrecruit3q",
+    "snippet": "",
+    "discoveredBy": "sitemap",
+    "reason": "not_job_posting",
+    "checkedAt": "2026-09-09T09:36:00+09:00"
+  },
+  {
+    "company": "현대모비스",
+    "url": "https://careers.mobis.com/jobs",
+    "title": "jobs",
+    "snippet": "",
+    "discoveredBy": "sitemap",
+    "reason": "not_job_posting",
+    "checkedAt": "2026-09-09T09:36:00+09:00"
+  },
+  {
+    "company": "현대모비스",
+    "url": "https://careers.mobis.com/people",
+    "title": "추천 직무 인터뷰 더보기",
+    "snippet": "/ 이전 슬라이드 이동 다음 슬라이드 이동 추천 직무 인터뷰 더보기",
+    "discoveredBy": "official_page",
+    "reason": "not_job_posting",
+    "checkedAt": "2026-09-09T09:36:00+09:00"
+  },
+  {
+    "company": "현대캐피탈",
+    "url": "https://career.hyundaicapital.com/job_posting/1pThhRNR",
+    "title": "1pThhRNR",
+    "snippet": "",
+    "discoveredBy": "sitemap",
+    "reason": "not_job_posting",
+    "checkedAt": "2026-09-09T09:36:00+09:00"
+  },
+  {
+    "company": "현대캐피탈",
+    "url": "https://career.hyundaicapital.com/job_posting/Cr4ESoog",
+    "title": "Cr4ESoog",
+    "snippet": "",
+    "discoveredBy": "sitemap",
+    "reason": "not_job_posting",
+    "checkedAt": "2026-09-09T09:36:00+09:00"
+  },
+  {
+    "company": "현대캐피탈",
+    "url": "https://career.hyundaicapital.com/job_posting/LpYP9N9z",
+    "title": "LpYP9N9z",
+    "snippet": "",
+    "discoveredBy": "sitemap",
+    "reason": "not_job_posting",
+    "checkedAt": "2026-09-09T09:36:00+09:00"
+  },
+  {
+    "company": "현대캐피탈",
+    "url": "https://career.hyundaicapital.com/job_posting/NCCCrVap",
+    "title": "NCCCrVap",
+    "snippet": "",
+    "discoveredBy": "sitemap",
+    "reason": "not_job_posting",
+    "checkedAt": "2026-09-09T09:36:00+09:00"
+  },
+  {
+    "company": "현대캐피탈",
+    "url": "https://career.hyundaicapital.com/job_posting/Vz90fsw5",
+    "title": "Vz90fsw5",
+    "snippet": "",
+    "discoveredBy": "sitemap",
+    "reason": "not_job_posting",
+    "checkedAt": "2026-09-09T09:36:00+09:00"
+  },
+  {
+    "company": "현대캐피탈",
+    "url": "https://career.hyundaicapital.com/job_posting/XuPQeYJn",
+    "title": "XuPQeYJn",
+    "snippet": "",
+    "discoveredBy": "sitemap",
+    "reason": "not_job_posting",
+    "checkedAt": "2026-09-09T09:36:00+09:00"
+  },
+  {
+    "company": "현대캐피탈",
+    "url": "https://career.hyundaicapital.com/job_posting/ZQvGAxKA",
+    "title": "ZQvGAxKA",
+    "snippet": "",
+    "discoveredBy": "sitemap",
+    "reason": "not_job_posting",
+    "checkedAt": "2026-09-09T09:36:00+09:00"
+  },
+  {
+    "company": "롯데이노베이트",
+    "url": "https://recruit.lotte.co.kr/apply/announcement/detail/21933913?compcd=10001",
+    "title": "롯데웰푸드 2026년도 08월 롯데웰푸드 디지털마케팅 경력채용 2026.08.26 ~ 2026.09.08 마감",
+    "snippet": "롯데웰푸드 2026년도 08월 롯데웰푸드 디지털마케팅 경력채용 2026.08.26 ~ 2026.09.08 마감",
+    "discoveredBy": "official_page",
+    "reason": "career_only",
+    "checkedAt": "2026-09-09T09:36:00+09:00"
+  },
+  {
+    "company": "롯데이노베이트",
+    "url": "https://recruit.lotte.co.kr/apply/announcement/detail/21935414?compcd=40015",
+    "title": "롯데마트ㆍ롯데슈퍼 2026년 8월 롯데마트·롯데슈퍼 e광고/CRM 경력사원 채용 2026.08.24 ~ 2026.09.08 마감",
+    "snippet": "롯데마트ㆍ롯데슈퍼 2026년 8월 롯데마트·롯데슈퍼 e광고/CRM 경력사원 채용 2026.08.24 ~ 2026.09.08 마감",
+    "discoveredBy": "official_page",
+    "reason": "career_only",
+    "checkedAt": "2026-09-09T09:36:00+09:00"
+  },
+  {
+    "company": "롯데이노베이트",
+    "url": "https://recruit.lotte.co.kr/apply/announcement/detail/21935414?compcd=?id=bookmark10026",
+    "title": "2026년 8월 롯데마트·롯데슈퍼 e광고/CRM 경력사원 채용",
+    "snippet": "2026년 8월 롯데마트·롯데슈퍼 e광고/CRM 경력사원 채용",
+    "discoveredBy": "official_page",
+    "reason": "career_only",
+    "checkedAt": "2026-09-09T09:36:00+09:00"
+  },
+  {
+    "company": "롯데이노베이트",
+    "url": "https://recruit.lotte.co.kr/apply/announcement/detail/21933913?compcd=?id=bookmark10028",
+    "title": "2026년도 08월 롯데웰푸드 디지털마케팅 경력채용",
+    "snippet": "2026년도 08월 롯데웰푸드 디지털마케팅 경력채용",
+    "discoveredBy": "official_page",
+    "reason": "career_only",
+    "checkedAt": "2026-09-09T09:36:00+09:00"
+  },
+  {
+    "company": "롯데쇼핑",
+    "url": "https://recruit.lotte.co.kr/apply/announcement/detail/21933913?compcd=10001",
+    "title": "롯데웰푸드 2026년도 08월 롯데웰푸드 디지털마케팅 경력채용 2026.08.26 ~ 2026.09.08 마감",
+    "snippet": "롯데웰푸드 2026년도 08월 롯데웰푸드 디지털마케팅 경력채용 2026.08.26 ~ 2026.09.08 마감",
+    "discoveredBy": "official_page",
+    "reason": "career_only",
+    "checkedAt": "2026-09-09T09:36:00+09:00"
+  },
+  {
+    "company": "롯데쇼핑",
+    "url": "https://recruit.lotte.co.kr/apply/announcement/detail/21935414?compcd=40015",
+    "title": "롯데마트ㆍ롯데슈퍼 2026년 8월 롯데마트·롯데슈퍼 e광고/CRM 경력사원 채용 2026.08.24 ~ 2026.09.08 마감",
+    "snippet": "롯데마트ㆍ롯데슈퍼 2026년 8월 롯데마트·롯데슈퍼 e광고/CRM 경력사원 채용 2026.08.24 ~ 2026.09.08 마감",
+    "discoveredBy": "official_page",
+    "reason": "career_only",
+    "checkedAt": "2026-09-09T09:36:00+09:00"
+  },
+  {
+    "company": "롯데쇼핑",
+    "url": "https://recruit.lotte.co.kr/apply/announcement/detail/21935414?compcd=?id=bookmark10026",
+    "title": "2026년 8월 롯데마트·롯데슈퍼 e광고/CRM 경력사원 채용",
+    "snippet": "2026년 8월 롯데마트·롯데슈퍼 e광고/CRM 경력사원 채용",
+    "discoveredBy": "official_page",
+    "reason": "career_only",
+    "checkedAt": "2026-09-09T09:36:00+09:00"
+  },
+  {
+    "company": "롯데쇼핑",
+    "url": "https://recruit.lotte.co.kr/apply/announcement/detail/21933913?compcd=?id=bookmark10028",
+    "title": "2026년도 08월 롯데웰푸드 디지털마케팅 경력채용",
+    "snippet": "2026년도 08월 롯데웰푸드 디지털마케팅 경력채용",
+    "discoveredBy": "official_page",
+    "reason": "career_only",
+    "checkedAt": "2026-09-09T09:36:00+09:00"
+  },
+  {
+    "company": "롯데카드",
+    "url": "https://recruit.lotte.co.kr/apply/announcement/detail/21933913?compcd=10001",
+    "title": "롯데웰푸드 2026년도 08월 롯데웰푸드 디지털마케팅 경력채용 2026.08.26 ~ 2026.09.08 마감",
+    "snippet": "롯데웰푸드 2026년도 08월 롯데웰푸드 디지털마케팅 경력채용 2026.08.26 ~ 2026.09.08 마감",
+    "discoveredBy": "official_page",
+    "reason": "career_only",
+    "checkedAt": "2026-09-09T09:36:00+09:00"
+  },
+  {
+    "company": "롯데카드",
+    "url": "https://recruit.lotte.co.kr/apply/announcement/detail/21935414?compcd=40015",
+    "title": "롯데마트ㆍ롯데슈퍼 2026년 8월 롯데마트·롯데슈퍼 e광고/CRM 경력사원 채용 2026.08.24 ~ 2026.09.08 마감",
+    "snippet": "롯데마트ㆍ롯데슈퍼 2026년 8월 롯데마트·롯데슈퍼 e광고/CRM 경력사원 채용 2026.08.24 ~ 2026.09.08 마감",
+    "discoveredBy": "official_page",
+    "reason": "career_only",
+    "checkedAt": "2026-09-09T09:36:00+09:00"
+  },
+  {
+    "company": "롯데카드",
+    "url": "https://recruit.lotte.co.kr/apply/announcement/detail/21935414?compcd=?id=bookmark10026",
+    "title": "2026년 8월 롯데마트·롯데슈퍼 e광고/CRM 경력사원 채용",
+    "snippet": "2026년 8월 롯데마트·롯데슈퍼 e광고/CRM 경력사원 채용",
+    "discoveredBy": "official_page",
+    "reason": "career_only",
+    "checkedAt": "2026-09-09T09:36:00+09:00"
+  },
+  {
+    "company": "롯데카드",
+    "url": "https://recruit.lotte.co.kr/apply/announcement/detail/21933913?compcd=?id=bookmark10028",
+    "title": "2026년도 08월 롯데웰푸드 디지털마케팅 경력채용",
+    "snippet": "2026년도 08월 롯데웰푸드 디지털마케팅 경력채용",
+    "discoveredBy": "official_page",
+    "reason": "career_only",
+    "checkedAt": "2026-09-09T09:36:00+09:00"
+  },
+  {
+    "company": "롯데e커머스",
+    "url": "https://recruit.lotte.co.kr/apply/announcement/detail/21933913?compcd=10001",
+    "title": "롯데웰푸드 2026년도 08월 롯데웰푸드 디지털마케팅 경력채용 2026.08.26 ~ 2026.09.08 마감",
+    "snippet": "롯데웰푸드 2026년도 08월 롯데웰푸드 디지털마케팅 경력채용 2026.08.26 ~ 2026.09.08 마감",
+    "discoveredBy": "official_page",
+    "reason": "career_only",
+    "checkedAt": "2026-09-09T09:36:00+09:00"
+  },
+  {
+    "company": "롯데e커머스",
+    "url": "https://recruit.lotte.co.kr/apply/announcement/detail/21935414?compcd=40015",
+    "title": "롯데마트ㆍ롯데슈퍼 2026년 8월 롯데마트·롯데슈퍼 e광고/CRM 경력사원 채용 2026.08.24 ~ 2026.09.08 마감",
+    "snippet": "롯데마트ㆍ롯데슈퍼 2026년 8월 롯데마트·롯데슈퍼 e광고/CRM 경력사원 채용 2026.08.24 ~ 2026.09.08 마감",
+    "discoveredBy": "official_page",
+    "reason": "career_only",
+    "checkedAt": "2026-09-09T09:36:00+09:00"
+  },
+  {
+    "company": "롯데e커머스",
+    "url": "https://recruit.lotte.co.kr/apply/announcement/detail/21935414?compcd=?id=bookmark10026",
+    "title": "2026년 8월 롯데마트·롯데슈퍼 e광고/CRM 경력사원 채용",
+    "snippet": "2026년 8월 롯데마트·롯데슈퍼 e광고/CRM 경력사원 채용",
+    "discoveredBy": "official_page",
+    "reason": "career_only",
+    "checkedAt": "2026-09-09T09:36:00+09:00"
+  },
+  {
+    "company": "롯데e커머스",
+    "url": "https://recruit.lotte.co.kr/apply/announcement/detail/21933913?compcd=?id=bookmark10028",
+    "title": "2026년도 08월 롯데웰푸드 디지털마케팅 경력채용",
+    "snippet": "2026년도 08월 롯데웰푸드 디지털마케팅 경력채용",
+    "discoveredBy": "official_page",
+    "reason": "career_only",
+    "checkedAt": "2026-09-09T09:36:00+09:00"
+  },
+  {
+    "company": "NAVER",
+    "url": "https://recruit.navercorp.com/rcrt/view.do?annoId=30005357",
+    "title": "[네이버웹툰] 창작자 백엔드 시스템 정책/통제 (계약직)",
+    "snippet": "NAVER WEBTOON Corporate Risk Management 계약 2026.08.27 10:00:00 2026.09.13 23:59:00",
+    "discoveredBy": "official_api",
+    "reason": "eligibility_unconfirmed",
+    "checkedAt": "2026-09-09T09:36:00+09:00"
+  },
+  {
+    "company": "NAVER",
+    "url": "https://recruit.navercorp.com/rcrt/view.do?annoId=30005381",
+    "title": "[네이버랩스] Robot System Software Engineer",
+    "snippet": "NAVER LABS Tech 공통 정규 2026.09.02 14:00:00 2026.09.15 23:59:00",
+    "discoveredBy": "official_api",
+    "reason": "eligibility_unconfirmed",
+    "checkedAt": "2026-09-09T09:36:00+09:00"
+  },
+  {
+    "company": "NAVER",
+    "url": "https://recruit.navercorp.com/rcrt/view.do?annoId=30005408",
+    "title": "[네이버웹툰] Data Product Engineer (경력)",
+    "snippet": "NAVER WEBTOON Tech Data Engineering 정규 2026.09.07 10:00:00 2026.09.27 23:59:00",
+    "discoveredBy": "official_api",
+    "reason": "career_only",
+    "checkedAt": "2026-09-09T09:36:00+09:00"
   }
 ]
