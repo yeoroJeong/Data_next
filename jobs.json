@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-10T13:45:58+09:00",
+  "updatedAt": "2026-09-10T22:37:40+09:00",
   "jobs": [
     {
       "id": "a4ac1bd9f587fc81",
@@ -34,7 +34,7 @@
       "source": "삼성전자 DX부문 공식 채용",
       "initial": "DX",
       "color": "blue",
-      "verifiedAt": "2026-09-10T13:45+09:00"
+      "verifiedAt": "2026-09-10T22:37+09:00"
     },
     {
       "id": "7616dc79cdf837a6",
@@ -51,7 +51,7 @@
       "source": "삼성전자 DX부문 공식 채용",
       "initial": "DX",
       "color": "blue",
-      "verifiedAt": "2026-09-10T13:45+09:00"
+      "verifiedAt": "2026-09-10T22:37+09:00"
     },
     {
       "id": "cb014721a5dc34e9",
@@ -68,7 +68,7 @@
       "source": "삼성전자 DS부문 공식 채용",
       "initial": "DS",
       "color": "blue",
-      "verifiedAt": "2026-09-10T13:45+09:00"
+      "verifiedAt": "2026-09-10T22:37+09:00"
     },
     {
       "id": "93091a4a252fa0ff",
@@ -85,7 +85,7 @@
       "source": "삼성전자 DS부문 공식 채용",
       "initial": "DS",
       "color": "blue",
-      "verifiedAt": "2026-09-10T13:45+09:00"
+      "verifiedAt": "2026-09-10T22:37+09:00"
     },
     {
       "id": "7f8bb3cfc61723dc",
@@ -102,7 +102,7 @@
       "source": "삼성SDS 공식 채용",
       "initial": "SD",
       "color": "green",
-      "verifiedAt": "2026-09-10T13:45+09:00"
+      "verifiedAt": "2026-09-10T22:37+09:00"
     },
     {
       "id": "fa3c90e257b00bb5",
@@ -119,7 +119,7 @@
       "source": "삼성SDS 공식 채용",
       "initial": "SD",
       "color": "green",
-      "verifiedAt": "2026-09-10T13:45+09:00"
+      "verifiedAt": "2026-09-10T22:37+09:00"
     },
     {
       "id": "132c65c4a39777b1",
@@ -136,7 +136,7 @@
       "source": "삼성디스플레이 공식 채용",
       "initial": "삼성",
       "color": "blue",
-      "verifiedAt": "2026-09-10T13:45+09:00"
+      "verifiedAt": "2026-09-10T22:37+09:00"
     },
     {
       "id": "9a8bf4325d2d6ee3",
@@ -153,7 +153,7 @@
       "source": "삼성SDI 공식 채용",
       "initial": "SD",
       "color": "blue",
-      "verifiedAt": "2026-09-10T13:45+09:00"
+      "verifiedAt": "2026-09-10T22:37+09:00"
     },
     {
       "id": "c8e1a6831e491aa6",
@@ -170,7 +170,7 @@
       "source": "삼성전기 공식 채용",
       "initial": "삼성",
       "color": "orange",
-      "verifiedAt": "2026-09-10T13:45+09:00"
+      "verifiedAt": "2026-09-10T22:37+09:00"
     },
     {
       "id": "103cce9544cb2bfb",
@@ -187,7 +187,7 @@
       "source": "삼성생명 공식 채용",
       "initial": "삼성",
       "color": "green",
-      "verifiedAt": "2026-09-10T13:45+09:00"
+      "verifiedAt": "2026-09-10T22:37+09:00"
     },
     {
       "id": "61b84b1f321747a4",
@@ -204,7 +204,7 @@
       "source": "삼성화재 공식 채용",
       "initial": "삼성",
       "color": "orange",
-      "verifiedAt": "2026-09-10T13:45+09:00"
+      "verifiedAt": "2026-09-10T22:37+09:00"
     },
     {
       "id": "513d8d484f69f9a9",
@@ -221,7 +221,7 @@
       "source": "삼성카드 공식 채용",
       "initial": "삼성",
       "color": "blue",
-      "verifiedAt": "2026-09-10T13:45+09:00"
+      "verifiedAt": "2026-09-10T22:37+09:00"
     },
     {
       "id": "85256c962626a6d9",
@@ -238,7 +238,7 @@
       "source": "삼성증권 공식 채용",
       "initial": "삼성",
       "color": "orange",
-      "verifiedAt": "2026-09-10T13:45+09:00"
+      "verifiedAt": "2026-09-10T22:37+09:00"
     },
     {
       "id": "12a9f3116255d2f0",
@@ -255,7 +255,7 @@
       "source": "삼성물산 건설부문 공식 채용",
       "initial": "삼성",
       "color": "green",
-      "verifiedAt": "2026-09-10T13:45+09:00"
+      "verifiedAt": "2026-09-10T22:37+09:00"
     },
     {
       "id": "4a457bbe42efb71f",
@@ -272,7 +272,7 @@
       "source": "롯데이노베이트 공식 채용",
       "initial": "롯데",
       "color": "blue",
-      "verifiedAt": "2026-09-10T13:45+09:00"
+      "verifiedAt": "2026-09-10T22:37+09:00"
     },
     {
       "id": "9e94712da7b7b301",
@@ -289,7 +289,7 @@
       "source": "카카오 공식 채용",
       "initial": "카카",
       "color": "green",
-      "verifiedAt": "2026-09-10T13:45+09:00"
+      "verifiedAt": "2026-09-10T22:37+09:00"
     }
   ]
 }

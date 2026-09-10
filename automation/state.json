@@ -1,5 +1,5 @@
 {
-  "lastRunAt": "2026-09-10T13:45:58+09:00",
+  "lastRunAt": "2026-09-10T22:37:40+09:00",
   "companies": {
     "삼성전자": {
       "discovered": 22,
@@ -252,61 +252,71 @@
       "discovered": 0,
       "verified": 0,
       "sources": {},
-      "errors": []
+      "errors": [
+        "official_page:ConnectTimeout"
+      ]
     },
     "한화시스템": {
       "discovered": 0,
       "verified": 0,
       "sources": {},
-      "errors": []
+      "errors": [
+        "official_page:ConnectTimeout"
+      ]
     },
     "한화에어로스페이스": {
       "discovered": 0,
       "verified": 0,
       "sources": {},
-      "errors": []
+      "errors": [
+        "official_page:ConnectTimeout"
+      ]
     },
     "한화손해보험": {
       "discovered": 0,
       "verified": 0,
       "sources": {},
-      "errors": []
+      "errors": [
+        "official_page:ConnectTimeout"
+      ]
     },
     "한화비전": {
       "discovered": 0,
       "verified": 0,
       "sources": {},
-      "errors": []
+      "errors": [
+        "official_page:ConnectTimeout"
+      ]
     },
     "롯데이노베이트": {
-      "discovered": 72,
+      "discovered": 74,
       "verified": 1,
       "sources": {
-        "official_page": 72
+        "official_page": 74
       },
       "errors": []
     },
     "롯데쇼핑": {
-      "discovered": 72,
+      "discovered": 74,
       "verified": 1,
       "sources": {
-        "official_page": 72
+        "official_page": 74
       },
       "errors": []
     },
     "롯데카드": {
-      "discovered": 72,
+      "discovered": 74,
       "verified": 1,
       "sources": {
-        "official_page": 72
+        "official_page": 74
       },
       "errors": []
     },
     "롯데e커머스": {
-      "discovered": 72,
+      "discovered": 74,
       "verified": 1,
       "sources": {
-        "official_page": 72
+        "official_page": 74
       },
       "errors": []
     },
@@ -329,10 +339,10 @@
       "errors": []
     },
     "NAVER": {
-      "discovered": 40,
+      "discovered": 42,
       "verified": 0,
       "sources": {
-        "official_api": 32,
+        "official_api": 34,
         "official_page": 8
       },
       "errors": []
@@ -379,11 +389,11 @@
       "errors": []
     },
     "쿠팡": {
-      "discovered": 53,
+      "discovered": 69,
       "verified": 0,
       "sources": {
         "sitemap": 40,
-        "official_page": 13
+        "official_page": 29
       },
       "errors": []
     },
@@ -497,9 +507,11 @@
       "errors": []
     },
     "신한은행": {
-      "discovered": 0,
+      "discovered": 5,
       "verified": 0,
-      "sources": {},
+      "sources": {
+        "bing": 5
+      },
       "errors": []
     },
     "하나은행": {
@@ -520,9 +532,7 @@
       "discovered": 0,
       "verified": 0,
       "sources": {},
-      "errors": [
-        "official_page:ConnectionError"
-      ]
+      "errors": []
     },
     "미래에셋증권": {
       "discovered": 0,
@@ -584,9 +594,7 @@
       "discovered": 0,
       "verified": 0,
       "sources": {},
-      "errors": [
-        "official_page:ConnectionError"
-      ]
+      "errors": []
     },
     "포스코": {
       "discovered": 0,
