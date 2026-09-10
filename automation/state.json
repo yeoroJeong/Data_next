@@ -1,5 +1,5 @@
 {
-  "lastRunAt": "2026-09-09T22:45:13+09:00",
+  "lastRunAt": "2026-09-10T13:45:58+09:00",
   "companies": {
     "삼성전자": {
       "discovered": 22,
@@ -193,8 +193,7 @@
       "discovered": 25,
       "verified": 0,
       "sources": {
-        "sitemap": 24,
-        "bing": 1
+        "sitemap": 25
       },
       "errors": []
     },
@@ -208,10 +207,10 @@
       "errors": []
     },
     "현대모비스": {
-      "discovered": 88,
-      "verified": 23,
+      "discovered": 6,
+      "verified": 0,
       "sources": {
-        "official_page": 87,
+        "official_page": 5,
         "sitemap": 1
       },
       "errors": []
@@ -280,34 +279,34 @@
       "errors": []
     },
     "롯데이노베이트": {
-      "discovered": 74,
+      "discovered": 72,
       "verified": 1,
       "sources": {
-        "official_page": 74
+        "official_page": 72
       },
       "errors": []
     },
     "롯데쇼핑": {
-      "discovered": 74,
+      "discovered": 72,
       "verified": 1,
       "sources": {
-        "official_page": 74
+        "official_page": 72
       },
       "errors": []
     },
     "롯데카드": {
-      "discovered": 74,
+      "discovered": 72,
       "verified": 1,
       "sources": {
-        "official_page": 74
+        "official_page": 72
       },
       "errors": []
     },
     "롯데e커머스": {
-      "discovered": 74,
+      "discovered": 72,
       "verified": 1,
       "sources": {
-        "official_page": 74
+        "official_page": 72
       },
       "errors": []
     },
@@ -330,10 +329,10 @@
       "errors": []
     },
     "NAVER": {
-      "discovered": 41,
+      "discovered": 40,
       "verified": 0,
       "sources": {
-        "official_api": 33,
+        "official_api": 32,
         "official_page": 8
       },
       "errors": []
@@ -395,20 +394,19 @@
       "errors": []
     },
     "당근": {
-      "discovered": 25,
+      "discovered": 26,
       "verified": 0,
       "sources": {
-        "official_page": 25
+        "official_page": 26
       },
       "errors": []
     },
     "토스": {
-      "discovered": 14,
+      "discovered": 12,
       "verified": 0,
       "sources": {
         "official_page": 5,
-        "sitemap": 7,
-        "bing": 2
+        "sitemap": 7
       },
       "errors": []
     },
@@ -499,27 +497,22 @@
       "errors": []
     },
     "신한은행": {
-      "discovered": 5,
+      "discovered": 0,
       "verified": 0,
-      "sources": {
-        "bing": 5
-      },
+      "sources": {},
       "errors": []
     },
     "하나은행": {
-      "discovered": 2,
+      "discovered": 0,
       "verified": 0,
-      "sources": {
-        "bing": 2
-      },
+      "sources": {},
       "errors": []
     },
     "우리은행": {
-      "discovered": 7,
+      "discovered": 1,
       "verified": 0,
       "sources": {
-        "sitemap": 1,
-        "bing": 6
+        "sitemap": 1
       },
       "errors": []
     },
@@ -527,7 +520,9 @@
       "discovered": 0,
       "verified": 0,
       "sources": {},
-      "errors": []
+      "errors": [
+        "official_page:ConnectionError"
+      ]
     },
     "미래에셋증권": {
       "discovered": 0,
@@ -556,11 +551,10 @@
       "errors": []
     },
     "신세계I&C": {
-      "discovered": 3,
+      "discovered": 1,
       "verified": 0,
       "sources": {
-        "official_page": 1,
-        "bing": 2
+        "official_page": 1
       },
       "errors": []
     },
@@ -587,19 +581,17 @@
       "errors": []
     },
     "POSCO DX": {
-      "discovered": 2,
+      "discovered": 0,
       "verified": 0,
-      "sources": {
-        "bing": 2
-      },
-      "errors": []
+      "sources": {},
+      "errors": [
+        "official_page:ConnectionError"
+      ]
     },
     "포스코": {
-      "discovered": 1,
+      "discovered": 0,
       "verified": 0,
-      "sources": {
-        "bing": 1
-      },
+      "sources": {},
       "errors": []
     },
     "HD현대": {
