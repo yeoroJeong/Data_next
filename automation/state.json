@@ -1,5 +1,5 @@
 {
-  "lastRunAt": "2026-09-11T13:44:15+09:00",
+  "lastRunAt": "2026-09-11T22:36:42+09:00",
   "companies": {
     "삼성전자": {
       "discovered": 22,
@@ -207,10 +207,10 @@
       "errors": []
     },
     "현대모비스": {
-      "discovered": 6,
-      "verified": 0,
+      "discovered": 41,
+      "verified": 8,
       "sources": {
-        "official_page": 5,
+        "official_page": 40,
         "sitemap": 1
       },
       "errors": []
@@ -329,10 +329,10 @@
       "errors": []
     },
     "NAVER": {
-      "discovered": 44,
+      "discovered": 47,
       "verified": 0,
       "sources": {
-        "official_api": 36,
+        "official_api": 39,
         "official_page": 8
       },
       "errors": []
@@ -347,10 +347,10 @@
       "errors": []
     },
     "카카오": {
-      "discovered": 22,
+      "discovered": 23,
       "verified": 1,
       "sources": {
-        "official_api": 22
+        "official_api": 23
       },
       "errors": []
     },
@@ -394,10 +394,10 @@
       "errors": []
     },
     "당근": {
-      "discovered": 26,
+      "discovered": 27,
       "verified": 0,
       "sources": {
-        "official_page": 26
+        "official_page": 27
       },
       "errors": []
     },
@@ -475,12 +475,12 @@
       "errors": []
     },
     "엔씨소프트": {
-      "discovered": 0,
+      "discovered": 3,
       "verified": 0,
-      "sources": {},
-      "errors": [
-        "official_page:ConnectTimeout"
-      ]
+      "sources": {
+        "official_page": 3
+      },
+      "errors": []
     },
     "스마일게이트": {
       "discovered": 3,
@@ -494,7 +494,9 @@
       "discovered": 0,
       "verified": 0,
       "sources": {},
-      "errors": []
+      "errors": [
+        "official_page:ConnectTimeout"
+      ]
     },
     "신한은행": {
       "discovered": 0,
@@ -515,16 +517,14 @@
         "sitemap": 1
       },
       "errors": [
-        "official_page:ConnectionError"
+        "official_page:ReadTimeout"
       ]
     },
     "NH농협은행": {
       "discovered": 0,
       "verified": 0,
       "sources": {},
-      "errors": [
-        "official_page:ConnectionError"
-      ]
+      "errors": []
     },
     "미래에셋증권": {
       "discovered": 0,
@@ -583,14 +583,12 @@
       "errors": []
     },
     "POSCO DX": {
-      "discovered": 3,
+      "discovered": 2,
       "verified": 0,
       "sources": {
-        "bing": 3
+        "bing": 2
       },
-      "errors": [
-        "official_page:ConnectionError"
-      ]
+      "errors": []
     },
     "포스코": {
       "discovered": 0,
