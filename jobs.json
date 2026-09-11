@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-11T23:53:30+09:00",
+  "updatedAt": "2026-09-12T00:00:08+09:00",
   "jobs": [
     {
       "id": "89aa2619c68aa82b",
@@ -23,6 +23,23 @@
       "expiresAt": "2026-09-13T23:00:00+09:00",
       "category": "금융",
       "linkLabel": "공고 원문"
+    },
+    {
+      "id": "6e2e74d9e35f958f",
+      "company": "SIMPAC그룹",
+      "title": "[SIMPAC 그룹] AI엔지니어 | SIMPAC그룹",
+      "kind": "신입 · 정규직",
+      "place": "원문 확인",
+      "deadline": "2026-09-13T23:59:00+09:00",
+      "deadlineLabel": "09.13 23:59",
+      "track": "데이터 / 디지털",
+      "note": "공식 채용 원문에서 데이터 / 디지털 연관성이 확인된 공고입니다.",
+      "check": "신입·인턴 지원 조건을 확인했습니다. 상세 자격과 근무지는 원문에서 다시 확인하세요.",
+      "url": "https://simpac.ninehire.site/job_posting/MKLG7MwN",
+      "source": "SIMPAC그룹 공식 채용",
+      "initial": "SI",
+      "color": "green",
+      "verifiedAt": "2026-09-12T00:00+09:00"
     },
     {
       "id": "d977a01e68d8499a",
@@ -391,7 +408,7 @@
       "source": "삼성전자 DX부문 공식 채용",
       "initial": "DX",
       "color": "blue",
-      "verifiedAt": "2026-09-11T23:53+09:00"
+      "verifiedAt": "2026-09-12T00:00+09:00"
     },
     {
       "id": "7616dc79cdf837a6",
@@ -408,7 +425,7 @@
       "source": "삼성전자 DX부문 공식 채용",
       "initial": "DX",
       "color": "blue",
-      "verifiedAt": "2026-09-11T23:53+09:00"
+      "verifiedAt": "2026-09-12T00:00+09:00"
     },
     {
       "id": "cb014721a5dc34e9",
@@ -425,7 +442,7 @@
       "source": "삼성전자 DS부문 공식 채용",
       "initial": "DS",
       "color": "blue",
-      "verifiedAt": "2026-09-11T23:53+09:00"
+      "verifiedAt": "2026-09-12T00:00+09:00"
     },
     {
       "id": "93091a4a252fa0ff",
@@ -442,7 +459,7 @@
       "source": "삼성전자 DS부문 공식 채용",
       "initial": "DS",
       "color": "blue",
-      "verifiedAt": "2026-09-11T23:53+09:00"
+      "verifiedAt": "2026-09-12T00:00+09:00"
     },
     {
       "id": "7f8bb3cfc61723dc",
@@ -459,7 +476,7 @@
       "source": "삼성SDS 공식 채용",
       "initial": "SD",
       "color": "green",
-      "verifiedAt": "2026-09-11T23:53+09:00"
+      "verifiedAt": "2026-09-12T00:00+09:00"
     },
     {
       "id": "fa3c90e257b00bb5",
@@ -476,7 +493,7 @@
       "source": "삼성SDS 공식 채용",
       "initial": "SD",
       "color": "green",
-      "verifiedAt": "2026-09-11T23:53+09:00"
+      "verifiedAt": "2026-09-12T00:00+09:00"
     },
     {
       "id": "132c65c4a39777b1",
@@ -493,7 +510,7 @@
       "source": "삼성디스플레이 공식 채용",
       "initial": "삼성",
       "color": "blue",
-      "verifiedAt": "2026-09-11T23:53+09:00"
+      "verifiedAt": "2026-09-12T00:00+09:00"
     },
     {
       "id": "9a8bf4325d2d6ee3",
@@ -510,7 +527,7 @@
       "source": "삼성SDI 공식 채용",
       "initial": "SD",
       "color": "blue",
-      "verifiedAt": "2026-09-11T23:53+09:00"
+      "verifiedAt": "2026-09-12T00:00+09:00"
     },
     {
       "id": "c8e1a6831e491aa6",
@@ -527,7 +544,7 @@
       "source": "삼성전기 공식 채용",
       "initial": "삼성",
       "color": "orange",
-      "verifiedAt": "2026-09-11T23:53+09:00"
+      "verifiedAt": "2026-09-12T00:00+09:00"
     },
     {
       "id": "12a9f3116255d2f0",
@@ -544,7 +561,7 @@
       "source": "삼성물산 건설부문 공식 채용",
       "initial": "삼성",
       "color": "green",
-      "verifiedAt": "2026-09-11T23:53+09:00"
+      "verifiedAt": "2026-09-12T00:00+09:00"
     },
     {
       "id": "dc89ac327b76eb7b",
@@ -615,7 +632,7 @@
     {
       "id": "4a457bbe42efb71f",
       "company": "롯데이노베이트",
-      "title": "롯데이노베이트 2026년 9월 롯데이노베이트 신입사원 채용 일반전형 2026.09.01 ~ 2026.09.16 D-5",
+      "title": "롯데이노베이트 2026년 9월 롯데이노베이트 신입사원 채용 일반전형 2026.09.01 ~ 2026.09.16 D-4",
       "kind": "신입 · 정규직",
       "place": "원문 확인",
       "deadline": "2026-09-16T23:59:00+09:00",
@@ -627,7 +644,7 @@
       "source": "롯데이노베이트 공식 채용",
       "initial": "롯데",
       "color": "blue",
-      "verifiedAt": "2026-09-11T23:53+09:00"
+      "verifiedAt": "2026-09-12T00:00+09:00"
     },
     {
       "id": "bbf2a04512ed3d68",
@@ -828,6 +845,23 @@
       "linkLabel": "공고 원문"
     },
     {
+      "id": "06fa698317514c7d",
+      "company": "APR",
+      "title": "[26 신입채용] Product Engineer | 에이피알",
+      "kind": "신입 · 인턴",
+      "place": "원문 확인",
+      "deadline": "2026-09-20T23:59:00+09:00",
+      "deadlineLabel": "09.20 23:59",
+      "track": "데이터 엔지니어링",
+      "note": "공식 채용 원문에서 데이터 엔지니어링 연관성이 확인된 공고입니다.",
+      "check": "신입·인턴 지원 조건을 확인했습니다. 상세 자격과 근무지는 원문에서 다시 확인하세요.",
+      "url": "https://apr.ninehire.site/job_posting/zm4c1Myu",
+      "source": "APR 공식 채용",
+      "initial": "AP",
+      "color": "green",
+      "verifiedAt": "2026-09-12T00:00+09:00"
+    },
+    {
       "id": "494d8cf8b0e214fe",
       "company": "카카오페이",
       "title": "2026년 하반기 채용 · 금융 / 데이터 · 직무 확인",
@@ -916,23 +950,6 @@
       "linkLabel": "채용 공고 목록"
     },
     {
-      "id": "06fa698317514c7d",
-      "company": "APR",
-      "title": "[26 신입채용] Product Engineer | 에이피알",
-      "kind": "신입 · 인턴",
-      "place": "원문 확인",
-      "deadline": "2026-09-20T23:59:00+09:00",
-      "deadlineLabel": "09.20 23:59",
-      "track": "데이터 엔지니어링",
-      "note": "공식 채용 원문에서 데이터 엔지니어링 연관성이 확인된 공고입니다.",
-      "check": "신입·인턴 지원 조건을 확인했습니다. 상세 자격과 근무지는 원문에서 다시 확인하세요.",
-      "url": "https://apr.ninehire.site/job_posting/zm4c1Myu",
-      "source": "APR 공식 채용",
-      "initial": "AP",
-      "color": "green",
-      "verifiedAt": "2026-09-11T23:58+09:00"
-    },
-    {
       "id": "e4ec8a3d7c066f9c",
       "company": "NAVER",
       "title": "[네이버웹툰] AI 서비스 기획 (체험형 인턴)",
@@ -947,7 +964,24 @@
       "source": "NAVER 공식 채용",
       "initial": "NA",
       "color": "orange",
-      "verifiedAt": "2026-09-11T23:53+09:00"
+      "verifiedAt": "2026-09-12T00:00+09:00"
+    },
+    {
+      "id": "233fdd8f2da31084",
+      "company": "현대오토에버",
+      "title": "채용 중인 공고",
+      "kind": "신입 · 정규직",
+      "place": "원문 확인",
+      "deadline": "2026-09-28T23:59:00+09:00",
+      "deadlineLabel": "09.28 23:59",
+      "track": "데이터 엔지니어링",
+      "note": "공식 채용 원문에서 데이터 엔지니어링 연관성이 확인된 공고입니다.",
+      "check": "신입·인턴 지원 조건을 확인했습니다. 상세 자격과 근무지는 원문에서 다시 확인하세요.",
+      "url": "https://career.hyundai-autoever.com/apply",
+      "source": "현대오토에버 공식 채용",
+      "initial": "현대",
+      "color": "orange",
+      "verifiedAt": "2026-09-12T00:00+09:00"
     },
     {
       "id": "d8cabae4b56b909e",
@@ -964,7 +998,7 @@
       "source": "현대모비스 공식 채용",
       "initial": "현대",
       "color": "blue",
-      "verifiedAt": "2026-09-11T23:53+09:00"
+      "verifiedAt": "2026-09-12T00:00+09:00"
     },
     {
       "id": "9e029adc5e714504",
@@ -981,7 +1015,109 @@
       "source": "현대모비스 공식 채용",
       "initial": "현대",
       "color": "blue",
-      "verifiedAt": "2026-09-11T23:53+09:00"
+      "verifiedAt": "2026-09-12T00:00+09:00"
+    },
+    {
+      "id": "fc93c1591da1b5a2",
+      "company": "현대오토에버",
+      "title": "[공통] 채용 브랜딩 – 콘텐츠 제작 및 SNS 채널 운영 (계약직) 공통/신사업/기타 경영기획/관리/지원 경력 무관 계약직 서울/경기",
+      "kind": "신입 · 정규직",
+      "place": "원문 확인",
+      "deadline": null,
+      "deadlineLabel": "원문 확인",
+      "track": "AI / ML",
+      "note": "공식 채용 원문에서 AI / ML 연관성이 확인된 공고입니다.",
+      "check": "신입·인턴 지원 조건을 확인했습니다. 상세 자격과 근무지는 원문에서 다시 확인하세요.",
+      "url": "https://career.hyundai-autoever.com/ko/o/208548",
+      "source": "현대오토에버 공식 채용",
+      "initial": "현대",
+      "color": "orange",
+      "verifiedAt": "2026-09-12T00:00+09:00"
+    },
+    {
+      "id": "6ce37db4259102cf",
+      "company": "카카오페이",
+      "title": "인재 pool - 기술 경력 무관 정규직",
+      "kind": "신입 · 인턴",
+      "place": "원문 확인",
+      "deadline": null,
+      "deadlineLabel": "원문 확인",
+      "track": "데이터 엔지니어링",
+      "note": "공식 채용 원문에서 데이터 엔지니어링 연관성이 확인된 공고입니다.",
+      "check": "신입·인턴 지원 조건을 확인했습니다. 상세 자격과 근무지는 원문에서 다시 확인하세요.",
+      "url": "https://kakaopay.career.greetinghr.com/ko/o/103674",
+      "source": "카카오페이 공식 채용",
+      "initial": "카카",
+      "color": "green",
+      "verifiedAt": "2026-09-12T00:00+09:00"
+    },
+    {
+      "id": "ac239e4bbec74485",
+      "company": "카카오페이",
+      "title": "인재 pool - 디자인 경력 무관 정규직",
+      "kind": "신입 · 인턴",
+      "place": "원문 확인",
+      "deadline": null,
+      "deadlineLabel": "원문 확인",
+      "track": "데이터 엔지니어링",
+      "note": "공식 채용 원문에서 데이터 엔지니어링 연관성이 확인된 공고입니다.",
+      "check": "신입·인턴 지원 조건을 확인했습니다. 상세 자격과 근무지는 원문에서 다시 확인하세요.",
+      "url": "https://kakaopay.career.greetinghr.com/ko/o/103676",
+      "source": "카카오페이 공식 채용",
+      "initial": "카카",
+      "color": "green",
+      "verifiedAt": "2026-09-12T00:00+09:00"
+    },
+    {
+      "id": "c720d7351093eca9",
+      "company": "카카오페이",
+      "title": "인재 pool - 비즈니스 경력 무관 정규직",
+      "kind": "신입 · 인턴",
+      "place": "원문 확인",
+      "deadline": null,
+      "deadlineLabel": "원문 확인",
+      "track": "데이터 엔지니어링",
+      "note": "공식 채용 원문에서 데이터 엔지니어링 연관성이 확인된 공고입니다.",
+      "check": "신입·인턴 지원 조건을 확인했습니다. 상세 자격과 근무지는 원문에서 다시 확인하세요.",
+      "url": "https://kakaopay.career.greetinghr.com/ko/o/103675",
+      "source": "카카오페이 공식 채용",
+      "initial": "카카",
+      "color": "green",
+      "verifiedAt": "2026-09-12T00:00+09:00"
+    },
+    {
+      "id": "15af525206778277",
+      "company": "카카오페이",
+      "title": "인재 pool - 스탭 경력 무관 정규직",
+      "kind": "신입 · 인턴",
+      "place": "원문 확인",
+      "deadline": null,
+      "deadlineLabel": "원문 확인",
+      "track": "데이터 엔지니어링",
+      "note": "공식 채용 원문에서 데이터 엔지니어링 연관성이 확인된 공고입니다.",
+      "check": "신입·인턴 지원 조건을 확인했습니다. 상세 자격과 근무지는 원문에서 다시 확인하세요.",
+      "url": "https://kakaopay.career.greetinghr.com/ko/o/103673",
+      "source": "카카오페이 공식 채용",
+      "initial": "카카",
+      "color": "green",
+      "verifiedAt": "2026-09-12T00:00+09:00"
+    },
+    {
+      "id": "9e18838c21fe1de5",
+      "company": "카카오페이",
+      "title": "인재 pool - 프로덕트 경력 무관 정규직",
+      "kind": "신입 · 인턴",
+      "place": "원문 확인",
+      "deadline": null,
+      "deadlineLabel": "원문 확인",
+      "track": "데이터 엔지니어링",
+      "note": "공식 채용 원문에서 데이터 엔지니어링 연관성이 확인된 공고입니다.",
+      "check": "신입·인턴 지원 조건을 확인했습니다. 상세 자격과 근무지는 원문에서 다시 확인하세요.",
+      "url": "https://kakaopay.career.greetinghr.com/ko/o/93966",
+      "source": "카카오페이 공식 채용",
+      "initial": "카카",
+      "color": "green",
+      "verifiedAt": "2026-09-12T00:00+09:00"
     },
     {
       "id": "f65f3102b35c2dac",
