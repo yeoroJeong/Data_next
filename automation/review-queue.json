@@ -1,27 +1,11 @@
 [
   {
-    "company": "NAVER Cloud",
-    "url": "https://recruit.navercorp.com/rcrt/view.do?annoId=30005321",
-    "title": "[NAVER Cloud] 침해사고 대응 담당자 (Junior Talent)",
-    "snippet": "공식 채용 원문에서 클라우드 / 플랫폼 연관성이 확인된 공고입니다.",
-    "reason": "existing_insufficient_text",
-    "checkedAt": "2026-09-11T22:36:42+09:00"
-  },
-  {
     "company": "롯데이노베이트",
     "url": "https://recruit.lotte.co.kr/apply/announcement/detail/21933850?compcd=30007",
     "title": "롯데이노베이트 2026년 9월 롯데이노베이트 신입사원 채용 일반전형 2026.09.01 ~ 2026.09.16 D-5",
     "snippet": "통합 신입 공채입니다. AI·SW·데이터 세부 직무 포함 여부를 원문에서 확인하세요.",
     "reason": "existing_posting_not_found",
-    "checkedAt": "2026-09-11T22:36:42+09:00"
-  },
-  {
-    "company": "카카오",
-    "url": "https://careers.kakao.com/jobs/P-14548",
-    "title": "AI 데이터 라벨링_어시스턴트",
-    "snippet": "공식 채용 원문에서 QA / 테스트 연관성이 확인된 공고입니다.",
-    "reason": "existing_insufficient_text",
-    "checkedAt": "2026-09-11T22:36:42+09:00"
+    "checkedAt": "2026-09-11T23:53:30+09:00"
   },
   {
     "company": "삼성전자",
@@ -30,7 +14,7 @@
     "snippet": "삼성글로벌리서치",
     "discoveredBy": "official_page",
     "reason": "not_job_posting",
-    "checkedAt": "2026-09-11T22:36:42+09:00"
+    "checkedAt": "2026-09-11T23:53:30+09:00"
   },
   {
     "company": "삼성SDS",
@@ -39,7 +23,7 @@
     "snippet": "삼성글로벌리서치",
     "discoveredBy": "official_page",
     "reason": "not_job_posting",
-    "checkedAt": "2026-09-11T22:36:42+09:00"
+    "checkedAt": "2026-09-11T23:53:30+09:00"
   },
   {
     "company": "삼성디스플레이",
@@ -48,7 +32,7 @@
     "snippet": "삼성글로벌리서치",
     "discoveredBy": "official_page",
     "reason": "not_job_posting",
-    "checkedAt": "2026-09-11T22:36:42+09:00"
+    "checkedAt": "2026-09-11T23:53:30+09:00"
   },
   {
     "company": "삼성SDI",
@@ -57,7 +41,7 @@
     "snippet": "삼성글로벌리서치",
     "discoveredBy": "official_page",
     "reason": "not_job_posting",
-    "checkedAt": "2026-09-11T22:36:42+09:00"
+    "checkedAt": "2026-09-11T23:53:30+09:00"
   },
   {
     "company": "삼성전기",
@@ -66,7 +50,7 @@
     "snippet": "삼성글로벌리서치",
     "discoveredBy": "official_page",
     "reason": "not_job_posting",
-    "checkedAt": "2026-09-11T22:36:42+09:00"
+    "checkedAt": "2026-09-11T23:53:30+09:00"
   },
   {
     "company": "삼성생명",
@@ -75,7 +59,7 @@
     "snippet": "삼성글로벌리서치",
     "discoveredBy": "official_page",
     "reason": "not_job_posting",
-    "checkedAt": "2026-09-11T22:36:42+09:00"
+    "checkedAt": "2026-09-11T23:53:30+09:00"
   },
   {
     "company": "삼성화재",
@@ -84,7 +68,7 @@
     "snippet": "삼성글로벌리서치",
     "discoveredBy": "official_page",
     "reason": "not_job_posting",
-    "checkedAt": "2026-09-11T22:36:42+09:00"
+    "checkedAt": "2026-09-11T23:53:30+09:00"
   },
   {
     "company": "삼성카드",
@@ -93,7 +77,7 @@
     "snippet": "삼성글로벌리서치",
     "discoveredBy": "official_page",
     "reason": "not_job_posting",
-    "checkedAt": "2026-09-11T22:36:42+09:00"
+    "checkedAt": "2026-09-11T23:53:30+09:00"
   },
   {
     "company": "삼성증권",
@@ -102,7 +86,7 @@
     "snippet": "삼성글로벌리서치",
     "discoveredBy": "official_page",
     "reason": "not_job_posting",
-    "checkedAt": "2026-09-11T22:36:42+09:00"
+    "checkedAt": "2026-09-11T23:53:30+09:00"
   },
   {
     "company": "삼성물산",
@@ -111,7 +95,7 @@
     "snippet": "삼성글로벌리서치",
     "discoveredBy": "official_page",
     "reason": "not_job_posting",
-    "checkedAt": "2026-09-11T22:36:42+09:00"
+    "checkedAt": "2026-09-11T23:53:30+09:00"
   },
   {
     "company": "현대자동차",
@@ -120,7 +104,7 @@
     "snippet": "",
     "discoveredBy": "sitemap",
     "reason": "not_job_posting",
-    "checkedAt": "2026-09-11T22:36:42+09:00"
+    "checkedAt": "2026-09-11T23:53:30+09:00"
   },
   {
     "company": "현대자동차",
@@ -129,7 +113,7 @@
     "snippet": "",
     "discoveredBy": "sitemap",
     "reason": "not_job_posting",
-    "checkedAt": "2026-09-11T22:36:42+09:00"
+    "checkedAt": "2026-09-11T23:53:30+09:00"
   },
   {
     "company": "현대자동차",
@@ -138,7 +122,7 @@
     "snippet": "",
     "discoveredBy": "sitemap",
     "reason": "insufficient_text",
-    "checkedAt": "2026-09-11T22:36:42+09:00"
+    "checkedAt": "2026-09-11T23:53:30+09:00"
   },
   {
     "company": "기아",
@@ -147,7 +131,7 @@
     "snippet": "",
     "discoveredBy": "sitemap",
     "reason": "not_job_posting",
-    "checkedAt": "2026-09-11T22:36:42+09:00"
+    "checkedAt": "2026-09-11T23:53:30+09:00"
   },
   {
     "company": "기아",
@@ -156,7 +140,7 @@
     "snippet": "",
     "discoveredBy": "sitemap",
     "reason": "insufficient_text",
-    "checkedAt": "2026-09-11T22:36:42+09:00"
+    "checkedAt": "2026-09-11T23:53:30+09:00"
   },
   {
     "company": "기아",
@@ -165,7 +149,7 @@
     "snippet": "",
     "discoveredBy": "sitemap",
     "reason": "not_job_posting",
-    "checkedAt": "2026-09-11T22:36:42+09:00"
+    "checkedAt": "2026-09-11T23:53:30+09:00"
   },
   {
     "company": "기아",
@@ -174,7 +158,7 @@
     "snippet": "",
     "discoveredBy": "sitemap",
     "reason": "not_job_posting",
-    "checkedAt": "2026-09-11T22:36:42+09:00"
+    "checkedAt": "2026-09-11T23:53:30+09:00"
   },
   {
     "company": "기아",
@@ -183,7 +167,7 @@
     "snippet": "",
     "discoveredBy": "sitemap",
     "reason": "not_job_posting",
-    "checkedAt": "2026-09-11T22:36:42+09:00"
+    "checkedAt": "2026-09-11T23:53:30+09:00"
   },
   {
     "company": "기아",
@@ -192,7 +176,7 @@
     "snippet": "",
     "discoveredBy": "sitemap",
     "reason": "not_job_posting",
-    "checkedAt": "2026-09-11T22:36:42+09:00"
+    "checkedAt": "2026-09-11T23:53:30+09:00"
   },
   {
     "company": "기아",
@@ -201,7 +185,7 @@
     "snippet": "",
     "discoveredBy": "sitemap",
     "reason": "not_job_posting",
-    "checkedAt": "2026-09-11T22:36:42+09:00"
+    "checkedAt": "2026-09-11T23:53:30+09:00"
   },
   {
     "company": "기아",
@@ -210,7 +194,7 @@
     "snippet": "",
     "discoveredBy": "sitemap",
     "reason": "not_job_posting",
-    "checkedAt": "2026-09-11T22:36:42+09:00"
+    "checkedAt": "2026-09-11T23:53:30+09:00"
   },
   {
     "company": "기아",
@@ -219,7 +203,7 @@
     "snippet": "",
     "discoveredBy": "sitemap",
     "reason": "not_job_posting",
-    "checkedAt": "2026-09-11T22:36:42+09:00"
+    "checkedAt": "2026-09-11T23:53:30+09:00"
   },
   {
     "company": "기아",
@@ -228,7 +212,7 @@
     "snippet": "",
     "discoveredBy": "sitemap",
     "reason": "not_job_posting",
-    "checkedAt": "2026-09-11T22:36:42+09:00"
+    "checkedAt": "2026-09-11T23:53:30+09:00"
   },
   {
     "company": "기아",
@@ -237,7 +221,7 @@
     "snippet": "",
     "discoveredBy": "sitemap",
     "reason": "not_job_posting",
-    "checkedAt": "2026-09-11T22:36:42+09:00"
+    "checkedAt": "2026-09-11T23:53:30+09:00"
   },
   {
     "company": "기아",
@@ -246,7 +230,7 @@
     "snippet": "",
     "discoveredBy": "sitemap",
     "reason": "not_job_posting",
-    "checkedAt": "2026-09-11T22:36:42+09:00"
+    "checkedAt": "2026-09-11T23:53:30+09:00"
   },
   {
     "company": "기아",
@@ -255,7 +239,7 @@
     "snippet": "",
     "discoveredBy": "sitemap",
     "reason": "not_job_posting",
-    "checkedAt": "2026-09-11T22:36:42+09:00"
+    "checkedAt": "2026-09-11T23:53:30+09:00"
   },
   {
     "company": "기아",
@@ -264,7 +248,7 @@
     "snippet": "",
     "discoveredBy": "sitemap",
     "reason": "not_job_posting",
-    "checkedAt": "2026-09-11T22:36:42+09:00"
+    "checkedAt": "2026-09-11T23:53:30+09:00"
   },
   {
     "company": "기아",
@@ -273,7 +257,7 @@
     "snippet": "",
     "discoveredBy": "sitemap",
     "reason": "not_job_posting",
-    "checkedAt": "2026-09-11T22:36:42+09:00"
+    "checkedAt": "2026-09-11T23:53:30+09:00"
   },
   {
     "company": "기아",
@@ -282,7 +266,7 @@
     "snippet": "",
     "discoveredBy": "sitemap",
     "reason": "insufficient_text",
-    "checkedAt": "2026-09-11T22:36:42+09:00"
+    "checkedAt": "2026-09-11T23:53:30+09:00"
   },
   {
     "company": "기아",
@@ -291,7 +275,7 @@
     "snippet": "",
     "discoveredBy": "sitemap",
     "reason": "not_job_posting",
-    "checkedAt": "2026-09-11T22:36:42+09:00"
+    "checkedAt": "2026-09-11T23:53:30+09:00"
   },
   {
     "company": "기아",
@@ -300,7 +284,7 @@
     "snippet": "",
     "discoveredBy": "sitemap",
     "reason": "not_job_posting",
-    "checkedAt": "2026-09-11T22:36:42+09:00"
+    "checkedAt": "2026-09-11T23:53:30+09:00"
   },
   {
     "company": "기아",
@@ -309,7 +293,7 @@
     "snippet": "",
     "discoveredBy": "sitemap",
     "reason": "not_job_posting",
-    "checkedAt": "2026-09-11T22:36:42+09:00"
+    "checkedAt": "2026-09-11T23:53:30+09:00"
   },
   {
     "company": "기아",
@@ -318,7 +302,7 @@
     "snippet": "",
     "discoveredBy": "sitemap",
     "reason": "not_job_posting",
-    "checkedAt": "2026-09-11T22:36:42+09:00"
+    "checkedAt": "2026-09-11T23:53:30+09:00"
   },
   {
     "company": "기아",
@@ -327,7 +311,7 @@
     "snippet": "",
     "discoveredBy": "sitemap",
     "reason": "not_job_posting",
-    "checkedAt": "2026-09-11T22:36:42+09:00"
+    "checkedAt": "2026-09-11T23:53:30+09:00"
   },
   {
     "company": "기아",
@@ -336,7 +320,7 @@
     "snippet": "",
     "discoveredBy": "sitemap",
     "reason": "not_job_posting",
-    "checkedAt": "2026-09-11T22:36:42+09:00"
+    "checkedAt": "2026-09-11T23:53:30+09:00"
   },
   {
     "company": "기아",
@@ -345,7 +329,7 @@
     "snippet": "",
     "discoveredBy": "sitemap",
     "reason": "not_job_posting",
-    "checkedAt": "2026-09-11T22:36:42+09:00"
+    "checkedAt": "2026-09-11T23:53:30+09:00"
   },
   {
     "company": "기아",
@@ -354,7 +338,7 @@
     "snippet": "",
     "discoveredBy": "sitemap",
     "reason": "not_job_posting",
-    "checkedAt": "2026-09-11T22:36:42+09:00"
+    "checkedAt": "2026-09-11T23:53:30+09:00"
   },
   {
     "company": "현대오토에버",
@@ -363,7 +347,7 @@
     "snippet": "[Tech] Service Strategy - Robot 플랫폼 기술 기획 Core Tech(AI/DATA/Cloud/보안) Strategy 경력 10년 이상 정규직 서울/경기 2026. 09. 28, 14:59까지 D -17 [공통] Financial & Investment analysis - 투자분석 업무 공통/신사업/기타 경영기획/관리/지원 경력 3년 이상 정규직 서울/경기 2026. 09. 28, 14:59까지 D -17 [EnIT] Solution Developer - SAP ERP ABAP 개발 및 솔루션 기획 Enterprise IT 솔루션아키텍트/개발(ERP/CRM/MS 등) 경력 7~20년 정규직 서울/경기 2026. 09. 28, 14:59까지 D -17 [SDx] IT PM - Robot MES 개발 총괄 PM SDx(스마트제조) Project Manager 경력 13년 이상 정규직 서울/경기 2026. 09. 28, 14:59까지 D -17 [EnIT] IT Architect - Application Architect Enterprise IT IT아키텍트/기획/품질 경력 10~20년 정규직 서울/경기 2026. 09. 28, 14:59까지 D -17 [EnIT] Backend Developer - 인증/계정플랫폼 개발 및 운영 Enterprise IT SW 개발 공통 경력 7~15년 정규직 서울/경기 2026. 09. 28, 14:59까지 D -17 [EnIT] Frontend Developer - 계정 시스템 프론트엔드 개발 및 운영 Enterprise IT SW 개발 공통 경력 5~15년 정규직 서울/경기 2026. 09. 28, 14:59까지 D -17 [Tech] RX 기술 리더(팀장) Core Tech(AI/DATA/Cloud/보안) Data/AI(인공지능) 경력 10년 이상 정규직 서울/경기 2026. 09. 28, 14:59까지 D -17 [Tech] Infra Security Engineer - 북미 기술 보안 주재원(네트웍",
     "discoveredBy": "official_page",
     "reason": "not_job_posting",
-    "checkedAt": "2026-09-11T22:36:42+09:00"
+    "checkedAt": "2026-09-11T23:53:30+09:00"
   },
   {
     "company": "현대오토에버",
@@ -372,7 +356,7 @@
     "snippet": "[Tech] Service Strategy - Robot 플랫폼 기술 기획 Core Tech(AI/DATA/Cloud/보안) Strategy 경력 10년 이상 정규직 서울/경기 2026. 09. 28, 14:59까지 D -17 [공통] Financial & Investment analysis - 투자분석 업무 공통/신사업/기타 경영기획/관리/지원 경력 3년 이상 정규직 서울/경기 2026. 09. 28, 14:59까지 D -17 [EnIT] Solution Developer - SAP ERP ABAP 개발 및 솔루션 기획 Enterprise IT 솔루션아키텍트/개발(ERP/CRM/MS 등) 경력 7~20년 정규직 서울/경기 2026. 09. 28, 14:59까지 D -17 [SDx] IT PM - Robot MES 개발 총괄 PM SDx(스마트제조) Project Manager 경력 13년 이상 정규직 서울/경기 2026. 09. 28, 14:59까지 D -17 [EnIT] IT Architect - Application Architect Enterprise IT IT아키텍트/기획/품질 경력 10~20년 정규직 서울/경기 2026. 09. 28, 14:59까지 D -17 [EnIT] Backend Developer - 인증/계정플랫폼 개발 및 운영 Enterprise IT SW 개발 공통 경력 7~15년 정규직 서울/경기 2026. 09. 28, 14:59까지 D -17 [EnIT] Frontend Developer - 계정 시스템 프론트엔드 개발 및 운영 Enterprise IT SW 개발 공통 경력 5~15년 정규직 서울/경기 2026. 09. 28, 14:59까지 D -17 [Tech] RX 기술 리더(팀장) Core Tech(AI/DATA/Cloud/보안) Data/AI(인공지능) 경력 10년 이상 정규직 서울/경기 2026. 09. 28, 14:59까지 D -17 [Tech] Infra Security Engineer - 북미 기술 보안 주재원(네트웍",
     "discoveredBy": "official_page",
     "reason": "not_job_posting",
-    "checkedAt": "2026-09-11T22:36:42+09:00"
+    "checkedAt": "2026-09-11T23:53:30+09:00"
   },
   {
     "company": "현대오토에버",
@@ -381,7 +365,16 @@
     "snippet": "[Tech] Service Strategy - Robot 플랫폼 기술 기획 Core Tech(AI/DATA/Cloud/보안) Strategy 경력 10년 이상 정규직 서울/경기 2026. 09. 28, 14:59까지 D -17 [공통] Financial & Investment analysis - 투자분석 업무 공통/신사업/기타 경영기획/관리/지원 경력 3년 이상 정규직 서울/경기 2026. 09. 28, 14:59까지 D -17 [EnIT] Solution Developer - SAP ERP ABAP 개발 및 솔루션 기획 Enterprise IT 솔루션아키텍트/개발(ERP/CRM/MS 등) 경력 7~20년 정규직 서울/경기 2026. 09. 28, 14:59까지 D -17 [SDx] IT PM - Robot MES 개발 총괄 PM SDx(스마트제조) Project Manager 경력 13년 이상 정규직 서울/경기 2026. 09. 28, 14:59까지 D -17 [EnIT] IT Architect - Application Architect Enterprise IT IT아키텍트/기획/품질 경력 10~20년 정규직 서울/경기 2026. 09. 28, 14:59까지 D -17 [EnIT] Backend Developer - 인증/계정플랫폼 개발 및 운영 Enterprise IT SW 개발 공통 경력 7~15년 정규직 서울/경기 2026. 09. 28, 14:59까지 D -17 [EnIT] Frontend Developer - 계정 시스템 프론트엔드 개발 및 운영 Enterprise IT SW 개발 공통 경력 5~15년 정규직 서울/경기 2026. 09. 28, 14:59까지 D -17 [Tech] RX 기술 리더(팀장) Core Tech(AI/DATA/Cloud/보안) Data/AI(인공지능) 경력 10년 이상 정규직 서울/경기 2026. 09. 28, 14:59까지 D -17 [Tech] Infra Security Engineer - 북미 기술 보안 주재원(네트웍",
     "discoveredBy": "official_page",
     "reason": "not_job_posting",
-    "checkedAt": "2026-09-11T22:36:42+09:00"
+    "checkedAt": "2026-09-11T23:53:30+09:00"
+  },
+  {
+    "company": "현대오토에버",
+    "url": "https://career.hyundai-autoever.com/ko/o/234060",
+    "title": "[EnIT] IT Architect - Application Architect Enterprise IT IT아키텍트/기획/품질 경력 10~20년 정규직 서울/경기 2026. 09. 28, 14:59까지 D -17",
+    "snippet": "[Tech] Service Strategy - Robot 플랫폼 기술 기획 Core Tech(AI/DATA/Cloud/보안) Strategy 경력 10년 이상 정규직 서울/경기 2026. 09. 28, 14:59까지 D -17 [공통] Financial & Investment analysis - 투자분석 업무 공통/신사업/기타 경영기획/관리/지원 경력 3년 이상 정규직 서울/경기 2026. 09. 28, 14:59까지 D -17 [EnIT] Solution Developer - SAP ERP ABAP 개발 및 솔루션 기획 Enterprise IT 솔루션아키텍트/개발(ERP/CRM/MS 등) 경력 7~20년 정규직 서울/경기 2026. 09. 28, 14:59까지 D -17 [SDx] IT PM - Robot MES 개발 총괄 PM SDx(스마트제조) Project Manager 경력 13년 이상 정규직 서울/경기 2026. 09. 28, 14:59까지 D -17 [EnIT] IT Architect - Application Architect Enterprise IT IT아키텍트/기획/품질 경력 10~20년 정규직 서울/경기 2026. 09. 28, 14:59까지 D -17 [EnIT] Backend Developer - 인증/계정플랫폼 개발 및 운영 Enterprise IT SW 개발 공통 경력 7~15년 정규직 서울/경기 2026. 09. 28, 14:59까지 D -17 [EnIT] Frontend Developer - 계정 시스템 프론트엔드 개발 및 운영 Enterprise IT SW 개발 공통 경력 5~15년 정규직 서울/경기 2026. 09. 28, 14:59까지 D -17 [Tech] RX 기술 리더(팀장) Core Tech(AI/DATA/Cloud/보안) Data/AI(인공지능) 경력 10년 이상 정규직 서울/경기 2026. 09. 28, 14:59까지 D -17 [Tech] Infra Security Engineer - 북미 기술 보안 주재원(네트웍",
+    "discoveredBy": "official_page",
+    "reason": "not_job_posting",
+    "checkedAt": "2026-09-11T23:53:30+09:00"
   },
   {
     "company": "현대오토에버",
@@ -390,7 +383,7 @@
     "snippet": "[Tech] Service Strategy - Robot 플랫폼 기술 기획 Core Tech(AI/DATA/Cloud/보안) Strategy 경력 10년 이상 정규직 서울/경기 2026. 09. 28, 14:59까지 D -17 [공통] Financial & Investment analysis - 투자분석 업무 공통/신사업/기타 경영기획/관리/지원 경력 3년 이상 정규직 서울/경기 2026. 09. 28, 14:59까지 D -17 [EnIT] Solution Developer - SAP ERP ABAP 개발 및 솔루션 기획 Enterprise IT 솔루션아키텍트/개발(ERP/CRM/MS 등) 경력 7~20년 정규직 서울/경기 2026. 09. 28, 14:59까지 D -17 [SDx] IT PM - Robot MES 개발 총괄 PM SDx(스마트제조) Project Manager 경력 13년 이상 정규직 서울/경기 2026. 09. 28, 14:59까지 D -17 [EnIT] IT Architect - Application Architect Enterprise IT IT아키텍트/기획/품질 경력 10~20년 정규직 서울/경기 2026. 09. 28, 14:59까지 D -17 [EnIT] Backend Developer - 인증/계정플랫폼 개발 및 운영 Enterprise IT SW 개발 공통 경력 7~15년 정규직 서울/경기 2026. 09. 28, 14:59까지 D -17 [EnIT] Frontend Developer - 계정 시스템 프론트엔드 개발 및 운영 Enterprise IT SW 개발 공통 경력 5~15년 정규직 서울/경기 2026. 09. 28, 14:59까지 D -17 [Tech] RX 기술 리더(팀장) Core Tech(AI/DATA/Cloud/보안) Data/AI(인공지능) 경력 10년 이상 정규직 서울/경기 2026. 09. 28, 14:59까지 D -17 [Tech] Infra Security Engineer - 북미 기술 보안 주재원(네트웍",
     "discoveredBy": "official_page",
     "reason": "not_job_posting",
-    "checkedAt": "2026-09-11T22:36:42+09:00"
+    "checkedAt": "2026-09-11T23:53:30+09:00"
   },
   {
     "company": "현대오토에버",
@@ -399,7 +392,7 @@
     "snippet": "[Tech] Service Strategy - Robot 플랫폼 기술 기획 Core Tech(AI/DATA/Cloud/보안) Strategy 경력 10년 이상 정규직 서울/경기 2026. 09. 28, 14:59까지 D -17 [공통] Financial & Investment analysis - 투자분석 업무 공통/신사업/기타 경영기획/관리/지원 경력 3년 이상 정규직 서울/경기 2026. 09. 28, 14:59까지 D -17 [EnIT] Solution Developer - SAP ERP ABAP 개발 및 솔루션 기획 Enterprise IT 솔루션아키텍트/개발(ERP/CRM/MS 등) 경력 7~20년 정규직 서울/경기 2026. 09. 28, 14:59까지 D -17 [SDx] IT PM - Robot MES 개발 총괄 PM SDx(스마트제조) Project Manager 경력 13년 이상 정규직 서울/경기 2026. 09. 28, 14:59까지 D -17 [EnIT] IT Architect - Application Architect Enterprise IT IT아키텍트/기획/품질 경력 10~20년 정규직 서울/경기 2026. 09. 28, 14:59까지 D -17 [EnIT] Backend Developer - 인증/계정플랫폼 개발 및 운영 Enterprise IT SW 개발 공통 경력 7~15년 정규직 서울/경기 2026. 09. 28, 14:59까지 D -17 [EnIT] Frontend Developer - 계정 시스템 프론트엔드 개발 및 운영 Enterprise IT SW 개발 공통 경력 5~15년 정규직 서울/경기 2026. 09. 28, 14:59까지 D -17 [Tech] RX 기술 리더(팀장) Core Tech(AI/DATA/Cloud/보안) Data/AI(인공지능) 경력 10년 이상 정규직 서울/경기 2026. 09. 28, 14:59까지 D -17 [Tech] Infra Security Engineer - 북미 기술 보안 주재원(네트웍",
     "discoveredBy": "official_page",
     "reason": "not_job_posting",
-    "checkedAt": "2026-09-11T22:36:42+09:00"
+    "checkedAt": "2026-09-11T23:53:30+09:00"
   },
   {
     "company": "현대오토에버",
@@ -408,7 +401,7 @@
     "snippet": "[Tech] Service Strategy - Robot 플랫폼 기술 기획 Core Tech(AI/DATA/Cloud/보안) Strategy 경력 10년 이상 정규직 서울/경기 2026. 09. 28, 14:59까지 D -17 [공통] Financial & Investment analysis - 투자분석 업무 공통/신사업/기타 경영기획/관리/지원 경력 3년 이상 정규직 서울/경기 2026. 09. 28, 14:59까지 D -17 [EnIT] Solution Developer - SAP ERP ABAP 개발 및 솔루션 기획 Enterprise IT 솔루션아키텍트/개발(ERP/CRM/MS 등) 경력 7~20년 정규직 서울/경기 2026. 09. 28, 14:59까지 D -17 [SDx] IT PM - Robot MES 개발 총괄 PM SDx(스마트제조) Project Manager 경력 13년 이상 정규직 서울/경기 2026. 09. 28, 14:59까지 D -17 [EnIT] IT Architect - Application Architect Enterprise IT IT아키텍트/기획/품질 경력 10~20년 정규직 서울/경기 2026. 09. 28, 14:59까지 D -17 [EnIT] Backend Developer - 인증/계정플랫폼 개발 및 운영 Enterprise IT SW 개발 공통 경력 7~15년 정규직 서울/경기 2026. 09. 28, 14:59까지 D -17 [EnIT] Frontend Developer - 계정 시스템 프론트엔드 개발 및 운영 Enterprise IT SW 개발 공통 경력 5~15년 정규직 서울/경기 2026. 09. 28, 14:59까지 D -17 [Tech] RX 기술 리더(팀장) Core Tech(AI/DATA/Cloud/보안) Data/AI(인공지능) 경력 10년 이상 정규직 서울/경기 2026. 09. 28, 14:59까지 D -17 [Tech] Infra Security Engineer - 북미 기술 보안 주재원(네트웍",
     "discoveredBy": "official_page",
     "reason": "not_job_posting",
-    "checkedAt": "2026-09-11T22:36:42+09:00"
+    "checkedAt": "2026-09-11T23:53:30+09:00"
   },
   {
     "company": "현대오토에버",
@@ -417,7 +410,7 @@
     "snippet": "[Tech] Service Strategy - Robot 플랫폼 기술 기획 Core Tech(AI/DATA/Cloud/보안) Strategy 경력 10년 이상 정규직 서울/경기 2026. 09. 28, 14:59까지 D -17 [공통] Financial & Investment analysis - 투자분석 업무 공통/신사업/기타 경영기획/관리/지원 경력 3년 이상 정규직 서울/경기 2026. 09. 28, 14:59까지 D -17 [EnIT] Solution Developer - SAP ERP ABAP 개발 및 솔루션 기획 Enterprise IT 솔루션아키텍트/개발(ERP/CRM/MS 등) 경력 7~20년 정규직 서울/경기 2026. 09. 28, 14:59까지 D -17 [SDx] IT PM - Robot MES 개발 총괄 PM SDx(스마트제조) Project Manager 경력 13년 이상 정규직 서울/경기 2026. 09. 28, 14:59까지 D -17 [EnIT] IT Architect - Application Architect Enterprise IT IT아키텍트/기획/품질 경력 10~20년 정규직 서울/경기 2026. 09. 28, 14:59까지 D -17 [EnIT] Backend Developer - 인증/계정플랫폼 개발 및 운영 Enterprise IT SW 개발 공통 경력 7~15년 정규직 서울/경기 2026. 09. 28, 14:59까지 D -17 [EnIT] Frontend Developer - 계정 시스템 프론트엔드 개발 및 운영 Enterprise IT SW 개발 공통 경력 5~15년 정규직 서울/경기 2026. 09. 28, 14:59까지 D -17 [Tech] RX 기술 리더(팀장) Core Tech(AI/DATA/Cloud/보안) Data/AI(인공지능) 경력 10년 이상 정규직 서울/경기 2026. 09. 28, 14:59까지 D -17 [Tech] Infra Security Engineer - 북미 기술 보안 주재원(네트웍",
     "discoveredBy": "official_page",
     "reason": "not_job_posting",
-    "checkedAt": "2026-09-11T22:36:42+09:00"
+    "checkedAt": "2026-09-11T23:53:30+09:00"
   },
   {
     "company": "현대오토에버",
@@ -426,7 +419,7 @@
     "snippet": "[Tech] Service Strategy - Robot 플랫폼 기술 기획 Core Tech(AI/DATA/Cloud/보안) Strategy 경력 10년 이상 정규직 서울/경기 2026. 09. 28, 14:59까지 D -17 [공통] Financial & Investment analysis - 투자분석 업무 공통/신사업/기타 경영기획/관리/지원 경력 3년 이상 정규직 서울/경기 2026. 09. 28, 14:59까지 D -17 [EnIT] Solution Developer - SAP ERP ABAP 개발 및 솔루션 기획 Enterprise IT 솔루션아키텍트/개발(ERP/CRM/MS 등) 경력 7~20년 정규직 서울/경기 2026. 09. 28, 14:59까지 D -17 [SDx] IT PM - Robot MES 개발 총괄 PM SDx(스마트제조) Project Manager 경력 13년 이상 정규직 서울/경기 2026. 09. 28, 14:59까지 D -17 [EnIT] IT Architect - Application Architect Enterprise IT IT아키텍트/기획/품질 경력 10~20년 정규직 서울/경기 2026. 09. 28, 14:59까지 D -17 [EnIT] Backend Developer - 인증/계정플랫폼 개발 및 운영 Enterprise IT SW 개발 공통 경력 7~15년 정규직 서울/경기 2026. 09. 28, 14:59까지 D -17 [EnIT] Frontend Developer - 계정 시스템 프론트엔드 개발 및 운영 Enterprise IT SW 개발 공통 경력 5~15년 정규직 서울/경기 2026. 09. 28, 14:59까지 D -17 [Tech] RX 기술 리더(팀장) Core Tech(AI/DATA/Cloud/보안) Data/AI(인공지능) 경력 10년 이상 정규직 서울/경기 2026. 09. 28, 14:59까지 D -17 [Tech] Infra Security Engineer - 북미 기술 보안 주재원(네트웍",
     "discoveredBy": "official_page",
     "reason": "not_job_posting",
-    "checkedAt": "2026-09-11T22:36:42+09:00"
+    "checkedAt": "2026-09-11T23:53:30+09:00"
   },
   {
     "company": "현대오토에버",
@@ -435,7 +428,7 @@
     "snippet": "[Tech] Service Strategy - Robot 플랫폼 기술 기획 Core Tech(AI/DATA/Cloud/보안) Strategy 경력 10년 이상 정규직 서울/경기 2026. 09. 28, 14:59까지 D -17 [공통] Financial & Investment analysis - 투자분석 업무 공통/신사업/기타 경영기획/관리/지원 경력 3년 이상 정규직 서울/경기 2026. 09. 28, 14:59까지 D -17 [EnIT] Solution Developer - SAP ERP ABAP 개발 및 솔루션 기획 Enterprise IT 솔루션아키텍트/개발(ERP/CRM/MS 등) 경력 7~20년 정규직 서울/경기 2026. 09. 28, 14:59까지 D -17 [SDx] IT PM - Robot MES 개발 총괄 PM SDx(스마트제조) Project Manager 경력 13년 이상 정규직 서울/경기 2026. 09. 28, 14:59까지 D -17 [EnIT] IT Architect - Application Architect Enterprise IT IT아키텍트/기획/품질 경력 10~20년 정규직 서울/경기 2026. 09. 28, 14:59까지 D -17 [EnIT] Backend Developer - 인증/계정플랫폼 개발 및 운영 Enterprise IT SW 개발 공통 경력 7~15년 정규직 서울/경기 2026. 09. 28, 14:59까지 D -17 [EnIT] Frontend Developer - 계정 시스템 프론트엔드 개발 및 운영 Enterprise IT SW 개발 공통 경력 5~15년 정규직 서울/경기 2026. 09. 28, 14:59까지 D -17 [Tech] RX 기술 리더(팀장) Core Tech(AI/DATA/Cloud/보안) Data/AI(인공지능) 경력 10년 이상 정규직 서울/경기 2026. 09. 28, 14:59까지 D -17 [Tech] Infra Security Engineer - 북미 기술 보안 주재원(네트웍",
     "discoveredBy": "official_page",
     "reason": "not_job_posting",
-    "checkedAt": "2026-09-11T22:36:42+09:00"
+    "checkedAt": "2026-09-11T23:53:30+09:00"
   },
   {
     "company": "현대오토에버",
@@ -444,7 +437,7 @@
     "snippet": "[Tech] Service Strategy - Robot 플랫폼 기술 기획 Core Tech(AI/DATA/Cloud/보안) Strategy 경력 10년 이상 정규직 서울/경기 2026. 09. 28, 14:59까지 D -17 [공통] Financial & Investment analysis - 투자분석 업무 공통/신사업/기타 경영기획/관리/지원 경력 3년 이상 정규직 서울/경기 2026. 09. 28, 14:59까지 D -17 [EnIT] Solution Developer - SAP ERP ABAP 개발 및 솔루션 기획 Enterprise IT 솔루션아키텍트/개발(ERP/CRM/MS 등) 경력 7~20년 정규직 서울/경기 2026. 09. 28, 14:59까지 D -17 [SDx] IT PM - Robot MES 개발 총괄 PM SDx(스마트제조) Project Manager 경력 13년 이상 정규직 서울/경기 2026. 09. 28, 14:59까지 D -17 [EnIT] IT Architect - Application Architect Enterprise IT IT아키텍트/기획/품질 경력 10~20년 정규직 서울/경기 2026. 09. 28, 14:59까지 D -17 [EnIT] Backend Developer - 인증/계정플랫폼 개발 및 운영 Enterprise IT SW 개발 공통 경력 7~15년 정규직 서울/경기 2026. 09. 28, 14:59까지 D -17 [EnIT] Frontend Developer - 계정 시스템 프론트엔드 개발 및 운영 Enterprise IT SW 개발 공통 경력 5~15년 정규직 서울/경기 2026. 09. 28, 14:59까지 D -17 [Tech] RX 기술 리더(팀장) Core Tech(AI/DATA/Cloud/보안) Data/AI(인공지능) 경력 10년 이상 정규직 서울/경기 2026. 09. 28, 14:59까지 D -17 [Tech] Infra Security Engineer - 북미 기술 보안 주재원(네트웍",
     "discoveredBy": "official_page",
     "reason": "not_job_posting",
-    "checkedAt": "2026-09-11T22:36:42+09:00"
+    "checkedAt": "2026-09-11T23:53:30+09:00"
   },
   {
     "company": "현대오토에버",
@@ -453,7 +446,7 @@
     "snippet": "[Tech] Service Strategy - Robot 플랫폼 기술 기획 Core Tech(AI/DATA/Cloud/보안) Strategy 경력 10년 이상 정규직 서울/경기 2026. 09. 28, 14:59까지 D -17 [공통] Financial & Investment analysis - 투자분석 업무 공통/신사업/기타 경영기획/관리/지원 경력 3년 이상 정규직 서울/경기 2026. 09. 28, 14:59까지 D -17 [EnIT] Solution Developer - SAP ERP ABAP 개발 및 솔루션 기획 Enterprise IT 솔루션아키텍트/개발(ERP/CRM/MS 등) 경력 7~20년 정규직 서울/경기 2026. 09. 28, 14:59까지 D -17 [SDx] IT PM - Robot MES 개발 총괄 PM SDx(스마트제조) Project Manager 경력 13년 이상 정규직 서울/경기 2026. 09. 28, 14:59까지 D -17 [EnIT] IT Architect - Application Architect Enterprise IT IT아키텍트/기획/품질 경력 10~20년 정규직 서울/경기 2026. 09. 28, 14:59까지 D -17 [EnIT] Backend Developer - 인증/계정플랫폼 개발 및 운영 Enterprise IT SW 개발 공통 경력 7~15년 정규직 서울/경기 2026. 09. 28, 14:59까지 D -17 [EnIT] Frontend Developer - 계정 시스템 프론트엔드 개발 및 운영 Enterprise IT SW 개발 공통 경력 5~15년 정규직 서울/경기 2026. 09. 28, 14:59까지 D -17 [Tech] RX 기술 리더(팀장) Core Tech(AI/DATA/Cloud/보안) Data/AI(인공지능) 경력 10년 이상 정규직 서울/경기 2026. 09. 28, 14:59까지 D -17 [Tech] Infra Security Engineer - 북미 기술 보안 주재원(네트웍",
     "discoveredBy": "official_page",
     "reason": "not_job_posting",
-    "checkedAt": "2026-09-11T22:36:42+09:00"
+    "checkedAt": "2026-09-11T23:53:30+09:00"
   },
   {
     "company": "현대오토에버",
@@ -462,7 +455,7 @@
     "snippet": "[Tech] Service Strategy - Robot 플랫폼 기술 기획 Core Tech(AI/DATA/Cloud/보안) Strategy 경력 10년 이상 정규직 서울/경기 2026. 09. 28, 14:59까지 D -17 [공통] Financial & Investment analysis - 투자분석 업무 공통/신사업/기타 경영기획/관리/지원 경력 3년 이상 정규직 서울/경기 2026. 09. 28, 14:59까지 D -17 [EnIT] Solution Developer - SAP ERP ABAP 개발 및 솔루션 기획 Enterprise IT 솔루션아키텍트/개발(ERP/CRM/MS 등) 경력 7~20년 정규직 서울/경기 2026. 09. 28, 14:59까지 D -17 [SDx] IT PM - Robot MES 개발 총괄 PM SDx(스마트제조) Project Manager 경력 13년 이상 정규직 서울/경기 2026. 09. 28, 14:59까지 D -17 [EnIT] IT Architect - Application Architect Enterprise IT IT아키텍트/기획/품질 경력 10~20년 정규직 서울/경기 2026. 09. 28, 14:59까지 D -17 [EnIT] Backend Developer - 인증/계정플랫폼 개발 및 운영 Enterprise IT SW 개발 공통 경력 7~15년 정규직 서울/경기 2026. 09. 28, 14:59까지 D -17 [EnIT] Frontend Developer - 계정 시스템 프론트엔드 개발 및 운영 Enterprise IT SW 개발 공통 경력 5~15년 정규직 서울/경기 2026. 09. 28, 14:59까지 D -17 [Tech] RX 기술 리더(팀장) Core Tech(AI/DATA/Cloud/보안) Data/AI(인공지능) 경력 10년 이상 정규직 서울/경기 2026. 09. 28, 14:59까지 D -17 [Tech] Infra Security Engineer - 북미 기술 보안 주재원(네트웍",
     "discoveredBy": "official_page",
     "reason": "not_job_posting",
-    "checkedAt": "2026-09-11T22:36:42+09:00"
+    "checkedAt": "2026-09-11T23:53:30+09:00"
   },
   {
     "company": "현대오토에버",
@@ -471,7 +464,7 @@
     "snippet": "[Tech] Service Strategy - Robot 플랫폼 기술 기획 Core Tech(AI/DATA/Cloud/보안) Strategy 경력 10년 이상 정규직 서울/경기 2026. 09. 28, 14:59까지 D -17 [공통] Financial & Investment analysis - 투자분석 업무 공통/신사업/기타 경영기획/관리/지원 경력 3년 이상 정규직 서울/경기 2026. 09. 28, 14:59까지 D -17 [EnIT] Solution Developer - SAP ERP ABAP 개발 및 솔루션 기획 Enterprise IT 솔루션아키텍트/개발(ERP/CRM/MS 등) 경력 7~20년 정규직 서울/경기 2026. 09. 28, 14:59까지 D -17 [SDx] IT PM - Robot MES 개발 총괄 PM SDx(스마트제조) Project Manager 경력 13년 이상 정규직 서울/경기 2026. 09. 28, 14:59까지 D -17 [EnIT] IT Architect - Application Architect Enterprise IT IT아키텍트/기획/품질 경력 10~20년 정규직 서울/경기 2026. 09. 28, 14:59까지 D -17 [EnIT] Backend Developer - 인증/계정플랫폼 개발 및 운영 Enterprise IT SW 개발 공통 경력 7~15년 정규직 서울/경기 2026. 09. 28, 14:59까지 D -17 [EnIT] Frontend Developer - 계정 시스템 프론트엔드 개발 및 운영 Enterprise IT SW 개발 공통 경력 5~15년 정규직 서울/경기 2026. 09. 28, 14:59까지 D -17 [Tech] RX 기술 리더(팀장) Core Tech(AI/DATA/Cloud/보안) Data/AI(인공지능) 경력 10년 이상 정규직 서울/경기 2026. 09. 28, 14:59까지 D -17 [Tech] Infra Security Engineer - 북미 기술 보안 주재원(네트웍",
     "discoveredBy": "official_page",
     "reason": "not_job_posting",
-    "checkedAt": "2026-09-11T22:36:42+09:00"
+    "checkedAt": "2026-09-11T23:53:30+09:00"
   },
   {
     "company": "현대오토에버",
@@ -480,7 +473,7 @@
     "snippet": "[Tech] Service Strategy - Robot 플랫폼 기술 기획 Core Tech(AI/DATA/Cloud/보안) Strategy 경력 10년 이상 정규직 서울/경기 2026. 09. 28, 14:59까지 D -17 [공통] Financial & Investment analysis - 투자분석 업무 공통/신사업/기타 경영기획/관리/지원 경력 3년 이상 정규직 서울/경기 2026. 09. 28, 14:59까지 D -17 [EnIT] Solution Developer - SAP ERP ABAP 개발 및 솔루션 기획 Enterprise IT 솔루션아키텍트/개발(ERP/CRM/MS 등) 경력 7~20년 정규직 서울/경기 2026. 09. 28, 14:59까지 D -17 [SDx] IT PM - Robot MES 개발 총괄 PM SDx(스마트제조) Project Manager 경력 13년 이상 정규직 서울/경기 2026. 09. 28, 14:59까지 D -17 [EnIT] IT Architect - Application Architect Enterprise IT IT아키텍트/기획/품질 경력 10~20년 정규직 서울/경기 2026. 09. 28, 14:59까지 D -17 [EnIT] Backend Developer - 인증/계정플랫폼 개발 및 운영 Enterprise IT SW 개발 공통 경력 7~15년 정규직 서울/경기 2026. 09. 28, 14:59까지 D -17 [EnIT] Frontend Developer - 계정 시스템 프론트엔드 개발 및 운영 Enterprise IT SW 개발 공통 경력 5~15년 정규직 서울/경기 2026. 09. 28, 14:59까지 D -17 [Tech] RX 기술 리더(팀장) Core Tech(AI/DATA/Cloud/보안) Data/AI(인공지능) 경력 10년 이상 정규직 서울/경기 2026. 09. 28, 14:59까지 D -17 [Tech] Infra Security Engineer - 북미 기술 보안 주재원(네트웍",
     "discoveredBy": "official_page",
     "reason": "not_job_posting",
-    "checkedAt": "2026-09-11T22:36:42+09:00"
+    "checkedAt": "2026-09-11T23:53:30+09:00"
   },
   {
     "company": "현대오토에버",
@@ -489,7 +482,7 @@
     "snippet": "[Tech] Service Strategy - Robot 플랫폼 기술 기획 Core Tech(AI/DATA/Cloud/보안) Strategy 경력 10년 이상 정규직 서울/경기 2026. 09. 28, 14:59까지 D -17 [공통] Financial & Investment analysis - 투자분석 업무 공통/신사업/기타 경영기획/관리/지원 경력 3년 이상 정규직 서울/경기 2026. 09. 28, 14:59까지 D -17 [EnIT] Solution Developer - SAP ERP ABAP 개발 및 솔루션 기획 Enterprise IT 솔루션아키텍트/개발(ERP/CRM/MS 등) 경력 7~20년 정규직 서울/경기 2026. 09. 28, 14:59까지 D -17 [SDx] IT PM - Robot MES 개발 총괄 PM SDx(스마트제조) Project Manager 경력 13년 이상 정규직 서울/경기 2026. 09. 28, 14:59까지 D -17 [EnIT] IT Architect - Application Architect Enterprise IT IT아키텍트/기획/품질 경력 10~20년 정규직 서울/경기 2026. 09. 28, 14:59까지 D -17 [EnIT] Backend Developer - 인증/계정플랫폼 개발 및 운영 Enterprise IT SW 개발 공통 경력 7~15년 정규직 서울/경기 2026. 09. 28, 14:59까지 D -17 [EnIT] Frontend Developer - 계정 시스템 프론트엔드 개발 및 운영 Enterprise IT SW 개발 공통 경력 5~15년 정규직 서울/경기 2026. 09. 28, 14:59까지 D -17 [Tech] RX 기술 리더(팀장) Core Tech(AI/DATA/Cloud/보안) Data/AI(인공지능) 경력 10년 이상 정규직 서울/경기 2026. 09. 28, 14:59까지 D -17 [Tech] Infra Security Engineer - 북미 기술 보안 주재원(네트웍",
     "discoveredBy": "official_page",
     "reason": "not_job_posting",
-    "checkedAt": "2026-09-11T22:36:42+09:00"
+    "checkedAt": "2026-09-11T23:53:30+09:00"
   },
   {
     "company": "현대오토에버",
@@ -498,7 +491,7 @@
     "snippet": "[Tech] Service Strategy - Robot 플랫폼 기술 기획 Core Tech(AI/DATA/Cloud/보안) Strategy 경력 10년 이상 정규직 서울/경기 2026. 09. 28, 14:59까지 D -17 [공통] Financial & Investment analysis - 투자분석 업무 공통/신사업/기타 경영기획/관리/지원 경력 3년 이상 정규직 서울/경기 2026. 09. 28, 14:59까지 D -17 [EnIT] Solution Developer - SAP ERP ABAP 개발 및 솔루션 기획 Enterprise IT 솔루션아키텍트/개발(ERP/CRM/MS 등) 경력 7~20년 정규직 서울/경기 2026. 09. 28, 14:59까지 D -17 [SDx] IT PM - Robot MES 개발 총괄 PM SDx(스마트제조) Project Manager 경력 13년 이상 정규직 서울/경기 2026. 09. 28, 14:59까지 D -17 [EnIT] IT Architect - Application Architect Enterprise IT IT아키텍트/기획/품질 경력 10~20년 정규직 서울/경기 2026. 09. 28, 14:59까지 D -17 [EnIT] Backend Developer - 인증/계정플랫폼 개발 및 운영 Enterprise IT SW 개발 공통 경력 7~15년 정규직 서울/경기 2026. 09. 28, 14:59까지 D -17 [EnIT] Frontend Developer - 계정 시스템 프론트엔드 개발 및 운영 Enterprise IT SW 개발 공통 경력 5~15년 정규직 서울/경기 2026. 09. 28, 14:59까지 D -17 [Tech] RX 기술 리더(팀장) Core Tech(AI/DATA/Cloud/보안) Data/AI(인공지능) 경력 10년 이상 정규직 서울/경기 2026. 09. 28, 14:59까지 D -17 [Tech] Infra Security Engineer - 북미 기술 보안 주재원(네트웍",
     "discoveredBy": "official_page",
     "reason": "not_job_posting",
-    "checkedAt": "2026-09-11T22:36:42+09:00"
+    "checkedAt": "2026-09-11T23:53:30+09:00"
   },
   {
     "company": "현대오토에버",
@@ -507,7 +500,7 @@
     "snippet": "[Tech] Service Strategy - Robot 플랫폼 기술 기획 Core Tech(AI/DATA/Cloud/보안) Strategy 경력 10년 이상 정규직 서울/경기 2026. 09. 28, 14:59까지 D -17 [공통] Financial & Investment analysis - 투자분석 업무 공통/신사업/기타 경영기획/관리/지원 경력 3년 이상 정규직 서울/경기 2026. 09. 28, 14:59까지 D -17 [EnIT] Solution Developer - SAP ERP ABAP 개발 및 솔루션 기획 Enterprise IT 솔루션아키텍트/개발(ERP/CRM/MS 등) 경력 7~20년 정규직 서울/경기 2026. 09. 28, 14:59까지 D -17 [SDx] IT PM - Robot MES 개발 총괄 PM SDx(스마트제조) Project Manager 경력 13년 이상 정규직 서울/경기 2026. 09. 28, 14:59까지 D -17 [EnIT] IT Architect - Application Architect Enterprise IT IT아키텍트/기획/품질 경력 10~20년 정규직 서울/경기 2026. 09. 28, 14:59까지 D -17 [EnIT] Backend Developer - 인증/계정플랫폼 개발 및 운영 Enterprise IT SW 개발 공통 경력 7~15년 정규직 서울/경기 2026. 09. 28, 14:59까지 D -17 [EnIT] Frontend Developer - 계정 시스템 프론트엔드 개발 및 운영 Enterprise IT SW 개발 공통 경력 5~15년 정규직 서울/경기 2026. 09. 28, 14:59까지 D -17 [Tech] RX 기술 리더(팀장) Core Tech(AI/DATA/Cloud/보안) Data/AI(인공지능) 경력 10년 이상 정규직 서울/경기 2026. 09. 28, 14:59까지 D -17 [Tech] Infra Security Engineer - 북미 기술 보안 주재원(네트웍",
     "discoveredBy": "official_page",
     "reason": "not_job_posting",
-    "checkedAt": "2026-09-11T22:36:42+09:00"
+    "checkedAt": "2026-09-11T23:53:30+09:00"
   },
   {
     "company": "현대오토에버",
@@ -516,7 +509,7 @@
     "snippet": "[Tech] Service Strategy - Robot 플랫폼 기술 기획 Core Tech(AI/DATA/Cloud/보안) Strategy 경력 10년 이상 정규직 서울/경기 2026. 09. 28, 14:59까지 D -17 [공통] Financial & Investment analysis - 투자분석 업무 공통/신사업/기타 경영기획/관리/지원 경력 3년 이상 정규직 서울/경기 2026. 09. 28, 14:59까지 D -17 [EnIT] Solution Developer - SAP ERP ABAP 개발 및 솔루션 기획 Enterprise IT 솔루션아키텍트/개발(ERP/CRM/MS 등) 경력 7~20년 정규직 서울/경기 2026. 09. 28, 14:59까지 D -17 [SDx] IT PM - Robot MES 개발 총괄 PM SDx(스마트제조) Project Manager 경력 13년 이상 정규직 서울/경기 2026. 09. 28, 14:59까지 D -17 [EnIT] IT Architect - Application Architect Enterprise IT IT아키텍트/기획/품질 경력 10~20년 정규직 서울/경기 2026. 09. 28, 14:59까지 D -17 [EnIT] Backend Developer - 인증/계정플랫폼 개발 및 운영 Enterprise IT SW 개발 공통 경력 7~15년 정규직 서울/경기 2026. 09. 28, 14:59까지 D -17 [EnIT] Frontend Developer - 계정 시스템 프론트엔드 개발 및 운영 Enterprise IT SW 개발 공통 경력 5~15년 정규직 서울/경기 2026. 09. 28, 14:59까지 D -17 [Tech] RX 기술 리더(팀장) Core Tech(AI/DATA/Cloud/보안) Data/AI(인공지능) 경력 10년 이상 정규직 서울/경기 2026. 09. 28, 14:59까지 D -17 [Tech] Infra Security Engineer - 북미 기술 보안 주재원(네트웍",
     "discoveredBy": "official_page",
     "reason": "not_job_posting",
-    "checkedAt": "2026-09-11T22:36:42+09:00"
+    "checkedAt": "2026-09-11T23:53:30+09:00"
   },
   {
     "company": "현대오토에버",
@@ -525,7 +518,7 @@
     "snippet": "[Tech] Service Strategy - Robot 플랫폼 기술 기획 Core Tech(AI/DATA/Cloud/보안) Strategy 경력 10년 이상 정규직 서울/경기 2026. 09. 28, 14:59까지 D -17 [공통] Financial & Investment analysis - 투자분석 업무 공통/신사업/기타 경영기획/관리/지원 경력 3년 이상 정규직 서울/경기 2026. 09. 28, 14:59까지 D -17 [EnIT] Solution Developer - SAP ERP ABAP 개발 및 솔루션 기획 Enterprise IT 솔루션아키텍트/개발(ERP/CRM/MS 등) 경력 7~20년 정규직 서울/경기 2026. 09. 28, 14:59까지 D -17 [SDx] IT PM - Robot MES 개발 총괄 PM SDx(스마트제조) Project Manager 경력 13년 이상 정규직 서울/경기 2026. 09. 28, 14:59까지 D -17 [EnIT] IT Architect - Application Architect Enterprise IT IT아키텍트/기획/품질 경력 10~20년 정규직 서울/경기 2026. 09. 28, 14:59까지 D -17 [EnIT] Backend Developer - 인증/계정플랫폼 개발 및 운영 Enterprise IT SW 개발 공통 경력 7~15년 정규직 서울/경기 2026. 09. 28, 14:59까지 D -17 [EnIT] Frontend Developer - 계정 시스템 프론트엔드 개발 및 운영 Enterprise IT SW 개발 공통 경력 5~15년 정규직 서울/경기 2026. 09. 28, 14:59까지 D -17 [Tech] RX 기술 리더(팀장) Core Tech(AI/DATA/Cloud/보안) Data/AI(인공지능) 경력 10년 이상 정규직 서울/경기 2026. 09. 28, 14:59까지 D -17 [Tech] Infra Security Engineer - 북미 기술 보안 주재원(네트웍",
     "discoveredBy": "official_page",
     "reason": "not_job_posting",
-    "checkedAt": "2026-09-11T22:36:42+09:00"
+    "checkedAt": "2026-09-11T23:53:30+09:00"
   },
   {
     "company": "현대오토에버",
@@ -534,7 +527,7 @@
     "snippet": "[Tech] Service Strategy - Robot 플랫폼 기술 기획 Core Tech(AI/DATA/Cloud/보안) Strategy 경력 10년 이상 정규직 서울/경기 2026. 09. 28, 14:59까지 D -17 [공통] Financial & Investment analysis - 투자분석 업무 공통/신사업/기타 경영기획/관리/지원 경력 3년 이상 정규직 서울/경기 2026. 09. 28, 14:59까지 D -17 [EnIT] Solution Developer - SAP ERP ABAP 개발 및 솔루션 기획 Enterprise IT 솔루션아키텍트/개발(ERP/CRM/MS 등) 경력 7~20년 정규직 서울/경기 2026. 09. 28, 14:59까지 D -17 [SDx] IT PM - Robot MES 개발 총괄 PM SDx(스마트제조) Project Manager 경력 13년 이상 정규직 서울/경기 2026. 09. 28, 14:59까지 D -17 [EnIT] IT Architect - Application Architect Enterprise IT IT아키텍트/기획/품질 경력 10~20년 정규직 서울/경기 2026. 09. 28, 14:59까지 D -17 [EnIT] Backend Developer - 인증/계정플랫폼 개발 및 운영 Enterprise IT SW 개발 공통 경력 7~15년 정규직 서울/경기 2026. 09. 28, 14:59까지 D -17 [EnIT] Frontend Developer - 계정 시스템 프론트엔드 개발 및 운영 Enterprise IT SW 개발 공통 경력 5~15년 정규직 서울/경기 2026. 09. 28, 14:59까지 D -17 [Tech] RX 기술 리더(팀장) Core Tech(AI/DATA/Cloud/보안) Data/AI(인공지능) 경력 10년 이상 정규직 서울/경기 2026. 09. 28, 14:59까지 D -17 [Tech] Infra Security Engineer - 북미 기술 보안 주재원(네트웍",
     "discoveredBy": "official_page",
     "reason": "not_job_posting",
-    "checkedAt": "2026-09-11T22:36:42+09:00"
+    "checkedAt": "2026-09-11T23:53:30+09:00"
   },
   {
     "company": "현대오토에버",
@@ -543,7 +536,7 @@
     "snippet": "[Tech] Service Strategy - Robot 플랫폼 기술 기획 Core Tech(AI/DATA/Cloud/보안) Strategy 경력 10년 이상 정규직 서울/경기 2026. 09. 28, 14:59까지 D -17 [공통] Financial & Investment analysis - 투자분석 업무 공통/신사업/기타 경영기획/관리/지원 경력 3년 이상 정규직 서울/경기 2026. 09. 28, 14:59까지 D -17 [EnIT] Solution Developer - SAP ERP ABAP 개발 및 솔루션 기획 Enterprise IT 솔루션아키텍트/개발(ERP/CRM/MS 등) 경력 7~20년 정규직 서울/경기 2026. 09. 28, 14:59까지 D -17 [SDx] IT PM - Robot MES 개발 총괄 PM SDx(스마트제조) Project Manager 경력 13년 이상 정규직 서울/경기 2026. 09. 28, 14:59까지 D -17 [EnIT] IT Architect - Application Architect Enterprise IT IT아키텍트/기획/품질 경력 10~20년 정규직 서울/경기 2026. 09. 28, 14:59까지 D -17 [EnIT] Backend Developer - 인증/계정플랫폼 개발 및 운영 Enterprise IT SW 개발 공통 경력 7~15년 정규직 서울/경기 2026. 09. 28, 14:59까지 D -17 [EnIT] Frontend Developer - 계정 시스템 프론트엔드 개발 및 운영 Enterprise IT SW 개발 공통 경력 5~15년 정규직 서울/경기 2026. 09. 28, 14:59까지 D -17 [Tech] RX 기술 리더(팀장) Core Tech(AI/DATA/Cloud/보안) Data/AI(인공지능) 경력 10년 이상 정규직 서울/경기 2026. 09. 28, 14:59까지 D -17 [Tech] Infra Security Engineer - 북미 기술 보안 주재원(네트웍",
     "discoveredBy": "official_page",
     "reason": "not_job_posting",
-    "checkedAt": "2026-09-11T22:36:42+09:00"
+    "checkedAt": "2026-09-11T23:53:30+09:00"
   },
   {
     "company": "현대오토에버",
@@ -552,7 +545,7 @@
     "snippet": "[Tech] Service Strategy - Robot 플랫폼 기술 기획 Core Tech(AI/DATA/Cloud/보안) Strategy 경력 10년 이상 정규직 서울/경기 2026. 09. 28, 14:59까지 D -17 [공통] Financial & Investment analysis - 투자분석 업무 공통/신사업/기타 경영기획/관리/지원 경력 3년 이상 정규직 서울/경기 2026. 09. 28, 14:59까지 D -17 [EnIT] Solution Developer - SAP ERP ABAP 개발 및 솔루션 기획 Enterprise IT 솔루션아키텍트/개발(ERP/CRM/MS 등) 경력 7~20년 정규직 서울/경기 2026. 09. 28, 14:59까지 D -17 [SDx] IT PM - Robot MES 개발 총괄 PM SDx(스마트제조) Project Manager 경력 13년 이상 정규직 서울/경기 2026. 09. 28, 14:59까지 D -17 [EnIT] IT Architect - Application Architect Enterprise IT IT아키텍트/기획/품질 경력 10~20년 정규직 서울/경기 2026. 09. 28, 14:59까지 D -17 [EnIT] Backend Developer - 인증/계정플랫폼 개발 및 운영 Enterprise IT SW 개발 공통 경력 7~15년 정규직 서울/경기 2026. 09. 28, 14:59까지 D -17 [EnIT] Frontend Developer - 계정 시스템 프론트엔드 개발 및 운영 Enterprise IT SW 개발 공통 경력 5~15년 정규직 서울/경기 2026. 09. 28, 14:59까지 D -17 [Tech] RX 기술 리더(팀장) Core Tech(AI/DATA/Cloud/보안) Data/AI(인공지능) 경력 10년 이상 정규직 서울/경기 2026. 09. 28, 14:59까지 D -17 [Tech] Infra Security Engineer - 북미 기술 보안 주재원(네트웍",
     "discoveredBy": "official_page",
     "reason": "not_job_posting",
-    "checkedAt": "2026-09-11T22:36:42+09:00"
+    "checkedAt": "2026-09-11T23:53:30+09:00"
   },
   {
     "company": "현대오토에버",
@@ -561,7 +554,16 @@
     "snippet": "[Tech] Service Strategy - Robot 플랫폼 기술 기획 Core Tech(AI/DATA/Cloud/보안) Strategy 경력 10년 이상 정규직 서울/경기 2026. 09. 28, 14:59까지 D -17 [공통] Financial & Investment analysis - 투자분석 업무 공통/신사업/기타 경영기획/관리/지원 경력 3년 이상 정규직 서울/경기 2026. 09. 28, 14:59까지 D -17 [EnIT] Solution Developer - SAP ERP ABAP 개발 및 솔루션 기획 Enterprise IT 솔루션아키텍트/개발(ERP/CRM/MS 등) 경력 7~20년 정규직 서울/경기 2026. 09. 28, 14:59까지 D -17 [SDx] IT PM - Robot MES 개발 총괄 PM SDx(스마트제조) Project Manager 경력 13년 이상 정규직 서울/경기 2026. 09. 28, 14:59까지 D -17 [EnIT] IT Architect - Application Architect Enterprise IT IT아키텍트/기획/품질 경력 10~20년 정규직 서울/경기 2026. 09. 28, 14:59까지 D -17 [EnIT] Backend Developer - 인증/계정플랫폼 개발 및 운영 Enterprise IT SW 개발 공통 경력 7~15년 정규직 서울/경기 2026. 09. 28, 14:59까지 D -17 [EnIT] Frontend Developer - 계정 시스템 프론트엔드 개발 및 운영 Enterprise IT SW 개발 공통 경력 5~15년 정규직 서울/경기 2026. 09. 28, 14:59까지 D -17 [Tech] RX 기술 리더(팀장) Core Tech(AI/DATA/Cloud/보안) Data/AI(인공지능) 경력 10년 이상 정규직 서울/경기 2026. 09. 28, 14:59까지 D -17 [Tech] Infra Security Engineer - 북미 기술 보안 주재원(네트웍",
     "discoveredBy": "official_page",
     "reason": "not_job_posting",
-    "checkedAt": "2026-09-11T22:36:42+09:00"
+    "checkedAt": "2026-09-11T23:53:30+09:00"
+  },
+  {
+    "company": "현대오토에버",
+    "url": "https://career.hyundai-autoever.com/ko/o/220736",
+    "title": "[SDx] IT PM - Agile SDx(스마트제조) Project Manager 경력 3년 이상 정규직 서울/경기 2026. 09. 28, 14:59까지 D -17",
+    "snippet": "[Tech] Service Strategy - Robot 플랫폼 기술 기획 Core Tech(AI/DATA/Cloud/보안) Strategy 경력 10년 이상 정규직 서울/경기 2026. 09. 28, 14:59까지 D -17 [공통] Financial & Investment analysis - 투자분석 업무 공통/신사업/기타 경영기획/관리/지원 경력 3년 이상 정규직 서울/경기 2026. 09. 28, 14:59까지 D -17 [EnIT] Solution Developer - SAP ERP ABAP 개발 및 솔루션 기획 Enterprise IT 솔루션아키텍트/개발(ERP/CRM/MS 등) 경력 7~20년 정규직 서울/경기 2026. 09. 28, 14:59까지 D -17 [SDx] IT PM - Robot MES 개발 총괄 PM SDx(스마트제조) Project Manager 경력 13년 이상 정규직 서울/경기 2026. 09. 28, 14:59까지 D -17 [EnIT] IT Architect - Application Architect Enterprise IT IT아키텍트/기획/품질 경력 10~20년 정규직 서울/경기 2026. 09. 28, 14:59까지 D -17 [EnIT] Backend Developer - 인증/계정플랫폼 개발 및 운영 Enterprise IT SW 개발 공통 경력 7~15년 정규직 서울/경기 2026. 09. 28, 14:59까지 D -17 [EnIT] Frontend Developer - 계정 시스템 프론트엔드 개발 및 운영 Enterprise IT SW 개발 공통 경력 5~15년 정규직 서울/경기 2026. 09. 28, 14:59까지 D -17 [Tech] RX 기술 리더(팀장) Core Tech(AI/DATA/Cloud/보안) Data/AI(인공지능) 경력 10년 이상 정규직 서울/경기 2026. 09. 28, 14:59까지 D -17 [Tech] Infra Security Engineer - 북미 기술 보안 주재원(네트웍",
+    "discoveredBy": "official_page",
+    "reason": "not_job_posting",
+    "checkedAt": "2026-09-11T23:53:30+09:00"
   },
   {
     "company": "현대오토에버",
@@ -570,7 +572,7 @@
     "snippet": "[Tech] Service Strategy - Robot 플랫폼 기술 기획 Core Tech(AI/DATA/Cloud/보안) Strategy 경력 10년 이상 정규직 서울/경기 2026. 09. 28, 14:59까지 D -17 [공통] Financial & Investment analysis - 투자분석 업무 공통/신사업/기타 경영기획/관리/지원 경력 3년 이상 정규직 서울/경기 2026. 09. 28, 14:59까지 D -17 [EnIT] Solution Developer - SAP ERP ABAP 개발 및 솔루션 기획 Enterprise IT 솔루션아키텍트/개발(ERP/CRM/MS 등) 경력 7~20년 정규직 서울/경기 2026. 09. 28, 14:59까지 D -17 [SDx] IT PM - Robot MES 개발 총괄 PM SDx(스마트제조) Project Manager 경력 13년 이상 정규직 서울/경기 2026. 09. 28, 14:59까지 D -17 [EnIT] IT Architect - Application Architect Enterprise IT IT아키텍트/기획/품질 경력 10~20년 정규직 서울/경기 2026. 09. 28, 14:59까지 D -17 [EnIT] Backend Developer - 인증/계정플랫폼 개발 및 운영 Enterprise IT SW 개발 공통 경력 7~15년 정규직 서울/경기 2026. 09. 28, 14:59까지 D -17 [EnIT] Frontend Developer - 계정 시스템 프론트엔드 개발 및 운영 Enterprise IT SW 개발 공통 경력 5~15년 정규직 서울/경기 2026. 09. 28, 14:59까지 D -17 [Tech] RX 기술 리더(팀장) Core Tech(AI/DATA/Cloud/보안) Data/AI(인공지능) 경력 10년 이상 정규직 서울/경기 2026. 09. 28, 14:59까지 D -17 [Tech] Infra Security Engineer - 북미 기술 보안 주재원(네트웍",
     "discoveredBy": "official_page",
     "reason": "not_job_posting",
-    "checkedAt": "2026-09-11T22:36:42+09:00"
+    "checkedAt": "2026-09-11T23:53:30+09:00"
   },
   {
     "company": "현대오토에버",
@@ -579,7 +581,16 @@
     "snippet": "[Tech] Service Strategy - Robot 플랫폼 기술 기획 Core Tech(AI/DATA/Cloud/보안) Strategy 경력 10년 이상 정규직 서울/경기 2026. 09. 28, 14:59까지 D -17 [공통] Financial & Investment analysis - 투자분석 업무 공통/신사업/기타 경영기획/관리/지원 경력 3년 이상 정규직 서울/경기 2026. 09. 28, 14:59까지 D -17 [EnIT] Solution Developer - SAP ERP ABAP 개발 및 솔루션 기획 Enterprise IT 솔루션아키텍트/개발(ERP/CRM/MS 등) 경력 7~20년 정규직 서울/경기 2026. 09. 28, 14:59까지 D -17 [SDx] IT PM - Robot MES 개발 총괄 PM SDx(스마트제조) Project Manager 경력 13년 이상 정규직 서울/경기 2026. 09. 28, 14:59까지 D -17 [EnIT] IT Architect - Application Architect Enterprise IT IT아키텍트/기획/품질 경력 10~20년 정규직 서울/경기 2026. 09. 28, 14:59까지 D -17 [EnIT] Backend Developer - 인증/계정플랫폼 개발 및 운영 Enterprise IT SW 개발 공통 경력 7~15년 정규직 서울/경기 2026. 09. 28, 14:59까지 D -17 [EnIT] Frontend Developer - 계정 시스템 프론트엔드 개발 및 운영 Enterprise IT SW 개발 공통 경력 5~15년 정규직 서울/경기 2026. 09. 28, 14:59까지 D -17 [Tech] RX 기술 리더(팀장) Core Tech(AI/DATA/Cloud/보안) Data/AI(인공지능) 경력 10년 이상 정규직 서울/경기 2026. 09. 28, 14:59까지 D -17 [Tech] Infra Security Engineer - 북미 기술 보안 주재원(네트웍",
     "discoveredBy": "official_page",
     "reason": "not_job_posting",
-    "checkedAt": "2026-09-11T22:36:42+09:00"
+    "checkedAt": "2026-09-11T23:53:30+09:00"
+  },
+  {
+    "company": "현대오토에버",
+    "url": "https://career.hyundai-autoever.com/ko/o/215834",
+    "title": "[EnIT] Service Analyst - SAP Presales 및 모듈 컨설팅 Enterprise IT 경력 5년 이상 정규직 서울/경기 2026. 09. 28, 14:59까지 D -17",
+    "snippet": "[Tech] Service Strategy - Robot 플랫폼 기술 기획 Core Tech(AI/DATA/Cloud/보안) Strategy 경력 10년 이상 정규직 서울/경기 2026. 09. 28, 14:59까지 D -17 [공통] Financial & Investment analysis - 투자분석 업무 공통/신사업/기타 경영기획/관리/지원 경력 3년 이상 정규직 서울/경기 2026. 09. 28, 14:59까지 D -17 [EnIT] Solution Developer - SAP ERP ABAP 개발 및 솔루션 기획 Enterprise IT 솔루션아키텍트/개발(ERP/CRM/MS 등) 경력 7~20년 정규직 서울/경기 2026. 09. 28, 14:59까지 D -17 [SDx] IT PM - Robot MES 개발 총괄 PM SDx(스마트제조) Project Manager 경력 13년 이상 정규직 서울/경기 2026. 09. 28, 14:59까지 D -17 [EnIT] IT Architect - Application Architect Enterprise IT IT아키텍트/기획/품질 경력 10~20년 정규직 서울/경기 2026. 09. 28, 14:59까지 D -17 [EnIT] Backend Developer - 인증/계정플랫폼 개발 및 운영 Enterprise IT SW 개발 공통 경력 7~15년 정규직 서울/경기 2026. 09. 28, 14:59까지 D -17 [EnIT] Frontend Developer - 계정 시스템 프론트엔드 개발 및 운영 Enterprise IT SW 개발 공통 경력 5~15년 정규직 서울/경기 2026. 09. 28, 14:59까지 D -17 [Tech] RX 기술 리더(팀장) Core Tech(AI/DATA/Cloud/보안) Data/AI(인공지능) 경력 10년 이상 정규직 서울/경기 2026. 09. 28, 14:59까지 D -17 [Tech] Infra Security Engineer - 북미 기술 보안 주재원(네트웍",
+    "discoveredBy": "official_page",
+    "reason": "not_job_posting",
+    "checkedAt": "2026-09-11T23:53:30+09:00"
   },
   {
     "company": "현대오토에버",
@@ -588,7 +599,7 @@
     "snippet": "[Tech] Service Strategy - Robot 플랫폼 기술 기획 Core Tech(AI/DATA/Cloud/보안) Strategy 경력 10년 이상 정규직 서울/경기 2026. 09. 28, 14:59까지 D -17 [공통] Financial & Investment analysis - 투자분석 업무 공통/신사업/기타 경영기획/관리/지원 경력 3년 이상 정규직 서울/경기 2026. 09. 28, 14:59까지 D -17 [EnIT] Solution Developer - SAP ERP ABAP 개발 및 솔루션 기획 Enterprise IT 솔루션아키텍트/개발(ERP/CRM/MS 등) 경력 7~20년 정규직 서울/경기 2026. 09. 28, 14:59까지 D -17 [SDx] IT PM - Robot MES 개발 총괄 PM SDx(스마트제조) Project Manager 경력 13년 이상 정규직 서울/경기 2026. 09. 28, 14:59까지 D -17 [EnIT] IT Architect - Application Architect Enterprise IT IT아키텍트/기획/품질 경력 10~20년 정규직 서울/경기 2026. 09. 28, 14:59까지 D -17 [EnIT] Backend Developer - 인증/계정플랫폼 개발 및 운영 Enterprise IT SW 개발 공통 경력 7~15년 정규직 서울/경기 2026. 09. 28, 14:59까지 D -17 [EnIT] Frontend Developer - 계정 시스템 프론트엔드 개발 및 운영 Enterprise IT SW 개발 공통 경력 5~15년 정규직 서울/경기 2026. 09. 28, 14:59까지 D -17 [Tech] RX 기술 리더(팀장) Core Tech(AI/DATA/Cloud/보안) Data/AI(인공지능) 경력 10년 이상 정규직 서울/경기 2026. 09. 28, 14:59까지 D -17 [Tech] Infra Security Engineer - 북미 기술 보안 주재원(네트웍",
     "discoveredBy": "official_page",
     "reason": "not_job_posting",
-    "checkedAt": "2026-09-11T22:36:42+09:00"
+    "checkedAt": "2026-09-11T23:53:30+09:00"
   },
   {
     "company": "현대오토에버",
@@ -597,7 +608,7 @@
     "snippet": "[Tech] Service Strategy - Robot 플랫폼 기술 기획 Core Tech(AI/DATA/Cloud/보안) Strategy 경력 10년 이상 정규직 서울/경기 2026. 09. 28, 14:59까지 D -17 [공통] Financial & Investment analysis - 투자분석 업무 공통/신사업/기타 경영기획/관리/지원 경력 3년 이상 정규직 서울/경기 2026. 09. 28, 14:59까지 D -17 [EnIT] Solution Developer - SAP ERP ABAP 개발 및 솔루션 기획 Enterprise IT 솔루션아키텍트/개발(ERP/CRM/MS 등) 경력 7~20년 정규직 서울/경기 2026. 09. 28, 14:59까지 D -17 [SDx] IT PM - Robot MES 개발 총괄 PM SDx(스마트제조) Project Manager 경력 13년 이상 정규직 서울/경기 2026. 09. 28, 14:59까지 D -17 [EnIT] IT Architect - Application Architect Enterprise IT IT아키텍트/기획/품질 경력 10~20년 정규직 서울/경기 2026. 09. 28, 14:59까지 D -17 [EnIT] Backend Developer - 인증/계정플랫폼 개발 및 운영 Enterprise IT SW 개발 공통 경력 7~15년 정규직 서울/경기 2026. 09. 28, 14:59까지 D -17 [EnIT] Frontend Developer - 계정 시스템 프론트엔드 개발 및 운영 Enterprise IT SW 개발 공통 경력 5~15년 정규직 서울/경기 2026. 09. 28, 14:59까지 D -17 [Tech] RX 기술 리더(팀장) Core Tech(AI/DATA/Cloud/보안) Data/AI(인공지능) 경력 10년 이상 정규직 서울/경기 2026. 09. 28, 14:59까지 D -17 [Tech] Infra Security Engineer - 북미 기술 보안 주재원(네트웍",
     "discoveredBy": "official_page",
     "reason": "not_job_posting",
-    "checkedAt": "2026-09-11T22:36:42+09:00"
+    "checkedAt": "2026-09-11T23:53:30+09:00"
   },
   {
     "company": "현대오토에버",
@@ -606,7 +617,16 @@
     "snippet": "[Tech] Service Strategy - Robot 플랫폼 기술 기획 Core Tech(AI/DATA/Cloud/보안) Strategy 경력 10년 이상 정규직 서울/경기 2026. 09. 28, 14:59까지 D -17 [공통] Financial & Investment analysis - 투자분석 업무 공통/신사업/기타 경영기획/관리/지원 경력 3년 이상 정규직 서울/경기 2026. 09. 28, 14:59까지 D -17 [EnIT] Solution Developer - SAP ERP ABAP 개발 및 솔루션 기획 Enterprise IT 솔루션아키텍트/개발(ERP/CRM/MS 등) 경력 7~20년 정규직 서울/경기 2026. 09. 28, 14:59까지 D -17 [SDx] IT PM - Robot MES 개발 총괄 PM SDx(스마트제조) Project Manager 경력 13년 이상 정규직 서울/경기 2026. 09. 28, 14:59까지 D -17 [EnIT] IT Architect - Application Architect Enterprise IT IT아키텍트/기획/품질 경력 10~20년 정규직 서울/경기 2026. 09. 28, 14:59까지 D -17 [EnIT] Backend Developer - 인증/계정플랫폼 개발 및 운영 Enterprise IT SW 개발 공통 경력 7~15년 정규직 서울/경기 2026. 09. 28, 14:59까지 D -17 [EnIT] Frontend Developer - 계정 시스템 프론트엔드 개발 및 운영 Enterprise IT SW 개발 공통 경력 5~15년 정규직 서울/경기 2026. 09. 28, 14:59까지 D -17 [Tech] RX 기술 리더(팀장) Core Tech(AI/DATA/Cloud/보안) Data/AI(인공지능) 경력 10년 이상 정규직 서울/경기 2026. 09. 28, 14:59까지 D -17 [Tech] Infra Security Engineer - 북미 기술 보안 주재원(네트웍",
     "discoveredBy": "official_page",
     "reason": "not_job_posting",
-    "checkedAt": "2026-09-11T22:36:42+09:00"
+    "checkedAt": "2026-09-11T23:53:30+09:00"
+  },
+  {
+    "company": "현대오토에버",
+    "url": "https://career.hyundai-autoever.com/ko/o/213468",
+    "title": "[EnIT] IT Planner - SAP ERP 서비스 체계 및 품질 관리 Enterprise IT IT아키텍트/기획/품질 경력 3년 이상 정규직 서울/경기 2026. 09. 28, 14:59까지 D -17",
+    "snippet": "[Tech] Service Strategy - Robot 플랫폼 기술 기획 Core Tech(AI/DATA/Cloud/보안) Strategy 경력 10년 이상 정규직 서울/경기 2026. 09. 28, 14:59까지 D -17 [공통] Financial & Investment analysis - 투자분석 업무 공통/신사업/기타 경영기획/관리/지원 경력 3년 이상 정규직 서울/경기 2026. 09. 28, 14:59까지 D -17 [EnIT] Solution Developer - SAP ERP ABAP 개발 및 솔루션 기획 Enterprise IT 솔루션아키텍트/개발(ERP/CRM/MS 등) 경력 7~20년 정규직 서울/경기 2026. 09. 28, 14:59까지 D -17 [SDx] IT PM - Robot MES 개발 총괄 PM SDx(스마트제조) Project Manager 경력 13년 이상 정규직 서울/경기 2026. 09. 28, 14:59까지 D -17 [EnIT] IT Architect - Application Architect Enterprise IT IT아키텍트/기획/품질 경력 10~20년 정규직 서울/경기 2026. 09. 28, 14:59까지 D -17 [EnIT] Backend Developer - 인증/계정플랫폼 개발 및 운영 Enterprise IT SW 개발 공통 경력 7~15년 정규직 서울/경기 2026. 09. 28, 14:59까지 D -17 [EnIT] Frontend Developer - 계정 시스템 프론트엔드 개발 및 운영 Enterprise IT SW 개발 공통 경력 5~15년 정규직 서울/경기 2026. 09. 28, 14:59까지 D -17 [Tech] RX 기술 리더(팀장) Core Tech(AI/DATA/Cloud/보안) Data/AI(인공지능) 경력 10년 이상 정규직 서울/경기 2026. 09. 28, 14:59까지 D -17 [Tech] Infra Security Engineer - 북미 기술 보안 주재원(네트웍",
+    "discoveredBy": "official_page",
+    "reason": "not_job_posting",
+    "checkedAt": "2026-09-11T23:53:30+09:00"
   },
   {
     "company": "현대오토에버",
@@ -615,7 +635,7 @@
     "snippet": "[Tech] Service Strategy - Robot 플랫폼 기술 기획 Core Tech(AI/DATA/Cloud/보안) Strategy 경력 10년 이상 정규직 서울/경기 2026. 09. 28, 14:59까지 D -17 [공통] Financial & Investment analysis - 투자분석 업무 공통/신사업/기타 경영기획/관리/지원 경력 3년 이상 정규직 서울/경기 2026. 09. 28, 14:59까지 D -17 [EnIT] Solution Developer - SAP ERP ABAP 개발 및 솔루션 기획 Enterprise IT 솔루션아키텍트/개발(ERP/CRM/MS 등) 경력 7~20년 정규직 서울/경기 2026. 09. 28, 14:59까지 D -17 [SDx] IT PM - Robot MES 개발 총괄 PM SDx(스마트제조) Project Manager 경력 13년 이상 정규직 서울/경기 2026. 09. 28, 14:59까지 D -17 [EnIT] IT Architect - Application Architect Enterprise IT IT아키텍트/기획/품질 경력 10~20년 정규직 서울/경기 2026. 09. 28, 14:59까지 D -17 [EnIT] Backend Developer - 인증/계정플랫폼 개발 및 운영 Enterprise IT SW 개발 공통 경력 7~15년 정규직 서울/경기 2026. 09. 28, 14:59까지 D -17 [EnIT] Frontend Developer - 계정 시스템 프론트엔드 개발 및 운영 Enterprise IT SW 개발 공통 경력 5~15년 정규직 서울/경기 2026. 09. 28, 14:59까지 D -17 [Tech] RX 기술 리더(팀장) Core Tech(AI/DATA/Cloud/보안) Data/AI(인공지능) 경력 10년 이상 정규직 서울/경기 2026. 09. 28, 14:59까지 D -17 [Tech] Infra Security Engineer - 북미 기술 보안 주재원(네트웍",
     "discoveredBy": "official_page",
     "reason": "not_job_posting",
-    "checkedAt": "2026-09-11T22:36:42+09:00"
+    "checkedAt": "2026-09-11T23:53:30+09:00"
   },
   {
     "company": "현대오토에버",
@@ -624,7 +644,7 @@
     "snippet": "[Tech] Service Strategy - Robot 플랫폼 기술 기획 Core Tech(AI/DATA/Cloud/보안) Strategy 경력 10년 이상 정규직 서울/경기 2026. 09. 28, 14:59까지 D -17 [공통] Financial & Investment analysis - 투자분석 업무 공통/신사업/기타 경영기획/관리/지원 경력 3년 이상 정규직 서울/경기 2026. 09. 28, 14:59까지 D -17 [EnIT] Solution Developer - SAP ERP ABAP 개발 및 솔루션 기획 Enterprise IT 솔루션아키텍트/개발(ERP/CRM/MS 등) 경력 7~20년 정규직 서울/경기 2026. 09. 28, 14:59까지 D -17 [SDx] IT PM - Robot MES 개발 총괄 PM SDx(스마트제조) Project Manager 경력 13년 이상 정규직 서울/경기 2026. 09. 28, 14:59까지 D -17 [EnIT] IT Architect - Application Architect Enterprise IT IT아키텍트/기획/품질 경력 10~20년 정규직 서울/경기 2026. 09. 28, 14:59까지 D -17 [EnIT] Backend Developer - 인증/계정플랫폼 개발 및 운영 Enterprise IT SW 개발 공통 경력 7~15년 정규직 서울/경기 2026. 09. 28, 14:59까지 D -17 [EnIT] Frontend Developer - 계정 시스템 프론트엔드 개발 및 운영 Enterprise IT SW 개발 공통 경력 5~15년 정규직 서울/경기 2026. 09. 28, 14:59까지 D -17 [Tech] RX 기술 리더(팀장) Core Tech(AI/DATA/Cloud/보안) Data/AI(인공지능) 경력 10년 이상 정규직 서울/경기 2026. 09. 28, 14:59까지 D -17 [Tech] Infra Security Engineer - 북미 기술 보안 주재원(네트웍",
     "discoveredBy": "official_page",
     "reason": "not_job_posting",
-    "checkedAt": "2026-09-11T22:36:42+09:00"
+    "checkedAt": "2026-09-11T23:53:30+09:00"
   },
   {
     "company": "현대오토에버",
@@ -633,7 +653,7 @@
     "snippet": "[Tech] Service Strategy - Robot 플랫폼 기술 기획 Core Tech(AI/DATA/Cloud/보안) Strategy 경력 10년 이상 정규직 서울/경기 2026. 09. 28, 14:59까지 D -17 [공통] Financial & Investment analysis - 투자분석 업무 공통/신사업/기타 경영기획/관리/지원 경력 3년 이상 정규직 서울/경기 2026. 09. 28, 14:59까지 D -17 [EnIT] Solution Developer - SAP ERP ABAP 개발 및 솔루션 기획 Enterprise IT 솔루션아키텍트/개발(ERP/CRM/MS 등) 경력 7~20년 정규직 서울/경기 2026. 09. 28, 14:59까지 D -17 [SDx] IT PM - Robot MES 개발 총괄 PM SDx(스마트제조) Project Manager 경력 13년 이상 정규직 서울/경기 2026. 09. 28, 14:59까지 D -17 [EnIT] IT Architect - Application Architect Enterprise IT IT아키텍트/기획/품질 경력 10~20년 정규직 서울/경기 2026. 09. 28, 14:59까지 D -17 [EnIT] Backend Developer - 인증/계정플랫폼 개발 및 운영 Enterprise IT SW 개발 공통 경력 7~15년 정규직 서울/경기 2026. 09. 28, 14:59까지 D -17 [EnIT] Frontend Developer - 계정 시스템 프론트엔드 개발 및 운영 Enterprise IT SW 개발 공통 경력 5~15년 정규직 서울/경기 2026. 09. 28, 14:59까지 D -17 [Tech] RX 기술 리더(팀장) Core Tech(AI/DATA/Cloud/보안) Data/AI(인공지능) 경력 10년 이상 정규직 서울/경기 2026. 09. 28, 14:59까지 D -17 [Tech] Infra Security Engineer - 북미 기술 보안 주재원(네트웍",
     "discoveredBy": "official_page",
     "reason": "not_job_posting",
-    "checkedAt": "2026-09-11T22:36:42+09:00"
+    "checkedAt": "2026-09-11T23:53:30+09:00"
   },
   {
     "company": "현대오토에버",
@@ -642,7 +662,7 @@
     "snippet": "[Tech] Service Strategy - Robot 플랫폼 기술 기획 Core Tech(AI/DATA/Cloud/보안) Strategy 경력 10년 이상 정규직 서울/경기 2026. 09. 28, 14:59까지 D -17 [공통] Financial & Investment analysis - 투자분석 업무 공통/신사업/기타 경영기획/관리/지원 경력 3년 이상 정규직 서울/경기 2026. 09. 28, 14:59까지 D -17 [EnIT] Solution Developer - SAP ERP ABAP 개발 및 솔루션 기획 Enterprise IT 솔루션아키텍트/개발(ERP/CRM/MS 등) 경력 7~20년 정규직 서울/경기 2026. 09. 28, 14:59까지 D -17 [SDx] IT PM - Robot MES 개발 총괄 PM SDx(스마트제조) Project Manager 경력 13년 이상 정규직 서울/경기 2026. 09. 28, 14:59까지 D -17 [EnIT] IT Architect - Application Architect Enterprise IT IT아키텍트/기획/품질 경력 10~20년 정규직 서울/경기 2026. 09. 28, 14:59까지 D -17 [EnIT] Backend Developer - 인증/계정플랫폼 개발 및 운영 Enterprise IT SW 개발 공통 경력 7~15년 정규직 서울/경기 2026. 09. 28, 14:59까지 D -17 [EnIT] Frontend Developer - 계정 시스템 프론트엔드 개발 및 운영 Enterprise IT SW 개발 공통 경력 5~15년 정규직 서울/경기 2026. 09. 28, 14:59까지 D -17 [Tech] RX 기술 리더(팀장) Core Tech(AI/DATA/Cloud/보안) Data/AI(인공지능) 경력 10년 이상 정규직 서울/경기 2026. 09. 28, 14:59까지 D -17 [Tech] Infra Security Engineer - 북미 기술 보안 주재원(네트웍",
     "discoveredBy": "official_page",
     "reason": "not_job_posting",
-    "checkedAt": "2026-09-11T22:36:42+09:00"
+    "checkedAt": "2026-09-11T23:53:30+09:00"
   },
   {
     "company": "현대오토에버",
@@ -651,7 +671,7 @@
     "snippet": "[Tech] Service Strategy - Robot 플랫폼 기술 기획 Core Tech(AI/DATA/Cloud/보안) Strategy 경력 10년 이상 정규직 서울/경기 2026. 09. 28, 14:59까지 D -17 [공통] Financial & Investment analysis - 투자분석 업무 공통/신사업/기타 경영기획/관리/지원 경력 3년 이상 정규직 서울/경기 2026. 09. 28, 14:59까지 D -17 [EnIT] Solution Developer - SAP ERP ABAP 개발 및 솔루션 기획 Enterprise IT 솔루션아키텍트/개발(ERP/CRM/MS 등) 경력 7~20년 정규직 서울/경기 2026. 09. 28, 14:59까지 D -17 [SDx] IT PM - Robot MES 개발 총괄 PM SDx(스마트제조) Project Manager 경력 13년 이상 정규직 서울/경기 2026. 09. 28, 14:59까지 D -17 [EnIT] IT Architect - Application Architect Enterprise IT IT아키텍트/기획/품질 경력 10~20년 정규직 서울/경기 2026. 09. 28, 14:59까지 D -17 [EnIT] Backend Developer - 인증/계정플랫폼 개발 및 운영 Enterprise IT SW 개발 공통 경력 7~15년 정규직 서울/경기 2026. 09. 28, 14:59까지 D -17 [EnIT] Frontend Developer - 계정 시스템 프론트엔드 개발 및 운영 Enterprise IT SW 개발 공통 경력 5~15년 정규직 서울/경기 2026. 09. 28, 14:59까지 D -17 [Tech] RX 기술 리더(팀장) Core Tech(AI/DATA/Cloud/보안) Data/AI(인공지능) 경력 10년 이상 정규직 서울/경기 2026. 09. 28, 14:59까지 D -17 [Tech] Infra Security Engineer - 북미 기술 보안 주재원(네트웍",
     "discoveredBy": "official_page",
     "reason": "not_job_posting",
-    "checkedAt": "2026-09-11T22:36:42+09:00"
+    "checkedAt": "2026-09-11T23:53:30+09:00"
   },
   {
     "company": "현대오토에버",
@@ -660,7 +680,7 @@
     "snippet": "[Tech] Service Strategy - Robot 플랫폼 기술 기획 Core Tech(AI/DATA/Cloud/보안) Strategy 경력 10년 이상 정규직 서울/경기 2026. 09. 28, 14:59까지 D -17 [공통] Financial & Investment analysis - 투자분석 업무 공통/신사업/기타 경영기획/관리/지원 경력 3년 이상 정규직 서울/경기 2026. 09. 28, 14:59까지 D -17 [EnIT] Solution Developer - SAP ERP ABAP 개발 및 솔루션 기획 Enterprise IT 솔루션아키텍트/개발(ERP/CRM/MS 등) 경력 7~20년 정규직 서울/경기 2026. 09. 28, 14:59까지 D -17 [SDx] IT PM - Robot MES 개발 총괄 PM SDx(스마트제조) Project Manager 경력 13년 이상 정규직 서울/경기 2026. 09. 28, 14:59까지 D -17 [EnIT] IT Architect - Application Architect Enterprise IT IT아키텍트/기획/품질 경력 10~20년 정규직 서울/경기 2026. 09. 28, 14:59까지 D -17 [EnIT] Backend Developer - 인증/계정플랫폼 개발 및 운영 Enterprise IT SW 개발 공통 경력 7~15년 정규직 서울/경기 2026. 09. 28, 14:59까지 D -17 [EnIT] Frontend Developer - 계정 시스템 프론트엔드 개발 및 운영 Enterprise IT SW 개발 공통 경력 5~15년 정규직 서울/경기 2026. 09. 28, 14:59까지 D -17 [Tech] RX 기술 리더(팀장) Core Tech(AI/DATA/Cloud/보안) Data/AI(인공지능) 경력 10년 이상 정규직 서울/경기 2026. 09. 28, 14:59까지 D -17 [Tech] Infra Security Engineer - 북미 기술 보안 주재원(네트웍",
     "discoveredBy": "official_page",
     "reason": "not_job_posting",
-    "checkedAt": "2026-09-11T22:36:42+09:00"
+    "checkedAt": "2026-09-11T23:53:30+09:00"
   },
   {
     "company": "현대오토에버",
@@ -669,7 +689,7 @@
     "snippet": "",
     "discoveredBy": "sitemap",
     "reason": "not_job_posting",
-    "checkedAt": "2026-09-11T22:36:42+09:00"
+    "checkedAt": "2026-09-11T23:53:30+09:00"
   },
   {
     "company": "현대오토에버",
@@ -678,16 +698,25 @@
     "snippet": "",
     "discoveredBy": "sitemap",
     "reason": "not_job_posting",
-    "checkedAt": "2026-09-11T22:36:42+09:00"
+    "checkedAt": "2026-09-11T23:53:30+09:00"
   },
   {
     "company": "현대모비스",
-    "url": "https://careers.mobis.com/jobs",
-    "title": "jobs",
-    "snippet": "",
-    "discoveredBy": "sitemap",
-    "reason": "not_job_posting",
-    "checkedAt": "2026-09-11T22:36:42+09:00"
+    "url": "https://careers.mobis.com/jobs-view?seq=4100",
+    "title": "로봇 핸즈 기구 설계",
+    "snippet": "D-6 신입-현장직 물류현장 (경인/강원) 서비스부품BU 물류 AS물류 부품사업소 2026-09-09 - 2026-09-17 D-6 신입-현장직 물류현장 (충청/호남) 서비스부품BU 물류 AS물류 부품사업소 2026-09-09 - 2026-09-17 D-6 신입-현장직 물류현장 (영남) 서비스부품BU 물류 AS물류 부품사업소 2026-09-09 - 2026-09-17 D-18 장학생 액추에이터 기구 설계 로보틱스사업실 HW 기구 의왕연구소 2026-09-11 - 2026-09-29 D-18 장학생 로봇 핸즈 기구 설계 로보틱스사업실 HW 기구 의왕연구소 2026-09-11 - 2026-09-29 D-18 장학생 미디어 및 카메라 미들웨어 SW설계 전장BU SW/로직 시스템SW 마북연구소 2026-09-11 - 2026-09-29 D-18 신입-연구직 로보틱스 모터 설계 로보틱스사업실 HW 기구 의왕연구소 2026-09-11 - 2026-09-29 D-18 신입-연구직 로보틱스 회로 설계 로보틱스사업실 HW 회로 의왕연구소 2026-09-11 - 2026-09-29 D-18 신입-연구직 로보틱스 제어기 SW 설계 로보틱스사업실 SW/로직 임베디드 의왕연구소 2026-09-11 - 2026-09-29 D-18 신입-연구직 로보틱스 평가 로보틱스사업실 공통R&D 평가 의왕연구소 2026-09-11 - 2026-09-29 D-18 신입-연구직 로보틱스 전장기구 설계 로보틱스사업실 HW 기구 의왕연구소 2026-09-11 - 2026-09-29 D-18 신입-연구직 액추에이터 기구 설계 로보틱스사업실 HW 기구 의왕연구소 2026-09-11 - 2026-09-29 전체 채용공고 보러가기",
+    "discoveredBy": "official_page",
+    "reason": "scholarship_only",
+    "checkedAt": "2026-09-11T23:53:30+09:00"
+  },
+  {
+    "company": "현대모비스",
+    "url": "https://careers.mobis.com/jobs-view?seq=4101",
+    "title": "미디어 및 카메라 미들웨어 SW설계",
+    "snippet": "D-6 신입-현장직 물류현장 (경인/강원) 서비스부품BU 물류 AS물류 부품사업소 2026-09-09 - 2026-09-17 D-6 신입-현장직 물류현장 (충청/호남) 서비스부품BU 물류 AS물류 부품사업소 2026-09-09 - 2026-09-17 D-6 신입-현장직 물류현장 (영남) 서비스부품BU 물류 AS물류 부품사업소 2026-09-09 - 2026-09-17 D-18 장학생 액추에이터 기구 설계 로보틱스사업실 HW 기구 의왕연구소 2026-09-11 - 2026-09-29 D-18 장학생 로봇 핸즈 기구 설계 로보틱스사업실 HW 기구 의왕연구소 2026-09-11 - 2026-09-29 D-18 장학생 미디어 및 카메라 미들웨어 SW설계 전장BU SW/로직 시스템SW 마북연구소 2026-09-11 - 2026-09-29 D-18 신입-연구직 로보틱스 모터 설계 로보틱스사업실 HW 기구 의왕연구소 2026-09-11 - 2026-09-29 D-18 신입-연구직 로보틱스 회로 설계 로보틱스사업실 HW 회로 의왕연구소 2026-09-11 - 2026-09-29 D-18 신입-연구직 로보틱스 제어기 SW 설계 로보틱스사업실 SW/로직 임베디드 의왕연구소 2026-09-11 - 2026-09-29 D-18 신입-연구직 로보틱스 평가 로보틱스사업실 공통R&D 평가 의왕연구소 2026-09-11 - 2026-09-29 D-18 신입-연구직 로보틱스 전장기구 설계 로보틱스사업실 HW 기구 의왕연구소 2026-09-11 - 2026-09-29 D-18 신입-연구직 액추에이터 기구 설계 로보틱스사업실 HW 기구 의왕연구소 2026-09-11 - 2026-09-29 전체 채용공고 보러가기",
+    "discoveredBy": "official_page",
+    "reason": "scholarship_only",
+    "checkedAt": "2026-09-11T23:53:30+09:00"
   },
   {
     "company": "현대모비스",
@@ -696,7 +725,43 @@
     "snippet": "/ 이전 슬라이드 이동 다음 슬라이드 이동 추천 직무 인터뷰 더보기",
     "discoveredBy": "official_page",
     "reason": "not_job_posting",
-    "checkedAt": "2026-09-11T22:36:42+09:00"
+    "checkedAt": "2026-09-11T23:53:30+09:00"
+  },
+  {
+    "company": "현대모비스",
+    "url": "https://careers.mobis.com/jobs-view?seq=4102",
+    "title": "AI Powered MEDP 및 EQA",
+    "snippet": "D-18 장학생 [장학생] 26년 하반기 성균관대 채용연계트랙 장학생 선발 (Scholarship Recruitment) AI Powered MEDP 및 EQA FTCI SW/로직 ASPICE 마북연구소 2026-09-11 - 2026-09-29 10:00",
+    "discoveredBy": "official_page",
+    "reason": "scholarship_only",
+    "checkedAt": "2026-09-11T23:53:30+09:00"
+  },
+  {
+    "company": "현대모비스",
+    "url": "https://careers.mobis.com/jobs-view?seq=4103",
+    "title": "SDV 샤시통합제어 SW",
+    "snippet": "D-18 장학생 [장학생] 26년 하반기 성균관대 채용연계트랙 장학생 선발 (Scholarship Recruitment) SDV 샤시통합제어 SW 샤시안전BU SW/로직 SW아키텍쳐 마북연구소 2026-09-11 - 2026-09-29 10:00",
+    "discoveredBy": "official_page",
+    "reason": "scholarship_only",
+    "checkedAt": "2026-09-11T23:53:30+09:00"
+  },
+  {
+    "company": "현대모비스",
+    "url": "https://careers.mobis.com/jobs-view?seq=4105",
+    "title": "BMS SW 설계",
+    "snippet": "D-18 장학생 [장학생] 26년 하반기 성균관대 채용연계트랙 장학생 선발 (Scholarship Recruitment) BMS SW 설계 전동화/모듈BU SW/로직 임베디드 의왕연구소 2026-09-11 - 2026-09-29 10:00",
+    "discoveredBy": "official_page",
+    "reason": "scholarship_only",
+    "checkedAt": "2026-09-11T23:53:30+09:00"
+  },
+  {
+    "company": "현대모비스",
+    "url": "https://careers.mobis.com/jobs-view?seq=4106",
+    "title": "IVI 제품 SW 검증",
+    "snippet": "D-18 장학생 [장학생] 26년 하반기 성균관대 채용연계트랙 장학생 선발 (Scholarship Recruitment) IVI 제품 SW 검증 전장BU SW/로직 QA(SW품질/검증/관리) 마북연구소 2026-09-11 - 2026-09-29 10:00",
+    "discoveredBy": "official_page",
+    "reason": "scholarship_only",
+    "checkedAt": "2026-09-11T23:53:30+09:00"
   },
   {
     "company": "현대모비스",
@@ -704,8 +769,8 @@
     "title": "기능안전 기반 컨버터 개발",
     "snippet": "D-18 장학생 [장학생] 26년 하반기 연구장학생 선발 (Scholarship Recruitment) 기능안전 기반 컨버터 개발 전동화/모듈BU SW/로직 ASPICE 의왕연구소 2026-09-11 - 2026-09-29 10:00",
     "discoveredBy": "official_page",
-    "reason": "eligibility_unconfirmed",
-    "checkedAt": "2026-09-11T22:36:42+09:00"
+    "reason": "scholarship_only",
+    "checkedAt": "2026-09-11T23:53:30+09:00"
   },
   {
     "company": "현대모비스",
@@ -713,8 +778,8 @@
     "title": "로봇 핸즈 SW 설계",
     "snippet": "D-18 장학생 [장학생] 26년 하반기 연구장학생 선발 (Scholarship Recruitment) 로봇 핸즈 SW 설계 로보틱스사업실 SW/로직 알고리즘(AI/제어) 의왕연구소 2026-09-11 - 2026-09-29 10:00",
     "discoveredBy": "official_page",
-    "reason": "eligibility_unconfirmed",
-    "checkedAt": "2026-09-11T22:36:42+09:00"
+    "reason": "scholarship_only",
+    "checkedAt": "2026-09-11T23:53:30+09:00"
   },
   {
     "company": "현대모비스",
@@ -722,178 +787,115 @@
     "title": "로봇 학습 모델 개발 및 실증평가 개선",
     "snippet": "D-18 장학생 [장학생] 26년 하반기 연구장학생 선발 (Scholarship Recruitment) 로봇 학습 모델 개발 및 실증평가 개선 로보틱스사업실 SW/로직 알고리즘(AI/제어) 의왕연구소 2026-09-11 - 2026-09-29 10:00",
     "discoveredBy": "official_page",
-    "reason": "eligibility_unconfirmed",
-    "checkedAt": "2026-09-11T22:36:42+09:00"
+    "reason": "scholarship_only",
+    "checkedAt": "2026-09-11T23:53:30+09:00"
   },
   {
-    "company": "현대모비스",
-    "url": "https://careers.mobis.com/jobs-view?seq=4155",
-    "title": "로봇 핸즈 기구 설계",
-    "snippet": "D-18 경력-연구직 [로보틱스사업실] 26년 하반기 로보틱스 넥스트 탤런트 채용 (Robotics Business Group, junior-res.) 로봇 핸즈 기구 설계 로보틱스사업실 HW 기구 의왕연구소 2026-09-11 - 2026-09-29 10:00",
-    "discoveredBy": "official_page",
-    "reason": "eligibility_unconfirmed",
-    "checkedAt": "2026-09-11T22:36:42+09:00"
-  },
-  {
-    "company": "현대캐피탈",
-    "url": "https://career.hyundaicapital.com/job_posting/1pThhRNR",
-    "title": "1pThhRNR",
+    "company": "현대로템",
+    "url": "https://hyundai-rotem.recruiter.co.kr/career/apply",
+    "title": "apply",
     "snippet": "",
     "discoveredBy": "sitemap",
-    "reason": "not_job_posting",
-    "checkedAt": "2026-09-11T22:36:42+09:00"
+    "reason": "insufficient_text",
+    "checkedAt": "2026-09-11T23:53:30+09:00"
   },
   {
-    "company": "현대캐피탈",
-    "url": "https://career.hyundaicapital.com/job_posting/Cr4ESoog",
-    "title": "Cr4ESoog",
+    "company": "현대로템",
+    "url": "https://hyundai-rotem.recruiter.co.kr/career/company",
+    "title": "company",
     "snippet": "",
     "discoveredBy": "sitemap",
-    "reason": "not_job_posting",
-    "checkedAt": "2026-09-11T22:36:42+09:00"
+    "reason": "insufficient_text",
+    "checkedAt": "2026-09-11T23:53:30+09:00"
   },
   {
-    "company": "현대캐피탈",
-    "url": "https://career.hyundaicapital.com/job_posting/NCCCrVap",
-    "title": "NCCCrVap",
+    "company": "현대로템",
+    "url": "https://hyundai-rotem.recruiter.co.kr/career/culture",
+    "title": "culture",
     "snippet": "",
     "discoveredBy": "sitemap",
-    "reason": "not_job_posting",
-    "checkedAt": "2026-09-11T22:36:42+09:00"
+    "reason": "insufficient_text",
+    "checkedAt": "2026-09-11T23:53:30+09:00"
   },
   {
-    "company": "현대캐피탈",
-    "url": "https://career.hyundaicapital.com/job_posting/Vz90fsw5",
-    "title": "Vz90fsw5",
+    "company": "현대로템",
+    "url": "https://hyundai-rotem.recruiter.co.kr/career/faq",
+    "title": "faq",
     "snippet": "",
     "discoveredBy": "sitemap",
-    "reason": "not_job_posting",
-    "checkedAt": "2026-09-11T22:36:42+09:00"
+    "reason": "insufficient_text",
+    "checkedAt": "2026-09-11T23:53:30+09:00"
   },
   {
-    "company": "현대캐피탈",
-    "url": "https://career.hyundaicapital.com/job_posting/XuPQeYJn",
-    "title": "XuPQeYJn",
+    "company": "현대로템",
+    "url": "https://hyundai-rotem.recruiter.co.kr/career/home",
+    "title": "home",
     "snippet": "",
     "discoveredBy": "sitemap",
-    "reason": "not_job_posting",
-    "checkedAt": "2026-09-11T22:36:42+09:00"
+    "reason": "insufficient_text",
+    "checkedAt": "2026-09-11T23:53:30+09:00"
   },
   {
-    "company": "현대캐피탈",
-    "url": "https://career.hyundaicapital.com/job_posting/ZQvGAxKA",
-    "title": "ZQvGAxKA",
+    "company": "현대로템",
+    "url": "https://hyundai-rotem.recruiter.co.kr/career/introduce",
+    "title": "introduce",
     "snippet": "",
     "discoveredBy": "sitemap",
-    "reason": "not_job_posting",
-    "checkedAt": "2026-09-11T22:36:42+09:00"
+    "reason": "insufficient_text",
+    "checkedAt": "2026-09-11T23:53:30+09:00"
   },
   {
-    "company": "NAVER",
-    "url": "https://recruit.navercorp.com/rcrt/view.do?annoId=30005289",
-    "title": "[NAVER] 보안 부문 경력 채용",
-    "snippet": "NAVER Tech Security Analysis 정규 2026.09.11 10:00:00 2026.09.29 10:00:00",
-    "discoveredBy": "official_api",
-    "reason": "career_only",
-    "checkedAt": "2026-09-11T22:36:42+09:00"
+    "company": "현대로템",
+    "url": "https://hyundai-rotem.recruiter.co.kr/career/introduce(1)",
+    "title": "introduce(1)",
+    "snippet": "",
+    "discoveredBy": "sitemap",
+    "reason": "insufficient_text",
+    "checkedAt": "2026-09-11T23:53:30+09:00"
   },
   {
-    "company": "NAVER",
-    "url": "https://recruit.navercorp.com/rcrt/view.do?annoId=30005357",
-    "title": "[네이버웹툰] 창작자 백엔드 시스템 정책/통제 (계약직)",
-    "snippet": "NAVER WEBTOON Corporate Risk Management 계약 2026.08.27 10:00:00 2026.09.13 23:59:00",
-    "discoveredBy": "official_api",
-    "reason": "eligibility_unconfirmed",
-    "checkedAt": "2026-09-11T22:36:42+09:00"
+    "company": "현대로템",
+    "url": "https://hyundai-rotem.recruiter.co.kr/career/introduce(2)",
+    "title": "introduce(2)",
+    "snippet": "",
+    "discoveredBy": "sitemap",
+    "reason": "insufficient_text",
+    "checkedAt": "2026-09-11T23:53:30+09:00"
   },
   {
-    "company": "NAVER",
-    "url": "https://recruit.navercorp.com/rcrt/view.do?annoId=30005381",
-    "title": "[네이버랩스] Robot System Software Engineer",
-    "snippet": "NAVER LABS Tech 공통 정규 2026.09.02 14:00:00 2026.09.15 23:59:00",
-    "discoveredBy": "official_api",
-    "reason": "eligibility_unconfirmed",
-    "checkedAt": "2026-09-11T22:36:42+09:00"
+    "company": "현대로템",
+    "url": "https://hyundai-rotem.recruiter.co.kr/career/introduce(3)",
+    "title": "introduce(3)",
+    "snippet": "",
+    "discoveredBy": "sitemap",
+    "reason": "insufficient_text",
+    "checkedAt": "2026-09-11T23:53:30+09:00"
   },
   {
-    "company": "NAVER",
-    "url": "https://recruit.navercorp.com/rcrt/view.do?annoId=30005429",
-    "title": "[네이버웹툰] EN Webtoon Growth&Marketing (체험형 인턴)",
-    "snippet": "NAVER WEBTOON Service & Business Content Development 인턴 2026.09.09 10:00:00 2026.09.20 23:59:00",
-    "discoveredBy": "official_api",
-    "reason": "not_job_posting",
-    "checkedAt": "2026-09-11T22:36:42+09:00"
+    "company": "현대로템",
+    "url": "https://hyundai-rotem.recruiter.co.kr/career/introduce(4)",
+    "title": "introduce(4)",
+    "snippet": "",
+    "discoveredBy": "sitemap",
+    "reason": "insufficient_text",
+    "checkedAt": "2026-09-11T23:53:30+09:00"
   },
   {
-    "company": "NAVER",
-    "url": "https://recruit.navercorp.com/rcrt/view.do?annoId=30005424",
-    "title": "[네이버랩스] Embedded System Hardware Engineer",
-    "snippet": "NAVER LABS Tech Hardware 정규 2026.09.08 11:00:00 2026.09.21 23:59:00",
-    "discoveredBy": "official_api",
-    "reason": "eligibility_unconfirmed",
-    "checkedAt": "2026-09-11T22:36:42+09:00"
+    "company": "현대로템",
+    "url": "https://hyundai-rotem.recruiter.co.kr/career/introduce(5)",
+    "title": "introduce(5)",
+    "snippet": "",
+    "discoveredBy": "sitemap",
+    "reason": "insufficient_text",
+    "checkedAt": "2026-09-11T23:53:30+09:00"
   },
   {
-    "company": "NAVER",
-    "url": "https://recruit.navercorp.com/rcrt/view.do?annoId=30005408",
-    "title": "[네이버웹툰] Data Product Engineer (경력)",
-    "snippet": "NAVER WEBTOON Tech Data Engineering 정규 2026.09.07 10:00:00 2026.09.27 23:59:00",
-    "discoveredBy": "official_api",
-    "reason": "career_only",
-    "checkedAt": "2026-09-11T22:36:42+09:00"
-  },
-  {
-    "company": "NAVER",
-    "url": "https://recruit.navercorp.com/rcrt/view.do?annoId=30005402",
-    "title": "[네이버웹툰] Search Intelligence Engineer (경력)",
-    "snippet": "NAVER WEBTOON Tech AI/ML 정규 2026.09.03 10:00:00 2026.09.27 23:59:00",
-    "discoveredBy": "official_api",
-    "reason": "career_only",
-    "checkedAt": "2026-09-11T22:36:42+09:00"
-  },
-  {
-    "company": "NAVER",
-    "url": "https://recruit.navercorp.com/rcrt/view.do?annoId=30005448",
-    "title": "[네이버랩스] 3D Vision Research Engineer",
-    "snippet": "NAVER LABS Tech AI/ML 정규 2026.09.11 10:00:00 2026.09.28 23:59:00",
-    "discoveredBy": "official_api",
-    "reason": "eligibility_unconfirmed",
-    "checkedAt": "2026-09-11T22:36:42+09:00"
-  },
-  {
-    "company": "NAVER",
-    "url": "https://recruit.navercorp.com/rcrt/view.do?annoId=30005433",
-    "title": "[네이버웹툰] Disney 디지털 코믹스 플랫폼 서버 개발 (경력)",
-    "snippet": "NAVER WEBTOON Tech Backend 정규 2026.09.10 10:00:00 2026.10.02 23:59:00",
-    "discoveredBy": "official_api",
-    "reason": "career_only",
-    "checkedAt": "2026-09-11T22:36:42+09:00"
-  },
-  {
-    "company": "NAVER",
-    "url": "https://recruit.navercorp.com/rcrt/view.do?annoId=30005426",
-    "title": "[NAVER I&S] 소프트웨어 자산·라이선스 운영·기획 담당 (경력)",
-    "snippet": "NAVER IS Corporate 자산관리 정규 2026.09.11 09:00:00 2026.11.30 18:00:00",
-    "discoveredBy": "official_api",
-    "reason": "not_job_posting",
-    "checkedAt": "2026-09-11T22:36:42+09:00"
-  },
-  {
-    "company": "NAVER",
-    "url": "https://recruit.navercorp.com/cnts/people_detail?id=19",
-    "title": "오아시스를 찾을 때까지 Interview NAVER Cloud Service & Business 장근창",
-    "snippet": "오아시스를 찾을 때까지 Interview NAVER Cloud Service & Business 장근창",
-    "discoveredBy": "official_page",
-    "reason": "not_job_posting",
-    "checkedAt": "2026-09-11T22:36:42+09:00"
-  },
-  {
-    "company": "NAVER",
-    "url": "https://recruit.navercorp.com/cnts/people_detail?id=17",
-    "title": "기술의 생명을 지키는 일 Interview NAVER Cloud Tech 김병국",
-    "snippet": "기술의 생명을 지키는 일 Interview NAVER Cloud Tech 김병국",
-    "discoveredBy": "official_page",
-    "reason": "not_job_posting",
-    "checkedAt": "2026-09-11T22:36:42+09:00"
+    "company": "현대로템",
+    "url": "https://hyundai-rotem.recruiter.co.kr/career/introduce(6)",
+    "title": "introduce(6)",
+    "snippet": "",
+    "discoveredBy": "sitemap",
+    "reason": "insufficient_text",
+    "checkedAt": "2026-09-11T23:53:30+09:00"
   }
 ]

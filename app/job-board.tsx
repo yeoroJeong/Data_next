@@ -8,8 +8,9 @@ export type Job = {
   deadline: string | null; deadlineLabel: string; track: string; note: string;
   check: string; url: string; source: string; initial: string;
   color: 'blue' | 'orange' | 'green'; verifiedAt: string;
+  curated?: boolean; addedAt?: string; expiresAt?: string; category?: string; linkLabel?: string;
 };
-export type Feed = { schemaVersion: number; updatedAt: string; jobs: Job[] };
+export type Feed = { schemaVersion: number; updatedAt: string; jobs: Job[]; delivery?: 'remote' | 'fallback' };
 export type Company = { name: string; group: string; category: string; career_home: string };
 export type CurrentUser = { displayName: string };
 
@@ -59,9 +60,9 @@ export default function JobBoard({
   const [saveError, setSaveError] = useState('');
   const feed = initialFeed;
   const companies = initialCompanies;
-  const live = false;
+  const live = feed.delivery === 'remote';
 
-  const jobs = useMemo(() => [...feed.jobs].sort(
+  const jobs = useMemo(() => feed.jobs.filter(job => !(job.expiresAt || job.deadline) || new Date(job.expiresAt || job.deadline!).getTime() > Date.now()).sort(
     (a, b) => (a.deadline ? new Date(a.deadline).getTime() : Infinity) - (b.deadline ? new Date(b.deadline).getTime() : Infinity),
   ), [feed.jobs]);
   const jobGroups = useMemo(() => {
@@ -124,7 +125,7 @@ export default function JobBoard({
       </section>
       <div className="scope">{live ? <RefreshCw size={18}/> : <CheckCircle2 size={18}/>}<p>
         <b>{live ? '원격 데이터 동기화' : '저장된 최신 데이터'}</b>
-        {companies.length || '80+'}개 대기업·주요 테크 기업의 신입·인턴·주니어 공고를 폭넓게 확인합니다. 지원자격이 불명확한 공고도 관련성이 있으면 표시합니다.
+        {companies.length}개 기업·공공기관을 확인합니다. 자동 확인 공고와 사용자 제공 일정을 함께 보여드리며, 일정·직무 확인이 필요한 항목은 카드에 표시합니다.
       </p></div>
       <div className="content"><section>
         <div className="section-heading"><h2>지원 검토할 기업 <span>{jobGroups.length.toString().padStart(2, '0')}</span></h2><span>총 {jobs.length}개 직무 · 마감일 빠른 순</span></div>
@@ -136,10 +137,10 @@ export default function JobBoard({
             <span className="group-summary-meta"><span className="deadline">{group.first.deadlineLabel}{group.first.deadline ? ' 마감' : ''}</span><ChevronDown className="group-chevron" size={20}/></span>
           </summary>
           <div className="company-job-list">{group.jobs.map((job) => <article className="job-role" key={job.id}>
-            <div className="role-heading"><div className="job-title"><h3>{job.title}</h3><span className="tag">{job.track}</span></div><div className="role-actions"><span className="role-deadline">{job.deadlineLabel}{job.deadline ? ' 마감' : ''}</span>{currentUser ? <label className={`apply-checkbox ${completedJobs.has(job.id) ? 'checked' : ''}`}><input type="checkbox" checked={completedJobs.has(job.id)} disabled={savingJobs.has(job.id)} onChange={(event) => toggleCompleted(job.id, event.target.checked)}/><span>{savingJobs.has(job.id) ? '저장 중' : '지원 완료'}</span></label> : <a className="apply-login" href={signInPath} target="_top">로그인 후 체크</a>}</div></div>
+            <div className="role-heading"><div className="job-title"><h3><a className="job-title-link" href={job.url} target="_blank" rel="noopener noreferrer">{job.title} <ArrowUpRight size={16}/></a></h3><span className="tag">{job.track}</span></div><div className="role-actions"><span className="role-deadline">{job.deadlineLabel}{job.deadline ? ' 마감' : ''}</span>{currentUser ? <label className={`apply-checkbox ${completedJobs.has(job.id) ? 'checked' : ''}`}><input type="checkbox" checked={completedJobs.has(job.id)} disabled={savingJobs.has(job.id)} onChange={(event) => toggleCompleted(job.id, event.target.checked)}/><span>{savingJobs.has(job.id) ? '저장 중' : '지원 완료'}</span></label> : <a className="apply-login" href={signInPath} target="_top">로그인 후 체크</a>}</div></div>
             <div className="role-meta">{job.kind} · {job.place}</div>
-            <p>{job.note}</p><div className="job-bottom"><span>{job.check}</span><a href={job.url} target="_blank" rel="noopener noreferrer">공고 원문 <ArrowUpRight size={17}/></a></div>
-            <div className="source">출처: {job.source} · {formatChecked(job.verifiedAt)} 확인</div>
+            <p>{job.note}</p><div className="job-bottom"><span>{job.check}</span><a href={job.url} target="_blank" rel="noopener noreferrer" aria-label={`${job.company} ${job.title} ${job.linkLabel || '공고 원문'} 열기`}>{job.linkLabel || '공고 원문'} <ArrowUpRight size={17}/></a></div>
+            <div className="source">{job.category ? `${job.category} · ` : ''}출처: {job.source} · {job.verifiedAt ? `${formatChecked(job.verifiedAt)} 확인` : '일정·지원자격 원문 재확인 필요'}</div>
           </article>)}</div>
         </details>)}
       </section><aside>

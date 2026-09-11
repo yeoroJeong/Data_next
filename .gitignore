@@ -10,3 +10,6 @@ npm-debug.log*
 *.tsbuildinfo
 __pycache__/
 *.pyc
+.venv/
+.sites-runtime/
+*.tar.gz

@@ -7,6 +7,7 @@ import html
 import json
 import os
 import re
+from functools import lru_cache
 import xml.etree.ElementTree as ET
 from datetime import datetime, timedelta, timezone
 from pathlib import Path
@@ -21,6 +22,7 @@ NOW = datetime.now(SEOUL)
 HEADERS = {
     "User-Agent": "Mozilla/5.0 (compatible; SSAFYDataJobs/1.0; public recruitment monitor)"
 }
+PAGE_TITLES: dict[str, str] = {}
 DATA_TERMS = [
     "데이터 분석", "데이터분석", "데이터 엔지니어", "데이터엔지니어",
     "데이터 사이언", "머신러닝", "machine learning", "data analyst",
@@ -38,6 +40,7 @@ ENTRY_TERMS = [
     "assistant", "어시스턴트", "체험형", "채용연계", "전환형",
 ]
 EXCLUDE_TERMS = [
+    "기구 설계", "생산공학", "데이터 라벨링",
     "데이터센터 시설", "데이터 센터 시설", "시설관리", "시공관리", "안전관리",
     "단순 라벨링", "데이터 라벨러", "cx 기획", "마케팅 기획", "senior",
     "시니어", "팀장", "파트장", "lead data", "principal", "임원",
@@ -52,6 +55,7 @@ NON_POSTING_TITLES = [
     "신입채용 바로가기", "합류 여정", "채용 공고", "공고", "matchjob",
 ]
 CORE_DATA_TERMS = [
+    "전산", "정보기술", "it", "ai", "빅데이터", "데이터 개발", "데이터 플랫폼",
     "데이터 분석", "데이터분석", "데이터 엔지니어", "데이터엔지니어",
     "데이터 사이언", "data analyst", "data engineer", "data scientist",
     "machine learning", "ml engineer", "ai engineer", "머신러닝", "인공지능",
@@ -60,6 +64,7 @@ CORE_DATA_TERMS = [
     "business intelligence", "bi 분석", "마케팅 분석", "crm 분석",
 ]
 COMPUTER_SCIENCE_TERMS = [
+    "전산", "정보기술", "it", "ai", "빅데이터",
     "sw", "개발자", "개발", "engineer", "engineering", "frontend", "front-end",
     "프론트엔드", "서버", "server", "api", "보안", "security", "사이버",
     "인프라", "infrastructure", "sre", "qa", "quality assurance", "테스트 자동화",
@@ -90,6 +95,8 @@ def read_json(path: Path, default):
 
 def clean_text(raw: str) -> str:
     soup = BeautifulSoup(html.unescape(raw or ""), "html.parser")
+    for node in soup.select('script, style, nav, footer'):
+        node.decompose()
     return re.sub(r"\s+", " ", soup.get_text(" ", strip=True)).strip()
 
 
@@ -105,12 +112,12 @@ def normalized_url(raw: str) -> str:
                 candidate = encoded
         raw = candidate
         parsed = urlparse(raw)
-    return parsed._replace(fragment="").geturl().rstrip("/")
+    return parsed.geturl().rstrip("/")
 
 
 def official(url: str, domains: list[str]) -> bool:
     host = urlparse(url).netloc.lower().split(":")[0]
-    return any(host == domain or host.endswith("." + domain) for domain in domains)
+    return urlparse(url).scheme in {"https", "http"} and any(host == domain or host.endswith("." + domain) for domain in domains)
 
 
 def candidate(company: dict, url: str, title: str, snippet: str, source: str) -> dict | None:
@@ -134,7 +141,7 @@ def direct_results(company: dict) -> list[dict]:
         visited_pages.add(discovery_url)
         response = requests.get(discovery_url, headers=HEADERS, timeout=25)
         response.raise_for_status()
-        soup = BeautifulSoup(response.text, "html.parser")
+        soup = BeautifulSoup(response.content, "html.parser")
         for anchor in soup.select("a[href]"):
             target_url = normalized_url(urljoin(discovery_url, anchor.get("href", "")))
             context = clean_text(anchor.parent.get_text(" ", strip=True))[:1000]
@@ -196,7 +203,7 @@ def sitemap_results(company: dict) -> list[dict]:
                     item = candidate(company, url, url.rstrip("/").split("/")[-1], "", "sitemap")
                     if item:
                         results.append(item)
-                        if len(results) >= 40:
+                        if len(results) >= company.get("max_sitemap_results", 40):
                             return results
     return results
 
@@ -228,6 +235,7 @@ def naver_api_results(company: dict) -> list[dict]:
                 title, f"{company_label} {detail}", "official_api",
             )
             if item:
+                item["deadlineText"] = str(row.get("endYmdTime", ""))
                 results.append(item)
         if len(rows) < 10:
             break
@@ -276,7 +284,7 @@ def samsung_results(company: dict) -> list[dict]:
         page_url = f"https://www.samsungcareers.com/subsid/detail/{code}"
         response = requests.get(page_url, headers=HEADERS, timeout=25)
         response.raise_for_status()
-        soup = BeautifulSoup(response.text, "html.parser")
+        soup = BeautifulSoup(response.content, "html.parser")
         for link in soup.select('a[name="btnRecruit"][data-value]'):
             title_node = link.select_one(".title")
             company_node = link.select_one(".company")
@@ -334,17 +342,27 @@ def discover(company: dict) -> tuple[list[dict], list[str]]:
             errors.append(f"{name}:{type(exc).__name__}")
     unique = {}
     for item in results:
-        unique[item["url"]] = item
+        # Keep the API's structured evidence instead of overwriting it with a nav link.
+        if item["url"] not in unique or item.get("discoveredBy") == "official_api":
+            unique[item["url"]] = item
     return list(unique.values()), errors
 
 
+@lru_cache(maxsize=2048)
 def fetch_page(url: str) -> tuple[str, str | None]:
     try:
         response = requests.get(url, headers=HEADERS, timeout=25, allow_redirects=True)
         response.raise_for_status()
         if "text/html" not in response.headers.get("content-type", ""):
             return "", "not_html"
-        text = clean_text(response.text)
+        # Several Korean public-sector sites omit the HTTP charset and use EUC-KR.
+        # BeautifulSoup reads their HTML meta charset from bytes; requests.text
+        # otherwise defaults to ISO-8859-1 and destroys Korean matching evidence.
+        soup = BeautifulSoup(response.content, "html.parser")
+        heading = soup.select_one('h1') or soup.title
+        if heading:
+            PAGE_TITLES[url] = clean_text(str(heading))
+        text = clean_text(str(soup))
         return text[:100_000], None if len(text) >= 180 else "insufficient_text"
     except requests.RequestException as exc:
         return "", type(exc).__name__
@@ -372,26 +390,33 @@ def technical_relevance(title: str, context: str) -> bool:
 
 
 def deadline_from(text: str) -> datetime | None:
-    # Some career sites show the application range beside the title without a
-    # separate "deadline" label, so always inspect the top of the posting too.
-    contexts = [text[:5000]]
-    for match in re.finditer(r"마감|접수기간|지원기간|지원 마감|deadline|until|접수", text, re.I):
-        contexts.append(text[max(0, match.start() - 45):match.end() + 90])
+    # Prefer application dates over interview/joining dates elsewhere on a page.
+    contexts = []
+    for match in re.finditer(r"접수\s*기간|지원\s*기간|지원\s*마감|마감\s*일|deadline|until", text, re.I):
+        contexts.append(text[match.end():match.end() + 130])
+    contexts = contexts or [text[:1500]]
     dates = []
+    time_pattern = r"(?:[.\s]*(?:\([^)]{1,5}\))?[T\s]*(\d{1,2})[:시]\s*(\d{1,2})?)?"
     patterns = [
-        r"(20\d{2})[./-]\s*(\d{1,2})[./-]\s*(\d{1,2})(?:\D{0,12}(\d{1,2})[:시]\s*(\d{1,2})?)?",
-        r"(20\d{2})\s*년\s*(\d{1,2})\s*월\s*(\d{1,2})\s*일(?:\D{0,12}(\d{1,2})\s*시\s*(\d{1,2})?)?",
+        r"(?<!\d)(20\d{2}|\d{2})[./-]\s*(\d{1,2})[./-]\s*(\d{1,2})" + time_pattern,
+        r"(20\d{2})\s*년\s*(\d{1,2})\s*월\s*(\d{1,2})\s*일" + time_pattern,
     ]
     for context in contexts:
+        # In a date range the ending date often omits its year.
+        year_match = re.search(r"(?<!\d)(20\d{2}|\d{2})[./-]\s*\d{1,2}[./-]\s*\d{1,2}", context)
+        if year_match:
+            year_text = year_match.group(1)
+            context = re.sub(r"([~～–])\s*(\d{1,2}[./-]\s*\d{1,2})(?!\d|[./-]\d)", rf"\1 {year_text}.\2", context)
         for pattern in patterns:
             for match in re.finditer(pattern, context, re.I):
                 year, month, day = map(int, match.group(1, 2, 3))
-                hour = int(match.group(4) or 23)
-                minute = int(match.group(5) or 59)
+                if year < 100:
+                    year += 2000
+                hour = int(match.group(4)) if match.group(4) is not None else 23
+                minute = int(match.group(5)) if match.group(5) is not None else (0 if match.group(4) else 59)
                 try:
                     value = datetime(year, month, day, hour, minute, tzinfo=SEOUL)
-                    if NOW - timedelta(days=2) <= value <= NOW + timedelta(days=370):
-                        dates.append(value)
+                    dates.append(value)
                 except ValueError:
                     pass
     return max(dates) if dates else None
@@ -439,11 +464,13 @@ def company_style(name: str) -> tuple[str, str]:
 
 def classify(candidate: dict, page_text: str) -> tuple[dict | None, str]:
     title = candidate["title"].strip()
+    if contains_any(page_text[:500], ["장학생", "scholarship", "산학장학"]):
+        return None, "scholarship_only"
     preview = " ".join([title, candidate["snippet"]])
     path = urlparse(candidate["url"]).path.lower()
     if len(title) < 4 or title.lower().strip() in NON_POSTING_TITLES:
         return None, "not_job_posting"
-    if re.search(r"\.(?:hc|kc)(?:\?|$)|[?=&]", title.lower()):
+    if re.search(r"https?://|\.(?:hc|kc)(?:\?|$)|[?&]\w+=", title.lower()):
         return None, "not_job_posting"
     if re.fullmatch(r"[a-z0-9_-]+", title.lower()) and " " not in title:
         return None, "not_job_posting"
@@ -452,6 +479,8 @@ def classify(candidate: dict, page_text: str) -> tuple[dict | None, str]:
         or not any(token in path for token in ["/job", "/recruit", "/apply", "/notification", "/rcrt"])
     ):
         return None, "not_job_posting"
+    if candidate.get("discoveredBy") == "sitemap" and not technical_relevance(title, page_text[:2500]):
+        return None, "not_data_track"
     if candidate.get("discoveredBy") != "official_api" and not contains_any(preview, RECRUIT_TERMS) and not any(token in path for token in ["recruit", "career", "job", "apply", "notification", "rcrt"]):
         return None, "not_job_posting"
     combined = " ".join([candidate["company"], title, candidate["snippet"], page_text])
@@ -474,16 +503,16 @@ def classify(candidate: dict, page_text: str) -> tuple[dict | None, str]:
     title_lower = title.lower()
     if contains_any(title_lower, ["경력", "senior", "lead", "principal"]) and not contains_any(title_lower, ENTRY_TERMS):
         return None, "career_only"
-    if contains_any(title + " " + candidate["snippet"], EXCLUDE_TERMS):
+    if contains_any(title, EXCLUDE_TERMS):
         return None, "excluded_role"
     if senior_career_required(combined):
         return None, "senior_career_required"
     if re.search(r"(?:석사|박사)\s*(?:이상|필수)", combined):
         return None, "advanced_degree_required"
-    deadline = deadline_from(combined)
+    deadline = deadline_from(candidate.get("deadlineText") or page_text or combined)
     if deadline and deadline < NOW:
         return None, "expired"
-    if contains_any(page_text[:2500], CLOSED_TERMS):
+    if contains_any(title, CLOSED_TERMS) or re.search(r"(?:모집|채용|접수)(?:이|가)?\s*(?:종료되었습니다|마감되었습니다)", page_text[:2500]):
         return None, "marked_closed"
     track = "통합 공채 · 직무 확인" if batch_recruit else track_for(combined)
     eligibility_text = page_text if candidate.get("discoveredBy") == "sitemap" else preview
@@ -522,8 +551,16 @@ def classify(candidate: dict, page_text: str) -> tuple[dict | None, str]:
 
 def revalidate_existing(job: dict, review: list[dict], checked_at: str) -> dict | None:
     """Recheck a published posting rather than trusting only its old deadline."""
+    if job.get("deadline") and datetime.fromisoformat(job["deadline"]) < NOW:
+        return None
+    if job.get("curated"):
+        return job
+    if contains_any(job.get("title", ""), EXCLUDE_TERMS):
+        return None
     url = job.get("url", "")
     page_text, fetch_error = fetch_page(url)
+    if contains_any(page_text[:500], ["장학생", "scholarship", "산학장학"]):
+        return None
     if fetch_error:
         review.append({
             "company": job.get("company", ""), "url": url,
@@ -542,7 +579,7 @@ def revalidate_existing(job: dict, review: list[dict], checked_at: str) -> dict 
         return job
 
     posting_text = page_text[max(0, title_at - 500):title_at + len(title) + 2500]
-    if contains_any(posting_text, CLOSED_TERMS):
+    if re.search(r"(?:모집|채용|접수)(?:이|가)?\s*(?:종료되었습니다|마감되었습니다)", posting_text):
         return None
     deadline = deadline_from(posting_text)
     if deadline and deadline < NOW:
@@ -569,16 +606,19 @@ def main() -> None:
     review = []
     state = {"lastRunAt": NOW.isoformat(timespec="seconds"), "companies": {}}
     verified = {}
-    for job in old_feed.get("jobs", []):
-        refreshed = revalidate_existing(job, review, state["lastRunAt"])
-        if refreshed:
-            verified[refreshed["id"]] = refreshed
+    with ThreadPoolExecutor(max_workers=8) as executor:
+        refreshed_jobs = executor.map(
+            lambda job: revalidate_existing(job, review, state["lastRunAt"]), old_feed.get("jobs", [])
+        )
+        for refreshed in refreshed_jobs:
+            if refreshed:
+                verified[refreshed["id"]] = refreshed
 
     with ThreadPoolExecutor(max_workers=8) as executor:
         discovery_results = list(executor.map(discover, companies))
 
     for company, (candidates, discovery_errors) in zip(companies, discovery_results):
-        company_state = {"discovered": 0, "verified": 0, "sources": {}, "errors": []}
+        company_state = {"discovered": 0, "verified": 0, "sources": {}, "errors": [], "rejected": {}}
         try:
             company_state["discovered"] = len(candidates)
             company_state["errors"] = discovery_errors
@@ -611,17 +651,41 @@ def main() -> None:
                 if fetch_error:
                     review.append({**candidate, "reason": fetch_error, "checkedAt": state["lastRunAt"]})
                     continue
+                if candidate.get("discoveredBy") == "sitemap" and PAGE_TITLES.get(candidate["url"]):
+                    candidate = {**candidate, "title": PAGE_TITLES[candidate["url"]]}
                 job, reason = classify(candidate, page_text)
                 if job:
                     verified[job["id"]] = job
                     company_state["verified"] += 1
-                elif reason not in {"not_data_track", "expired", "marked_closed", "excluded_role"}:
-                    review.append({**candidate, "reason": reason, "checkedAt": state["lastRunAt"]})
+                else:
+                    company_state["rejected"][reason] = company_state["rejected"].get(reason, 0) + 1
+                    if reason not in {"not_data_track", "expired", "marked_closed", "excluded_role"}:
+                        review.append({**candidate, "reason": reason, "checkedAt": state["lastRunAt"]})
         except (requests.RequestException, ET.ParseError) as exc:
             company_state["errors"].append(f"company:{type(exc).__name__}")
         state["companies"][company["name"]] = company_state
 
+    # User-supplied campaigns survive discovery failures, with explicit provenance.
+    curated = read_json(ROOT / "automation" / "curated-jobs.json", [])
+    for job in curated:
+        if datetime.fromisoformat(job["expiresAt"]) < NOW:
+            continue
+        matches = [key for key, value in verified.items()
+                   if key == job["id"] or (value["company"] == job["company"] and
+                   normalized_url(value["url"]) == normalized_url(job["url"]))]
+        for key in matches:
+            del verified[key]
+        verified[job["id"]] = job
     jobs = sorted(verified.values(), key=lambda item: item.get("deadline") or "9999")
+    for override in read_json(ROOT / "automation" / "deadline-overrides.json", []):
+        for job in jobs:
+            if job["company"].startswith(override["companyPrefix"]) and (job.get("deadline") or "").startswith(override["date"]):
+                job["deadline"] = override["deadline"]
+                job["deadlineLabel"] = datetime.fromisoformat(override["deadline"]).strftime("%m.%d %H:%M")
+                job["check"] = override["note"]
+    jobs.sort(key=lambda item: item.get("deadline") or "9999")
+    state["summary"] = {"published": len(jobs), "automatic": sum(not j.get("curated", False) for j in jobs), "curated": sum(bool(j.get("curated")) for j in jobs), "review": len(review)}
+    print(json.dumps(state["summary"], ensure_ascii=False), flush=True)
     feed = {"schemaVersion": 1, "updatedAt": NOW.isoformat(timespec="seconds"), "jobs": jobs}
     (ROOT / "jobs.json").write_text(json.dumps(feed, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
     (ROOT / "automation" / "state.json").write_text(json.dumps(state, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
