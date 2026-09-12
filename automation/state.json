@@ -1,5 +1,5 @@
 {
-  "lastRunAt": "2026-09-12T13:38:23+09:00",
+  "lastRunAt": "2026-09-12T21:53:07+09:00",
   "companies": {
     "삼성전자": {
       "discovered": 23,
@@ -289,7 +289,9 @@
       "sources": {
         "sitemap": 26
       },
-      "errors": [],
+      "errors": [
+        "official_page:ReadTimeout"
+      ],
       "rejected": {}
     },
     "현대카드": {
@@ -319,45 +321,35 @@
       "discovered": 0,
       "verified": 0,
       "sources": {},
-      "errors": [
-        "official_page:ConnectTimeout"
-      ],
+      "errors": [],
       "rejected": {}
     },
     "한화시스템": {
       "discovered": 0,
       "verified": 0,
       "sources": {},
-      "errors": [
-        "official_page:ConnectTimeout"
-      ],
+      "errors": [],
       "rejected": {}
     },
     "한화에어로스페이스": {
       "discovered": 0,
       "verified": 0,
       "sources": {},
-      "errors": [
-        "official_page:ConnectTimeout"
-      ],
+      "errors": [],
       "rejected": {}
     },
     "한화손해보험": {
       "discovered": 0,
       "verified": 0,
       "sources": {},
-      "errors": [
-        "official_page:ConnectTimeout"
-      ],
+      "errors": [],
       "rejected": {}
     },
     "한화비전": {
       "discovered": 0,
       "verified": 0,
       "sources": {},
-      "errors": [
-        "official_page:ConnectTimeout"
-      ],
+      "errors": [],
       "rejected": {}
     },
     "롯데이노베이트": {
@@ -500,7 +492,7 @@
       },
       "errors": [],
       "rejected": {
-        "eligibility_unconfirmed": 6,
+        "eligibility_unconfirmed": 9,
         "not_job_posting": 39
       }
     },
@@ -512,10 +504,10 @@
       "rejected": {}
     },
     "당근": {
-      "discovered": 31,
+      "discovered": 32,
       "verified": 0,
       "sources": {
-        "official_page": 31
+        "official_page": 32
       },
       "errors": [],
       "rejected": {}
@@ -599,7 +591,7 @@
     },
     "크래프톤": {
       "discovered": 74,
-      "verified": 0,
+      "verified": 3,
       "sources": {
         "official_page": 74
       },
@@ -630,7 +622,9 @@
       "discovered": 0,
       "verified": 0,
       "sources": {},
-      "errors": [],
+      "errors": [
+        "official_page:ConnectTimeout"
+      ],
       "rejected": {}
     },
     "신한은행": {
@@ -795,12 +789,12 @@
       "rejected": {}
     },
     "인천국제공항공사": {
-      "discovered": 5,
+      "discovered": 0,
       "verified": 0,
-      "sources": {
-        "official_page": 5
-      },
-      "errors": [],
+      "sources": {},
+      "errors": [
+        "official_page:ConnectTimeout"
+      ],
       "rejected": {}
     },
     "한국장학재단": {
@@ -857,18 +851,14 @@
       "discovered": 0,
       "verified": 0,
       "sources": {},
-      "errors": [
-        "official_page:ConnectTimeout"
-      ],
+      "errors": [],
       "rejected": {}
     },
     "한화자산운용": {
       "discovered": 0,
       "verified": 0,
       "sources": {},
-      "errors": [
-        "official_page:ConnectTimeout"
-      ],
+      "errors": [],
       "rejected": {}
     },
     "한국투자공사": {
@@ -982,9 +972,9 @@
     }
   },
   "summary": {
-    "published": 57,
-    "automatic": 23,
+    "published": 60,
+    "automatic": 26,
     "curated": 34,
-    "review": 332
+    "review": 335
   }
 }
