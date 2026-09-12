@@ -1,5 +1,5 @@
 {
-  "lastRunAt": "2026-09-12T00:00:08+09:00",
+  "lastRunAt": "2026-09-12T13:38:23+09:00",
   "companies": {
     "삼성전자": {
       "discovered": 23,
@@ -319,35 +319,45 @@
       "discovered": 0,
       "verified": 0,
       "sources": {},
-      "errors": [],
+      "errors": [
+        "official_page:ConnectTimeout"
+      ],
       "rejected": {}
     },
     "한화시스템": {
       "discovered": 0,
       "verified": 0,
       "sources": {},
-      "errors": [],
+      "errors": [
+        "official_page:ConnectTimeout"
+      ],
       "rejected": {}
     },
     "한화에어로스페이스": {
       "discovered": 0,
       "verified": 0,
       "sources": {},
-      "errors": [],
+      "errors": [
+        "official_page:ConnectTimeout"
+      ],
       "rejected": {}
     },
     "한화손해보험": {
       "discovered": 0,
       "verified": 0,
       "sources": {},
-      "errors": [],
+      "errors": [
+        "official_page:ConnectTimeout"
+      ],
       "rejected": {}
     },
     "한화비전": {
       "discovered": 0,
       "verified": 0,
       "sources": {},
-      "errors": [],
+      "errors": [
+        "official_page:ConnectTimeout"
+      ],
       "rejected": {}
     },
     "롯데이노베이트": {
@@ -490,7 +500,7 @@
       },
       "errors": [],
       "rejected": {
-        "eligibility_unconfirmed": 3,
+        "eligibility_unconfirmed": 6,
         "not_job_posting": 39
       }
     },
@@ -541,9 +551,11 @@
       "rejected": {}
     },
     "쏘카": {
-      "discovered": 0,
+      "discovered": 4,
       "verified": 0,
-      "sources": {},
+      "sources": {
+        "bing": 4
+      },
       "errors": [
         "official_page:HTTPError"
       ],
@@ -636,11 +648,12 @@
       "rejected": {}
     },
     "우리은행": {
-      "discovered": 3,
+      "discovered": 6,
       "verified": 0,
       "sources": {
         "official_page": 2,
-        "sitemap": 1
+        "sitemap": 1,
+        "bing": 3
       },
       "errors": [],
       "rejected": {
@@ -725,15 +738,13 @@
       }
     },
     "POSCO DX": {
-      "discovered": 3,
+      "discovered": 2,
       "verified": 0,
       "sources": {
-        "bing": 3
+        "bing": 2
       },
       "errors": [],
-      "rejected": {
-        "not_job_posting": 1
-      }
+      "rejected": {}
     },
     "포스코": {
       "discovered": 0,
@@ -784,12 +795,12 @@
       "rejected": {}
     },
     "인천국제공항공사": {
-      "discovered": 0,
+      "discovered": 5,
       "verified": 0,
-      "sources": {},
-      "errors": [
-        "official_page:ConnectTimeout"
-      ],
+      "sources": {
+        "official_page": 5
+      },
+      "errors": [],
       "rejected": {}
     },
     "한국장학재단": {
@@ -807,9 +818,7 @@
       "discovered": 0,
       "verified": 0,
       "sources": {},
-      "errors": [
-        "official_page:ConnectTimeout"
-      ],
+      "errors": [],
       "rejected": {}
     },
     "한국전력공사": {
@@ -848,14 +857,18 @@
       "discovered": 0,
       "verified": 0,
       "sources": {},
-      "errors": [],
+      "errors": [
+        "official_page:ConnectTimeout"
+      ],
       "rejected": {}
     },
     "한화자산운용": {
       "discovered": 0,
       "verified": 0,
       "sources": {},
-      "errors": [],
+      "errors": [
+        "official_page:ConnectTimeout"
+      ],
       "rejected": {}
     },
     "한국투자공사": {
@@ -959,12 +972,12 @@
       "rejected": {}
     },
     "하나카드": {
-      "discovered": 1,
+      "discovered": 0,
       "verified": 0,
-      "sources": {
-        "official_page": 1
-      },
-      "errors": [],
+      "sources": {},
+      "errors": [
+        "official_page:ConnectTimeout"
+      ],
       "rejected": {}
     }
   },
@@ -972,6 +985,6 @@
     "published": 57,
     "automatic": 23,
     "curated": 34,
-    "review": 324
+    "review": 332
   }
 }

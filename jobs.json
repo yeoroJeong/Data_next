@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-12T00:00:08+09:00",
+  "updatedAt": "2026-09-12T13:38:23+09:00",
   "jobs": [
     {
       "id": "89aa2619c68aa82b",
@@ -39,7 +39,7 @@
       "source": "SIMPAC그룹 공식 채용",
       "initial": "SI",
       "color": "green",
-      "verifiedAt": "2026-09-12T00:00+09:00"
+      "verifiedAt": "2026-09-12T13:38+09:00"
     },
     {
       "id": "d977a01e68d8499a",
@@ -408,7 +408,7 @@
       "source": "삼성전자 DX부문 공식 채용",
       "initial": "DX",
       "color": "blue",
-      "verifiedAt": "2026-09-12T00:00+09:00"
+      "verifiedAt": "2026-09-12T13:38+09:00"
     },
     {
       "id": "7616dc79cdf837a6",
@@ -425,7 +425,7 @@
       "source": "삼성전자 DX부문 공식 채용",
       "initial": "DX",
       "color": "blue",
-      "verifiedAt": "2026-09-12T00:00+09:00"
+      "verifiedAt": "2026-09-12T13:38+09:00"
     },
     {
       "id": "cb014721a5dc34e9",
@@ -442,7 +442,7 @@
       "source": "삼성전자 DS부문 공식 채용",
       "initial": "DS",
       "color": "blue",
-      "verifiedAt": "2026-09-12T00:00+09:00"
+      "verifiedAt": "2026-09-12T13:38+09:00"
     },
     {
       "id": "93091a4a252fa0ff",
@@ -459,7 +459,7 @@
       "source": "삼성전자 DS부문 공식 채용",
       "initial": "DS",
       "color": "blue",
-      "verifiedAt": "2026-09-12T00:00+09:00"
+      "verifiedAt": "2026-09-12T13:38+09:00"
     },
     {
       "id": "7f8bb3cfc61723dc",
@@ -476,7 +476,7 @@
       "source": "삼성SDS 공식 채용",
       "initial": "SD",
       "color": "green",
-      "verifiedAt": "2026-09-12T00:00+09:00"
+      "verifiedAt": "2026-09-12T13:38+09:00"
     },
     {
       "id": "fa3c90e257b00bb5",
@@ -493,7 +493,7 @@
       "source": "삼성SDS 공식 채용",
       "initial": "SD",
       "color": "green",
-      "verifiedAt": "2026-09-12T00:00+09:00"
+      "verifiedAt": "2026-09-12T13:38+09:00"
     },
     {
       "id": "132c65c4a39777b1",
@@ -510,7 +510,7 @@
       "source": "삼성디스플레이 공식 채용",
       "initial": "삼성",
       "color": "blue",
-      "verifiedAt": "2026-09-12T00:00+09:00"
+      "verifiedAt": "2026-09-12T13:38+09:00"
     },
     {
       "id": "9a8bf4325d2d6ee3",
@@ -527,7 +527,7 @@
       "source": "삼성SDI 공식 채용",
       "initial": "SD",
       "color": "blue",
-      "verifiedAt": "2026-09-12T00:00+09:00"
+      "verifiedAt": "2026-09-12T13:38+09:00"
     },
     {
       "id": "c8e1a6831e491aa6",
@@ -544,7 +544,7 @@
       "source": "삼성전기 공식 채용",
       "initial": "삼성",
       "color": "orange",
-      "verifiedAt": "2026-09-12T00:00+09:00"
+      "verifiedAt": "2026-09-12T13:38+09:00"
     },
     {
       "id": "12a9f3116255d2f0",
@@ -561,7 +561,7 @@
       "source": "삼성물산 건설부문 공식 채용",
       "initial": "삼성",
       "color": "green",
-      "verifiedAt": "2026-09-12T00:00+09:00"
+      "verifiedAt": "2026-09-12T13:38+09:00"
     },
     {
       "id": "dc89ac327b76eb7b",
@@ -644,7 +644,7 @@
       "source": "롯데이노베이트 공식 채용",
       "initial": "롯데",
       "color": "blue",
-      "verifiedAt": "2026-09-12T00:00+09:00"
+      "verifiedAt": "2026-09-12T13:38+09:00"
     },
     {
       "id": "bbf2a04512ed3d68",
@@ -859,7 +859,7 @@
       "source": "APR 공식 채용",
       "initial": "AP",
       "color": "green",
-      "verifiedAt": "2026-09-12T00:00+09:00"
+      "verifiedAt": "2026-09-12T13:38+09:00"
     },
     {
       "id": "494d8cf8b0e214fe",
@@ -964,7 +964,7 @@
       "source": "NAVER 공식 채용",
       "initial": "NA",
       "color": "orange",
-      "verifiedAt": "2026-09-12T00:00+09:00"
+      "verifiedAt": "2026-09-12T13:38+09:00"
     },
     {
       "id": "233fdd8f2da31084",
@@ -981,7 +981,7 @@
       "source": "현대오토에버 공식 채용",
       "initial": "현대",
       "color": "orange",
-      "verifiedAt": "2026-09-12T00:00+09:00"
+      "verifiedAt": "2026-09-12T13:38+09:00"
     },
     {
       "id": "d8cabae4b56b909e",
@@ -998,7 +998,7 @@
       "source": "현대모비스 공식 채용",
       "initial": "현대",
       "color": "blue",
-      "verifiedAt": "2026-09-12T00:00+09:00"
+      "verifiedAt": "2026-09-12T13:38+09:00"
     },
     {
       "id": "9e029adc5e714504",
@@ -1015,7 +1015,7 @@
       "source": "현대모비스 공식 채용",
       "initial": "현대",
       "color": "blue",
-      "verifiedAt": "2026-09-12T00:00+09:00"
+      "verifiedAt": "2026-09-12T13:38+09:00"
     },
     {
       "id": "fc93c1591da1b5a2",
@@ -1032,7 +1032,7 @@
       "source": "현대오토에버 공식 채용",
       "initial": "현대",
       "color": "orange",
-      "verifiedAt": "2026-09-12T00:00+09:00"
+      "verifiedAt": "2026-09-12T13:38+09:00"
     },
     {
       "id": "6ce37db4259102cf",
@@ -1049,7 +1049,7 @@
       "source": "카카오페이 공식 채용",
       "initial": "카카",
       "color": "green",
-      "verifiedAt": "2026-09-12T00:00+09:00"
+      "verifiedAt": "2026-09-12T13:38+09:00"
     },
     {
       "id": "ac239e4bbec74485",
@@ -1066,7 +1066,7 @@
       "source": "카카오페이 공식 채용",
       "initial": "카카",
       "color": "green",
-      "verifiedAt": "2026-09-12T00:00+09:00"
+      "verifiedAt": "2026-09-12T13:38+09:00"
     },
     {
       "id": "c720d7351093eca9",
@@ -1083,7 +1083,7 @@
       "source": "카카오페이 공식 채용",
       "initial": "카카",
       "color": "green",
-      "verifiedAt": "2026-09-12T00:00+09:00"
+      "verifiedAt": "2026-09-12T13:38+09:00"
     },
     {
       "id": "15af525206778277",
@@ -1100,7 +1100,7 @@
       "source": "카카오페이 공식 채용",
       "initial": "카카",
       "color": "green",
-      "verifiedAt": "2026-09-12T00:00+09:00"
+      "verifiedAt": "2026-09-12T13:38+09:00"
     },
     {
       "id": "9e18838c21fe1de5",
@@ -1117,7 +1117,7 @@
       "source": "카카오페이 공식 채용",
       "initial": "카카",
       "color": "green",
-      "verifiedAt": "2026-09-12T00:00+09:00"
+      "verifiedAt": "2026-09-12T13:38+09:00"
     },
     {
       "id": "f65f3102b35c2dac",
