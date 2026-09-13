@@ -1,5 +1,5 @@
 {
-  "lastRunAt": "2026-09-13T13:51:33+09:00",
+  "lastRunAt": "2026-09-13T22:49:09+09:00",
   "companies": {
     "삼성전자": {
       "discovered": 23,
@@ -206,11 +206,9 @@
       "rejected": {}
     },
     "LG에너지솔루션": {
-      "discovered": 1,
+      "discovered": 0,
       "verified": 0,
-      "sources": {
-        "bing": 1
-      },
+      "sources": {},
       "errors": [],
       "rejected": {}
     },
@@ -599,12 +597,12 @@
       }
     },
     "엔씨소프트": {
-      "discovered": 0,
+      "discovered": 5,
       "verified": 0,
-      "sources": {},
-      "errors": [
-        "official_page:ReadTimeout"
-      ],
+      "sources": {
+        "official_page": 5
+      },
+      "errors": [],
       "rejected": {}
     },
     "스마일게이트": {
@@ -631,19 +629,20 @@
       "rejected": {}
     },
     "하나은행": {
-      "discovered": 0,
+      "discovered": 2,
       "verified": 0,
-      "sources": {},
+      "sources": {
+        "bing": 2
+      },
       "errors": [],
       "rejected": {}
     },
     "우리은행": {
-      "discovered": 6,
+      "discovered": 3,
       "verified": 0,
       "sources": {
         "official_page": 2,
-        "sitemap": 1,
-        "bing": 3
+        "sitemap": 1
       },
       "errors": [],
       "rejected": {
@@ -690,10 +689,11 @@
       "rejected": {}
     },
     "신세계I&C": {
-      "discovered": 1,
+      "discovered": 2,
       "verified": 0,
       "sources": {
-        "official_page": 1
+        "official_page": 1,
+        "bing": 1
       },
       "errors": [],
       "rejected": {}
@@ -728,20 +728,18 @@
       }
     },
     "POSCO DX": {
+      "discovered": 0,
+      "verified": 0,
+      "sources": {},
+      "errors": [],
+      "rejected": {}
+    },
+    "포스코": {
       "discovered": 2,
       "verified": 0,
       "sources": {
         "bing": 2
       },
-      "errors": [
-        "official_page:ConnectionError"
-      ],
-      "rejected": {}
-    },
-    "포스코": {
-      "discovered": 0,
-      "verified": 0,
-      "sources": {},
       "errors": [],
       "rejected": {}
     },
@@ -766,9 +764,7 @@
         "official_page": 16
       },
       "errors": [],
-      "rejected": {
-        "eligibility_unconfirmed": 1
-      }
+      "rejected": {}
     },
     "BGF리테일": {
       "discovered": 0,
@@ -810,9 +806,7 @@
       "discovered": 0,
       "verified": 0,
       "sources": {},
-      "errors": [
-        "official_page:ConnectTimeout"
-      ],
+      "errors": [],
       "rejected": {}
     },
     "한국전력공사": {
@@ -941,15 +935,15 @@
       "rejected": {}
     },
     "APR": {
-      "discovered": 79,
+      "discovered": 78,
       "verified": 1,
       "sources": {
         "official_page": 1,
-        "sitemap": 78
+        "sitemap": 77
       },
       "errors": [],
       "rejected": {
-        "not_data_track": 66,
+        "not_data_track": 65,
         "career_only": 10,
         "senior_career_required": 1
       }
@@ -964,12 +958,12 @@
       "rejected": {}
     },
     "하나카드": {
-      "discovered": 1,
+      "discovered": 0,
       "verified": 0,
-      "sources": {
-        "official_page": 1
-      },
-      "errors": [],
+      "sources": {},
+      "errors": [
+        "official_page:ConnectTimeout"
+      ],
       "rejected": {}
     }
   },
