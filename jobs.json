@@ -1,73 +1,7 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-14T13:59:40+09:00",
+  "updatedAt": "2026-09-15T00:54:40+09:00",
   "jobs": [
-    {
-      "id": "d1632537f1c3bdf8",
-      "company": "현대자동차",
-      "title": "2026년 하반기 채용 · 직무 확인",
-      "kind": "지원자격 원문 확인",
-      "place": "원문 확인",
-      "deadline": "2026-09-14T17:00:00+09:00",
-      "deadlineLabel": "09.14 17:00",
-      "track": "직무 확인",
-      "note": "사용자 제공 채용 일정입니다. 데이터트랙 관련 직무 포함 여부를 채용 공고에서 확인하세요.",
-      "check": "2026년 기준 사용자 제공 일정 · 마감시간과 신입 지원 가능 여부는 원문 재확인 필요",
-      "url": "https://talent.hyundai.com/apply/applyList.hc",
-      "source": "사용자 제공 일정",
-      "initial": "현대",
-      "color": "blue",
-      "verifiedAt": "",
-      "addedAt": "2026-09-11T14:41:40.015Z",
-      "curated": true,
-      "expiresAt": "2026-09-14T17:00:00+09:00",
-      "category": "일반 기업",
-      "linkLabel": "채용 공고 목록"
-    },
-    {
-      "id": "598a6ff92c22ca9e",
-      "company": "산일전기",
-      "title": "2026년 하반기 채용 · 직무 확인",
-      "kind": "지원자격 원문 확인",
-      "place": "원문 확인",
-      "deadline": "2026-09-14T18:00:00+09:00",
-      "deadlineLabel": "09.14 18:00",
-      "track": "직무 확인",
-      "note": "사용자 제공 채용 일정입니다. 데이터트랙 관련 직무 포함 여부를 채용 공고에서 확인하세요.",
-      "check": "2026년 기준 사용자 제공 일정 · 마감시간과 신입 지원 가능 여부는 원문 재확인 필요",
-      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=54883106",
-      "source": "사용자 제공 일정",
-      "initial": "산일",
-      "color": "blue",
-      "verifiedAt": "",
-      "addedAt": "2026-09-11T14:41:40.015Z",
-      "curated": true,
-      "expiresAt": "2026-09-14T18:00:00+09:00",
-      "category": "일반 기업",
-      "linkLabel": "공고 원문"
-    },
-    {
-      "id": "c6f760c7a1916365",
-      "company": "LG CNS",
-      "title": "2026년 하반기 채용 · 데이터 / AI / SW",
-      "kind": "지원자격 원문 확인",
-      "place": "원문 확인",
-      "deadline": "2026-09-14T23:59:00+09:00",
-      "deadlineLabel": "09.14 23:59",
-      "track": "데이터 / AI / SW",
-      "note": "사용자 제공 채용 일정입니다. 데이터 / AI / SW 분야를 우선 확인하세요.",
-      "check": "2026년 기준 사용자 제공 일정 · 마감시간과 신입 지원 가능 여부는 원문 재확인 필요",
-      "url": "https://careers.lg.com/",
-      "source": "사용자 제공 일정",
-      "initial": "LG",
-      "color": "blue",
-      "verifiedAt": "",
-      "addedAt": "2026-09-11T14:41:40.015Z",
-      "curated": true,
-      "expiresAt": "2026-09-14T23:59:00+09:00",
-      "category": "일반 기업",
-      "linkLabel": "채용 공고 목록"
-    },
     {
       "id": "a19b5199f2a66e2a",
       "company": "인천국제공항공사",
@@ -237,7 +171,7 @@
       "source": "삼성전자 DX부문 공식 채용",
       "initial": "DX",
       "color": "blue",
-      "verifiedAt": "2026-09-14T13:59+09:00"
+      "verifiedAt": "2026-09-15T00:54+09:00"
     },
     {
       "id": "7616dc79cdf837a6",
@@ -254,7 +188,7 @@
       "source": "삼성전자 DX부문 공식 채용",
       "initial": "DX",
       "color": "blue",
-      "verifiedAt": "2026-09-14T13:59+09:00"
+      "verifiedAt": "2026-09-15T00:54+09:00"
     },
     {
       "id": "cb014721a5dc34e9",
@@ -271,7 +205,7 @@
       "source": "삼성전자 DS부문 공식 채용",
       "initial": "DS",
       "color": "blue",
-      "verifiedAt": "2026-09-14T13:59+09:00"
+      "verifiedAt": "2026-09-15T00:54+09:00"
     },
     {
       "id": "93091a4a252fa0ff",
@@ -288,7 +222,7 @@
       "source": "삼성전자 DS부문 공식 채용",
       "initial": "DS",
       "color": "blue",
-      "verifiedAt": "2026-09-14T13:59+09:00"
+      "verifiedAt": "2026-09-15T00:54+09:00"
     },
     {
       "id": "7f8bb3cfc61723dc",
@@ -305,7 +239,7 @@
       "source": "삼성SDS 공식 채용",
       "initial": "SD",
       "color": "green",
-      "verifiedAt": "2026-09-14T13:59+09:00"
+      "verifiedAt": "2026-09-15T00:54+09:00"
     },
     {
       "id": "fa3c90e257b00bb5",
@@ -322,7 +256,7 @@
       "source": "삼성SDS 공식 채용",
       "initial": "SD",
       "color": "green",
-      "verifiedAt": "2026-09-14T13:59+09:00"
+      "verifiedAt": "2026-09-15T00:54+09:00"
     },
     {
       "id": "132c65c4a39777b1",
@@ -339,7 +273,7 @@
       "source": "삼성디스플레이 공식 채용",
       "initial": "삼성",
       "color": "blue",
-      "verifiedAt": "2026-09-14T13:59+09:00"
+      "verifiedAt": "2026-09-15T00:54+09:00"
     },
     {
       "id": "9a8bf4325d2d6ee3",
@@ -356,7 +290,7 @@
       "source": "삼성SDI 공식 채용",
       "initial": "SD",
       "color": "blue",
-      "verifiedAt": "2026-09-14T13:59+09:00"
+      "verifiedAt": "2026-09-15T00:54+09:00"
     },
     {
       "id": "c8e1a6831e491aa6",
@@ -373,7 +307,7 @@
       "source": "삼성전기 공식 채용",
       "initial": "삼성",
       "color": "orange",
-      "verifiedAt": "2026-09-14T13:59+09:00"
+      "verifiedAt": "2026-09-15T00:54+09:00"
     },
     {
       "id": "12a9f3116255d2f0",
@@ -390,7 +324,7 @@
       "source": "삼성물산 건설부문 공식 채용",
       "initial": "삼성",
       "color": "green",
-      "verifiedAt": "2026-09-14T13:59+09:00"
+      "verifiedAt": "2026-09-15T00:54+09:00"
     },
     {
       "id": "dc89ac327b76eb7b",
@@ -461,7 +395,7 @@
     {
       "id": "4a457bbe42efb71f",
       "company": "롯데이노베이트",
-      "title": "롯데이노베이트 2026년 9월 롯데이노베이트 신입사원 채용 일반전형 2026.09.01 ~ 2026.09.16 D-2",
+      "title": "롯데이노베이트 2026년 9월 롯데이노베이트 신입사원 채용 일반전형 2026.09.01 ~ 2026.09.16 D-1",
       "kind": "신입 · 정규직",
       "place": "원문 확인",
       "deadline": "2026-09-16T23:59:00+09:00",
@@ -473,7 +407,7 @@
       "source": "롯데이노베이트 공식 채용",
       "initial": "롯데",
       "color": "blue",
-      "verifiedAt": "2026-09-14T13:59+09:00"
+      "verifiedAt": "2026-09-15T00:54+09:00"
     },
     {
       "id": "bbf2a04512ed3d68",
@@ -688,7 +622,7 @@
       "source": "APR 공식 채용",
       "initial": "AP",
       "color": "green",
-      "verifiedAt": "2026-09-14T13:59+09:00"
+      "verifiedAt": "2026-09-15T00:54+09:00"
     },
     {
       "id": "494d8cf8b0e214fe",
@@ -779,6 +713,23 @@
       "linkLabel": "채용 공고 목록"
     },
     {
+      "id": "478ea5dea2d34add",
+      "company": "NAVER",
+      "title": "[네이버랩스] 로봇 구동팩/냉각 시스템 개발을 위한 임베디드 시스템 개발(인턴십)",
+      "kind": "신입 · 인턴",
+      "place": "원문 확인",
+      "deadline": "2026-09-23T23:59:00+09:00",
+      "deadlineLabel": "09.23 23:59",
+      "track": "컴퓨터공학 / 개발",
+      "note": "공식 채용 원문에서 컴퓨터공학 / 개발 연관성이 확인된 공고입니다.",
+      "check": "신입·인턴 지원 조건을 확인했습니다. 상세 자격과 근무지는 원문에서 다시 확인하세요.",
+      "url": "https://recruit.navercorp.com/rcrt/view.do?annoId=30005435",
+      "source": "NAVER 공식 채용",
+      "initial": "NA",
+      "color": "orange",
+      "verifiedAt": "2026-09-15T00:54+09:00"
+    },
+    {
       "id": "e4ec8a3d7c066f9c",
       "company": "NAVER",
       "title": "[네이버웹툰] AI 서비스 기획 (체험형 인턴)",
@@ -793,7 +744,7 @@
       "source": "NAVER 공식 채용",
       "initial": "NA",
       "color": "orange",
-      "verifiedAt": "2026-09-14T13:59+09:00"
+      "verifiedAt": "2026-09-15T00:54+09:00"
     },
     {
       "id": "233fdd8f2da31084",
@@ -810,7 +761,7 @@
       "source": "현대오토에버 공식 채용",
       "initial": "현대",
       "color": "orange",
-      "verifiedAt": "2026-09-14T13:59+09:00"
+      "verifiedAt": "2026-09-15T00:54+09:00"
     },
     {
       "id": "d8cabae4b56b909e",
@@ -827,7 +778,7 @@
       "source": "현대모비스 공식 채용",
       "initial": "현대",
       "color": "blue",
-      "verifiedAt": "2026-09-14T13:59+09:00"
+      "verifiedAt": "2026-09-15T00:54+09:00"
     },
     {
       "id": "9e029adc5e714504",
@@ -844,7 +795,7 @@
       "source": "현대모비스 공식 채용",
       "initial": "현대",
       "color": "blue",
-      "verifiedAt": "2026-09-14T13:59+09:00"
+      "verifiedAt": "2026-09-15T00:54+09:00"
     },
     {
       "id": "fc93c1591da1b5a2",
@@ -861,7 +812,7 @@
       "source": "현대오토에버 공식 채용",
       "initial": "현대",
       "color": "orange",
-      "verifiedAt": "2026-09-14T13:59+09:00"
+      "verifiedAt": "2026-09-15T00:54+09:00"
     },
     {
       "id": "6ce37db4259102cf",
@@ -878,7 +829,7 @@
       "source": "카카오페이 공식 채용",
       "initial": "카카",
       "color": "green",
-      "verifiedAt": "2026-09-14T13:59+09:00"
+      "verifiedAt": "2026-09-15T00:54+09:00"
     },
     {
       "id": "ac239e4bbec74485",
@@ -895,7 +846,7 @@
       "source": "카카오페이 공식 채용",
       "initial": "카카",
       "color": "green",
-      "verifiedAt": "2026-09-14T13:59+09:00"
+      "verifiedAt": "2026-09-15T00:54+09:00"
     },
     {
       "id": "c720d7351093eca9",
@@ -912,7 +863,7 @@
       "source": "카카오페이 공식 채용",
       "initial": "카카",
       "color": "green",
-      "verifiedAt": "2026-09-14T13:59+09:00"
+      "verifiedAt": "2026-09-15T00:54+09:00"
     },
     {
       "id": "15af525206778277",
@@ -929,7 +880,7 @@
       "source": "카카오페이 공식 채용",
       "initial": "카카",
       "color": "green",
-      "verifiedAt": "2026-09-14T13:59+09:00"
+      "verifiedAt": "2026-09-15T00:54+09:00"
     },
     {
       "id": "9e18838c21fe1de5",
@@ -946,7 +897,7 @@
       "source": "카카오페이 공식 채용",
       "initial": "카카",
       "color": "green",
-      "verifiedAt": "2026-09-14T13:59+09:00"
+      "verifiedAt": "2026-09-15T00:54+09:00"
     },
     {
       "id": "e3d871299e9e192c",
@@ -963,7 +914,7 @@
       "source": "크래프톤 공식 채용",
       "initial": "크래",
       "color": "orange",
-      "verifiedAt": "2026-09-14T13:59+09:00"
+      "verifiedAt": "2026-09-15T00:54+09:00"
     },
     {
       "id": "5a2b69bab5db59fc",
@@ -980,7 +931,7 @@
       "source": "크래프톤 공식 채용",
       "initial": "크래",
       "color": "orange",
-      "verifiedAt": "2026-09-14T13:59+09:00"
+      "verifiedAt": "2026-09-15T00:54+09:00"
     },
     {
       "id": "1fd338c95893a78a",
@@ -997,7 +948,7 @@
       "source": "크래프톤 공식 채용",
       "initial": "크래",
       "color": "orange",
-      "verifiedAt": "2026-09-14T13:59+09:00"
+      "verifiedAt": "2026-09-15T00:54+09:00"
     },
     {
       "id": "f65f3102b35c2dac",
