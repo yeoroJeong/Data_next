@@ -1,29 +1,7 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-15T00:54:40+09:00",
+  "updatedAt": "2026-09-15T13:57:27+09:00",
   "jobs": [
-    {
-      "id": "a19b5199f2a66e2a",
-      "company": "인천국제공항공사",
-      "title": "2026년 하반기 채용 · 전산",
-      "kind": "지원자격 원문 확인",
-      "place": "원문 확인",
-      "deadline": "2026-09-15T10:00:00+09:00",
-      "deadlineLabel": "09.15 10:00",
-      "track": "전산",
-      "note": "사용자 제공 채용 일정입니다. 전산 분야를 우선 확인하세요.",
-      "check": "2026년 접수 마감일 확인 · 세부 지원자격은 원문을 확인하세요.",
-      "url": "https://airport.incruit.com/hire/viewhire.asp?projectid=102",
-      "source": "인천국제공항공사 공식 채용",
-      "initial": "인천",
-      "color": "green",
-      "verifiedAt": "2026-09-11T14:47:19.986Z",
-      "addedAt": "2026-09-11T14:41:40.012Z",
-      "curated": true,
-      "expiresAt": "2026-09-15T10:00:00+09:00",
-      "category": "공기업·공공기관",
-      "linkLabel": "공고 원문"
-    },
     {
       "id": "c557e2067b5f55e1",
       "company": "한국장학재단",
@@ -171,7 +149,7 @@
       "source": "삼성전자 DX부문 공식 채용",
       "initial": "DX",
       "color": "blue",
-      "verifiedAt": "2026-09-15T00:54+09:00"
+      "verifiedAt": "2026-09-15T13:57+09:00"
     },
     {
       "id": "7616dc79cdf837a6",
@@ -188,7 +166,7 @@
       "source": "삼성전자 DX부문 공식 채용",
       "initial": "DX",
       "color": "blue",
-      "verifiedAt": "2026-09-15T00:54+09:00"
+      "verifiedAt": "2026-09-15T13:57+09:00"
     },
     {
       "id": "cb014721a5dc34e9",
@@ -205,7 +183,7 @@
       "source": "삼성전자 DS부문 공식 채용",
       "initial": "DS",
       "color": "blue",
-      "verifiedAt": "2026-09-15T00:54+09:00"
+      "verifiedAt": "2026-09-15T13:57+09:00"
     },
     {
       "id": "93091a4a252fa0ff",
@@ -222,7 +200,7 @@
       "source": "삼성전자 DS부문 공식 채용",
       "initial": "DS",
       "color": "blue",
-      "verifiedAt": "2026-09-15T00:54+09:00"
+      "verifiedAt": "2026-09-15T13:57+09:00"
     },
     {
       "id": "7f8bb3cfc61723dc",
@@ -239,7 +217,7 @@
       "source": "삼성SDS 공식 채용",
       "initial": "SD",
       "color": "green",
-      "verifiedAt": "2026-09-15T00:54+09:00"
+      "verifiedAt": "2026-09-15T13:57+09:00"
     },
     {
       "id": "fa3c90e257b00bb5",
@@ -256,7 +234,7 @@
       "source": "삼성SDS 공식 채용",
       "initial": "SD",
       "color": "green",
-      "verifiedAt": "2026-09-15T00:54+09:00"
+      "verifiedAt": "2026-09-15T13:57+09:00"
     },
     {
       "id": "132c65c4a39777b1",
@@ -273,7 +251,7 @@
       "source": "삼성디스플레이 공식 채용",
       "initial": "삼성",
       "color": "blue",
-      "verifiedAt": "2026-09-15T00:54+09:00"
+      "verifiedAt": "2026-09-15T13:57+09:00"
     },
     {
       "id": "9a8bf4325d2d6ee3",
@@ -290,7 +268,7 @@
       "source": "삼성SDI 공식 채용",
       "initial": "SD",
       "color": "blue",
-      "verifiedAt": "2026-09-15T00:54+09:00"
+      "verifiedAt": "2026-09-15T13:57+09:00"
     },
     {
       "id": "c8e1a6831e491aa6",
@@ -307,7 +285,7 @@
       "source": "삼성전기 공식 채용",
       "initial": "삼성",
       "color": "orange",
-      "verifiedAt": "2026-09-15T00:54+09:00"
+      "verifiedAt": "2026-09-15T13:57+09:00"
     },
     {
       "id": "12a9f3116255d2f0",
@@ -324,7 +302,7 @@
       "source": "삼성물산 건설부문 공식 채용",
       "initial": "삼성",
       "color": "green",
-      "verifiedAt": "2026-09-15T00:54+09:00"
+      "verifiedAt": "2026-09-15T13:57+09:00"
     },
     {
       "id": "dc89ac327b76eb7b",
@@ -407,7 +385,7 @@
       "source": "롯데이노베이트 공식 채용",
       "initial": "롯데",
       "color": "blue",
-      "verifiedAt": "2026-09-15T00:54+09:00"
+      "verifiedAt": "2026-09-15T13:57+09:00"
     },
     {
       "id": "bbf2a04512ed3d68",
@@ -622,7 +600,7 @@
       "source": "APR 공식 채용",
       "initial": "AP",
       "color": "green",
-      "verifiedAt": "2026-09-15T00:54+09:00"
+      "verifiedAt": "2026-09-15T13:57+09:00"
     },
     {
       "id": "494d8cf8b0e214fe",
@@ -727,7 +705,7 @@
       "source": "NAVER 공식 채용",
       "initial": "NA",
       "color": "orange",
-      "verifiedAt": "2026-09-15T00:54+09:00"
+      "verifiedAt": "2026-09-15T13:57+09:00"
     },
     {
       "id": "e4ec8a3d7c066f9c",
@@ -744,7 +722,7 @@
       "source": "NAVER 공식 채용",
       "initial": "NA",
       "color": "orange",
-      "verifiedAt": "2026-09-15T00:54+09:00"
+      "verifiedAt": "2026-09-15T13:57+09:00"
     },
     {
       "id": "233fdd8f2da31084",
@@ -761,7 +739,7 @@
       "source": "현대오토에버 공식 채용",
       "initial": "현대",
       "color": "orange",
-      "verifiedAt": "2026-09-15T00:54+09:00"
+      "verifiedAt": "2026-09-15T13:57+09:00"
     },
     {
       "id": "d8cabae4b56b909e",
@@ -778,7 +756,7 @@
       "source": "현대모비스 공식 채용",
       "initial": "현대",
       "color": "blue",
-      "verifiedAt": "2026-09-15T00:54+09:00"
+      "verifiedAt": "2026-09-15T13:57+09:00"
     },
     {
       "id": "9e029adc5e714504",
@@ -795,7 +773,7 @@
       "source": "현대모비스 공식 채용",
       "initial": "현대",
       "color": "blue",
-      "verifiedAt": "2026-09-15T00:54+09:00"
+      "verifiedAt": "2026-09-15T13:57+09:00"
     },
     {
       "id": "fc93c1591da1b5a2",
@@ -812,7 +790,7 @@
       "source": "현대오토에버 공식 채용",
       "initial": "현대",
       "color": "orange",
-      "verifiedAt": "2026-09-15T00:54+09:00"
+      "verifiedAt": "2026-09-15T13:57+09:00"
     },
     {
       "id": "6ce37db4259102cf",
@@ -829,7 +807,7 @@
       "source": "카카오페이 공식 채용",
       "initial": "카카",
       "color": "green",
-      "verifiedAt": "2026-09-15T00:54+09:00"
+      "verifiedAt": "2026-09-15T13:57+09:00"
     },
     {
       "id": "ac239e4bbec74485",
@@ -846,7 +824,7 @@
       "source": "카카오페이 공식 채용",
       "initial": "카카",
       "color": "green",
-      "verifiedAt": "2026-09-15T00:54+09:00"
+      "verifiedAt": "2026-09-15T13:57+09:00"
     },
     {
       "id": "c720d7351093eca9",
@@ -863,7 +841,7 @@
       "source": "카카오페이 공식 채용",
       "initial": "카카",
       "color": "green",
-      "verifiedAt": "2026-09-15T00:54+09:00"
+      "verifiedAt": "2026-09-15T13:57+09:00"
     },
     {
       "id": "15af525206778277",
@@ -880,7 +858,7 @@
       "source": "카카오페이 공식 채용",
       "initial": "카카",
       "color": "green",
-      "verifiedAt": "2026-09-15T00:54+09:00"
+      "verifiedAt": "2026-09-15T13:57+09:00"
     },
     {
       "id": "9e18838c21fe1de5",
@@ -897,7 +875,7 @@
       "source": "카카오페이 공식 채용",
       "initial": "카카",
       "color": "green",
-      "verifiedAt": "2026-09-15T00:54+09:00"
+      "verifiedAt": "2026-09-15T13:57+09:00"
     },
     {
       "id": "e3d871299e9e192c",
@@ -914,7 +892,7 @@
       "source": "크래프톤 공식 채용",
       "initial": "크래",
       "color": "orange",
-      "verifiedAt": "2026-09-15T00:54+09:00"
+      "verifiedAt": "2026-09-15T13:57+09:00"
     },
     {
       "id": "5a2b69bab5db59fc",
@@ -931,7 +909,7 @@
       "source": "크래프톤 공식 채용",
       "initial": "크래",
       "color": "orange",
-      "verifiedAt": "2026-09-15T00:54+09:00"
+      "verifiedAt": "2026-09-15T13:57+09:00"
     },
     {
       "id": "1fd338c95893a78a",
@@ -948,7 +926,7 @@
       "source": "크래프톤 공식 채용",
       "initial": "크래",
       "color": "orange",
-      "verifiedAt": "2026-09-15T00:54+09:00"
+      "verifiedAt": "2026-09-15T13:57+09:00"
     },
     {
       "id": "f65f3102b35c2dac",
