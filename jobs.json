@@ -1,309 +1,7 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-15T13:57:27+09:00",
+  "updatedAt": "2026-09-15T23:20:43+09:00",
   "jobs": [
-    {
-      "id": "c557e2067b5f55e1",
-      "company": "한국장학재단",
-      "title": "2026년 하반기 채용 · IT 개발운영",
-      "kind": "지원자격 원문 확인",
-      "place": "원문 확인",
-      "deadline": "2026-09-15T17:00:00+09:00",
-      "deadlineLabel": "09.15 17:00",
-      "track": "IT 개발운영",
-      "note": "사용자 제공 채용 일정입니다. IT 개발운영 분야를 우선 확인하세요.",
-      "check": "2026년 기준 사용자 제공 일정 · 마감시간과 신입 지원 가능 여부는 원문 재확인 필요",
-      "url": "https://kosaf.scout.co.kr",
-      "source": "사용자 제공 일정",
-      "initial": "한국",
-      "color": "green",
-      "verifiedAt": "",
-      "addedAt": "2026-09-11T14:41:40.014Z",
-      "curated": true,
-      "expiresAt": "2026-09-15T17:00:00+09:00",
-      "category": "공기업·공공기관",
-      "linkLabel": "채용 공고 목록"
-    },
-    {
-      "id": "61b84b1f321747a4",
-      "company": "삼성화재",
-      "title": "2026년 하반기 3급 신입사원 채용 공고",
-      "kind": "지원자격 원문 확인",
-      "place": "원문 확인",
-      "deadline": "2026-09-15T17:00:00+09:00",
-      "deadlineLabel": "09.15 17:00",
-      "track": "금융 IT · 직무 확인",
-      "note": "사용자 제공 채용 일정입니다. 데이터트랙 관련 직무 포함 여부를 채용 공고에서 확인하세요.",
-      "check": "마감시간은 사용자 제공 일정(09.15 17:00)을 반영했습니다. 지원 전 원문에서 세부 지원자격과 시간을 재확인하세요.",
-      "url": "https://www.samsungcareers.com/subsid/detail/E21?recruitId=23126",
-      "source": "사용자 제공 일정",
-      "initial": "삼성",
-      "color": "orange",
-      "verifiedAt": "",
-      "addedAt": "2026-09-11T14:41:40.014Z",
-      "curated": true,
-      "expiresAt": "2026-09-15T17:00:00+09:00",
-      "category": "금융",
-      "linkLabel": "공고 원문"
-    },
-    {
-      "id": "103cce9544cb2bfb",
-      "company": "삼성생명",
-      "title": "2026년 하반기 3급 신입사원 채용 공고",
-      "kind": "지원자격 원문 확인",
-      "place": "원문 확인",
-      "deadline": "2026-09-15T17:00:00+09:00",
-      "deadlineLabel": "09.15 17:00",
-      "track": "금융 IT · 직무 확인",
-      "note": "사용자 제공 채용 일정입니다. 데이터트랙 관련 직무 포함 여부를 채용 공고에서 확인하세요.",
-      "check": "마감시간은 사용자 제공 일정(09.15 17:00)을 반영했습니다. 지원 전 원문에서 세부 지원자격과 시간을 재확인하세요.",
-      "url": "https://www.samsungcareers.com/subsid/detail/E11?recruitId=23041",
-      "source": "사용자 제공 일정",
-      "initial": "삼성",
-      "color": "orange",
-      "verifiedAt": "",
-      "addedAt": "2026-09-11T14:41:40.014Z",
-      "curated": true,
-      "expiresAt": "2026-09-15T17:00:00+09:00",
-      "category": "금융",
-      "linkLabel": "공고 원문"
-    },
-    {
-      "id": "513d8d484f69f9a9",
-      "company": "삼성카드",
-      "title": "2026년 하반기 3급 신입사원 채용 공고",
-      "kind": "지원자격 원문 확인",
-      "place": "원문 확인",
-      "deadline": "2026-09-15T17:00:00+09:00",
-      "deadlineLabel": "09.15 17:00",
-      "track": "금융 IT · 직무 확인",
-      "note": "사용자 제공 채용 일정입니다. 데이터트랙 관련 직무 포함 여부를 채용 공고에서 확인하세요.",
-      "check": "마감시간은 사용자 제공 일정(09.15 17:00)을 반영했습니다. 지원 전 원문에서 세부 지원자격과 시간을 재확인하세요.",
-      "url": "https://www.samsungcareers.com/subsid/detail/E31?recruitId=23085",
-      "source": "사용자 제공 일정",
-      "initial": "삼성",
-      "color": "orange",
-      "verifiedAt": "",
-      "addedAt": "2026-09-11T14:41:40.014Z",
-      "curated": true,
-      "expiresAt": "2026-09-15T17:00:00+09:00",
-      "category": "금융",
-      "linkLabel": "공고 원문"
-    },
-    {
-      "id": "85256c962626a6d9",
-      "company": "삼성증권",
-      "title": "2026년 하반기 3급 신입사원 채용 공고",
-      "kind": "지원자격 원문 확인",
-      "place": "원문 확인",
-      "deadline": "2026-09-15T17:00:00+09:00",
-      "deadlineLabel": "09.15 17:00",
-      "track": "금융 IT · 직무 확인",
-      "note": "사용자 제공 채용 일정입니다. 데이터트랙 관련 직무 포함 여부를 채용 공고에서 확인하세요.",
-      "check": "마감시간은 사용자 제공 일정(09.15 17:00)을 반영했습니다. 지원 전 원문에서 세부 지원자격과 시간을 재확인하세요.",
-      "url": "https://www.samsungcareers.com/subsid/detail/E40?recruitId=23009",
-      "source": "사용자 제공 일정",
-      "initial": "삼성",
-      "color": "orange",
-      "verifiedAt": "",
-      "addedAt": "2026-09-11T14:41:40.014Z",
-      "curated": true,
-      "expiresAt": "2026-09-15T17:00:00+09:00",
-      "category": "금융",
-      "linkLabel": "공고 원문"
-    },
-    {
-      "id": "56cbbcf8cd59b4e2",
-      "company": "삼성그룹",
-      "title": "2026년 하반기 채용 · 통합 공채 · 직무 확인",
-      "kind": "지원자격 원문 확인",
-      "place": "원문 확인",
-      "deadline": "2026-09-15T17:00:00+09:00",
-      "deadlineLabel": "09.15 17:00",
-      "track": "통합 공채 · 직무 확인",
-      "note": "사용자 제공 채용 일정입니다. 데이터트랙 관련 직무 포함 여부를 채용 공고에서 확인하세요.",
-      "check": "마감시간은 사용자 제공 일정(09.15 17:00)을 반영했습니다. 지원 전 원문에서 세부 지원자격과 시간을 재확인하세요.",
-      "url": "https://www.samsungcareers.com/",
-      "source": "사용자 제공 일정",
-      "initial": "삼성",
-      "color": "blue",
-      "verifiedAt": "",
-      "addedAt": "2026-09-11T14:41:40.015Z",
-      "curated": true,
-      "expiresAt": "2026-09-15T17:00:00+09:00",
-      "category": "일반 기업",
-      "linkLabel": "채용 공고 목록"
-    },
-    {
-      "id": "fe4ba3ba4679242d",
-      "company": "삼성전자 DX부문",
-      "title": "2026년 하반기 3급 신입사원 채용 공고 (DX부문)",
-      "kind": "신입 · 정규직",
-      "place": "원문 확인",
-      "deadline": "2026-09-15T17:00:00+09:00",
-      "deadlineLabel": "09.15 17:00",
-      "track": "통합 공채 · 직무 확인",
-      "note": "통합 신입 공채입니다. AI·SW·데이터 세부 직무 포함 여부를 원문에서 확인하세요.",
-      "check": "마감시간은 사용자 제공 일정(09.15 17:00)을 반영했습니다. 지원 전 원문에서 세부 지원자격과 시간을 재확인하세요.",
-      "url": "https://www.samsungcareers.com/subsid/detail/C10CAA?recruitId=23055",
-      "source": "삼성전자 DX부문 공식 채용",
-      "initial": "DX",
-      "color": "blue",
-      "verifiedAt": "2026-09-15T13:57+09:00"
-    },
-    {
-      "id": "7616dc79cdf837a6",
-      "company": "삼성전자 DX부문",
-      "title": "Samsung Convergence SW Academy 모집 공고 (DX부문)",
-      "kind": "신입 · 정규직",
-      "place": "원문 확인",
-      "deadline": "2026-09-15T17:00:00+09:00",
-      "deadlineLabel": "09.15 17:00",
-      "track": "데이터 / 디지털",
-      "note": "공식 채용 원문에서 데이터 / 디지털 연관성이 확인된 공고입니다.",
-      "check": "마감시간은 사용자 제공 일정(09.15 17:00)을 반영했습니다. 지원 전 원문에서 세부 지원자격과 시간을 재확인하세요.",
-      "url": "https://www.samsungcareers.com/subsid/detail/C10CAA?recruitId=23071",
-      "source": "삼성전자 DX부문 공식 채용",
-      "initial": "DX",
-      "color": "blue",
-      "verifiedAt": "2026-09-15T13:57+09:00"
-    },
-    {
-      "id": "cb014721a5dc34e9",
-      "company": "삼성전자 DS부문",
-      "title": "Samsung Convergence SW Academy 모집 공고 (DS부문)",
-      "kind": "신입 · 정규직",
-      "place": "원문 확인",
-      "deadline": "2026-09-15T17:00:00+09:00",
-      "deadlineLabel": "09.15 17:00",
-      "track": "데이터 / 디지털",
-      "note": "공식 채용 원문에서 데이터 / 디지털 연관성이 확인된 공고입니다.",
-      "check": "마감시간은 사용자 제공 일정(09.15 17:00)을 반영했습니다. 지원 전 원문에서 세부 지원자격과 시간을 재확인하세요.",
-      "url": "https://www.samsungcareers.com/subsid/detail/C10CAH?recruitId=23063",
-      "source": "삼성전자 DS부문 공식 채용",
-      "initial": "DS",
-      "color": "blue",
-      "verifiedAt": "2026-09-15T13:57+09:00"
-    },
-    {
-      "id": "93091a4a252fa0ff",
-      "company": "삼성전자 DS부문",
-      "title": "2026년 하반기 3급 신입사원 채용 공고 (DS부문)",
-      "kind": "신입 · 정규직",
-      "place": "원문 확인",
-      "deadline": "2026-09-15T17:00:00+09:00",
-      "deadlineLabel": "09.15 17:00",
-      "track": "통합 공채 · 직무 확인",
-      "note": "통합 신입 공채입니다. AI·SW·데이터 세부 직무 포함 여부를 원문에서 확인하세요.",
-      "check": "마감시간은 사용자 제공 일정(09.15 17:00)을 반영했습니다. 지원 전 원문에서 세부 지원자격과 시간을 재확인하세요.",
-      "url": "https://www.samsungcareers.com/subsid/detail/C10CAH?recruitId=23075",
-      "source": "삼성전자 DS부문 공식 채용",
-      "initial": "DS",
-      "color": "blue",
-      "verifiedAt": "2026-09-15T13:57+09:00"
-    },
-    {
-      "id": "7f8bb3cfc61723dc",
-      "company": "삼성SDS",
-      "title": "Samsung Convergence SW Academy 모집 공고",
-      "kind": "신입 · 정규직",
-      "place": "원문 확인",
-      "deadline": "2026-09-15T17:00:00+09:00",
-      "deadlineLabel": "09.15 17:00",
-      "track": "데이터 / 디지털",
-      "note": "공식 채용 원문에서 데이터 / 디지털 연관성이 확인된 공고입니다.",
-      "check": "마감시간은 사용자 제공 일정(09.15 17:00)을 반영했습니다. 지원 전 원문에서 세부 지원자격과 시간을 재확인하세요.",
-      "url": "https://www.samsungcareers.com/subsid/detail/C60?recruitId=22975",
-      "source": "삼성SDS 공식 채용",
-      "initial": "SD",
-      "color": "green",
-      "verifiedAt": "2026-09-15T13:57+09:00"
-    },
-    {
-      "id": "fa3c90e257b00bb5",
-      "company": "삼성SDS",
-      "title": "2026년 하반기 3급 신입사원 채용 공고",
-      "kind": "신입 · 정규직",
-      "place": "원문 확인",
-      "deadline": "2026-09-15T17:00:00+09:00",
-      "deadlineLabel": "09.15 17:00",
-      "track": "통합 공채 · 직무 확인",
-      "note": "통합 신입 공채입니다. AI·SW·데이터 세부 직무 포함 여부를 원문에서 확인하세요.",
-      "check": "마감시간은 사용자 제공 일정(09.15 17:00)을 반영했습니다. 지원 전 원문에서 세부 지원자격과 시간을 재확인하세요.",
-      "url": "https://www.samsungcareers.com/subsid/detail/C60?recruitId=22987",
-      "source": "삼성SDS 공식 채용",
-      "initial": "SD",
-      "color": "green",
-      "verifiedAt": "2026-09-15T13:57+09:00"
-    },
-    {
-      "id": "132c65c4a39777b1",
-      "company": "삼성디스플레이",
-      "title": "2026년 하반기 3급 신입사원 채용 공고",
-      "kind": "신입 · 정규직",
-      "place": "원문 확인",
-      "deadline": "2026-09-15T17:00:00+09:00",
-      "deadlineLabel": "09.15 17:00",
-      "track": "통합 공채 · 직무 확인",
-      "note": "통합 신입 공채입니다. AI·SW·데이터 세부 직무 포함 여부를 원문에서 확인하세요.",
-      "check": "마감시간은 사용자 제공 일정(09.15 17:00)을 반영했습니다. 지원 전 원문에서 세부 지원자격과 시간을 재확인하세요.",
-      "url": "https://www.samsungcareers.com/subsid/detail/C90?recruitId=22985",
-      "source": "삼성디스플레이 공식 채용",
-      "initial": "삼성",
-      "color": "blue",
-      "verifiedAt": "2026-09-15T13:57+09:00"
-    },
-    {
-      "id": "9a8bf4325d2d6ee3",
-      "company": "삼성SDI",
-      "title": "2026년 하반기 3급 신입사원 채용 공고",
-      "kind": "신입 · 정규직",
-      "place": "원문 확인",
-      "deadline": "2026-09-15T17:00:00+09:00",
-      "deadlineLabel": "09.15 17:00",
-      "track": "통합 공채 · 직무 확인",
-      "note": "통합 신입 공채입니다. AI·SW·데이터 세부 직무 포함 여부를 원문에서 확인하세요.",
-      "check": "마감시간은 사용자 제공 일정(09.15 17:00)을 반영했습니다. 지원 전 원문에서 세부 지원자격과 시간을 재확인하세요.",
-      "url": "https://www.samsungcareers.com/subsid/detail/C31?recruitId=23015",
-      "source": "삼성SDI 공식 채용",
-      "initial": "SD",
-      "color": "blue",
-      "verifiedAt": "2026-09-15T13:57+09:00"
-    },
-    {
-      "id": "c8e1a6831e491aa6",
-      "company": "삼성전기",
-      "title": "2026년 하반기 3급 신입사원 채용 공고",
-      "kind": "신입 · 정규직",
-      "place": "원문 확인",
-      "deadline": "2026-09-15T17:00:00+09:00",
-      "deadlineLabel": "09.15 17:00",
-      "track": "통합 공채 · 직무 확인",
-      "note": "통합 신입 공채입니다. AI·SW·데이터 세부 직무 포함 여부를 원문에서 확인하세요.",
-      "check": "마감시간은 사용자 제공 일정(09.15 17:00)을 반영했습니다. 지원 전 원문에서 세부 지원자격과 시간을 재확인하세요.",
-      "url": "https://www.samsungcareers.com/subsid/detail/C40?recruitId=22976",
-      "source": "삼성전기 공식 채용",
-      "initial": "삼성",
-      "color": "orange",
-      "verifiedAt": "2026-09-15T13:57+09:00"
-    },
-    {
-      "id": "12a9f3116255d2f0",
-      "company": "삼성물산 건설부문",
-      "title": "2026년 하반기 3급 신입사원 채용 공고",
-      "kind": "신입 · 정규직",
-      "place": "원문 확인",
-      "deadline": "2026-09-15T17:00:00+09:00",
-      "deadlineLabel": "09.15 17:00",
-      "track": "통합 공채 · 직무 확인",
-      "note": "통합 신입 공채입니다. AI·SW·데이터 세부 직무 포함 여부를 원문에서 확인하세요.",
-      "check": "마감시간은 사용자 제공 일정(09.15 17:00)을 반영했습니다. 지원 전 원문에서 세부 지원자격과 시간을 재확인하세요.",
-      "url": "https://www.samsungcareers.com/subsid/detail/B12?recruitId=22965",
-      "source": "삼성물산 건설부문 공식 채용",
-      "initial": "삼성",
-      "color": "green",
-      "verifiedAt": "2026-09-15T13:57+09:00"
-    },
     {
       "id": "dc89ac327b76eb7b",
       "company": "한국가스공사",
@@ -385,7 +83,7 @@
       "source": "롯데이노베이트 공식 채용",
       "initial": "롯데",
       "color": "blue",
-      "verifiedAt": "2026-09-15T13:57+09:00"
+      "verifiedAt": "2026-09-15T23:20+09:00"
     },
     {
       "id": "bbf2a04512ed3d68",
@@ -600,7 +298,7 @@
       "source": "APR 공식 채용",
       "initial": "AP",
       "color": "green",
-      "verifiedAt": "2026-09-15T13:57+09:00"
+      "verifiedAt": "2026-09-15T23:20+09:00"
     },
     {
       "id": "494d8cf8b0e214fe",
@@ -705,7 +403,7 @@
       "source": "NAVER 공식 채용",
       "initial": "NA",
       "color": "orange",
-      "verifiedAt": "2026-09-15T13:57+09:00"
+      "verifiedAt": "2026-09-15T23:20+09:00"
     },
     {
       "id": "e4ec8a3d7c066f9c",
@@ -722,7 +420,24 @@
       "source": "NAVER 공식 채용",
       "initial": "NA",
       "color": "orange",
-      "verifiedAt": "2026-09-15T13:57+09:00"
+      "verifiedAt": "2026-09-15T23:20+09:00"
+    },
+    {
+      "id": "c03c9b636d5a8a97",
+      "company": "NAVER",
+      "title": "[네이버웹툰] 캐릭터 AI 모델 기획 및 테스트 (체험형 인턴)",
+      "kind": "신입 · 인턴",
+      "place": "원문 확인",
+      "deadline": "2026-09-27T23:59:00+09:00",
+      "deadlineLabel": "09.27 23:59",
+      "track": "QA / 테스트",
+      "note": "공식 채용 원문에서 QA / 테스트 연관성이 확인된 공고입니다.",
+      "check": "신입·인턴 지원 조건을 확인했습니다. 상세 자격과 근무지는 원문에서 다시 확인하세요.",
+      "url": "https://recruit.navercorp.com/rcrt/view.do?annoId=30005461",
+      "source": "NAVER 공식 채용",
+      "initial": "NA",
+      "color": "orange",
+      "verifiedAt": "2026-09-15T23:20+09:00"
     },
     {
       "id": "233fdd8f2da31084",
@@ -739,7 +454,7 @@
       "source": "현대오토에버 공식 채용",
       "initial": "현대",
       "color": "orange",
-      "verifiedAt": "2026-09-15T13:57+09:00"
+      "verifiedAt": "2026-09-15T23:20+09:00"
     },
     {
       "id": "d8cabae4b56b909e",
@@ -756,7 +471,7 @@
       "source": "현대모비스 공식 채용",
       "initial": "현대",
       "color": "blue",
-      "verifiedAt": "2026-09-15T13:57+09:00"
+      "verifiedAt": "2026-09-15T23:20+09:00"
     },
     {
       "id": "9e029adc5e714504",
@@ -773,7 +488,7 @@
       "source": "현대모비스 공식 채용",
       "initial": "현대",
       "color": "blue",
-      "verifiedAt": "2026-09-15T13:57+09:00"
+      "verifiedAt": "2026-09-15T23:20+09:00"
     },
     {
       "id": "fc93c1591da1b5a2",
@@ -790,7 +505,7 @@
       "source": "현대오토에버 공식 채용",
       "initial": "현대",
       "color": "orange",
-      "verifiedAt": "2026-09-15T13:57+09:00"
+      "verifiedAt": "2026-09-15T23:20+09:00"
     },
     {
       "id": "6ce37db4259102cf",
@@ -807,7 +522,7 @@
       "source": "카카오페이 공식 채용",
       "initial": "카카",
       "color": "green",
-      "verifiedAt": "2026-09-15T13:57+09:00"
+      "verifiedAt": "2026-09-15T23:20+09:00"
     },
     {
       "id": "ac239e4bbec74485",
@@ -824,7 +539,7 @@
       "source": "카카오페이 공식 채용",
       "initial": "카카",
       "color": "green",
-      "verifiedAt": "2026-09-15T13:57+09:00"
+      "verifiedAt": "2026-09-15T23:20+09:00"
     },
     {
       "id": "c720d7351093eca9",
@@ -841,7 +556,7 @@
       "source": "카카오페이 공식 채용",
       "initial": "카카",
       "color": "green",
-      "verifiedAt": "2026-09-15T13:57+09:00"
+      "verifiedAt": "2026-09-15T23:20+09:00"
     },
     {
       "id": "15af525206778277",
@@ -858,7 +573,7 @@
       "source": "카카오페이 공식 채용",
       "initial": "카카",
       "color": "green",
-      "verifiedAt": "2026-09-15T13:57+09:00"
+      "verifiedAt": "2026-09-15T23:20+09:00"
     },
     {
       "id": "9e18838c21fe1de5",
@@ -875,7 +590,7 @@
       "source": "카카오페이 공식 채용",
       "initial": "카카",
       "color": "green",
-      "verifiedAt": "2026-09-15T13:57+09:00"
+      "verifiedAt": "2026-09-15T23:20+09:00"
     },
     {
       "id": "e3d871299e9e192c",
@@ -892,7 +607,7 @@
       "source": "크래프톤 공식 채용",
       "initial": "크래",
       "color": "orange",
-      "verifiedAt": "2026-09-15T13:57+09:00"
+      "verifiedAt": "2026-09-15T23:20+09:00"
     },
     {
       "id": "5a2b69bab5db59fc",
@@ -909,7 +624,7 @@
       "source": "크래프톤 공식 채용",
       "initial": "크래",
       "color": "orange",
-      "verifiedAt": "2026-09-15T13:57+09:00"
+      "verifiedAt": "2026-09-15T23:20+09:00"
     },
     {
       "id": "1fd338c95893a78a",
@@ -926,7 +641,58 @@
       "source": "크래프톤 공식 채용",
       "initial": "크래",
       "color": "orange",
-      "verifiedAt": "2026-09-15T13:57+09:00"
+      "verifiedAt": "2026-09-15T23:20+09:00"
+    },
+    {
+      "id": "520504d87a9276a7",
+      "company": "크래프톤",
+      "title": "[AI Research Div.] Data Program Manager (경력무관 / 인턴)",
+      "kind": "신입 · 인턴",
+      "place": "원문 확인",
+      "deadline": null,
+      "deadlineLabel": "원문 확인",
+      "track": "클라우드 / 플랫폼",
+      "note": "공식 채용 원문에서 클라우드 / 플랫폼 연관성이 확인된 공고입니다.",
+      "check": "신입·인턴 지원 조건을 확인했습니다. 상세 자격과 근무지는 원문에서 다시 확인하세요.",
+      "url": "https://www.krafton.com/careers/recruit-detail/?var_page=1&job=5112&search_list_cnt=10",
+      "source": "크래프톤 공식 채용",
+      "initial": "크래",
+      "color": "orange",
+      "verifiedAt": "2026-09-15T23:20+09:00"
+    },
+    {
+      "id": "a4ef2304477ec5f4",
+      "company": "크래프톤",
+      "title": "[AI Research Div.] Data Program Manager (경력무관 / 인턴)",
+      "kind": "신입 · 인턴",
+      "place": "원문 확인",
+      "deadline": null,
+      "deadlineLabel": "원문 확인",
+      "track": "클라우드 / 플랫폼",
+      "note": "공식 채용 원문에서 클라우드 / 플랫폼 연관성이 확인된 공고입니다.",
+      "check": "신입·인턴 지원 조건을 확인했습니다. 상세 자격과 근무지는 원문에서 다시 확인하세요.",
+      "url": "https://www.krafton.com/en/careers/recruit-detail/?var_page=1&job=5112&search_list_cnt=10",
+      "source": "크래프톤 공식 채용",
+      "initial": "크래",
+      "color": "orange",
+      "verifiedAt": "2026-09-15T23:20+09:00"
+    },
+    {
+      "id": "20e4ba506e004d4c",
+      "company": "크래프톤",
+      "title": "[AI Research Div.] Data Program Manager (경력무관 / 인턴)",
+      "kind": "신입 · 인턴",
+      "place": "원문 확인",
+      "deadline": null,
+      "deadlineLabel": "원문 확인",
+      "track": "클라우드 / 플랫폼",
+      "note": "공식 채용 원문에서 클라우드 / 플랫폼 연관성이 확인된 공고입니다.",
+      "check": "신입·인턴 지원 조건을 확인했습니다. 상세 자격과 근무지는 원문에서 다시 확인하세요.",
+      "url": "https://www.krafton.com/zh/careers/recruit-detail/?var_page=1&job=5112&search_list_cnt=10",
+      "source": "크래프톤 공식 채용",
+      "initial": "크래",
+      "color": "orange",
+      "verifiedAt": "2026-09-15T23:20+09:00"
     },
     {
       "id": "f65f3102b35c2dac",
