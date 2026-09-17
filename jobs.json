@@ -1,46 +1,7 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-16T23:12:55+09:00",
+  "updatedAt": "2026-09-17T13:55:49+09:00",
   "jobs": [
-    {
-      "id": "4a457bbe42efb71f",
-      "company": "롯데이노베이트",
-      "title": "롯데이노베이트 2026년 9월 롯데이노베이트 신입사원 채용 일반전형 2026.09.01 ~ 2026.09.16 마감",
-      "kind": "신입 · 정규직",
-      "place": "원문 확인",
-      "deadline": "2026-09-16T23:59:00+09:00",
-      "deadlineLabel": "09.16 23:59",
-      "track": "통합 공채 · 직무 확인",
-      "note": "통합 신입 공채입니다. AI·SW·데이터 세부 직무 포함 여부를 원문에서 확인하세요.",
-      "check": "직무별 전공·스킬 조건을 원문에서 확인하세요.",
-      "url": "https://recruit.lotte.co.kr/apply/announcement/detail/21933850?compcd=30007",
-      "source": "롯데이노베이트 공식 채용",
-      "initial": "롯데",
-      "color": "blue",
-      "verifiedAt": "2026-09-16T23:12+09:00"
-    },
-    {
-      "id": "bbf2a04512ed3d68",
-      "company": "뱅크웨어글로벌",
-      "title": "2026년 하반기 채용 · 금융 IT",
-      "kind": "지원자격 원문 확인",
-      "place": "원문 확인",
-      "deadline": "2026-09-16T23:59:00+09:00",
-      "deadlineLabel": "09.16 23:59",
-      "track": "금융 IT",
-      "note": "사용자 제공 채용 일정입니다. 금융 IT 분야를 우선 확인하세요.",
-      "check": "2026년 기준 사용자 제공 일정 · 마감시간과 신입 지원 가능 여부는 원문 재확인 필요",
-      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=54947126",
-      "source": "사용자 제공 일정",
-      "initial": "뱅크",
-      "color": "blue",
-      "verifiedAt": "",
-      "addedAt": "2026-09-11T14:41:40.015Z",
-      "curated": true,
-      "expiresAt": "2026-09-16T23:59:00+09:00",
-      "category": "일반 기업",
-      "linkLabel": "공고 원문"
-    },
     {
       "id": "2880a87db3d2ba62",
       "company": "NH농협은행",
@@ -232,7 +193,7 @@
       "source": "APR 공식 채용",
       "initial": "AP",
       "color": "green",
-      "verifiedAt": "2026-09-16T23:12+09:00"
+      "verifiedAt": "2026-09-17T13:55+09:00"
     },
     {
       "id": "494d8cf8b0e214fe",
@@ -337,7 +298,7 @@
       "source": "NAVER 공식 채용",
       "initial": "NA",
       "color": "orange",
-      "verifiedAt": "2026-09-16T23:12+09:00"
+      "verifiedAt": "2026-09-17T13:55+09:00"
     },
     {
       "id": "e4ec8a3d7c066f9c",
@@ -354,7 +315,7 @@
       "source": "NAVER 공식 채용",
       "initial": "NA",
       "color": "orange",
-      "verifiedAt": "2026-09-16T23:12+09:00"
+      "verifiedAt": "2026-09-17T13:55+09:00"
     },
     {
       "id": "c03c9b636d5a8a97",
@@ -371,7 +332,7 @@
       "source": "NAVER 공식 채용",
       "initial": "NA",
       "color": "orange",
-      "verifiedAt": "2026-09-16T23:12+09:00"
+      "verifiedAt": "2026-09-17T13:55+09:00"
     },
     {
       "id": "233fdd8f2da31084",
@@ -388,7 +349,7 @@
       "source": "현대오토에버 공식 채용",
       "initial": "현대",
       "color": "orange",
-      "verifiedAt": "2026-09-16T23:12+09:00"
+      "verifiedAt": "2026-09-17T13:55+09:00"
     },
     {
       "id": "d8cabae4b56b909e",
@@ -405,7 +366,7 @@
       "source": "현대모비스 공식 채용",
       "initial": "현대",
       "color": "blue",
-      "verifiedAt": "2026-09-16T23:12+09:00"
+      "verifiedAt": "2026-09-17T13:55+09:00"
     },
     {
       "id": "9e029adc5e714504",
@@ -422,7 +383,7 @@
       "source": "현대모비스 공식 채용",
       "initial": "현대",
       "color": "blue",
-      "verifiedAt": "2026-09-16T23:12+09:00"
+      "verifiedAt": "2026-09-17T13:55+09:00"
     },
     {
       "id": "fc93c1591da1b5a2",
@@ -439,7 +400,7 @@
       "source": "현대오토에버 공식 채용",
       "initial": "현대",
       "color": "orange",
-      "verifiedAt": "2026-09-16T23:12+09:00"
+      "verifiedAt": "2026-09-17T13:55+09:00"
     },
     {
       "id": "6ce37db4259102cf",
@@ -456,7 +417,7 @@
       "source": "카카오페이 공식 채용",
       "initial": "카카",
       "color": "green",
-      "verifiedAt": "2026-09-16T23:12+09:00"
+      "verifiedAt": "2026-09-17T13:55+09:00"
     },
     {
       "id": "ac239e4bbec74485",
@@ -473,7 +434,7 @@
       "source": "카카오페이 공식 채용",
       "initial": "카카",
       "color": "green",
-      "verifiedAt": "2026-09-16T23:12+09:00"
+      "verifiedAt": "2026-09-17T13:55+09:00"
     },
     {
       "id": "c720d7351093eca9",
@@ -490,7 +451,7 @@
       "source": "카카오페이 공식 채용",
       "initial": "카카",
       "color": "green",
-      "verifiedAt": "2026-09-16T23:12+09:00"
+      "verifiedAt": "2026-09-17T13:55+09:00"
     },
     {
       "id": "15af525206778277",
@@ -507,7 +468,7 @@
       "source": "카카오페이 공식 채용",
       "initial": "카카",
       "color": "green",
-      "verifiedAt": "2026-09-16T23:12+09:00"
+      "verifiedAt": "2026-09-17T13:55+09:00"
     },
     {
       "id": "9e18838c21fe1de5",
@@ -524,7 +485,7 @@
       "source": "카카오페이 공식 채용",
       "initial": "카카",
       "color": "green",
-      "verifiedAt": "2026-09-16T23:12+09:00"
+      "verifiedAt": "2026-09-17T13:55+09:00"
     },
     {
       "id": "e3d871299e9e192c",
@@ -541,7 +502,7 @@
       "source": "크래프톤 공식 채용",
       "initial": "크래",
       "color": "orange",
-      "verifiedAt": "2026-09-16T23:12+09:00"
+      "verifiedAt": "2026-09-17T13:55+09:00"
     },
     {
       "id": "5a2b69bab5db59fc",
@@ -558,7 +519,7 @@
       "source": "크래프톤 공식 채용",
       "initial": "크래",
       "color": "orange",
-      "verifiedAt": "2026-09-16T23:12+09:00"
+      "verifiedAt": "2026-09-17T13:55+09:00"
     },
     {
       "id": "1fd338c95893a78a",
@@ -575,7 +536,7 @@
       "source": "크래프톤 공식 채용",
       "initial": "크래",
       "color": "orange",
-      "verifiedAt": "2026-09-16T23:12+09:00"
+      "verifiedAt": "2026-09-17T13:55+09:00"
     },
     {
       "id": "520504d87a9276a7",
@@ -592,7 +553,7 @@
       "source": "크래프톤 공식 채용",
       "initial": "크래",
       "color": "orange",
-      "verifiedAt": "2026-09-16T23:12+09:00"
+      "verifiedAt": "2026-09-17T13:55+09:00"
     },
     {
       "id": "a4ef2304477ec5f4",
@@ -609,7 +570,7 @@
       "source": "크래프톤 공식 채용",
       "initial": "크래",
       "color": "orange",
-      "verifiedAt": "2026-09-16T23:12+09:00"
+      "verifiedAt": "2026-09-17T13:55+09:00"
     },
     {
       "id": "20e4ba506e004d4c",
@@ -626,7 +587,7 @@
       "source": "크래프톤 공식 채용",
       "initial": "크래",
       "color": "orange",
-      "verifiedAt": "2026-09-16T23:12+09:00"
+      "verifiedAt": "2026-09-17T13:55+09:00"
     },
     {
       "id": "f65f3102b35c2dac",
