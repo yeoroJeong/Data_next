@@ -1,5 +1,5 @@
 {
-  "lastRunAt": "2026-09-18T22:37:13+09:00",
+  "lastRunAt": "2026-09-19T13:40:26+09:00",
   "companies": {
     "삼성전자": {
       "discovered": 18,
@@ -278,9 +278,7 @@
       "sources": {
         "sitemap": 25
       },
-      "errors": [
-        "official_page:ConnectionError"
-      ],
+      "errors": [],
       "rejected": {}
     },
     "현대글로비스": {
@@ -346,37 +344,37 @@
       "rejected": {}
     },
     "롯데이노베이트": {
-      "discovered": 50,
+      "discovered": 48,
       "verified": 0,
       "sources": {
-        "official_page": 50
+        "official_page": 48
       },
       "errors": [],
       "rejected": {}
     },
     "롯데쇼핑": {
-      "discovered": 50,
+      "discovered": 48,
       "verified": 0,
       "sources": {
-        "official_page": 50
+        "official_page": 48
       },
       "errors": [],
       "rejected": {}
     },
     "롯데카드": {
-      "discovered": 50,
+      "discovered": 48,
       "verified": 0,
       "sources": {
-        "official_page": 50
+        "official_page": 48
       },
       "errors": [],
       "rejected": {}
     },
     "롯데e커머스": {
-      "discovered": 50,
+      "discovered": 48,
       "verified": 0,
       "sources": {
-        "official_page": 50
+        "official_page": 48
       },
       "errors": [],
       "rejected": {}
@@ -476,15 +474,15 @@
       "rejected": {}
     },
     "쿠팡": {
-      "discovered": 54,
+      "discovered": 57,
       "verified": 0,
       "sources": {
-        "official_page": 15,
+        "official_page": 18,
         "sitemap": 39
       },
       "errors": [],
       "rejected": {
-        "eligibility_unconfirmed": 3,
+        "eligibility_unconfirmed": 6,
         "not_job_posting": 39
       }
     },
@@ -580,10 +578,11 @@
       "rejected": {}
     },
     "크래프톤": {
-      "discovered": 74,
+      "discovered": 79,
       "verified": 6,
       "sources": {
-        "official_page": 74
+        "official_page": 74,
+        "bing": 5
       },
       "errors": [],
       "rejected": {
@@ -616,9 +615,11 @@
       "rejected": {}
     },
     "신한은행": {
-      "discovered": 0,
+      "discovered": 4,
       "verified": 0,
-      "sources": {},
+      "sources": {
+        "bing": 4
+      },
       "errors": [],
       "rejected": {}
     },
@@ -630,11 +631,12 @@
       "rejected": {}
     },
     "우리은행": {
-      "discovered": 3,
+      "discovered": 5,
       "verified": 0,
       "sources": {
         "official_page": 2,
-        "sitemap": 1
+        "sitemap": 1,
+        "bing": 2
       },
       "errors": [],
       "rejected": {
@@ -642,11 +644,10 @@
       }
     },
     "NH농협은행": {
-      "discovered": 6,
+      "discovered": 5,
       "verified": 0,
       "sources": {
-        "official_page": 5,
-        "bing": 1
+        "official_page": 5
       },
       "errors": [],
       "rejected": {}
@@ -720,11 +721,15 @@
       }
     },
     "POSCO DX": {
-      "discovered": 0,
+      "discovered": 4,
       "verified": 0,
-      "sources": {},
+      "sources": {
+        "bing": 4
+      },
       "errors": [],
-      "rejected": {}
+      "rejected": {
+        "not_job_posting": 1
+      }
     },
     "포스코": {
       "discovered": 0,
@@ -754,7 +759,9 @@
         "official_page": 16
       },
       "errors": [],
-      "rejected": {}
+      "rejected": {
+        "eligibility_unconfirmed": 1
+      }
     },
     "BGF리테일": {
       "discovered": 0,
@@ -927,24 +934,24 @@
       "rejected": {}
     },
     "APR": {
-      "discovered": 84,
+      "discovered": 83,
       "verified": 1,
       "sources": {
         "official_page": 1,
-        "sitemap": 83
+        "sitemap": 82
       },
       "errors": [],
       "rejected": {
-        "not_data_track": 70,
+        "not_data_track": 69,
         "career_only": 11,
         "senior_career_required": 1
       }
     },
     "롯데그룹": {
-      "discovered": 50,
+      "discovered": 48,
       "verified": 0,
       "sources": {
-        "official_page": 50
+        "official_page": 48
       },
       "errors": [],
       "rejected": {}
@@ -963,6 +970,6 @@
     "published": 30,
     "automatic": 25,
     "curated": 5,
-    "review": 341
+    "review": 351
   }
 }
