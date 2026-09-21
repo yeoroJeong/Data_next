@@ -1,112 +1,7 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-20T22:35:57+09:00",
+  "updatedAt": "2026-09-21T13:59:29+09:00",
   "jobs": [
-    {
-      "id": "06fa698317514c7d",
-      "company": "APR",
-      "title": "[26 신입채용] Product Engineer | 에이피알",
-      "kind": "신입 · 인턴",
-      "place": "원문 확인",
-      "deadline": "2026-09-20T23:59:00+09:00",
-      "deadlineLabel": "09.20 23:59",
-      "track": "데이터 엔지니어링",
-      "note": "공식 채용 원문에서 데이터 엔지니어링 연관성이 확인된 공고입니다.",
-      "check": "신입·인턴 지원 조건을 확인했습니다. 상세 자격과 근무지는 원문에서 다시 확인하세요.",
-      "url": "https://apr.ninehire.site/job_posting/zm4c1Myu",
-      "source": "APR 공식 채용",
-      "initial": "AP",
-      "color": "green",
-      "verifiedAt": "2026-09-20T22:35+09:00"
-    },
-    {
-      "id": "494d8cf8b0e214fe",
-      "company": "카카오페이",
-      "title": "2026년 하반기 채용 · 금융 / 데이터 · 직무 확인",
-      "kind": "지원자격 원문 확인",
-      "place": "원문 확인",
-      "deadline": "2026-09-20T23:59:00+09:00",
-      "deadlineLabel": "09.20 23:59",
-      "track": "금융 / 데이터 · 직무 확인",
-      "note": "사용자 제공 채용 일정입니다. 데이터트랙 관련 직무 포함 여부를 채용 공고에서 확인하세요.",
-      "check": "2026년 기준 사용자 제공 일정 · 마감시간과 신입 지원 가능 여부는 원문 재확인 필요",
-      "url": "https://kakaopay.career.greetinghr.com/ko/main",
-      "source": "사용자 제공 일정",
-      "initial": "카카",
-      "color": "orange",
-      "verifiedAt": "",
-      "addedAt": "2026-09-11T14:41:40.015Z",
-      "curated": true,
-      "expiresAt": "2026-09-20T23:59:00+09:00",
-      "category": "금융",
-      "linkLabel": "채용 공고 목록"
-    },
-    {
-      "id": "95e805c9c0694e4f",
-      "company": "효성그룹",
-      "title": "2026년 하반기 채용 · 통합 공채 · 직무 확인",
-      "kind": "지원자격 원문 확인",
-      "place": "원문 확인",
-      "deadline": "2026-09-20T23:59:00+09:00",
-      "deadlineLabel": "09.20 23:59",
-      "track": "통합 공채 · 직무 확인",
-      "note": "사용자 제공 채용 일정입니다. 데이터트랙 관련 직무 포함 여부를 채용 공고에서 확인하세요.",
-      "check": "2026년 기준 사용자 제공 일정 · 마감시간과 신입 지원 가능 여부는 원문 재확인 필요",
-      "url": "https://hyosung-recruit.co.kr/",
-      "source": "사용자 제공 일정",
-      "initial": "효성",
-      "color": "blue",
-      "verifiedAt": "",
-      "addedAt": "2026-09-11T14:41:40.015Z",
-      "curated": true,
-      "expiresAt": "2026-09-20T23:59:00+09:00",
-      "category": "일반 기업",
-      "linkLabel": "공고 원문"
-    },
-    {
-      "id": "663a30b1e7d4c106",
-      "company": "APR",
-      "title": "2026년 하반기 채용 · IT / 개발 · 직무 확인",
-      "kind": "지원자격 원문 확인",
-      "place": "원문 확인",
-      "deadline": "2026-09-20T23:59:00+09:00",
-      "deadlineLabel": "09.20 23:59",
-      "track": "IT / 개발 · 직무 확인",
-      "note": "사용자 제공 채용 일정입니다. 데이터트랙 관련 직무 포함 여부를 채용 공고에서 확인하세요.",
-      "check": "2026년 기준 사용자 제공 일정 · 마감시간과 신입 지원 가능 여부는 원문 재확인 필요",
-      "url": "https://apr.ninehire.site/2026recruit",
-      "source": "사용자 제공 일정",
-      "initial": "AP",
-      "color": "blue",
-      "verifiedAt": "",
-      "addedAt": "2026-09-11T14:41:40.015Z",
-      "curated": true,
-      "expiresAt": "2026-09-20T23:59:00+09:00",
-      "category": "일반 기업",
-      "linkLabel": "채용 공고 목록"
-    },
-    {
-      "id": "38b4ef3df3e0447d",
-      "company": "현대로템",
-      "title": "2026년 하반기 채용 · 항공우주 개발",
-      "kind": "지원자격 원문 확인",
-      "place": "원문 확인",
-      "deadline": "2026-09-20T23:59:00+09:00",
-      "deadlineLabel": "09.20 23:59",
-      "track": "항공우주 개발",
-      "note": "사용자 제공 채용 일정입니다. 항공우주 개발 분야를 우선 확인하세요.",
-      "check": "2026년 기준 사용자 제공 일정 · 마감시간과 신입 지원 가능 여부는 원문 재확인 필요",
-      "url": "https://hyundai-rotem.recruiter.co.kr/",
-      "source": "사용자 제공 일정",
-      "initial": "현대",
-      "color": "blue",
-      "verifiedAt": "",
-      "addedAt": "2026-09-11T14:41:40.015Z",
-      "curated": true,
-      "expiresAt": "2026-09-20T23:59:00+09:00",
-      "category": "일반 기업",
-      "linkLabel": "채용 공고 목록"
-    },
     {
       "id": "478ea5dea2d34add",
       "company": "NAVER",
@@ -122,7 +17,7 @@
       "source": "NAVER 공식 채용",
       "initial": "NA",
       "color": "orange",
-      "verifiedAt": "2026-09-20T22:35+09:00"
+      "verifiedAt": "2026-09-21T13:59+09:00"
     },
     {
       "id": "e4ec8a3d7c066f9c",
@@ -139,7 +34,7 @@
       "source": "NAVER 공식 채용",
       "initial": "NA",
       "color": "orange",
-      "verifiedAt": "2026-09-20T22:35+09:00"
+      "verifiedAt": "2026-09-21T13:59+09:00"
     },
     {
       "id": "c03c9b636d5a8a97",
@@ -156,7 +51,7 @@
       "source": "NAVER 공식 채용",
       "initial": "NA",
       "color": "orange",
-      "verifiedAt": "2026-09-20T22:35+09:00"
+      "verifiedAt": "2026-09-21T13:59+09:00"
     },
     {
       "id": "233fdd8f2da31084",
@@ -173,7 +68,7 @@
       "source": "현대오토에버 공식 채용",
       "initial": "현대",
       "color": "orange",
-      "verifiedAt": "2026-09-20T22:35+09:00"
+      "verifiedAt": "2026-09-21T13:59+09:00"
     },
     {
       "id": "d8cabae4b56b909e",
@@ -190,7 +85,7 @@
       "source": "현대모비스 공식 채용",
       "initial": "현대",
       "color": "blue",
-      "verifiedAt": "2026-09-20T22:35+09:00"
+      "verifiedAt": "2026-09-21T13:59+09:00"
     },
     {
       "id": "9e029adc5e714504",
@@ -207,7 +102,7 @@
       "source": "현대모비스 공식 채용",
       "initial": "현대",
       "color": "blue",
-      "verifiedAt": "2026-09-20T22:35+09:00"
+      "verifiedAt": "2026-09-21T13:59+09:00"
     },
     {
       "id": "fc93c1591da1b5a2",
@@ -217,14 +112,14 @@
       "place": "원문 확인",
       "deadline": null,
       "deadlineLabel": "원문 확인",
-      "track": "AI / ML",
-      "note": "공식 채용 원문에서 AI / ML 연관성이 확인된 공고입니다.",
+      "track": "SW / 백엔드",
+      "note": "공식 채용 원문에서 SW / 백엔드 연관성이 확인된 공고입니다.",
       "check": "신입·인턴 지원 조건을 확인했습니다. 상세 자격과 근무지는 원문에서 다시 확인하세요.",
       "url": "https://career.hyundai-autoever.com/ko/o/208548",
       "source": "현대오토에버 공식 채용",
       "initial": "현대",
       "color": "orange",
-      "verifiedAt": "2026-09-20T22:35+09:00"
+      "verifiedAt": "2026-09-21T13:59+09:00"
     },
     {
       "id": "6ce37db4259102cf",
@@ -241,7 +136,7 @@
       "source": "카카오페이 공식 채용",
       "initial": "카카",
       "color": "green",
-      "verifiedAt": "2026-09-20T22:35+09:00"
+      "verifiedAt": "2026-09-21T13:59+09:00"
     },
     {
       "id": "ac239e4bbec74485",
@@ -258,7 +153,7 @@
       "source": "카카오페이 공식 채용",
       "initial": "카카",
       "color": "green",
-      "verifiedAt": "2026-09-20T22:35+09:00"
+      "verifiedAt": "2026-09-21T13:59+09:00"
     },
     {
       "id": "c720d7351093eca9",
@@ -275,7 +170,7 @@
       "source": "카카오페이 공식 채용",
       "initial": "카카",
       "color": "green",
-      "verifiedAt": "2026-09-20T22:35+09:00"
+      "verifiedAt": "2026-09-21T13:59+09:00"
     },
     {
       "id": "15af525206778277",
@@ -292,7 +187,7 @@
       "source": "카카오페이 공식 채용",
       "initial": "카카",
       "color": "green",
-      "verifiedAt": "2026-09-20T22:35+09:00"
+      "verifiedAt": "2026-09-21T13:59+09:00"
     },
     {
       "id": "9e18838c21fe1de5",
@@ -309,7 +204,7 @@
       "source": "카카오페이 공식 채용",
       "initial": "카카",
       "color": "green",
-      "verifiedAt": "2026-09-20T22:35+09:00"
+      "verifiedAt": "2026-09-21T13:59+09:00"
     },
     {
       "id": "e3d871299e9e192c",
@@ -326,7 +221,7 @@
       "source": "크래프톤 공식 채용",
       "initial": "크래",
       "color": "orange",
-      "verifiedAt": "2026-09-20T22:35+09:00"
+      "verifiedAt": "2026-09-21T13:59+09:00"
     },
     {
       "id": "5a2b69bab5db59fc",
@@ -343,7 +238,7 @@
       "source": "크래프톤 공식 채용",
       "initial": "크래",
       "color": "orange",
-      "verifiedAt": "2026-09-20T22:35+09:00"
+      "verifiedAt": "2026-09-21T13:59+09:00"
     },
     {
       "id": "1fd338c95893a78a",
@@ -360,7 +255,7 @@
       "source": "크래프톤 공식 채용",
       "initial": "크래",
       "color": "orange",
-      "verifiedAt": "2026-09-20T22:35+09:00"
+      "verifiedAt": "2026-09-21T13:59+09:00"
     },
     {
       "id": "520504d87a9276a7",
@@ -377,7 +272,7 @@
       "source": "크래프톤 공식 채용",
       "initial": "크래",
       "color": "orange",
-      "verifiedAt": "2026-09-20T22:35+09:00"
+      "verifiedAt": "2026-09-21T13:59+09:00"
     },
     {
       "id": "a4ef2304477ec5f4",
@@ -394,7 +289,7 @@
       "source": "크래프톤 공식 채용",
       "initial": "크래",
       "color": "orange",
-      "verifiedAt": "2026-09-20T22:35+09:00"
+      "verifiedAt": "2026-09-21T13:59+09:00"
     },
     {
       "id": "20e4ba506e004d4c",
@@ -411,7 +306,7 @@
       "source": "크래프톤 공식 채용",
       "initial": "크래",
       "color": "orange",
-      "verifiedAt": "2026-09-20T22:35+09:00"
+      "verifiedAt": "2026-09-21T13:59+09:00"
     },
     {
       "id": "2f0d91ba46deb954",
@@ -428,7 +323,7 @@
       "source": "카카오페이 공식 채용",
       "initial": "카카",
       "color": "green",
-      "verifiedAt": "2026-09-20T22:35+09:00"
+      "verifiedAt": "2026-09-21T13:59+09:00"
     },
     {
       "id": "39a7bb32d731af85",
@@ -445,7 +340,7 @@
       "source": "카카오페이 공식 채용",
       "initial": "카카",
       "color": "green",
-      "verifiedAt": "2026-09-20T22:35+09:00"
+      "verifiedAt": "2026-09-21T13:59+09:00"
     },
     {
       "id": "4147dfd127fc6d9e",
@@ -462,7 +357,7 @@
       "source": "카카오페이 공식 채용",
       "initial": "카카",
       "color": "green",
-      "verifiedAt": "2026-09-20T22:35+09:00"
+      "verifiedAt": "2026-09-21T13:59+09:00"
     },
     {
       "id": "58c5123b340391d3",
@@ -479,7 +374,7 @@
       "source": "카카오페이 공식 채용",
       "initial": "카카",
       "color": "green",
-      "verifiedAt": "2026-09-20T22:35+09:00"
+      "verifiedAt": "2026-09-21T13:59+09:00"
     },
     {
       "id": "0b9efe91cef79e37",
@@ -496,7 +391,7 @@
       "source": "카카오페이 공식 채용",
       "initial": "카카",
       "color": "green",
-      "verifiedAt": "2026-09-20T22:35+09:00"
+      "verifiedAt": "2026-09-21T13:59+09:00"
     },
     {
       "id": "58a745e5e438ce35",
@@ -513,7 +408,7 @@
       "source": "카카오페이 공식 채용",
       "initial": "카카",
       "color": "green",
-      "verifiedAt": "2026-09-20T22:35+09:00"
+      "verifiedAt": "2026-09-21T13:59+09:00"
     },
     {
       "id": "f65f3102b35c2dac",
