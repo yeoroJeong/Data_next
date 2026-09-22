@@ -1,5 +1,5 @@
 {
-  "lastRunAt": "2026-09-22T14:00:18+09:00",
+  "lastRunAt": "2026-09-22T23:03:17+09:00",
   "companies": {
     "삼성전자": {
       "discovered": 18,
@@ -314,52 +314,42 @@
       "discovered": 0,
       "verified": 0,
       "sources": {},
-      "errors": [
-        "official_page:ConnectTimeout"
-      ],
+      "errors": [],
       "rejected": {}
     },
     "한화시스템": {
       "discovered": 0,
       "verified": 0,
       "sources": {},
-      "errors": [
-        "official_page:ConnectTimeout"
-      ],
+      "errors": [],
       "rejected": {}
     },
     "한화에어로스페이스": {
       "discovered": 0,
       "verified": 0,
       "sources": {},
-      "errors": [
-        "official_page:ConnectTimeout"
-      ],
+      "errors": [],
       "rejected": {}
     },
     "한화손해보험": {
       "discovered": 0,
       "verified": 0,
       "sources": {},
-      "errors": [
-        "official_page:ConnectTimeout"
-      ],
+      "errors": [],
       "rejected": {}
     },
     "한화비전": {
       "discovered": 0,
       "verified": 0,
       "sources": {},
-      "errors": [
-        "official_page:ConnectTimeout"
-      ],
+      "errors": [],
       "rejected": {}
     },
     "롯데이노베이트": {
-      "discovered": 46,
+      "discovered": 48,
       "verified": 0,
       "sources": {
-        "official_page": 46
+        "official_page": 48
       },
       "errors": [],
       "rejected": {
@@ -367,10 +357,10 @@
       }
     },
     "롯데쇼핑": {
-      "discovered": 46,
+      "discovered": 48,
       "verified": 0,
       "sources": {
-        "official_page": 46
+        "official_page": 48
       },
       "errors": [],
       "rejected": {
@@ -378,10 +368,10 @@
       }
     },
     "롯데카드": {
-      "discovered": 46,
+      "discovered": 48,
       "verified": 0,
       "sources": {
-        "official_page": 46
+        "official_page": 48
       },
       "errors": [],
       "rejected": {
@@ -389,10 +379,10 @@
       }
     },
     "롯데e커머스": {
-      "discovered": 46,
+      "discovered": 48,
       "verified": 0,
       "sources": {
-        "official_page": 46
+        "official_page": 48
       },
       "errors": [],
       "rejected": {
@@ -421,16 +411,16 @@
       "rejected": {}
     },
     "NAVER": {
-      "discovered": 42,
+      "discovered": 46,
       "verified": 3,
       "sources": {
-        "official_api": 33,
+        "official_api": 37,
         "official_page": 9
       },
       "errors": [],
       "rejected": {
         "career_only": 8,
-        "not_data_track": 21,
+        "not_data_track": 25,
         "eligibility_unconfirmed": 3,
         "not_job_posting": 2
       }
@@ -450,17 +440,17 @@
       }
     },
     "카카오": {
-      "discovered": 22,
+      "discovered": 23,
       "verified": 0,
       "sources": {
-        "official_api": 22
+        "official_api": 23
       },
       "errors": [],
       "rejected": {
         "career_only": 7,
         "advanced_degree_required": 1,
         "senior_career_required": 1,
-        "not_data_track": 12,
+        "not_data_track": 13,
         "excluded_role": 1
       }
     },
@@ -494,16 +484,16 @@
       "rejected": {}
     },
     "쿠팡": {
-      "discovered": 54,
+      "discovered": 63,
       "verified": 0,
       "sources": {
-        "official_page": 15,
+        "official_page": 24,
         "sitemap": 39
       },
       "errors": [],
       "rejected": {
+        "eligibility_unconfirmed": 12,
         "career_only": 3,
-        "eligibility_unconfirmed": 3,
         "not_job_posting": 39
       }
     },
@@ -515,10 +505,10 @@
       "rejected": {}
     },
     "당근": {
-      "discovered": 35,
+      "discovered": 36,
       "verified": 0,
       "sources": {
-        "official_page": 35
+        "official_page": 36
       },
       "errors": [],
       "rejected": {}
@@ -607,7 +597,7 @@
       },
       "errors": [],
       "rejected": {
-        "eligibility_unconfirmed": 11
+        "eligibility_unconfirmed": 14
       }
     },
     "엔씨소프트": {
@@ -650,15 +640,16 @@
       "rejected": {}
     },
     "우리은행": {
-      "discovered": 3,
+      "discovered": 1,
       "verified": 0,
       "sources": {
-        "official_page": 2,
         "sitemap": 1
       },
-      "errors": [],
+      "errors": [
+        "official_page:ReadTimeout"
+      ],
       "rejected": {
-        "not_job_posting": 2
+        "not_job_posting": 1
       }
     },
     "NH농협은행": {
@@ -739,10 +730,10 @@
       }
     },
     "POSCO DX": {
-      "discovered": 4,
+      "discovered": 2,
       "verified": 0,
       "sources": {
-        "bing": 4
+        "bing": 2
       },
       "errors": [
         "official_page:ConnectionError"
@@ -784,9 +775,11 @@
       }
     },
     "BGF리테일": {
-      "discovered": 0,
+      "discovered": 1,
       "verified": 0,
-      "sources": {},
+      "sources": {
+        "bing": 1
+      },
       "errors": [],
       "rejected": {}
     },
@@ -848,7 +841,9 @@
       "discovered": 0,
       "verified": 0,
       "sources": {},
-      "errors": [],
+      "errors": [
+        "official_page:ConnectTimeout"
+      ],
       "rejected": {}
     },
     "NH농협손해보험": {
@@ -862,18 +857,14 @@
       "discovered": 0,
       "verified": 0,
       "sources": {},
-      "errors": [
-        "official_page:ConnectTimeout"
-      ],
+      "errors": [],
       "rejected": {}
     },
     "한화자산운용": {
       "discovered": 0,
       "verified": 0,
       "sources": {},
-      "errors": [
-        "official_page:ConnectTimeout"
-      ],
+      "errors": [],
       "rejected": {}
     },
     "한국투자공사": {
@@ -954,23 +945,23 @@
       "rejected": {}
     },
     "APR": {
-      "discovered": 47,
+      "discovered": 46,
       "verified": 0,
       "sources": {
-        "sitemap": 47
+        "sitemap": 46
       },
       "errors": [],
       "rejected": {
-        "not_data_track": 35,
+        "not_data_track": 34,
         "career_only": 11,
         "senior_career_required": 1
       }
     },
     "롯데그룹": {
-      "discovered": 46,
+      "discovered": 48,
       "verified": 0,
       "sources": {
-        "official_page": 46
+        "official_page": 48
       },
       "errors": [],
       "rejected": {
@@ -988,9 +979,9 @@
     }
   },
   "summary": {
-    "published": 25,
-    "automatic": 24,
+    "published": 28,
+    "automatic": 27,
     "curated": 1,
-    "review": 370
+    "review": 382
   }
 }
