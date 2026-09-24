@@ -1,5 +1,5 @@
 {
-  "lastRunAt": "2026-09-24T13:55:02+09:00",
+  "lastRunAt": "2026-09-24T23:13:38+09:00",
   "companies": {
     "삼성전자": {
       "discovered": 18,
@@ -247,15 +247,16 @@
       }
     },
     "현대오토에버": {
-      "discovered": 54,
-      "verified": 2,
+      "discovered": 53,
+      "verified": 0,
       "sources": {
-        "official_page": 51,
+        "official_page": 50,
         "sitemap": 3
       },
       "errors": [],
       "rejected": {
-        "not_job_posting": 42
+        "not_job_posting": 42,
+        "senior_career_required": 1
       }
     },
     "현대모비스": {
@@ -482,14 +483,15 @@
       "rejected": {}
     },
     "쿠팡": {
-      "discovered": 54,
+      "discovered": 60,
       "verified": 0,
       "sources": {
-        "official_page": 15,
+        "official_page": 21,
         "sitemap": 39
       },
       "errors": [],
       "rejected": {
+        "career_only": 6,
         "eligibility_unconfirmed": 6,
         "senior_career_required": 3,
         "not_job_posting": 39
@@ -512,11 +514,12 @@
       "rejected": {}
     },
     "토스": {
-      "discovered": 12,
+      "discovered": 14,
       "verified": 0,
       "sources": {
         "official_page": 5,
-        "sitemap": 7
+        "sitemap": 7,
+        "bing": 2
       },
       "errors": [],
       "rejected": {
@@ -542,9 +545,11 @@
       "rejected": {}
     },
     "쏘카": {
-      "discovered": 0,
+      "discovered": 3,
       "verified": 0,
-      "sources": {},
+      "sources": {
+        "bing": 3
+      },
       "errors": [
         "official_page:HTTPError"
       ],
@@ -623,11 +628,9 @@
       "rejected": {}
     },
     "신한은행": {
-      "discovered": 5,
+      "discovered": 0,
       "verified": 0,
-      "sources": {
-        "bing": 5
-      },
+      "sources": {},
       "errors": [],
       "rejected": {}
     },
@@ -833,9 +836,7 @@
       "discovered": 0,
       "verified": 0,
       "sources": {},
-      "errors": [
-        "official_page:ConnectTimeout"
-      ],
+      "errors": [],
       "rejected": {}
     },
     "NH농협손해보험": {
@@ -974,6 +975,6 @@
     "published": 27,
     "automatic": 26,
     "curated": 1,
-    "review": 380
+    "review": 387
   }
 }
