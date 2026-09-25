@@ -1,5 +1,5 @@
 {
-  "lastRunAt": "2026-09-25T14:00:38+09:00",
+  "lastRunAt": "2026-09-25T23:37:16+09:00",
   "companies": {
     "삼성전자": {
       "discovered": 18,
@@ -483,17 +483,16 @@
       "rejected": {}
     },
     "쿠팡": {
-      "discovered": 63,
+      "discovered": 60,
       "verified": 0,
       "sources": {
-        "official_page": 24,
+        "official_page": 21,
         "sitemap": 39
       },
       "errors": [],
       "rejected": {
         "eligibility_unconfirmed": 9,
         "career_only": 6,
-        "senior_career_required": 3,
         "not_job_posting": 39
       }
     },
@@ -735,7 +734,7 @@
       },
       "errors": [],
       "rejected": {
-        "eligibility_unconfirmed": 1
+        "not_job_posting": 1
       }
     },
     "포스코": {
@@ -810,9 +809,7 @@
       "discovered": 0,
       "verified": 0,
       "sources": {},
-      "errors": [
-        "official_page:ConnectTimeout"
-      ],
+      "errors": [],
       "rejected": {}
     },
     "한국전력공사": {
@@ -837,9 +834,7 @@
       "discovered": 0,
       "verified": 0,
       "sources": {},
-      "errors": [
-        "official_page:ConnectTimeout"
-      ],
+      "errors": [],
       "rejected": {}
     },
     "NH농협손해보험": {
@@ -978,6 +973,6 @@
     "published": 27,
     "automatic": 26,
     "curated": 1,
-    "review": 391
+    "review": 388
   }
 }
