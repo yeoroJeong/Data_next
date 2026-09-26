@@ -1,5 +1,5 @@
 {
-  "lastRunAt": "2026-09-25T23:37:16+09:00",
+  "lastRunAt": "2026-09-26T14:02:16+09:00",
   "companies": {
     "삼성전자": {
       "discovered": 18,
@@ -279,7 +279,9 @@
       "sources": {
         "sitemap": 25
       },
-      "errors": [],
+      "errors": [
+        "official_page:ReadTimeout"
+      ],
       "rejected": {}
     },
     "현대글로비스": {
@@ -313,35 +315,45 @@
       "discovered": 0,
       "verified": 0,
       "sources": {},
-      "errors": [],
+      "errors": [
+        "official_page:ConnectTimeout"
+      ],
       "rejected": {}
     },
     "한화시스템": {
       "discovered": 0,
       "verified": 0,
       "sources": {},
-      "errors": [],
+      "errors": [
+        "official_page:ConnectTimeout"
+      ],
       "rejected": {}
     },
     "한화에어로스페이스": {
       "discovered": 0,
       "verified": 0,
       "sources": {},
-      "errors": [],
+      "errors": [
+        "official_page:ConnectTimeout"
+      ],
       "rejected": {}
     },
     "한화손해보험": {
       "discovered": 0,
       "verified": 0,
       "sources": {},
-      "errors": [],
+      "errors": [
+        "official_page:ConnectTimeout"
+      ],
       "rejected": {}
     },
     "한화비전": {
       "discovered": 0,
       "verified": 0,
       "sources": {},
-      "errors": [],
+      "errors": [
+        "official_page:ConnectTimeout"
+      ],
       "rejected": {}
     },
     "롯데이노베이트": {
@@ -588,10 +600,11 @@
       "rejected": {}
     },
     "크래프톤": {
-      "discovered": 74,
+      "discovered": 78,
       "verified": 6,
       "sources": {
-        "official_page": 74
+        "official_page": 74,
+        "bing": 4
       },
       "errors": [],
       "rejected": {
@@ -809,7 +822,9 @@
       "discovered": 0,
       "verified": 0,
       "sources": {},
-      "errors": [],
+      "errors": [
+        "official_page:ConnectTimeout"
+      ],
       "rejected": {}
     },
     "한국전력공사": {
@@ -834,7 +849,9 @@
       "discovered": 0,
       "verified": 0,
       "sources": {},
-      "errors": [],
+      "errors": [
+        "official_page:ConnectTimeout"
+      ],
       "rejected": {}
     },
     "NH농협손해보험": {
@@ -848,14 +865,18 @@
       "discovered": 0,
       "verified": 0,
       "sources": {},
-      "errors": [],
+      "errors": [
+        "official_page:ConnectTimeout"
+      ],
       "rejected": {}
     },
     "한화자산운용": {
       "discovered": 0,
       "verified": 0,
       "sources": {},
-      "errors": [],
+      "errors": [
+        "official_page:ConnectTimeout"
+      ],
       "rejected": {}
     },
     "한국투자공사": {
