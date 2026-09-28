@@ -1,41 +1,7 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-27T23:42:19+09:00",
+  "updatedAt": "2026-09-28T14:27:16+09:00",
   "jobs": [
-    {
-      "id": "e4ec8a3d7c066f9c",
-      "company": "NAVER",
-      "title": "[네이버웹툰] AI 서비스 기획 (체험형 인턴)",
-      "kind": "신입 · 인턴",
-      "place": "원문 확인",
-      "deadline": "2026-09-27T23:59:00+09:00",
-      "deadlineLabel": "09.27 23:59",
-      "track": "데이터 / 디지털",
-      "note": "공식 채용 원문에서 데이터 / 디지털 연관성이 확인된 공고입니다.",
-      "check": "신입·인턴 지원 조건을 확인했습니다. 상세 자격과 근무지는 원문에서 다시 확인하세요.",
-      "url": "https://recruit.navercorp.com/rcrt/view.do?annoId=30005420",
-      "source": "NAVER 공식 채용",
-      "initial": "NA",
-      "color": "orange",
-      "verifiedAt": "2026-09-27T23:42+09:00"
-    },
-    {
-      "id": "c03c9b636d5a8a97",
-      "company": "NAVER",
-      "title": "[네이버웹툰] 캐릭터 AI 모델 기획 및 테스트 (체험형 인턴)",
-      "kind": "신입 · 인턴",
-      "place": "원문 확인",
-      "deadline": "2026-09-27T23:59:00+09:00",
-      "deadlineLabel": "09.27 23:59",
-      "track": "QA / 테스트",
-      "note": "공식 채용 원문에서 QA / 테스트 연관성이 확인된 공고입니다.",
-      "check": "신입·인턴 지원 조건을 확인했습니다. 상세 자격과 근무지는 원문에서 다시 확인하세요.",
-      "url": "https://recruit.navercorp.com/rcrt/view.do?annoId=30005461",
-      "source": "NAVER 공식 채용",
-      "initial": "NA",
-      "color": "orange",
-      "verifiedAt": "2026-09-27T23:42+09:00"
-    },
     {
       "id": "233fdd8f2da31084",
       "company": "현대오토에버",
@@ -51,7 +17,7 @@
       "source": "현대오토에버 공식 채용",
       "initial": "현대",
       "color": "orange",
-      "verifiedAt": "2026-09-27T23:42+09:00"
+      "verifiedAt": "2026-09-28T14:27+09:00"
     },
     {
       "id": "d8cabae4b56b909e",
@@ -68,7 +34,7 @@
       "source": "현대모비스 공식 채용",
       "initial": "현대",
       "color": "blue",
-      "verifiedAt": "2026-09-27T23:42+09:00"
+      "verifiedAt": "2026-09-28T14:27+09:00"
     },
     {
       "id": "9e029adc5e714504",
@@ -85,7 +51,7 @@
       "source": "현대모비스 공식 채용",
       "initial": "현대",
       "color": "blue",
-      "verifiedAt": "2026-09-27T23:42+09:00"
+      "verifiedAt": "2026-09-28T14:27+09:00"
     },
     {
       "id": "fc93c1591da1b5a2",
@@ -119,7 +85,7 @@
       "source": "카카오페이 공식 채용",
       "initial": "카카",
       "color": "green",
-      "verifiedAt": "2026-09-27T23:42+09:00"
+      "verifiedAt": "2026-09-28T14:27+09:00"
     },
     {
       "id": "ac239e4bbec74485",
@@ -136,7 +102,7 @@
       "source": "카카오페이 공식 채용",
       "initial": "카카",
       "color": "green",
-      "verifiedAt": "2026-09-27T23:42+09:00"
+      "verifiedAt": "2026-09-28T14:27+09:00"
     },
     {
       "id": "c720d7351093eca9",
@@ -153,7 +119,7 @@
       "source": "카카오페이 공식 채용",
       "initial": "카카",
       "color": "green",
-      "verifiedAt": "2026-09-27T23:42+09:00"
+      "verifiedAt": "2026-09-28T14:27+09:00"
     },
     {
       "id": "15af525206778277",
@@ -170,7 +136,7 @@
       "source": "카카오페이 공식 채용",
       "initial": "카카",
       "color": "green",
-      "verifiedAt": "2026-09-27T23:42+09:00"
+      "verifiedAt": "2026-09-28T14:27+09:00"
     },
     {
       "id": "9e18838c21fe1de5",
@@ -187,7 +153,7 @@
       "source": "카카오페이 공식 채용",
       "initial": "카카",
       "color": "green",
-      "verifiedAt": "2026-09-27T23:42+09:00"
+      "verifiedAt": "2026-09-28T14:27+09:00"
     },
     {
       "id": "e3d871299e9e192c",
@@ -204,7 +170,7 @@
       "source": "크래프톤 공식 채용",
       "initial": "크래",
       "color": "orange",
-      "verifiedAt": "2026-09-27T23:42+09:00"
+      "verifiedAt": "2026-09-28T14:27+09:00"
     },
     {
       "id": "5a2b69bab5db59fc",
@@ -221,7 +187,7 @@
       "source": "크래프톤 공식 채용",
       "initial": "크래",
       "color": "orange",
-      "verifiedAt": "2026-09-27T23:42+09:00"
+      "verifiedAt": "2026-09-28T14:27+09:00"
     },
     {
       "id": "1fd338c95893a78a",
@@ -238,7 +204,7 @@
       "source": "크래프톤 공식 채용",
       "initial": "크래",
       "color": "orange",
-      "verifiedAt": "2026-09-27T23:42+09:00"
+      "verifiedAt": "2026-09-28T14:27+09:00"
     },
     {
       "id": "520504d87a9276a7",
@@ -306,7 +272,7 @@
       "source": "카카오페이 공식 채용",
       "initial": "카카",
       "color": "green",
-      "verifiedAt": "2026-09-27T23:42+09:00"
+      "verifiedAt": "2026-09-28T14:27+09:00"
     },
     {
       "id": "39a7bb32d731af85",
@@ -323,7 +289,7 @@
       "source": "카카오페이 공식 채용",
       "initial": "카카",
       "color": "green",
-      "verifiedAt": "2026-09-27T23:42+09:00"
+      "verifiedAt": "2026-09-28T14:27+09:00"
     },
     {
       "id": "4147dfd127fc6d9e",
@@ -340,7 +306,7 @@
       "source": "카카오페이 공식 채용",
       "initial": "카카",
       "color": "green",
-      "verifiedAt": "2026-09-27T23:42+09:00"
+      "verifiedAt": "2026-09-28T14:27+09:00"
     },
     {
       "id": "58c5123b340391d3",
@@ -357,7 +323,7 @@
       "source": "카카오페이 공식 채용",
       "initial": "카카",
       "color": "green",
-      "verifiedAt": "2026-09-27T23:42+09:00"
+      "verifiedAt": "2026-09-28T14:27+09:00"
     },
     {
       "id": "0b9efe91cef79e37",
@@ -374,7 +340,7 @@
       "source": "카카오페이 공식 채용",
       "initial": "카카",
       "color": "green",
-      "verifiedAt": "2026-09-27T23:42+09:00"
+      "verifiedAt": "2026-09-28T14:27+09:00"
     },
     {
       "id": "58a745e5e438ce35",
@@ -391,7 +357,7 @@
       "source": "카카오페이 공식 채용",
       "initial": "카카",
       "color": "green",
-      "verifiedAt": "2026-09-27T23:42+09:00"
+      "verifiedAt": "2026-09-28T14:27+09:00"
     },
     {
       "id": "f65f3102b35c2dac",
@@ -430,7 +396,7 @@
       "source": "크래프톤 공식 채용",
       "initial": "크래",
       "color": "orange",
-      "verifiedAt": "2026-09-27T23:42+09:00"
+      "verifiedAt": "2026-09-28T14:27+09:00"
     },
     {
       "id": "fb93762758c2e872",
@@ -447,7 +413,7 @@
       "source": "크래프톤 공식 채용",
       "initial": "크래",
       "color": "orange",
-      "verifiedAt": "2026-09-27T23:42+09:00"
+      "verifiedAt": "2026-09-28T14:27+09:00"
     },
     {
       "id": "ddaad8e7a4ac9017",
@@ -464,7 +430,7 @@
       "source": "크래프톤 공식 채용",
       "initial": "크래",
       "color": "orange",
-      "verifiedAt": "2026-09-27T23:42+09:00"
+      "verifiedAt": "2026-09-28T14:27+09:00"
     }
   ]
 }
