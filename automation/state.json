@@ -1,5 +1,5 @@
 {
-  "lastRunAt": "2026-09-29T02:40:26+09:00",
+  "lastRunAt": "2026-09-29T14:46:34+09:00",
   "companies": {
     "삼성전자": {
       "discovered": 17,
@@ -241,30 +241,28 @@
       }
     },
     "현대오토에버": {
-      "discovered": 22,
+      "discovered": 20,
       "verified": 0,
       "sources": {
-        "official_page": 19,
+        "official_page": 17,
         "sitemap": 3
       },
       "errors": [],
       "rejected": {
-        "not_job_posting": 13,
+        "not_job_posting": 10,
         "senior_career_required": 1
       }
     },
     "현대모비스": {
-      "discovered": 51,
-      "verified": 2,
+      "discovered": 16,
+      "verified": 4,
       "sources": {
-        "official_page": 51
+        "official_page": 16
       },
       "errors": [],
       "rejected": {
-        "scholarship_only": 9,
-        "excluded_role": 3,
         "not_job_posting": 1,
-        "eligibility_unconfirmed": 7
+        "career_only": 1
       }
     },
     "현대로템": {
@@ -404,17 +402,17 @@
       "rejected": {}
     },
     "NAVER": {
-      "discovered": 34,
+      "discovered": 29,
       "verified": 0,
       "sources": {
-        "official_api": 26,
+        "official_api": 21,
         "official_page": 8
       },
       "errors": [],
       "rejected": {
-        "career_only": 6,
-        "not_data_track": 21,
+        "not_data_track": 17,
         "eligibility_unconfirmed": 1,
+        "career_only": 4,
         "not_job_posting": 2
       }
     },
@@ -427,21 +425,20 @@
       },
       "errors": [],
       "rejected": {
-        "career_only": 10,
+        "career_only": 9,
         "eligibility_unconfirmed": 1,
         "not_job_posting": 2
       }
     },
     "카카오": {
-      "discovered": 23,
+      "discovered": 22,
       "verified": 0,
       "sources": {
-        "official_api": 23
+        "official_api": 22
       },
       "errors": [],
       "rejected": {
         "career_only": 7,
-        "advanced_degree_required": 1,
         "senior_career_required": 1,
         "not_data_track": 13,
         "excluded_role": 1
@@ -477,15 +474,15 @@
       "rejected": {}
     },
     "쿠팡": {
-      "discovered": 53,
+      "discovered": 54,
       "verified": 0,
       "sources": {
-        "official_page": 14,
+        "official_page": 15,
         "sitemap": 39
       },
       "errors": [],
       "rejected": {
-        "eligibility_unconfirmed": 3,
+        "career_only": 3,
         "not_job_posting": 39
       }
     },
@@ -536,9 +533,11 @@
       "rejected": {}
     },
     "쏘카": {
-      "discovered": 0,
+      "discovered": 3,
       "verified": 0,
-      "sources": {},
+      "sources": {
+        "bing": 3
+      },
       "errors": [
         "official_page:HTTPError"
       ],
@@ -581,10 +580,11 @@
       "rejected": {}
     },
     "크래프톤": {
-      "discovered": 74,
+      "discovered": 78,
       "verified": 6,
       "sources": {
-        "official_page": 74
+        "official_page": 74,
+        "bing": 4
       },
       "errors": [],
       "rejected": {
@@ -631,11 +631,12 @@
       "rejected": {}
     },
     "우리은행": {
-      "discovered": 3,
+      "discovered": 7,
       "verified": 0,
       "sources": {
         "official_page": 2,
-        "sitemap": 1
+        "sitemap": 1,
+        "bing": 4
       },
       "errors": [],
       "rejected": {
@@ -720,22 +721,18 @@
       }
     },
     "POSCO DX": {
-      "discovered": 2,
+      "discovered": 0,
       "verified": 0,
-      "sources": {
-        "bing": 2
-      },
-      "errors": [],
-      "rejected": {
-        "not_job_posting": 1
-      }
+      "sources": {},
+      "errors": [
+        "official_page:ConnectionError"
+      ],
+      "rejected": {}
     },
     "포스코": {
-      "discovered": 2,
+      "discovered": 0,
       "verified": 0,
-      "sources": {
-        "bing": 2
-      },
+      "sources": {},
       "errors": [],
       "rejected": {}
     },
@@ -840,9 +837,7 @@
       "discovered": 0,
       "verified": 0,
       "sources": {},
-      "errors": [
-        "official_page:ConnectionError"
-      ],
+      "errors": [],
       "rejected": {}
     },
     "한화투자증권": {
@@ -889,15 +884,15 @@
       "rejected": {}
     },
     "SIMPAC그룹": {
-      "discovered": 12,
+      "discovered": 13,
       "verified": 0,
       "sources": {
         "official_page": 3,
-        "sitemap": 9
+        "sitemap": 10
       },
       "errors": [],
       "rejected": {
-        "not_data_track": 8
+        "not_data_track": 9
       }
     },
     "안랩": {
@@ -937,14 +932,14 @@
       "rejected": {}
     },
     "APR": {
-      "discovered": 44,
+      "discovered": 46,
       "verified": 0,
       "sources": {
-        "sitemap": 44
+        "sitemap": 46
       },
       "errors": [],
       "rejected": {
-        "not_data_track": 34,
+        "not_data_track": 36,
         "career_only": 9,
         "senior_career_required": 1
       }
@@ -971,9 +966,9 @@
     }
   },
   "summary": {
-    "published": 24,
-    "automatic": 23,
+    "published": 27,
+    "automatic": 26,
     "curated": 1,
-    "review": 340
+    "review": 317
   }
 }
