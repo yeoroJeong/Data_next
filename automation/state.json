@@ -1,5 +1,5 @@
 {
-  "lastRunAt": "2026-09-30T00:54:39+09:00",
+  "lastRunAt": "2026-09-30T14:35:46+09:00",
   "companies": {
     "삼성전자": {
       "discovered": 17,
@@ -46,15 +46,15 @@
       }
     },
     "삼성전기": {
-      "discovered": 19,
+      "discovered": 18,
       "verified": 0,
       "sources": {
-        "official_api": 2,
+        "official_api": 1,
         "official_page": 17
       },
       "errors": [],
       "rejected": {
-        "not_data_track": 2,
+        "not_data_track": 1,
         "not_job_posting": 1
       }
     },
@@ -473,10 +473,10 @@
       "rejected": {}
     },
     "쿠팡": {
-      "discovered": 60,
+      "discovered": 56,
       "verified": 0,
       "sources": {
-        "official_page": 21,
+        "official_page": 17,
         "sitemap": 39
       },
       "errors": [],
@@ -515,12 +515,12 @@
       }
     },
     "카카오뱅크": {
-      "discovered": 0,
+      "discovered": 3,
       "verified": 0,
-      "sources": {},
-      "errors": [
-        "official_page:ConnectTimeout"
-      ],
+      "sources": {
+        "official_page": 3
+      },
+      "errors": [],
       "rejected": {}
     },
     "두나무": {
@@ -725,7 +725,9 @@
       "errors": [
         "official_page:ConnectionError"
       ],
-      "rejected": {}
+      "rejected": {
+        "not_job_posting": 1
+      }
     },
     "포스코": {
       "discovered": 0,
@@ -755,9 +757,7 @@
         "official_page": 16
       },
       "errors": [],
-      "rejected": {
-        "eligibility_unconfirmed": 1
-      }
+      "rejected": {}
     },
     "BGF리테일": {
       "discovered": 0,
@@ -776,12 +776,12 @@
       "rejected": {}
     },
     "인천국제공항공사": {
-      "discovered": 5,
+      "discovered": 0,
       "verified": 0,
-      "sources": {
-        "official_page": 5
-      },
-      "errors": [],
+      "sources": {},
+      "errors": [
+        "official_page:ConnectTimeout"
+      ],
       "rejected": {}
     },
     "한국장학재단": {
@@ -880,15 +880,15 @@
       "rejected": {}
     },
     "SIMPAC그룹": {
-      "discovered": 14,
+      "discovered": 15,
       "verified": 0,
       "sources": {
         "official_page": 3,
-        "sitemap": 11
+        "sitemap": 12
       },
       "errors": [],
       "rejected": {
-        "not_data_track": 10
+        "not_data_track": 11
       }
     },
     "안랩": {
@@ -952,12 +952,12 @@
       }
     },
     "하나카드": {
-      "discovered": 0,
+      "discovered": 1,
       "verified": 0,
-      "sources": {},
-      "errors": [
-        "official_page:ConnectTimeout"
-      ],
+      "sources": {
+        "official_page": 1
+      },
+      "errors": [],
       "rejected": {}
     }
   },
@@ -965,6 +965,6 @@
     "published": 26,
     "automatic": 25,
     "curated": 1,
-    "review": 325
+    "review": 326
   }
 }
