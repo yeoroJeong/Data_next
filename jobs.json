@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-30T14:35:46+09:00",
+  "updatedAt": "2026-10-01T00:56:18+09:00",
   "jobs": [
     {
       "id": "669ae13fdc598e6a",
@@ -17,7 +17,7 @@
       "source": "현대모비스 공식 채용",
       "initial": "현대",
       "color": "blue",
-      "verifiedAt": "2026-09-30T14:35+09:00"
+      "verifiedAt": "2026-10-01T00:56+09:00"
     },
     {
       "id": "07bc99e073f0cb55",
@@ -34,7 +34,7 @@
       "source": "현대모비스 공식 채용",
       "initial": "현대",
       "color": "blue",
-      "verifiedAt": "2026-09-30T14:35+09:00"
+      "verifiedAt": "2026-10-01T00:56+09:00"
     },
     {
       "id": "371fae69444eb735",
@@ -51,7 +51,7 @@
       "source": "현대모비스 공식 채용",
       "initial": "현대",
       "color": "blue",
-      "verifiedAt": "2026-09-30T14:35+09:00"
+      "verifiedAt": "2026-10-01T00:56+09:00"
     },
     {
       "id": "ceeb1bb35109420e",
@@ -68,7 +68,7 @@
       "source": "현대모비스 공식 채용",
       "initial": "현대",
       "color": "blue",
-      "verifiedAt": "2026-09-30T14:35+09:00"
+      "verifiedAt": "2026-10-01T00:56+09:00"
     },
     {
       "id": "fc93c1591da1b5a2",
@@ -102,7 +102,7 @@
       "source": "카카오페이 공식 채용",
       "initial": "카카",
       "color": "green",
-      "verifiedAt": "2026-09-30T14:35+09:00"
+      "verifiedAt": "2026-10-01T00:56+09:00"
     },
     {
       "id": "ac239e4bbec74485",
@@ -119,7 +119,7 @@
       "source": "카카오페이 공식 채용",
       "initial": "카카",
       "color": "green",
-      "verifiedAt": "2026-09-30T14:35+09:00"
+      "verifiedAt": "2026-10-01T00:56+09:00"
     },
     {
       "id": "c720d7351093eca9",
@@ -136,7 +136,7 @@
       "source": "카카오페이 공식 채용",
       "initial": "카카",
       "color": "green",
-      "verifiedAt": "2026-09-30T14:35+09:00"
+      "verifiedAt": "2026-10-01T00:56+09:00"
     },
     {
       "id": "15af525206778277",
@@ -153,7 +153,7 @@
       "source": "카카오페이 공식 채용",
       "initial": "카카",
       "color": "green",
-      "verifiedAt": "2026-09-30T14:35+09:00"
+      "verifiedAt": "2026-10-01T00:56+09:00"
     },
     {
       "id": "9e18838c21fe1de5",
@@ -170,7 +170,7 @@
       "source": "카카오페이 공식 채용",
       "initial": "카카",
       "color": "green",
-      "verifiedAt": "2026-09-30T14:35+09:00"
+      "verifiedAt": "2026-10-01T00:56+09:00"
     },
     {
       "id": "e3d871299e9e192c",
@@ -187,7 +187,7 @@
       "source": "크래프톤 공식 채용",
       "initial": "크래",
       "color": "orange",
-      "verifiedAt": "2026-09-30T14:35+09:00"
+      "verifiedAt": "2026-10-01T00:56+09:00"
     },
     {
       "id": "5a2b69bab5db59fc",
@@ -204,7 +204,7 @@
       "source": "크래프톤 공식 채용",
       "initial": "크래",
       "color": "orange",
-      "verifiedAt": "2026-09-30T14:35+09:00"
+      "verifiedAt": "2026-10-01T00:56+09:00"
     },
     {
       "id": "1fd338c95893a78a",
@@ -221,7 +221,7 @@
       "source": "크래프톤 공식 채용",
       "initial": "크래",
       "color": "orange",
-      "verifiedAt": "2026-09-30T14:35+09:00"
+      "verifiedAt": "2026-10-01T00:56+09:00"
     },
     {
       "id": "520504d87a9276a7",
@@ -289,7 +289,7 @@
       "source": "카카오페이 공식 채용",
       "initial": "카카",
       "color": "green",
-      "verifiedAt": "2026-09-30T14:35+09:00"
+      "verifiedAt": "2026-10-01T00:56+09:00"
     },
     {
       "id": "39a7bb32d731af85",
@@ -306,7 +306,7 @@
       "source": "카카오페이 공식 채용",
       "initial": "카카",
       "color": "green",
-      "verifiedAt": "2026-09-30T14:35+09:00"
+      "verifiedAt": "2026-10-01T00:56+09:00"
     },
     {
       "id": "4147dfd127fc6d9e",
@@ -323,7 +323,7 @@
       "source": "카카오페이 공식 채용",
       "initial": "카카",
       "color": "green",
-      "verifiedAt": "2026-09-30T14:35+09:00"
+      "verifiedAt": "2026-10-01T00:56+09:00"
     },
     {
       "id": "58c5123b340391d3",
@@ -340,7 +340,7 @@
       "source": "카카오페이 공식 채용",
       "initial": "카카",
       "color": "green",
-      "verifiedAt": "2026-09-30T14:35+09:00"
+      "verifiedAt": "2026-10-01T00:56+09:00"
     },
     {
       "id": "0b9efe91cef79e37",
@@ -357,7 +357,7 @@
       "source": "카카오페이 공식 채용",
       "initial": "카카",
       "color": "green",
-      "verifiedAt": "2026-09-30T14:35+09:00"
+      "verifiedAt": "2026-10-01T00:56+09:00"
     },
     {
       "id": "58a745e5e438ce35",
@@ -374,7 +374,7 @@
       "source": "카카오페이 공식 채용",
       "initial": "카카",
       "color": "green",
-      "verifiedAt": "2026-09-30T14:35+09:00"
+      "verifiedAt": "2026-10-01T00:56+09:00"
     },
     {
       "id": "f65f3102b35c2dac",
@@ -448,6 +448,108 @@
       "initial": "크래",
       "color": "orange",
       "verifiedAt": "2026-09-30T14:35+09:00"
+    },
+    {
+      "id": "e8f77c0fbd368489",
+      "company": "크래프톤",
+      "title": "[AI Research Div.] Research Scientist - Specialized Model (2년 이상 / 인턴)",
+      "kind": "신입 · 인턴",
+      "place": "원문 확인",
+      "deadline": null,
+      "deadlineLabel": "원문 확인",
+      "track": "클라우드 / 플랫폼",
+      "note": "공식 채용 원문에서 클라우드 / 플랫폼 연관성이 확인된 공고입니다.",
+      "check": "신입·인턴 지원 조건을 확인했습니다. 상세 자격과 근무지는 원문에서 다시 확인하세요.",
+      "url": "https://www.krafton.com/careers/recruit-detail/?var_page=1&job=5128&search_list_cnt=10",
+      "source": "크래프톤 공식 채용",
+      "initial": "크래",
+      "color": "orange",
+      "verifiedAt": "2026-10-01T00:56+09:00"
+    },
+    {
+      "id": "c19a93d6dd9dbd5a",
+      "company": "크래프톤",
+      "title": "[AI Research Div.] AI Operation Manager (2년 이상 / 인턴)",
+      "kind": "신입 · 인턴",
+      "place": "원문 확인",
+      "deadline": null,
+      "deadlineLabel": "원문 확인",
+      "track": "클라우드 / 플랫폼",
+      "note": "공식 채용 원문에서 클라우드 / 플랫폼 연관성이 확인된 공고입니다.",
+      "check": "신입·인턴 지원 조건을 확인했습니다. 상세 자격과 근무지는 원문에서 다시 확인하세요.",
+      "url": "https://www.krafton.com/careers/recruit-detail/?var_page=1&job=5127&search_list_cnt=10",
+      "source": "크래프톤 공식 채용",
+      "initial": "크래",
+      "color": "orange",
+      "verifiedAt": "2026-10-01T00:56+09:00"
+    },
+    {
+      "id": "c6d39e0ea0387d9e",
+      "company": "크래프톤",
+      "title": "[AI Research Div.] Research Scientist - Specialized Model (2년 이상 / 인턴)",
+      "kind": "신입 · 인턴",
+      "place": "원문 확인",
+      "deadline": null,
+      "deadlineLabel": "원문 확인",
+      "track": "클라우드 / 플랫폼",
+      "note": "공식 채용 원문에서 클라우드 / 플랫폼 연관성이 확인된 공고입니다.",
+      "check": "신입·인턴 지원 조건을 확인했습니다. 상세 자격과 근무지는 원문에서 다시 확인하세요.",
+      "url": "https://www.krafton.com/en/careers/recruit-detail/?var_page=1&job=5128&search_list_cnt=10",
+      "source": "크래프톤 공식 채용",
+      "initial": "크래",
+      "color": "orange",
+      "verifiedAt": "2026-10-01T00:56+09:00"
+    },
+    {
+      "id": "1b51a3bab2779f35",
+      "company": "크래프톤",
+      "title": "[AI Research Div.] AI Operation Manager (2년 이상 / 인턴)",
+      "kind": "신입 · 인턴",
+      "place": "원문 확인",
+      "deadline": null,
+      "deadlineLabel": "원문 확인",
+      "track": "클라우드 / 플랫폼",
+      "note": "공식 채용 원문에서 클라우드 / 플랫폼 연관성이 확인된 공고입니다.",
+      "check": "신입·인턴 지원 조건을 확인했습니다. 상세 자격과 근무지는 원문에서 다시 확인하세요.",
+      "url": "https://www.krafton.com/en/careers/recruit-detail/?var_page=1&job=5127&search_list_cnt=10",
+      "source": "크래프톤 공식 채용",
+      "initial": "크래",
+      "color": "orange",
+      "verifiedAt": "2026-10-01T00:56+09:00"
+    },
+    {
+      "id": "5b2aa4dde2763038",
+      "company": "크래프톤",
+      "title": "[AI Research Div.] Research Scientist - Specialized Model (2년 이상 / 인턴)",
+      "kind": "신입 · 인턴",
+      "place": "원문 확인",
+      "deadline": null,
+      "deadlineLabel": "원문 확인",
+      "track": "클라우드 / 플랫폼",
+      "note": "공식 채용 원문에서 클라우드 / 플랫폼 연관성이 확인된 공고입니다.",
+      "check": "신입·인턴 지원 조건을 확인했습니다. 상세 자격과 근무지는 원문에서 다시 확인하세요.",
+      "url": "https://www.krafton.com/zh/careers/recruit-detail/?var_page=1&job=5128&search_list_cnt=10",
+      "source": "크래프톤 공식 채용",
+      "initial": "크래",
+      "color": "orange",
+      "verifiedAt": "2026-10-01T00:56+09:00"
+    },
+    {
+      "id": "e536bf78b9463d26",
+      "company": "크래프톤",
+      "title": "[AI Research Div.] AI Operation Manager (2년 이상 / 인턴)",
+      "kind": "신입 · 인턴",
+      "place": "원문 확인",
+      "deadline": null,
+      "deadlineLabel": "원문 확인",
+      "track": "클라우드 / 플랫폼",
+      "note": "공식 채용 원문에서 클라우드 / 플랫폼 연관성이 확인된 공고입니다.",
+      "check": "신입·인턴 지원 조건을 확인했습니다. 상세 자격과 근무지는 원문에서 다시 확인하세요.",
+      "url": "https://www.krafton.com/zh/careers/recruit-detail/?var_page=1&job=5127&search_list_cnt=10",
+      "source": "크래프톤 공식 채용",
+      "initial": "크래",
+      "color": "orange",
+      "verifiedAt": "2026-10-01T00:56+09:00"
     }
   ]
 }
