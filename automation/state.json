@@ -1,5 +1,5 @@
 {
-  "lastRunAt": "2026-10-03T00:50:52+09:00",
+  "lastRunAt": "2026-10-03T14:21:33+09:00",
   "companies": {
     "삼성전자": {
       "discovered": 17,
@@ -476,16 +476,15 @@
       "rejected": {}
     },
     "쿠팡": {
-      "discovered": 63,
+      "discovered": 60,
       "verified": 0,
       "sources": {
-        "official_page": 24,
+        "official_page": 21,
         "sitemap": 39
       },
       "errors": [],
       "rejected": {
         "eligibility_unconfirmed": 15,
-        "career_only": 3,
         "not_job_posting": 39
       }
     },
@@ -581,10 +580,11 @@
       "rejected": {}
     },
     "크래프톤": {
-      "discovered": 74,
+      "discovered": 80,
       "verified": 3,
       "sources": {
-        "official_page": 74
+        "official_page": 74,
+        "bing": 6
       },
       "errors": [],
       "rejected": {
@@ -720,10 +720,10 @@
       }
     },
     "POSCO DX": {
-      "discovered": 4,
+      "discovered": 3,
       "verified": 0,
       "sources": {
-        "bing": 4
+        "bing": 3
       },
       "errors": [],
       "rejected": {
@@ -731,11 +731,9 @@
       }
     },
     "포스코": {
-      "discovered": 1,
+      "discovered": 0,
       "verified": 0,
-      "sources": {
-        "bing": 1
-      },
+      "sources": {},
       "errors": [],
       "rejected": {}
     },
@@ -819,19 +817,21 @@
       "rejected": {}
     },
     "키움증권": {
-      "discovered": 6,
+      "discovered": 0,
       "verified": 0,
-      "sources": {
-        "official_page": 6
-      },
-      "errors": [],
+      "sources": {},
+      "errors": [
+        "official_page:ConnectTimeout"
+      ],
       "rejected": {}
     },
     "IBK기업은행": {
       "discovered": 0,
       "verified": 0,
       "sources": {},
-      "errors": [],
+      "errors": [
+        "official_page:ConnectTimeout"
+      ],
       "rejected": {}
     },
     "NH농협손해보험": {
@@ -950,12 +950,12 @@
       }
     },
     "하나카드": {
-      "discovered": 0,
+      "discovered": 1,
       "verified": 0,
-      "sources": {},
-      "errors": [
-        "official_page:ConnectTimeout"
-      ],
+      "sources": {
+        "official_page": 1
+      },
+      "errors": [],
       "rejected": {}
     }
   },
@@ -963,6 +963,6 @@
     "published": 40,
     "automatic": 39,
     "curated": 1,
-    "review": 334
+    "review": 331
   }
 }
