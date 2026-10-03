@@ -1,5 +1,5 @@
 {
-  "lastRunAt": "2026-10-03T14:21:33+09:00",
+  "lastRunAt": "2026-10-03T23:19:41+09:00",
   "companies": {
     "삼성전자": {
       "discovered": 17,
@@ -476,15 +476,15 @@
       "rejected": {}
     },
     "쿠팡": {
-      "discovered": 60,
+      "discovered": 57,
       "verified": 0,
       "sources": {
-        "official_page": 21,
+        "official_page": 18,
         "sitemap": 39
       },
       "errors": [],
       "rejected": {
-        "eligibility_unconfirmed": 15,
+        "eligibility_unconfirmed": 12,
         "not_job_posting": 39
       }
     },
@@ -580,11 +580,10 @@
       "rejected": {}
     },
     "크래프톤": {
-      "discovered": 80,
+      "discovered": 74,
       "verified": 3,
       "sources": {
-        "official_page": 74,
-        "bing": 6
+        "official_page": 74
       },
       "errors": [],
       "rejected": {
@@ -720,15 +719,11 @@
       }
     },
     "POSCO DX": {
-      "discovered": 3,
+      "discovered": 0,
       "verified": 0,
-      "sources": {
-        "bing": 3
-      },
+      "sources": {},
       "errors": [],
-      "rejected": {
-        "eligibility_unconfirmed": 1
-      }
+      "rejected": {}
     },
     "포스코": {
       "discovered": 0,
@@ -817,12 +812,12 @@
       "rejected": {}
     },
     "키움증권": {
-      "discovered": 0,
+      "discovered": 6,
       "verified": 0,
-      "sources": {},
-      "errors": [
-        "official_page:ConnectTimeout"
-      ],
+      "sources": {
+        "official_page": 6
+      },
+      "errors": [],
       "rejected": {}
     },
     "IBK기업은행": {
@@ -963,6 +958,6 @@
     "published": 40,
     "automatic": 39,
     "curated": 1,
-    "review": 331
+    "review": 327
   }
 }
