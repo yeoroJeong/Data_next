@@ -1,5 +1,5 @@
 {
-  "lastRunAt": "2026-10-04T14:57:25+09:00",
+  "lastRunAt": "2026-10-04T23:47:57+09:00",
   "companies": {
     "삼성전자": {
       "discovered": 17,
@@ -198,9 +198,11 @@
       "rejected": {}
     },
     "LG에너지솔루션": {
-      "discovered": 0,
+      "discovered": 1,
       "verified": 0,
-      "sources": {},
+      "sources": {
+        "bing": 1
+      },
       "errors": [],
       "rejected": {}
     },
@@ -651,9 +653,11 @@
       "rejected": {}
     },
     "미래에셋증권": {
-      "discovered": 0,
+      "discovered": 3,
       "verified": 0,
-      "sources": {},
+      "sources": {
+        "bing": 3
+      },
       "errors": [],
       "rejected": {}
     },
@@ -797,7 +801,9 @@
       "discovered": 0,
       "verified": 0,
       "sources": {},
-      "errors": [],
+      "errors": [
+        "official_page:ConnectTimeout"
+      ],
       "rejected": {}
     },
     "한국전력공사": {
@@ -822,7 +828,9 @@
       "discovered": 0,
       "verified": 0,
       "sources": {},
-      "errors": [],
+      "errors": [
+        "official_page:ConnectTimeout"
+      ],
       "rejected": {}
     },
     "NH농협손해보험": {
@@ -941,12 +949,12 @@
       }
     },
     "하나카드": {
-      "discovered": 0,
+      "discovered": 1,
       "verified": 0,
-      "sources": {},
-      "errors": [
-        "official_page:ConnectTimeout"
-      ],
+      "sources": {
+        "official_page": 1
+      },
+      "errors": [],
       "rejected": {}
     }
   },
