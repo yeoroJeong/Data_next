@@ -1,5 +1,5 @@
 {
-  "lastRunAt": "2026-10-04T23:47:57+09:00",
+  "lastRunAt": "2026-10-05T14:45:05+09:00",
   "companies": {
     "삼성전자": {
       "discovered": 17,
@@ -198,11 +198,9 @@
       "rejected": {}
     },
     "LG에너지솔루션": {
-      "discovered": 1,
+      "discovered": 0,
       "verified": 0,
-      "sources": {
-        "bing": 1
-      },
+      "sources": {},
       "errors": [],
       "rejected": {}
     },
@@ -478,15 +476,15 @@
       "rejected": {}
     },
     "쿠팡": {
-      "discovered": 57,
+      "discovered": 54,
       "verified": 0,
       "sources": {
-        "official_page": 18,
+        "official_page": 15,
         "sitemap": 39
       },
       "errors": [],
       "rejected": {
-        "eligibility_unconfirmed": 12,
+        "eligibility_unconfirmed": 9,
         "not_job_posting": 39
       }
     },
@@ -653,11 +651,9 @@
       "rejected": {}
     },
     "미래에셋증권": {
-      "discovered": 3,
+      "discovered": 0,
       "verified": 0,
-      "sources": {
-        "bing": 3
-      },
+      "sources": {},
       "errors": [],
       "rejected": {}
     },
@@ -723,11 +719,17 @@
       }
     },
     "POSCO DX": {
-      "discovered": 0,
+      "discovered": 4,
       "verified": 0,
-      "sources": {},
-      "errors": [],
-      "rejected": {}
+      "sources": {
+        "bing": 4
+      },
+      "errors": [
+        "official_page:ConnectionError"
+      ],
+      "rejected": {
+        "not_job_posting": 1
+      }
     },
     "포스코": {
       "discovered": 0,
@@ -828,9 +830,7 @@
       "discovered": 0,
       "verified": 0,
       "sources": {},
-      "errors": [
-        "official_page:ConnectTimeout"
-      ],
+      "errors": [],
       "rejected": {}
     },
     "NH농협손해보험": {
@@ -962,6 +962,6 @@
     "published": 40,
     "automatic": 39,
     "curated": 1,
-    "review": 327
+    "review": 325
   }
 }
