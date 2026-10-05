@@ -1,5 +1,5 @@
 {
-  "lastRunAt": "2026-10-05T14:45:05+09:00",
+  "lastRunAt": "2026-10-06T03:29:54+09:00",
   "companies": {
     "삼성전자": {
       "discovered": 17,
@@ -402,16 +402,16 @@
       "rejected": {}
     },
     "NAVER": {
-      "discovered": 30,
+      "discovered": 28,
       "verified": 0,
       "sources": {
-        "official_api": 22,
+        "official_api": 20,
         "official_page": 8
       },
       "errors": [],
       "rejected": {
         "career_only": 5,
-        "not_data_track": 18,
+        "not_data_track": 16,
         "eligibility_unconfirmed": 1,
         "not_job_posting": 2
       }
@@ -719,22 +719,22 @@
       }
     },
     "POSCO DX": {
-      "discovered": 4,
+      "discovered": 3,
       "verified": 0,
       "sources": {
-        "bing": 4
+        "bing": 3
       },
-      "errors": [
-        "official_page:ConnectionError"
-      ],
+      "errors": [],
       "rejected": {
         "not_job_posting": 1
       }
     },
     "포스코": {
-      "discovered": 0,
+      "discovered": 2,
       "verified": 0,
-      "sources": {},
+      "sources": {
+        "bing": 2
+      },
       "errors": [],
       "rejected": {}
     },
@@ -830,7 +830,9 @@
       "discovered": 0,
       "verified": 0,
       "sources": {},
-      "errors": [],
+      "errors": [
+        "official_page:ConnectTimeout"
+      ],
       "rejected": {}
     },
     "NH농협손해보험": {
