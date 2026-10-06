@@ -1,41 +1,7 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-06T15:25:07+09:00",
+  "updatedAt": "2026-10-07T00:58:29+09:00",
   "jobs": [
-    {
-      "id": "371fae69444eb735",
-      "company": "현대모비스",
-      "title": "전력반도체 개발",
-      "kind": "신입 · 정규직",
-      "place": "원문 확인",
-      "deadline": "2026-10-06T23:59:00+09:00",
-      "deadlineLabel": "10.06 23:59",
-      "track": "보안 / 인프라",
-      "note": "공식 채용 원문에서 보안 / 인프라 연관성이 확인된 공고입니다.",
-      "check": "신입·인턴 지원 조건을 확인했습니다. 상세 자격과 근무지는 원문에서 다시 확인하세요.",
-      "url": "https://careers.mobis.com/jobs-view?seq=4185",
-      "source": "현대모비스 공식 채용",
-      "initial": "현대",
-      "color": "blue",
-      "verifiedAt": "2026-10-06T15:25+09:00"
-    },
-    {
-      "id": "ceeb1bb35109420e",
-      "company": "현대모비스",
-      "title": "Mixed-IC 디지털 설계",
-      "kind": "신입 · 정규직",
-      "place": "원문 확인",
-      "deadline": "2026-10-06T23:59:00+09:00",
-      "deadlineLabel": "10.06 23:59",
-      "track": "보안 / 인프라",
-      "note": "공식 채용 원문에서 보안 / 인프라 연관성이 확인된 공고입니다.",
-      "check": "신입·인턴 지원 조건을 확인했습니다. 상세 자격과 근무지는 원문에서 다시 확인하세요.",
-      "url": "https://careers.mobis.com/jobs-view?seq=4187",
-      "source": "현대모비스 공식 채용",
-      "initial": "현대",
-      "color": "blue",
-      "verifiedAt": "2026-10-06T15:25+09:00"
-    },
     {
       "id": "338de8998ef9572d",
       "company": "현대모비스",
@@ -51,7 +17,7 @@
       "source": "현대모비스 공식 채용",
       "initial": "현대",
       "color": "blue",
-      "verifiedAt": "2026-10-06T15:25+09:00"
+      "verifiedAt": "2026-10-07T00:58+09:00"
     },
     {
       "id": "51c5b1a135f5f493",
@@ -68,12 +34,12 @@
       "source": "현대모비스 공식 채용",
       "initial": "현대",
       "color": "blue",
-      "verifiedAt": "2026-10-06T15:25+09:00"
+      "verifiedAt": "2026-10-07T00:58+09:00"
     },
     {
       "id": "23a21c33053eadde",
       "company": "현대모비스",
-      "title": "D-6 신입-관리직 [생산개발담당] 26년 9월 관리직 신입채용 (Chief of Production Development, entry-admin.) 생산기술_스마트팩토리(물류) 생산개발담당 생산 생산기술 의왕연구소",
+      "title": "D-5 신입-관리직 [생산개발담당] 26년 9월 관리직 신입채용 (Chief of Production Development, entry-admin.) 생산기술_스마트팩토리(물류) 생산개발담당 생산 생산기술 의왕연구소",
       "kind": "신입 · 정규직",
       "place": "원문 확인",
       "deadline": "2026-10-12T14:00:00+09:00",
@@ -85,7 +51,7 @@
       "source": "현대모비스 공식 채용",
       "initial": "현대",
       "color": "blue",
-      "verifiedAt": "2026-10-06T15:25+09:00"
+      "verifiedAt": "2026-10-07T00:58+09:00"
     },
     {
       "id": "8c2c2d109c0111a0",
@@ -102,7 +68,7 @@
       "source": "현대모비스 공식 채용",
       "initial": "현대",
       "color": "blue",
-      "verifiedAt": "2026-10-06T15:25+09:00"
+      "verifiedAt": "2026-10-07T00:58+09:00"
     },
     {
       "id": "4287600e9cdd847d",
@@ -119,7 +85,7 @@
       "source": "현대모비스 공식 채용",
       "initial": "현대",
       "color": "blue",
-      "verifiedAt": "2026-10-06T15:25+09:00"
+      "verifiedAt": "2026-10-07T00:58+09:00"
     },
     {
       "id": "9acba1051681e532",
@@ -136,7 +102,7 @@
       "source": "현대모비스 공식 채용",
       "initial": "현대",
       "color": "blue",
-      "verifiedAt": "2026-10-06T15:25+09:00"
+      "verifiedAt": "2026-10-07T00:58+09:00"
     },
     {
       "id": "3bbeff0c9fd24a9f",
@@ -153,7 +119,7 @@
       "source": "NAVER Cloud 공식 채용",
       "initial": "NA",
       "color": "blue",
-      "verifiedAt": "2026-10-06T15:25+09:00"
+      "verifiedAt": "2026-10-07T00:58+09:00"
     },
     {
       "id": "4984e149a5a21389",
@@ -170,7 +136,7 @@
       "source": "현대모비스 공식 채용",
       "initial": "현대",
       "color": "blue",
-      "verifiedAt": "2026-10-06T15:25+09:00"
+      "verifiedAt": "2026-10-07T00:58+09:00"
     },
     {
       "id": "fc93c1591da1b5a2",
@@ -204,7 +170,7 @@
       "source": "카카오페이 공식 채용",
       "initial": "카카",
       "color": "green",
-      "verifiedAt": "2026-10-06T15:25+09:00"
+      "verifiedAt": "2026-10-07T00:58+09:00"
     },
     {
       "id": "ac239e4bbec74485",
@@ -221,7 +187,7 @@
       "source": "카카오페이 공식 채용",
       "initial": "카카",
       "color": "green",
-      "verifiedAt": "2026-10-06T15:25+09:00"
+      "verifiedAt": "2026-10-07T00:58+09:00"
     },
     {
       "id": "c720d7351093eca9",
@@ -238,7 +204,7 @@
       "source": "카카오페이 공식 채용",
       "initial": "카카",
       "color": "green",
-      "verifiedAt": "2026-10-06T15:25+09:00"
+      "verifiedAt": "2026-10-07T00:58+09:00"
     },
     {
       "id": "15af525206778277",
@@ -255,7 +221,7 @@
       "source": "카카오페이 공식 채용",
       "initial": "카카",
       "color": "green",
-      "verifiedAt": "2026-10-06T15:25+09:00"
+      "verifiedAt": "2026-10-07T00:58+09:00"
     },
     {
       "id": "9e18838c21fe1de5",
@@ -272,7 +238,7 @@
       "source": "카카오페이 공식 채용",
       "initial": "카카",
       "color": "green",
-      "verifiedAt": "2026-10-06T15:25+09:00"
+      "verifiedAt": "2026-10-07T00:58+09:00"
     },
     {
       "id": "e3d871299e9e192c",
@@ -289,7 +255,7 @@
       "source": "크래프톤 공식 채용",
       "initial": "크래",
       "color": "orange",
-      "verifiedAt": "2026-10-06T15:25+09:00"
+      "verifiedAt": "2026-10-07T00:58+09:00"
     },
     {
       "id": "5a2b69bab5db59fc",
@@ -306,7 +272,7 @@
       "source": "크래프톤 공식 채용",
       "initial": "크래",
       "color": "orange",
-      "verifiedAt": "2026-10-06T15:25+09:00"
+      "verifiedAt": "2026-10-07T00:58+09:00"
     },
     {
       "id": "1fd338c95893a78a",
@@ -323,7 +289,7 @@
       "source": "크래프톤 공식 채용",
       "initial": "크래",
       "color": "orange",
-      "verifiedAt": "2026-10-06T15:25+09:00"
+      "verifiedAt": "2026-10-07T00:58+09:00"
     },
     {
       "id": "520504d87a9276a7",
@@ -668,7 +634,7 @@
       "source": "카카오 공식 채용",
       "initial": "카카",
       "color": "green",
-      "verifiedAt": "2026-10-06T15:25+09:00"
+      "verifiedAt": "2026-10-07T00:58+09:00"
     }
   ]
 }
