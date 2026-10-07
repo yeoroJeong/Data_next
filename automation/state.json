@@ -1,5 +1,5 @@
 {
-  "lastRunAt": "2026-10-07T15:03:50+09:00",
+  "lastRunAt": "2026-10-08T01:31:44+09:00",
   "companies": {
     "삼성전자": {
       "discovered": 18,
@@ -343,10 +343,10 @@
       "rejected": {}
     },
     "롯데이노베이트": {
-      "discovered": 46,
+      "discovered": 40,
       "verified": 0,
       "sources": {
-        "official_page": 46
+        "official_page": 40
       },
       "errors": [],
       "rejected": {
@@ -354,10 +354,10 @@
       }
     },
     "롯데쇼핑": {
-      "discovered": 46,
+      "discovered": 40,
       "verified": 0,
       "sources": {
-        "official_page": 46
+        "official_page": 40
       },
       "errors": [],
       "rejected": {
@@ -365,10 +365,10 @@
       }
     },
     "롯데카드": {
-      "discovered": 46,
+      "discovered": 40,
       "verified": 0,
       "sources": {
-        "official_page": 46
+        "official_page": 40
       },
       "errors": [],
       "rejected": {
@@ -376,10 +376,10 @@
       }
     },
     "롯데e커머스": {
-      "discovered": 46,
+      "discovered": 40,
       "verified": 0,
       "sources": {
-        "official_page": 46
+        "official_page": 40
       },
       "errors": [],
       "rejected": {
@@ -423,16 +423,15 @@
       }
     },
     "NAVER Cloud": {
-      "discovered": 14,
+      "discovered": 9,
       "verified": 1,
       "sources": {
-        "official_api": 7,
+        "official_api": 2,
         "official_page": 7
       },
       "errors": [],
       "rejected": {
-        "career_only": 7,
-        "eligibility_unconfirmed": 1,
+        "career_only": 3,
         "not_job_posting": 2
       }
     },
@@ -461,15 +460,15 @@
       "rejected": {}
     },
     "카카오페이": {
-      "discovered": 39,
+      "discovered": 40,
       "verified": 5,
       "sources": {
-        "official_page": 39
+        "official_page": 40
       },
       "errors": [],
       "rejected": {
         "career_only": 7,
-        "senior_career_required": 9
+        "senior_career_required": 10
       }
     },
     "LINE Plus": {
@@ -482,10 +481,10 @@
       "rejected": {}
     },
     "쿠팡": {
-      "discovered": 48,
+      "discovered": 54,
       "verified": 0,
       "sources": {
-        "official_page": 9,
+        "official_page": 15,
         "sitemap": 39
       },
       "errors": [],
@@ -502,10 +501,10 @@
       "rejected": {}
     },
     "당근": {
-      "discovered": 36,
+      "discovered": 35,
       "verified": 0,
       "sources": {
-        "official_page": 36
+        "official_page": 35
       },
       "errors": [],
       "rejected": {}
@@ -541,9 +540,11 @@
       "rejected": {}
     },
     "쏘카": {
-      "discovered": 0,
+      "discovered": 3,
       "verified": 0,
-      "sources": {},
+      "sources": {
+        "bing": 3
+      },
       "errors": [
         "official_page:HTTPError"
       ],
@@ -586,11 +587,10 @@
       "rejected": {}
     },
     "크래프톤": {
-      "discovered": 78,
+      "discovered": 74,
       "verified": 3,
       "sources": {
-        "official_page": 74,
-        "bing": 4
+        "official_page": 74
       },
       "errors": [],
       "rejected": {
@@ -607,11 +607,9 @@
       "rejected": {}
     },
     "스마일게이트": {
-      "discovered": 3,
+      "discovered": 0,
       "verified": 0,
-      "sources": {
-        "official_page": 3
-      },
+      "sources": {},
       "errors": [],
       "rejected": {}
     },
@@ -726,25 +724,17 @@
       }
     },
     "POSCO DX": {
-      "discovered": 3,
+      "discovered": 0,
       "verified": 0,
-      "sources": {
-        "bing": 3
-      },
-      "errors": [
-        "official_page:ConnectionError"
-      ],
-      "rejected": {
-        "not_job_posting": 1
-      }
+      "sources": {},
+      "errors": [],
+      "rejected": {}
     },
     "포스코": {
       "discovered": 0,
       "verified": 0,
       "sources": {},
-      "errors": [
-        "official_page:ConnectionError"
-      ],
+      "errors": [],
       "rejected": {}
     },
     "HD현대": {
@@ -789,12 +779,12 @@
       "rejected": {}
     },
     "인천국제공항공사": {
-      "discovered": 3,
+      "discovered": 0,
       "verified": 0,
-      "sources": {
-        "official_page": 3
-      },
-      "errors": [],
+      "sources": {},
+      "errors": [
+        "official_page:ConnectTimeout"
+      ],
       "rejected": {}
     },
     "한국장학재단": {
@@ -839,7 +829,9 @@
       "discovered": 0,
       "verified": 0,
       "sources": {},
-      "errors": [],
+      "errors": [
+        "official_page:ConnectTimeout"
+      ],
       "rejected": {}
     },
     "NH농협손해보험": {
@@ -947,10 +939,10 @@
       "rejected": {}
     },
     "롯데그룹": {
-      "discovered": 46,
+      "discovered": 40,
       "verified": 0,
       "sources": {
-        "official_page": 46
+        "official_page": 40
       },
       "errors": [],
       "rejected": {
@@ -958,12 +950,12 @@
       }
     },
     "하나카드": {
-      "discovered": 0,
+      "discovered": 1,
       "verified": 0,
-      "sources": {},
-      "errors": [
-        "official_page:ConnectTimeout"
-      ],
+      "sources": {
+        "official_page": 1
+      },
+      "errors": [],
       "rejected": {}
     }
   },
@@ -971,6 +963,6 @@
     "published": 37,
     "automatic": 36,
     "curated": 1,
-    "review": 358
+    "review": 353
   }
 }
