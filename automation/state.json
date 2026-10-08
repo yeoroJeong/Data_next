@@ -1,5 +1,5 @@
 {
-  "lastRunAt": "2026-10-08T01:31:44+09:00",
+  "lastRunAt": "2026-10-08T15:08:34+09:00",
   "companies": {
     "삼성전자": {
       "discovered": 18,
@@ -343,10 +343,10 @@
       "rejected": {}
     },
     "롯데이노베이트": {
-      "discovered": 40,
+      "discovered": 42,
       "verified": 0,
       "sources": {
-        "official_page": 40
+        "official_page": 42
       },
       "errors": [],
       "rejected": {
@@ -354,10 +354,10 @@
       }
     },
     "롯데쇼핑": {
-      "discovered": 40,
+      "discovered": 42,
       "verified": 0,
       "sources": {
-        "official_page": 40
+        "official_page": 42
       },
       "errors": [],
       "rejected": {
@@ -365,10 +365,10 @@
       }
     },
     "롯데카드": {
-      "discovered": 40,
+      "discovered": 42,
       "verified": 0,
       "sources": {
-        "official_page": 40
+        "official_page": 42
       },
       "errors": [],
       "rejected": {
@@ -376,10 +376,10 @@
       }
     },
     "롯데e커머스": {
-      "discovered": 40,
+      "discovered": 42,
       "verified": 0,
       "sources": {
-        "official_page": 40
+        "official_page": 42
       },
       "errors": [],
       "rejected": {
@@ -408,16 +408,16 @@
       "rejected": {}
     },
     "NAVER": {
-      "discovered": 26,
+      "discovered": 28,
       "verified": 0,
       "sources": {
-        "official_api": 19,
+        "official_api": 21,
         "official_page": 7
       },
       "errors": [],
       "rejected": {
         "career_only": 5,
-        "not_data_track": 15,
+        "not_data_track": 17,
         "eligibility_unconfirmed": 1,
         "not_job_posting": 2
       }
@@ -436,17 +436,17 @@
       }
     },
     "카카오": {
-      "discovered": 25,
+      "discovered": 27,
       "verified": 1,
       "sources": {
-        "official_api": 25
+        "official_api": 27
       },
       "errors": [],
       "rejected": {
-        "career_only": 7,
+        "career_only": 8,
         "advanced_degree_required": 2,
         "senior_career_required": 1,
-        "not_data_track": 13,
+        "not_data_track": 14,
         "excluded_role": 1
       }
     },
@@ -481,14 +481,15 @@
       "rejected": {}
     },
     "쿠팡": {
-      "discovered": 54,
+      "discovered": 66,
       "verified": 0,
       "sources": {
-        "official_page": 15,
+        "official_page": 27,
         "sitemap": 39
       },
       "errors": [],
       "rejected": {
+        "eligibility_unconfirmed": 3,
         "career_only": 3,
         "not_job_posting": 39
       }
@@ -540,11 +541,9 @@
       "rejected": {}
     },
     "쏘카": {
-      "discovered": 3,
+      "discovered": 0,
       "verified": 0,
-      "sources": {
-        "bing": 3
-      },
+      "sources": {},
       "errors": [
         "official_page:HTTPError"
       ],
@@ -587,10 +586,11 @@
       "rejected": {}
     },
     "크래프톤": {
-      "discovered": 74,
-      "verified": 3,
+      "discovered": 79,
+      "verified": 0,
       "sources": {
-        "official_page": 74
+        "official_page": 74,
+        "bing": 5
       },
       "errors": [],
       "rejected": {
@@ -628,9 +628,11 @@
       "rejected": {}
     },
     "하나은행": {
-      "discovered": 0,
+      "discovered": 4,
       "verified": 0,
-      "sources": {},
+      "sources": {
+        "bing": 4
+      },
       "errors": [],
       "rejected": {}
     },
@@ -724,10 +726,14 @@
       }
     },
     "POSCO DX": {
-      "discovered": 0,
+      "discovered": 3,
       "verified": 0,
-      "sources": {},
-      "errors": [],
+      "sources": {
+        "bing": 3
+      },
+      "errors": [
+        "official_page:ConnectionError"
+      ],
       "rejected": {}
     },
     "포스코": {
@@ -939,10 +945,10 @@
       "rejected": {}
     },
     "롯데그룹": {
-      "discovered": 40,
+      "discovered": 42,
       "verified": 0,
       "sources": {
-        "official_page": 40
+        "official_page": 42
       },
       "errors": [],
       "rejected": {
@@ -963,6 +969,6 @@
     "published": 37,
     "automatic": 36,
     "curated": 1,
-    "review": 353
+    "review": 356
   }
 }

@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-08T01:31:44+09:00",
+  "updatedAt": "2026-10-08T15:08:34+09:00",
   "jobs": [
     {
       "id": "338de8998ef9572d",
@@ -17,7 +17,7 @@
       "source": "현대모비스 공식 채용",
       "initial": "현대",
       "color": "blue",
-      "verifiedAt": "2026-10-08T01:31+09:00"
+      "verifiedAt": "2026-10-08T15:08+09:00"
     },
     {
       "id": "51c5b1a135f5f493",
@@ -34,7 +34,7 @@
       "source": "현대모비스 공식 채용",
       "initial": "현대",
       "color": "blue",
-      "verifiedAt": "2026-10-08T01:31+09:00"
+      "verifiedAt": "2026-10-08T15:08+09:00"
     },
     {
       "id": "23a21c33053eadde",
@@ -51,7 +51,7 @@
       "source": "현대모비스 공식 채용",
       "initial": "현대",
       "color": "blue",
-      "verifiedAt": "2026-10-08T01:31+09:00"
+      "verifiedAt": "2026-10-08T15:08+09:00"
     },
     {
       "id": "8c2c2d109c0111a0",
@@ -68,7 +68,7 @@
       "source": "현대모비스 공식 채용",
       "initial": "현대",
       "color": "blue",
-      "verifiedAt": "2026-10-08T01:31+09:00"
+      "verifiedAt": "2026-10-08T15:08+09:00"
     },
     {
       "id": "4287600e9cdd847d",
@@ -85,7 +85,7 @@
       "source": "현대모비스 공식 채용",
       "initial": "현대",
       "color": "blue",
-      "verifiedAt": "2026-10-08T01:31+09:00"
+      "verifiedAt": "2026-10-08T15:08+09:00"
     },
     {
       "id": "9acba1051681e532",
@@ -102,7 +102,7 @@
       "source": "현대모비스 공식 채용",
       "initial": "현대",
       "color": "blue",
-      "verifiedAt": "2026-10-08T01:31+09:00"
+      "verifiedAt": "2026-10-08T15:08+09:00"
     },
     {
       "id": "3bbeff0c9fd24a9f",
@@ -119,7 +119,7 @@
       "source": "NAVER Cloud 공식 채용",
       "initial": "NA",
       "color": "blue",
-      "verifiedAt": "2026-10-08T01:31+09:00"
+      "verifiedAt": "2026-10-08T15:08+09:00"
     },
     {
       "id": "4984e149a5a21389",
@@ -136,7 +136,7 @@
       "source": "현대모비스 공식 채용",
       "initial": "현대",
       "color": "blue",
-      "verifiedAt": "2026-10-08T01:31+09:00"
+      "verifiedAt": "2026-10-08T15:08+09:00"
     },
     {
       "id": "fc93c1591da1b5a2",
@@ -170,7 +170,7 @@
       "source": "카카오페이 공식 채용",
       "initial": "카카",
       "color": "green",
-      "verifiedAt": "2026-10-08T01:31+09:00"
+      "verifiedAt": "2026-10-08T15:08+09:00"
     },
     {
       "id": "ac239e4bbec74485",
@@ -187,7 +187,7 @@
       "source": "카카오페이 공식 채용",
       "initial": "카카",
       "color": "green",
-      "verifiedAt": "2026-10-08T01:31+09:00"
+      "verifiedAt": "2026-10-08T15:08+09:00"
     },
     {
       "id": "c720d7351093eca9",
@@ -204,7 +204,7 @@
       "source": "카카오페이 공식 채용",
       "initial": "카카",
       "color": "green",
-      "verifiedAt": "2026-10-08T01:31+09:00"
+      "verifiedAt": "2026-10-08T15:08+09:00"
     },
     {
       "id": "15af525206778277",
@@ -221,7 +221,7 @@
       "source": "카카오페이 공식 채용",
       "initial": "카카",
       "color": "green",
-      "verifiedAt": "2026-10-08T01:31+09:00"
+      "verifiedAt": "2026-10-08T15:08+09:00"
     },
     {
       "id": "9e18838c21fe1de5",
@@ -238,7 +238,7 @@
       "source": "카카오페이 공식 채용",
       "initial": "카카",
       "color": "green",
-      "verifiedAt": "2026-10-08T01:31+09:00"
+      "verifiedAt": "2026-10-08T15:08+09:00"
     },
     {
       "id": "e3d871299e9e192c",
@@ -634,7 +634,7 @@
       "source": "카카오 공식 채용",
       "initial": "카카",
       "color": "green",
-      "verifiedAt": "2026-10-08T01:31+09:00"
+      "verifiedAt": "2026-10-08T15:08+09:00"
     }
   ]
 }
