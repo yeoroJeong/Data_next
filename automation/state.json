@@ -1,5 +1,5 @@
 {
-  "lastRunAt": "2026-10-11T14:50:39+09:00",
+  "lastRunAt": "2026-10-12T00:43:43+09:00",
   "companies": {
     "삼성전자": {
       "discovered": 18,
@@ -408,17 +408,16 @@
       "rejected": {}
     },
     "NAVER": {
-      "discovered": 28,
+      "discovered": 24,
       "verified": 0,
       "sources": {
-        "official_api": 21,
+        "official_api": 17,
         "official_page": 7
       },
       "errors": [],
       "rejected": {
         "career_only": 5,
-        "not_data_track": 17,
-        "eligibility_unconfirmed": 1,
+        "not_data_track": 14,
         "not_job_posting": 2
       }
     },
@@ -481,10 +480,10 @@
       "rejected": {}
     },
     "쿠팡": {
-      "discovered": 50,
+      "discovered": 51,
       "verified": 0,
       "sources": {
-        "official_page": 11,
+        "official_page": 12,
         "sitemap": 39
       },
       "errors": [],
@@ -510,11 +509,12 @@
       "rejected": {}
     },
     "토스": {
-      "discovered": 12,
+      "discovered": 14,
       "verified": 0,
       "sources": {
         "official_page": 5,
-        "sitemap": 7
+        "sitemap": 7,
+        "bing": 2
       },
       "errors": [],
       "rejected": {
@@ -585,10 +585,11 @@
       "rejected": {}
     },
     "크래프톤": {
-      "discovered": 74,
+      "discovered": 78,
       "verified": 0,
       "sources": {
-        "official_page": 74
+        "official_page": 74,
+        "bing": 4
       },
       "errors": [],
       "rejected": {
@@ -617,9 +618,7 @@
       "discovered": 0,
       "verified": 0,
       "sources": {},
-      "errors": [
-        "official_page:ConnectTimeout"
-      ],
+      "errors": [],
       "rejected": {}
     },
     "신한은행": {
@@ -726,11 +725,9 @@
       }
     },
     "POSCO DX": {
-      "discovered": 3,
+      "discovered": 0,
       "verified": 0,
-      "sources": {
-        "bing": 3
-      },
+      "sources": {},
       "errors": [],
       "rejected": {}
     },
@@ -783,12 +780,12 @@
       "rejected": {}
     },
     "인천국제공항공사": {
-      "discovered": 3,
+      "discovered": 0,
       "verified": 0,
-      "sources": {
-        "official_page": 3
-      },
-      "errors": [],
+      "sources": {},
+      "errors": [
+        "official_page:ConnectTimeout"
+      ],
       "rejected": {}
     },
     "한국장학재단": {
@@ -833,7 +830,9 @@
       "discovered": 0,
       "verified": 0,
       "sources": {},
-      "errors": [],
+      "errors": [
+        "official_page:ConnectTimeout"
+      ],
       "rejected": {}
     },
     "NH농협손해보험": {
@@ -954,12 +953,12 @@
       }
     },
     "하나카드": {
-      "discovered": 0,
+      "discovered": 1,
       "verified": 0,
-      "sources": {},
-      "errors": [
-        "official_page:ConnectTimeout"
-      ],
+      "sources": {
+        "official_page": 1
+      },
+      "errors": [],
       "rejected": {}
     }
   },
