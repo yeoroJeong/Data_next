@@ -1,5 +1,5 @@
 {
-  "lastRunAt": "2026-10-12T15:01:58+09:00",
+  "lastRunAt": "2026-10-13T04:05:03+09:00",
   "companies": {
     "삼성전자": {
       "discovered": 18,
@@ -63,15 +63,13 @@
       }
     },
     "삼성생명": {
-      "discovered": 18,
+      "discovered": 17,
       "verified": 0,
       "sources": {
-        "official_api": 1,
         "official_page": 17
       },
       "errors": [],
       "rejected": {
-        "career_only": 1,
         "not_job_posting": 1
       }
     },
@@ -285,9 +283,7 @@
       "sources": {
         "sitemap": 26
       },
-      "errors": [
-        "official_page:ConnectionError"
-      ],
+      "errors": [],
       "rejected": {}
     },
     "현대카드": {
@@ -417,21 +413,21 @@
       },
       "errors": [],
       "rejected": {
-        "not_data_track": 14,
-        "career_only": 2,
+        "not_data_track": 13,
+        "career_only": 3,
         "not_job_posting": 2
       }
     },
     "NAVER Cloud": {
-      "discovered": 10,
+      "discovered": 9,
       "verified": 2,
       "sources": {
-        "official_api": 3,
+        "official_api": 2,
         "official_page": 7
       },
       "errors": [],
       "rejected": {
-        "career_only": 2,
+        "career_only": 1,
         "not_job_posting": 2
       }
     },
@@ -481,15 +477,16 @@
       "rejected": {}
     },
     "쿠팡": {
-      "discovered": 57,
+      "discovered": 63,
       "verified": 0,
       "sources": {
-        "official_page": 18,
+        "official_page": 24,
         "sitemap": 39
       },
       "errors": [],
       "rejected": {
-        "eligibility_unconfirmed": 3,
+        "eligibility_unconfirmed": 6,
+        "career_only": 3,
         "not_job_posting": 39
       }
     },
@@ -585,10 +582,10 @@
       "rejected": {}
     },
     "크래프톤": {
-      "discovered": 74,
-      "verified": 0,
+      "discovered": 75,
+      "verified": 1,
       "sources": {
-        "official_page": 74
+        "official_page": 75
       },
       "errors": [],
       "rejected": {
@@ -729,10 +726,10 @@
       "sources": {
         "bing": 3
       },
-      "errors": [
-        "official_page:ConnectionError"
-      ],
-      "rejected": {}
+      "errors": [],
+      "rejected": {
+        "eligibility_unconfirmed": 1
+      }
     },
     "포스코": {
       "discovered": 0,
@@ -806,7 +803,9 @@
       "discovered": 0,
       "verified": 0,
       "sources": {},
-      "errors": [],
+      "errors": [
+        "official_page:ConnectTimeout"
+      ],
       "rejected": {}
     },
     "한국전력공사": {
@@ -896,10 +895,10 @@
       "rejected": {}
     },
     "안랩": {
-      "discovered": 25,
+      "discovered": 26,
       "verified": 0,
       "sources": {
-        "sitemap": 25
+        "sitemap": 26
       },
       "errors": [],
       "rejected": {}
@@ -952,19 +951,19 @@
       }
     },
     "하나카드": {
-      "discovered": 0,
+      "discovered": 1,
       "verified": 0,
-      "sources": {},
-      "errors": [
-        "official_page:ConnectTimeout"
-      ],
+      "sources": {
+        "official_page": 1
+      },
+      "errors": [],
       "rejected": {}
     }
   },
   "summary": {
-    "published": 37,
-    "automatic": 36,
+    "published": 38,
+    "automatic": 37,
     "curated": 1,
-    "review": 348
+    "review": 356
   }
 }
