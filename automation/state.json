@@ -1,5 +1,5 @@
 {
-  "lastRunAt": "2026-10-14T01:57:55+09:00",
+  "lastRunAt": "2026-10-14T13:57:10+09:00",
   "companies": {
     "삼성전자": {
       "discovered": 18,
@@ -37,13 +37,15 @@
       }
     },
     "삼성SDI": {
-      "discovered": 17,
+      "discovered": 18,
       "verified": 0,
       "sources": {
+        "official_api": 1,
         "official_page": 17
       },
       "errors": [],
       "rejected": {
+        "not_data_track": 1,
         "not_job_posting": 1
       }
     },
@@ -243,15 +245,15 @@
       }
     },
     "현대오토에버": {
-      "discovered": 51,
+      "discovered": 52,
       "verified": 0,
       "sources": {
-        "official_page": 48,
+        "official_page": 49,
         "sitemap": 3
       },
       "errors": [],
       "rejected": {
-        "not_job_posting": 40,
+        "not_job_posting": 41,
         "senior_career_required": 1
       }
     },
@@ -338,37 +340,37 @@
       "rejected": {}
     },
     "롯데이노베이트": {
-      "discovered": 40,
+      "discovered": 42,
       "verified": 0,
       "sources": {
-        "official_page": 40
+        "official_page": 42
       },
       "errors": [],
       "rejected": {}
     },
     "롯데쇼핑": {
-      "discovered": 40,
+      "discovered": 42,
       "verified": 0,
       "sources": {
-        "official_page": 40
+        "official_page": 42
       },
       "errors": [],
       "rejected": {}
     },
     "롯데카드": {
-      "discovered": 40,
+      "discovered": 42,
       "verified": 0,
       "sources": {
-        "official_page": 40
+        "official_page": 42
       },
       "errors": [],
       "rejected": {}
     },
     "롯데e커머스": {
-      "discovered": 40,
+      "discovered": 42,
       "verified": 0,
       "sources": {
-        "official_page": 40
+        "official_page": 42
       },
       "errors": [],
       "rejected": {}
@@ -395,43 +397,44 @@
       "rejected": {}
     },
     "NAVER": {
-      "discovered": 22,
+      "discovered": 23,
       "verified": 1,
       "sources": {
-        "official_api": 15,
+        "official_api": 16,
         "official_page": 7
       },
       "errors": [],
       "rejected": {
-        "not_data_track": 12,
+        "not_data_track": 13,
         "career_only": 3,
         "not_job_posting": 2
       }
     },
     "NAVER Cloud": {
-      "discovered": 9,
+      "discovered": 10,
       "verified": 2,
       "sources": {
-        "official_api": 2,
+        "official_api": 3,
         "official_page": 7
       },
       "errors": [],
       "rejected": {
         "career_only": 1,
+        "eligibility_unconfirmed": 1,
         "not_job_posting": 2
       }
     },
     "카카오": {
-      "discovered": 26,
+      "discovered": 28,
       "verified": 1,
       "sources": {
-        "official_api": 26
+        "official_api": 28
       },
       "errors": [],
       "rejected": {
         "career_only": 7,
         "advanced_degree_required": 2,
-        "not_data_track": 14,
+        "not_data_track": 16,
         "senior_career_required": 1,
         "excluded_role": 1
       }
@@ -467,15 +470,16 @@
       "rejected": {}
     },
     "쿠팡": {
-      "discovered": 57,
+      "discovered": 75,
       "verified": 0,
       "sources": {
-        "official_page": 18,
+        "official_page": 36,
         "sitemap": 39
       },
       "errors": [],
       "rejected": {
-        "eligibility_unconfirmed": 3,
+        "eligibility_unconfirmed": 18,
+        "career_only": 3,
         "not_job_posting": 39
       }
     },
@@ -711,15 +715,13 @@
       }
     },
     "POSCO DX": {
-      "discovered": 3,
+      "discovered": 0,
       "verified": 0,
-      "sources": {
-        "bing": 3
-      },
-      "errors": [],
-      "rejected": {
-        "eligibility_unconfirmed": 1
-      }
+      "sources": {},
+      "errors": [
+        "official_page:ConnectionError"
+      ],
+      "rejected": {}
     },
     "포스코": {
       "discovered": 0,
@@ -930,10 +932,10 @@
       "rejected": {}
     },
     "롯데그룹": {
-      "discovered": 40,
+      "discovered": 42,
       "verified": 0,
       "sources": {
-        "official_page": 40
+        "official_page": 42
       },
       "errors": [],
       "rejected": {}
@@ -952,6 +954,6 @@
     "published": 34,
     "automatic": 33,
     "curated": 1,
-    "review": 339
+    "review": 358
   }
 }
