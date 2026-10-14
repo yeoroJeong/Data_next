@@ -1,5 +1,5 @@
 {
-  "lastRunAt": "2026-10-14T13:57:10+09:00",
+  "lastRunAt": "2026-10-14T23:31:47+09:00",
   "companies": {
     "삼성전자": {
       "discovered": 18,
@@ -398,7 +398,7 @@
     },
     "NAVER": {
       "discovered": 23,
-      "verified": 1,
+      "verified": 0,
       "sources": {
         "official_api": 16,
         "official_page": 7
@@ -406,35 +406,35 @@
       "errors": [],
       "rejected": {
         "not_data_track": 13,
-        "career_only": 3,
+        "career_only": 4,
         "not_job_posting": 2
       }
     },
     "NAVER Cloud": {
-      "discovered": 10,
-      "verified": 2,
+      "discovered": 8,
+      "verified": 0,
       "sources": {
-        "official_api": 3,
+        "official_api": 1,
         "official_page": 7
       },
       "errors": [],
       "rejected": {
-        "career_only": 1,
         "eligibility_unconfirmed": 1,
-        "not_job_posting": 2
+        "not_job_posting": 2,
+        "career_only": 1
       }
     },
     "카카오": {
-      "discovered": 28,
+      "discovered": 27,
       "verified": 1,
       "sources": {
-        "official_api": 28
+        "official_api": 27
       },
       "errors": [],
       "rejected": {
         "career_only": 7,
         "advanced_degree_required": 2,
-        "not_data_track": 16,
+        "not_data_track": 15,
         "senior_career_required": 1,
         "excluded_role": 1
       }
@@ -449,15 +449,15 @@
       "rejected": {}
     },
     "카카오페이": {
-      "discovered": 41,
+      "discovered": 42,
       "verified": 5,
       "sources": {
-        "official_page": 41
+        "official_page": 42
       },
       "errors": [],
       "rejected": {
         "career_only": 7,
-        "senior_career_required": 10
+        "senior_career_required": 11
       }
     },
     "LINE Plus": {
@@ -470,16 +470,16 @@
       "rejected": {}
     },
     "쿠팡": {
-      "discovered": 75,
+      "discovered": 66,
       "verified": 0,
       "sources": {
-        "official_page": 36,
+        "official_page": 27,
         "sitemap": 39
       },
       "errors": [],
       "rejected": {
-        "eligibility_unconfirmed": 18,
-        "career_only": 3,
+        "eligibility_unconfirmed": 9,
+        "career_only": 6,
         "not_job_posting": 39
       }
     },
@@ -715,12 +715,12 @@
       }
     },
     "POSCO DX": {
-      "discovered": 0,
+      "discovered": 3,
       "verified": 0,
-      "sources": {},
-      "errors": [
-        "official_page:ConnectionError"
-      ],
+      "sources": {
+        "bing": 3
+      },
+      "errors": [],
       "rejected": {}
     },
     "포스코": {
@@ -822,9 +822,7 @@
       "discovered": 0,
       "verified": 0,
       "sources": {},
-      "errors": [
-        "official_page:ConnectTimeout"
-      ],
+      "errors": [],
       "rejected": {}
     },
     "NH농협손해보험": {
@@ -941,19 +939,19 @@
       "rejected": {}
     },
     "하나카드": {
-      "discovered": 1,
+      "discovered": 0,
       "verified": 0,
-      "sources": {
-        "official_page": 1
-      },
-      "errors": [],
+      "sources": {},
+      "errors": [
+        "official_page:ConnectTimeout"
+      ],
       "rejected": {}
     }
   },
   "summary": {
-    "published": 34,
-    "automatic": 33,
+    "published": 33,
+    "automatic": 32,
     "curated": 1,
-    "review": 358
+    "review": 356
   }
 }

@@ -1,24 +1,7 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-14T13:57:10+09:00",
+  "updatedAt": "2026-10-14T23:31:47+09:00",
   "jobs": [
-    {
-      "id": "3bbeff0c9fd24a9f",
-      "company": "NAVER Cloud",
-      "title": "[NAVER Cloud] 보안 솔루션 운영 담당자 (Junior Talent)",
-      "kind": "신입 · 정규직",
-      "place": "원문 확인",
-      "deadline": "2026-10-14T17:00:00+09:00",
-      "deadlineLabel": "10.14 17:00",
-      "track": "클라우드 / 플랫폼",
-      "note": "공식 채용 원문에서 클라우드 / 플랫폼 연관성이 확인된 공고입니다.",
-      "check": "신입·인턴 지원 조건을 확인했습니다. 상세 자격과 근무지는 원문에서 다시 확인하세요.",
-      "url": "https://recruit.navercorp.com/rcrt/view.do?annoId=30005531",
-      "source": "NAVER Cloud 공식 채용",
-      "initial": "NA",
-      "color": "blue",
-      "verifiedAt": "2026-10-14T13:57+09:00"
-    },
     {
       "id": "4984e149a5a21389",
       "company": "현대모비스",
@@ -34,7 +17,7 @@
       "source": "현대모비스 공식 채용",
       "initial": "현대",
       "color": "blue",
-      "verifiedAt": "2026-10-14T13:57+09:00"
+      "verifiedAt": "2026-10-14T23:31+09:00"
     },
     {
       "id": "fc93c1591da1b5a2",
@@ -68,7 +51,7 @@
       "source": "카카오페이 공식 채용",
       "initial": "카카",
       "color": "green",
-      "verifiedAt": "2026-10-14T13:57+09:00"
+      "verifiedAt": "2026-10-14T23:31+09:00"
     },
     {
       "id": "ac239e4bbec74485",
@@ -85,7 +68,7 @@
       "source": "카카오페이 공식 채용",
       "initial": "카카",
       "color": "green",
-      "verifiedAt": "2026-10-14T13:57+09:00"
+      "verifiedAt": "2026-10-14T23:31+09:00"
     },
     {
       "id": "c720d7351093eca9",
@@ -102,7 +85,7 @@
       "source": "카카오페이 공식 채용",
       "initial": "카카",
       "color": "green",
-      "verifiedAt": "2026-10-14T13:57+09:00"
+      "verifiedAt": "2026-10-14T23:31+09:00"
     },
     {
       "id": "15af525206778277",
@@ -119,7 +102,7 @@
       "source": "카카오페이 공식 채용",
       "initial": "카카",
       "color": "green",
-      "verifiedAt": "2026-10-14T13:57+09:00"
+      "verifiedAt": "2026-10-14T23:31+09:00"
     },
     {
       "id": "9e18838c21fe1de5",
@@ -136,7 +119,7 @@
       "source": "카카오페이 공식 채용",
       "initial": "카카",
       "color": "green",
-      "verifiedAt": "2026-10-14T13:57+09:00"
+      "verifiedAt": "2026-10-14T23:31+09:00"
     },
     {
       "id": "e3d871299e9e192c",
@@ -532,7 +515,7 @@
       "source": "카카오 공식 채용",
       "initial": "카카",
       "color": "green",
-      "verifiedAt": "2026-10-14T13:57+09:00"
+      "verifiedAt": "2026-10-14T23:31+09:00"
     },
     {
       "id": "25085745b5f500ab",
@@ -583,7 +566,7 @@
       "source": "크래프톤 공식 채용",
       "initial": "크래",
       "color": "orange",
-      "verifiedAt": "2026-10-14T13:57+09:00"
+      "verifiedAt": "2026-10-14T23:31+09:00"
     }
   ]
 }
