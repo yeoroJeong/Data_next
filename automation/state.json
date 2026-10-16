@@ -1,5 +1,5 @@
 {
-  "lastRunAt": "2026-10-15T23:11:27+09:00",
+  "lastRunAt": "2026-10-16T13:34:56+09:00",
   "companies": {
     "삼성전자": {
       "discovered": 18,
@@ -245,10 +245,10 @@
       }
     },
     "현대오토에버": {
-      "discovered": 53,
+      "discovered": 52,
       "verified": 0,
       "sources": {
-        "official_page": 50,
+        "official_page": 49,
         "sitemap": 3
       },
       "errors": [],
@@ -350,37 +350,37 @@
       "rejected": {}
     },
     "롯데이노베이트": {
-      "discovered": 40,
+      "discovered": 42,
       "verified": 0,
       "sources": {
-        "official_page": 40
+        "official_page": 42
       },
       "errors": [],
       "rejected": {}
     },
     "롯데쇼핑": {
-      "discovered": 40,
+      "discovered": 42,
       "verified": 0,
       "sources": {
-        "official_page": 40
+        "official_page": 42
       },
       "errors": [],
       "rejected": {}
     },
     "롯데카드": {
-      "discovered": 40,
+      "discovered": 42,
       "verified": 0,
       "sources": {
-        "official_page": 40
+        "official_page": 42
       },
       "errors": [],
       "rejected": {}
     },
     "롯데e커머스": {
-      "discovered": 40,
+      "discovered": 42,
       "verified": 0,
       "sources": {
-        "official_page": 40
+        "official_page": 42
       },
       "errors": [],
       "rejected": {}
@@ -407,15 +407,15 @@
       "rejected": {}
     },
     "NAVER": {
-      "discovered": 24,
+      "discovered": 25,
       "verified": 0,
       "sources": {
-        "official_api": 17,
+        "official_api": 18,
         "official_page": 7
       },
       "errors": [],
       "rejected": {
-        "not_data_track": 14,
+        "not_data_track": 15,
         "career_only": 4,
         "not_job_posting": 2
       }
@@ -458,10 +458,10 @@
       "rejected": {}
     },
     "카카오페이": {
-      "discovered": 43,
+      "discovered": 41,
       "verified": 5,
       "sources": {
-        "official_page": 43
+        "official_page": 41
       },
       "errors": [],
       "rejected": {
@@ -479,15 +479,15 @@
       "rejected": {}
     },
     "쿠팡": {
-      "discovered": 54,
+      "discovered": 63,
       "verified": 0,
       "sources": {
-        "official_page": 15,
+        "official_page": 24,
         "sitemap": 39
       },
       "errors": [],
       "rejected": {
-        "eligibility_unconfirmed": 3,
+        "eligibility_unconfirmed": 12,
         "not_job_posting": 39
       }
     },
@@ -499,10 +499,10 @@
       "rejected": {}
     },
     "당근": {
-      "discovered": 38,
+      "discovered": 37,
       "verified": 0,
       "sources": {
-        "official_page": 38
+        "official_page": 37
       },
       "errors": [],
       "rejected": {}
@@ -722,11 +722,17 @@
       }
     },
     "POSCO DX": {
-      "discovered": 0,
+      "discovered": 3,
       "verified": 0,
-      "sources": {},
-      "errors": [],
-      "rejected": {}
+      "sources": {
+        "bing": 3
+      },
+      "errors": [
+        "official_page:ConnectionError"
+      ],
+      "rejected": {
+        "not_job_posting": 1
+      }
     },
     "포스코": {
       "discovered": 0,
@@ -756,14 +762,14 @@
         "official_page": 16
       },
       "errors": [],
-      "rejected": {}
+      "rejected": {
+        "eligibility_unconfirmed": 1
+      }
     },
     "BGF리테일": {
-      "discovered": 1,
+      "discovered": 0,
       "verified": 0,
-      "sources": {
-        "bing": 1
-      },
+      "sources": {},
       "errors": [],
       "rejected": {}
     },
@@ -827,9 +833,7 @@
       "discovered": 0,
       "verified": 0,
       "sources": {},
-      "errors": [
-        "official_page:ConnectTimeout"
-      ],
+      "errors": [],
       "rejected": {}
     },
     "NH농협손해보험": {
@@ -941,21 +945,21 @@
       "rejected": {}
     },
     "롯데그룹": {
-      "discovered": 40,
+      "discovered": 42,
       "verified": 0,
       "sources": {
-        "official_page": 40
+        "official_page": 42
       },
       "errors": [],
       "rejected": {}
     },
     "하나카드": {
-      "discovered": 1,
+      "discovered": 0,
       "verified": 0,
-      "sources": {
-        "official_page": 1
-      },
-      "errors": [],
+      "sources": {},
+      "errors": [
+        "official_page:ConnectTimeout"
+      ],
       "rejected": {}
     }
   },
@@ -963,6 +967,6 @@
     "published": 33,
     "automatic": 32,
     "curated": 1,
-    "review": 342
+    "review": 351
   }
 }
