@@ -5,7 +5,7 @@
     "title": "[공통] 채용 브랜딩 – 콘텐츠 제작 및 SNS 채널 운영 (계약직) 공통/신사업/기타 경영기획/관리/지원 경력 무관 계약직 서울/경기",
     "snippet": "공식 채용 원문에서 SW / 백엔드 연관성이 확인된 공고입니다.",
     "reason": "existing_HTTPError",
-    "checkedAt": "2026-10-17T21:59:21+09:00"
+    "checkedAt": "2026-10-18T13:37:30+09:00"
   },
   {
     "company": "크래프톤",
@@ -13,23 +13,7 @@
     "title": "[Infra Div.] IT Engineer (경력 무관 / 계약직)",
     "snippet": "공식 채용 원문에서 클라우드 / 플랫폼 연관성이 확인된 공고입니다.",
     "reason": "existing_insufficient_text",
-    "checkedAt": "2026-10-17T21:59:21+09:00"
-  },
-  {
-    "company": "카카오페이",
-    "url": "https://kakaopay.career.greetinghr.com/ko/o/103673",
-    "title": "인재 pool - 스탭 경력 무관 정규직",
-    "snippet": "공식 채용 원문에서 클라우드 / 플랫폼 연관성이 확인된 공고입니다.",
-    "reason": "existing_posting_not_found",
-    "checkedAt": "2026-10-17T21:59:21+09:00"
-  },
-  {
-    "company": "카카오페이",
-    "url": "https://kakaopay.career.greetinghr.com/ko/o/103676",
-    "title": "인재 pool - 디자인 경력 무관 정규직",
-    "snippet": "공식 채용 원문에서 클라우드 / 플랫폼 연관성이 확인된 공고입니다.",
-    "reason": "existing_posting_not_found",
-    "checkedAt": "2026-10-17T21:59:21+09:00"
+    "checkedAt": "2026-10-18T13:37:30+09:00"
   },
   {
     "company": "카카오페이",
@@ -37,15 +21,15 @@
     "title": "인재 pool - 기술 경력 무관 정규직",
     "snippet": "공식 채용 원문에서 클라우드 / 플랫폼 연관성이 확인된 공고입니다.",
     "reason": "existing_posting_not_found",
-    "checkedAt": "2026-10-17T21:59:21+09:00"
+    "checkedAt": "2026-10-18T13:37:30+09:00"
   },
   {
     "company": "카카오페이",
-    "url": "https://kakaopay.career.greetinghr.com/ko/o/103675",
-    "title": "인재 pool - 비즈니스 경력 무관 정규직",
+    "url": "https://kakaopay.career.greetinghr.com/ko/o/103676",
+    "title": "인재 pool - 디자인 경력 무관 정규직",
     "snippet": "공식 채용 원문에서 클라우드 / 플랫폼 연관성이 확인된 공고입니다.",
     "reason": "existing_posting_not_found",
-    "checkedAt": "2026-10-17T21:59:21+09:00"
+    "checkedAt": "2026-10-18T13:37:30+09:00"
   },
   {
     "company": "카카오페이",
@@ -53,7 +37,23 @@
     "title": "인재 pool - 프로덕트 경력 무관 정규직",
     "snippet": "공식 채용 원문에서 클라우드 / 플랫폼 연관성이 확인된 공고입니다.",
     "reason": "existing_posting_not_found",
-    "checkedAt": "2026-10-17T21:59:21+09:00"
+    "checkedAt": "2026-10-18T13:37:30+09:00"
+  },
+  {
+    "company": "카카오페이",
+    "url": "https://kakaopay.career.greetinghr.com/ko/o/103673",
+    "title": "인재 pool - 스탭 경력 무관 정규직",
+    "snippet": "공식 채용 원문에서 클라우드 / 플랫폼 연관성이 확인된 공고입니다.",
+    "reason": "existing_posting_not_found",
+    "checkedAt": "2026-10-18T13:37:30+09:00"
+  },
+  {
+    "company": "카카오페이",
+    "url": "https://kakaopay.career.greetinghr.com/ko/o/103675",
+    "title": "인재 pool - 비즈니스 경력 무관 정규직",
+    "snippet": "공식 채용 원문에서 클라우드 / 플랫폼 연관성이 확인된 공고입니다.",
+    "reason": "existing_posting_not_found",
+    "checkedAt": "2026-10-18T13:37:30+09:00"
   },
   {
     "company": "크래프톤",
@@ -61,7 +61,7 @@
     "title": "[Infra Div.] IT Engineer (경력 무관 / 계약직)",
     "snippet": "공식 채용 원문에서 클라우드 / 플랫폼 연관성이 확인된 공고입니다.",
     "reason": "existing_insufficient_text",
-    "checkedAt": "2026-10-17T21:59:21+09:00"
+    "checkedAt": "2026-10-18T13:37:30+09:00"
   },
   {
     "company": "크래프톤",
@@ -69,39 +69,7 @@
     "title": "[Infra Div.] IT Engineer (경력 무관 / 계약직)",
     "snippet": "공식 채용 원문에서 클라우드 / 플랫폼 연관성이 확인된 공고입니다.",
     "reason": "existing_insufficient_text",
-    "checkedAt": "2026-10-17T21:59:21+09:00"
-  },
-  {
-    "company": "카카오페이",
-    "url": "https://kakaopay.career.greetinghr.com/ko/o/236734",
-    "title": "[어시스턴트] 2D/3D 그래픽 디자인 업무 지원 신입 인턴 카카오페이",
-    "snippet": "공식 채용 원문에서 데이터 엔지니어링 연관성이 확인된 공고입니다.",
-    "reason": "existing_HTTPError",
-    "checkedAt": "2026-10-17T21:59:21+09:00"
-  },
-  {
-    "company": "카카오페이",
-    "url": "https://kakaopay.career.greetinghr.com/ko/o/234437",
-    "title": "[어시스턴트] 대출 마케팅 업무 운영 지원 신입 인턴 카카오페이",
-    "snippet": "공식 채용 원문에서 데이터 엔지니어링 연관성이 확인된 공고입니다.",
-    "reason": "existing_HTTPError",
-    "checkedAt": "2026-10-17T21:59:21+09:00"
-  },
-  {
-    "company": "크래프톤",
-    "url": "https://www.krafton.com/en/careers/recruit-detail/?var_page=1&job=5112&search_list_cnt=10",
-    "title": "[AI Research Div.] Data Program Manager (경력무관 / 인턴)",
-    "snippet": "공식 채용 원문에서 클라우드 / 플랫폼 연관성이 확인된 공고입니다.",
-    "reason": "existing_insufficient_text",
-    "checkedAt": "2026-10-17T21:59:21+09:00"
-  },
-  {
-    "company": "카카오페이",
-    "url": "https://kakaopay.career.greetinghr.com/ko/o/224180",
-    "title": "[계약직] 정보 협력 담당자 - 대외기관 정보 제공 지원 스탭 신입 계약직 카카오페이",
-    "snippet": "공식 채용 원문에서 데이터 엔지니어링 연관성이 확인된 공고입니다.",
-    "reason": "existing_posting_not_found",
-    "checkedAt": "2026-10-17T21:59:21+09:00"
+    "checkedAt": "2026-10-18T13:37:30+09:00"
   },
   {
     "company": "카카오페이",
@@ -109,23 +77,23 @@
     "title": "데이터 엔지니어 - 데이터 플랫폼 기술 신입 정규직 카카오페이",
     "snippet": "공식 채용 원문에서 데이터 엔지니어링 연관성이 확인된 공고입니다.",
     "reason": "existing_posting_not_found",
-    "checkedAt": "2026-10-17T21:59:21+09:00"
+    "checkedAt": "2026-10-18T13:37:30+09:00"
   },
   {
     "company": "카카오페이",
-    "url": "https://kakaopay.career.greetinghr.com/ko/o/236333",
-    "title": "[어시스턴트] 오프라인 결제 마케팅 업무 지원 신입 인턴 카카오페이",
+    "url": "https://kakaopay.career.greetinghr.com/ko/o/236734",
+    "title": "[어시스턴트] 2D/3D 그래픽 디자인 업무 지원 신입 인턴 카카오페이",
     "snippet": "공식 채용 원문에서 데이터 엔지니어링 연관성이 확인된 공고입니다.",
     "reason": "existing_HTTPError",
-    "checkedAt": "2026-10-17T21:59:21+09:00"
+    "checkedAt": "2026-10-18T13:37:30+09:00"
   },
   {
-    "company": "카카오페이",
-    "url": "https://kakaopay.career.greetinghr.com/ko/o/235177",
-    "title": "서버 개발자 - 데이터 플랫폼 기술 신입 정규직 카카오페이",
-    "snippet": "공식 채용 원문에서 데이터 엔지니어링 연관성이 확인된 공고입니다.",
-    "reason": "existing_posting_not_found",
-    "checkedAt": "2026-10-17T21:59:21+09:00"
+    "company": "크래프톤",
+    "url": "https://www.krafton.com/en/careers/recruit-detail/?var_page=1&job=5112&search_list_cnt=10",
+    "title": "[AI Research Div.] Data Program Manager (경력무관 / 인턴)",
+    "snippet": "공식 채용 원문에서 클라우드 / 플랫폼 연관성이 확인된 공고입니다.",
+    "reason": "existing_insufficient_text",
+    "checkedAt": "2026-10-18T13:37:30+09:00"
   },
   {
     "company": "크래프톤",
@@ -133,7 +101,39 @@
     "title": "[AI Research Div.] Data Program Manager (경력무관 / 인턴)",
     "snippet": "공식 채용 원문에서 클라우드 / 플랫폼 연관성이 확인된 공고입니다.",
     "reason": "existing_insufficient_text",
-    "checkedAt": "2026-10-17T21:59:21+09:00"
+    "checkedAt": "2026-10-18T13:37:30+09:00"
+  },
+  {
+    "company": "카카오페이",
+    "url": "https://kakaopay.career.greetinghr.com/ko/o/224180",
+    "title": "[계약직] 정보 협력 담당자 - 대외기관 정보 제공 지원 스탭 신입 계약직 카카오페이",
+    "snippet": "공식 채용 원문에서 데이터 엔지니어링 연관성이 확인된 공고입니다.",
+    "reason": "existing_posting_not_found",
+    "checkedAt": "2026-10-18T13:37:30+09:00"
+  },
+  {
+    "company": "카카오페이",
+    "url": "https://kakaopay.career.greetinghr.com/ko/o/234437",
+    "title": "[어시스턴트] 대출 마케팅 업무 운영 지원 신입 인턴 카카오페이",
+    "snippet": "공식 채용 원문에서 데이터 엔지니어링 연관성이 확인된 공고입니다.",
+    "reason": "existing_HTTPError",
+    "checkedAt": "2026-10-18T13:37:30+09:00"
+  },
+  {
+    "company": "카카오페이",
+    "url": "https://kakaopay.career.greetinghr.com/ko/o/235177",
+    "title": "서버 개발자 - 데이터 플랫폼 기술 신입 정규직 카카오페이",
+    "snippet": "공식 채용 원문에서 데이터 엔지니어링 연관성이 확인된 공고입니다.",
+    "reason": "existing_posting_not_found",
+    "checkedAt": "2026-10-18T13:37:30+09:00"
+  },
+  {
+    "company": "카카오페이",
+    "url": "https://kakaopay.career.greetinghr.com/ko/o/236333",
+    "title": "[어시스턴트] 오프라인 결제 마케팅 업무 지원 신입 인턴 카카오페이",
+    "snippet": "공식 채용 원문에서 데이터 엔지니어링 연관성이 확인된 공고입니다.",
+    "reason": "existing_HTTPError",
+    "checkedAt": "2026-10-18T13:37:30+09:00"
   },
   {
     "company": "크래프톤",
@@ -141,23 +141,7 @@
     "title": "[AI Research Div.] Data Program Manager (경력무관 / 인턴)",
     "snippet": "공식 채용 원문에서 클라우드 / 플랫폼 연관성이 확인된 공고입니다.",
     "reason": "existing_insufficient_text",
-    "checkedAt": "2026-10-17T21:59:21+09:00"
-  },
-  {
-    "company": "크래프톤",
-    "url": "https://www.krafton.com/en/careers/recruit-detail/?var_page=1&job=5123&search_list_cnt=10",
-    "title": "[AI Research Div.] Research Scientist/Engineer - Autonomous Mobility (경력무관)",
-    "snippet": "공식 채용 원문에서 클라우드 / 플랫폼 연관성이 확인된 공고입니다.",
-    "reason": "existing_insufficient_text",
-    "checkedAt": "2026-10-17T21:59:21+09:00"
-  },
-  {
-    "company": "크래프톤",
-    "url": "https://www.krafton.com/zh/careers/recruit-detail/?var_page=1&job=5123&search_list_cnt=10",
-    "title": "[AI Research Div.] Research Scientist/Engineer - Autonomous Mobility (경력무관)",
-    "snippet": "공식 채용 원문에서 클라우드 / 플랫폼 연관성이 확인된 공고입니다.",
-    "reason": "existing_insufficient_text",
-    "checkedAt": "2026-10-17T21:59:21+09:00"
+    "checkedAt": "2026-10-18T13:37:30+09:00"
   },
   {
     "company": "크래프톤",
@@ -165,15 +149,23 @@
     "title": "[AI Research Div.] Research Scientist/Engineer - Autonomous Mobility (경력무관)",
     "snippet": "공식 채용 원문에서 클라우드 / 플랫폼 연관성이 확인된 공고입니다.",
     "reason": "existing_insufficient_text",
-    "checkedAt": "2026-10-17T21:59:21+09:00"
+    "checkedAt": "2026-10-18T13:37:30+09:00"
   },
   {
     "company": "크래프톤",
-    "url": "https://www.krafton.com/careers/recruit-detail/?var_page=1&job=5128&search_list_cnt=10",
-    "title": "[AI Research Div.] Research Scientist - Specialized Model (2년 이상 / 인턴)",
+    "url": "https://www.krafton.com/en/careers/recruit-detail/?var_page=1&job=5123&search_list_cnt=10",
+    "title": "[AI Research Div.] Research Scientist/Engineer - Autonomous Mobility (경력무관)",
     "snippet": "공식 채용 원문에서 클라우드 / 플랫폼 연관성이 확인된 공고입니다.",
-    "reason": "existing_posting_not_found",
-    "checkedAt": "2026-10-17T21:59:21+09:00"
+    "reason": "existing_insufficient_text",
+    "checkedAt": "2026-10-18T13:37:30+09:00"
+  },
+  {
+    "company": "크래프톤",
+    "url": "https://www.krafton.com/zh/careers/recruit-detail/?var_page=1&job=5123&search_list_cnt=10",
+    "title": "[AI Research Div.] Research Scientist/Engineer - Autonomous Mobility (경력무관)",
+    "snippet": "공식 채용 원문에서 클라우드 / 플랫폼 연관성이 확인된 공고입니다.",
+    "reason": "existing_insufficient_text",
+    "checkedAt": "2026-10-18T13:37:30+09:00"
   },
   {
     "company": "크래프톤",
@@ -181,15 +173,7 @@
     "title": "[AI Research Div.] Research Scientist - Specialized Model (2년 이상 / 인턴)",
     "snippet": "공식 채용 원문에서 클라우드 / 플랫폼 연관성이 확인된 공고입니다.",
     "reason": "existing_posting_not_found",
-    "checkedAt": "2026-10-17T21:59:21+09:00"
-  },
-  {
-    "company": "크래프톤",
-    "url": "https://www.krafton.com/careers/recruit-detail/?var_page=1&job=5127&search_list_cnt=10",
-    "title": "[AI Research Div.] AI Operation Manager (2년 이상 / 인턴)",
-    "snippet": "공식 채용 원문에서 클라우드 / 플랫폼 연관성이 확인된 공고입니다.",
-    "reason": "existing_posting_not_found",
-    "checkedAt": "2026-10-17T21:59:21+09:00"
+    "checkedAt": "2026-10-18T13:37:30+09:00"
   },
   {
     "company": "크래프톤",
@@ -197,7 +181,23 @@
     "title": "[AI Research Div.] AI Operation Manager (2년 이상 / 인턴)",
     "snippet": "공식 채용 원문에서 클라우드 / 플랫폼 연관성이 확인된 공고입니다.",
     "reason": "existing_posting_not_found",
-    "checkedAt": "2026-10-17T21:59:21+09:00"
+    "checkedAt": "2026-10-18T13:37:30+09:00"
+  },
+  {
+    "company": "크래프톤",
+    "url": "https://www.krafton.com/careers/recruit-detail/?var_page=1&job=5127&search_list_cnt=10",
+    "title": "[AI Research Div.] AI Operation Manager (2년 이상 / 인턴)",
+    "snippet": "공식 채용 원문에서 클라우드 / 플랫폼 연관성이 확인된 공고입니다.",
+    "reason": "existing_posting_not_found",
+    "checkedAt": "2026-10-18T13:37:30+09:00"
+  },
+  {
+    "company": "크래프톤",
+    "url": "https://www.krafton.com/careers/recruit-detail/?var_page=1&job=5128&search_list_cnt=10",
+    "title": "[AI Research Div.] Research Scientist - Specialized Model (2년 이상 / 인턴)",
+    "snippet": "공식 채용 원문에서 클라우드 / 플랫폼 연관성이 확인된 공고입니다.",
+    "reason": "existing_posting_not_found",
+    "checkedAt": "2026-10-18T13:37:30+09:00"
   },
   {
     "company": "크래프톤",
@@ -205,7 +205,7 @@
     "title": "[AI Research Div.] Research Scientist - Specialized Model (2년 이상 / 인턴)",
     "snippet": "공식 채용 원문에서 클라우드 / 플랫폼 연관성이 확인된 공고입니다.",
     "reason": "existing_posting_not_found",
-    "checkedAt": "2026-10-17T21:59:21+09:00"
+    "checkedAt": "2026-10-18T13:37:30+09:00"
   },
   {
     "company": "카카오",
@@ -213,15 +213,7 @@
     "title": "숏폼 서비스 영상 콘텐츠 제작 및 운영_어시스턴트",
     "snippet": "공식 채용 원문에서 비즈니스 분석 연관성이 확인된 공고입니다.",
     "reason": "existing_insufficient_text",
-    "checkedAt": "2026-10-17T21:59:21+09:00"
-  },
-  {
-    "company": "크래프톤",
-    "url": "https://www.krafton.com/careers/pioneer",
-    "title": "2027 크래프톤 채용연계형 인턴십 더보기",
-    "snippet": "공식 채용 원문에서 SW / 백엔드 연관성이 확인된 공고입니다.",
-    "reason": "existing_posting_not_found",
-    "checkedAt": "2026-10-17T21:59:21+09:00"
+    "checkedAt": "2026-10-18T13:37:30+09:00"
   },
   {
     "company": "크래프톤",
@@ -229,7 +221,15 @@
     "title": "[AI Research Div.] AI Operation Manager (2년 이상 / 인턴)",
     "snippet": "공식 채용 원문에서 클라우드 / 플랫폼 연관성이 확인된 공고입니다.",
     "reason": "existing_posting_not_found",
-    "checkedAt": "2026-10-17T21:59:21+09:00"
+    "checkedAt": "2026-10-18T13:37:30+09:00"
+  },
+  {
+    "company": "크래프톤",
+    "url": "https://www.krafton.com/careers/pioneer",
+    "title": "2027 크래프톤 채용연계형 인턴십 더보기",
+    "snippet": "공식 채용 원문에서 SW / 백엔드 연관성이 확인된 공고입니다.",
+    "reason": "existing_posting_not_found",
+    "checkedAt": "2026-10-18T13:37:30+09:00"
   },
   {
     "company": "NAVER Cloud",
@@ -237,7 +237,7 @@
     "title": "[NAVER Cloud] 보안 솔루션 운영 담당자 (Junior Talent) 모집 부서 Tech 모집 분야 Security 모집 경력 경력 근로 조건 정규 모집 기간 2026.10.02 ~ 2026.10.14",
     "snippet": "공식 채용 원문에서 데이터 엔지니어링 연관성이 확인된 공고입니다.",
     "reason": "existing_posting_not_found",
-    "checkedAt": "2026-10-17T21:59:21+09:00"
+    "checkedAt": "2026-10-18T13:37:30+09:00"
   },
   {
     "company": "NAVER",
@@ -245,7 +245,7 @@
     "title": "[NAVER Cloud] 보안 솔루션 운영 담당자 (Junior Talent) 모집 부서 Tech 모집 분야 Security 모집 경력 경력 근로 조건 정규 모집 기간 2026.10.02 ~ 2026.10.14",
     "snippet": "공식 채용 원문에서 데이터 엔지니어링 연관성이 확인된 공고입니다.",
     "reason": "existing_posting_not_found",
-    "checkedAt": "2026-10-17T21:59:21+09:00"
+    "checkedAt": "2026-10-18T13:37:30+09:00"
   },
   {
     "company": "삼성전자",
@@ -254,7 +254,7 @@
     "snippet": "삼성글로벌리서치",
     "discoveredBy": "official_page",
     "reason": "not_job_posting",
-    "checkedAt": "2026-10-17T21:59:21+09:00"
+    "checkedAt": "2026-10-18T13:37:30+09:00"
   },
   {
     "company": "삼성SDS",
@@ -263,7 +263,7 @@
     "snippet": "삼성글로벌리서치",
     "discoveredBy": "official_page",
     "reason": "not_job_posting",
-    "checkedAt": "2026-10-17T21:59:21+09:00"
+    "checkedAt": "2026-10-18T13:37:30+09:00"
   },
   {
     "company": "삼성디스플레이",
@@ -272,7 +272,7 @@
     "snippet": "삼성글로벌리서치",
     "discoveredBy": "official_page",
     "reason": "not_job_posting",
-    "checkedAt": "2026-10-17T21:59:21+09:00"
+    "checkedAt": "2026-10-18T13:37:30+09:00"
   },
   {
     "company": "삼성SDI",
@@ -281,7 +281,7 @@
     "snippet": "삼성글로벌리서치",
     "discoveredBy": "official_page",
     "reason": "not_job_posting",
-    "checkedAt": "2026-10-17T21:59:21+09:00"
+    "checkedAt": "2026-10-18T13:37:30+09:00"
   },
   {
     "company": "삼성전기",
@@ -290,7 +290,7 @@
     "snippet": "삼성글로벌리서치",
     "discoveredBy": "official_page",
     "reason": "not_job_posting",
-    "checkedAt": "2026-10-17T21:59:21+09:00"
+    "checkedAt": "2026-10-18T13:37:30+09:00"
   },
   {
     "company": "삼성생명",
@@ -299,7 +299,7 @@
     "snippet": "삼성글로벌리서치",
     "discoveredBy": "official_page",
     "reason": "not_job_posting",
-    "checkedAt": "2026-10-17T21:59:21+09:00"
+    "checkedAt": "2026-10-18T13:37:30+09:00"
   },
   {
     "company": "삼성화재",
@@ -308,7 +308,7 @@
     "snippet": "삼성글로벌리서치",
     "discoveredBy": "official_page",
     "reason": "not_job_posting",
-    "checkedAt": "2026-10-17T21:59:21+09:00"
+    "checkedAt": "2026-10-18T13:37:30+09:00"
   },
   {
     "company": "삼성카드",
@@ -317,7 +317,7 @@
     "snippet": "삼성글로벌리서치",
     "discoveredBy": "official_page",
     "reason": "not_job_posting",
-    "checkedAt": "2026-10-17T21:59:21+09:00"
+    "checkedAt": "2026-10-18T13:37:30+09:00"
   },
   {
     "company": "삼성증권",
@@ -326,7 +326,7 @@
     "snippet": "삼성글로벌리서치",
     "discoveredBy": "official_page",
     "reason": "not_job_posting",
-    "checkedAt": "2026-10-17T21:59:21+09:00"
+    "checkedAt": "2026-10-18T13:37:30+09:00"
   },
   {
     "company": "삼성물산",
@@ -335,7 +335,7 @@
     "snippet": "삼성글로벌리서치",
     "discoveredBy": "official_page",
     "reason": "not_job_posting",
-    "checkedAt": "2026-10-17T21:59:21+09:00"
+    "checkedAt": "2026-10-18T13:37:30+09:00"
   },
   {
     "company": "현대자동차",
@@ -344,7 +344,7 @@
     "snippet": "",
     "discoveredBy": "sitemap",
     "reason": "not_job_posting",
-    "checkedAt": "2026-10-17T21:59:21+09:00"
+    "checkedAt": "2026-10-18T13:37:30+09:00"
   },
   {
     "company": "현대자동차",
@@ -353,7 +353,7 @@
     "snippet": "",
     "discoveredBy": "sitemap",
     "reason": "not_job_posting",
-    "checkedAt": "2026-10-17T21:59:21+09:00"
+    "checkedAt": "2026-10-18T13:37:30+09:00"
   },
   {
     "company": "현대자동차",
@@ -362,7 +362,7 @@
     "snippet": "",
     "discoveredBy": "sitemap",
     "reason": "insufficient_text",
-    "checkedAt": "2026-10-17T21:59:21+09:00"
+    "checkedAt": "2026-10-18T13:37:30+09:00"
   },
   {
     "company": "기아",
@@ -371,7 +371,7 @@
     "snippet": "",
     "discoveredBy": "sitemap",
     "reason": "not_job_posting",
-    "checkedAt": "2026-10-17T21:59:21+09:00"
+    "checkedAt": "2026-10-18T13:37:30+09:00"
   },
   {
     "company": "기아",
@@ -380,7 +380,7 @@
     "snippet": "",
     "discoveredBy": "sitemap",
     "reason": "insufficient_text",
-    "checkedAt": "2026-10-17T21:59:21+09:00"
+    "checkedAt": "2026-10-18T13:37:30+09:00"
   },
   {
     "company": "기아",
@@ -389,7 +389,7 @@
     "snippet": "",
     "discoveredBy": "sitemap",
     "reason": "not_job_posting",
-    "checkedAt": "2026-10-17T21:59:21+09:00"
+    "checkedAt": "2026-10-18T13:37:30+09:00"
   },
   {
     "company": "기아",
@@ -398,7 +398,7 @@
     "snippet": "",
     "discoveredBy": "sitemap",
     "reason": "not_job_posting",
-    "checkedAt": "2026-10-17T21:59:21+09:00"
+    "checkedAt": "2026-10-18T13:37:30+09:00"
   },
   {
     "company": "기아",
@@ -407,7 +407,7 @@
     "snippet": "",
     "discoveredBy": "sitemap",
     "reason": "not_job_posting",
-    "checkedAt": "2026-10-17T21:59:21+09:00"
+    "checkedAt": "2026-10-18T13:37:30+09:00"
   },
   {
     "company": "기아",
@@ -416,7 +416,7 @@
     "snippet": "",
     "discoveredBy": "sitemap",
     "reason": "not_job_posting",
-    "checkedAt": "2026-10-17T21:59:21+09:00"
+    "checkedAt": "2026-10-18T13:37:30+09:00"
   },
   {
     "company": "기아",
@@ -425,7 +425,7 @@
     "snippet": "",
     "discoveredBy": "sitemap",
     "reason": "not_job_posting",
-    "checkedAt": "2026-10-17T21:59:21+09:00"
+    "checkedAt": "2026-10-18T13:37:30+09:00"
   },
   {
     "company": "기아",
@@ -434,7 +434,7 @@
     "snippet": "",
     "discoveredBy": "sitemap",
     "reason": "not_job_posting",
-    "checkedAt": "2026-10-17T21:59:21+09:00"
+    "checkedAt": "2026-10-18T13:37:30+09:00"
   },
   {
     "company": "기아",
@@ -443,7 +443,7 @@
     "snippet": "",
     "discoveredBy": "sitemap",
     "reason": "not_job_posting",
-    "checkedAt": "2026-10-17T21:59:21+09:00"
+    "checkedAt": "2026-10-18T13:37:30+09:00"
   },
   {
     "company": "기아",
@@ -452,7 +452,7 @@
     "snippet": "",
     "discoveredBy": "sitemap",
     "reason": "not_job_posting",
-    "checkedAt": "2026-10-17T21:59:21+09:00"
+    "checkedAt": "2026-10-18T13:37:30+09:00"
   },
   {
     "company": "기아",
@@ -461,7 +461,7 @@
     "snippet": "",
     "discoveredBy": "sitemap",
     "reason": "not_job_posting",
-    "checkedAt": "2026-10-17T21:59:21+09:00"
+    "checkedAt": "2026-10-18T13:37:30+09:00"
   },
   {
     "company": "기아",
@@ -470,7 +470,7 @@
     "snippet": "",
     "discoveredBy": "sitemap",
     "reason": "not_job_posting",
-    "checkedAt": "2026-10-17T21:59:21+09:00"
+    "checkedAt": "2026-10-18T13:37:30+09:00"
   },
   {
     "company": "기아",
@@ -479,7 +479,7 @@
     "snippet": "",
     "discoveredBy": "sitemap",
     "reason": "not_job_posting",
-    "checkedAt": "2026-10-17T21:59:21+09:00"
+    "checkedAt": "2026-10-18T13:37:30+09:00"
   },
   {
     "company": "기아",
@@ -488,7 +488,7 @@
     "snippet": "",
     "discoveredBy": "sitemap",
     "reason": "not_job_posting",
-    "checkedAt": "2026-10-17T21:59:21+09:00"
+    "checkedAt": "2026-10-18T13:37:30+09:00"
   },
   {
     "company": "기아",
@@ -497,7 +497,7 @@
     "snippet": "",
     "discoveredBy": "sitemap",
     "reason": "not_job_posting",
-    "checkedAt": "2026-10-17T21:59:21+09:00"
+    "checkedAt": "2026-10-18T13:37:30+09:00"
   },
   {
     "company": "기아",
@@ -506,7 +506,7 @@
     "snippet": "",
     "discoveredBy": "sitemap",
     "reason": "insufficient_text",
-    "checkedAt": "2026-10-17T21:59:21+09:00"
+    "checkedAt": "2026-10-18T13:37:30+09:00"
   },
   {
     "company": "기아",
@@ -515,7 +515,7 @@
     "snippet": "",
     "discoveredBy": "sitemap",
     "reason": "not_job_posting",
-    "checkedAt": "2026-10-17T21:59:21+09:00"
+    "checkedAt": "2026-10-18T13:37:30+09:00"
   },
   {
     "company": "기아",
@@ -524,7 +524,7 @@
     "snippet": "",
     "discoveredBy": "sitemap",
     "reason": "not_job_posting",
-    "checkedAt": "2026-10-17T21:59:21+09:00"
+    "checkedAt": "2026-10-18T13:37:30+09:00"
   },
   {
     "company": "기아",
@@ -533,7 +533,7 @@
     "snippet": "",
     "discoveredBy": "sitemap",
     "reason": "not_job_posting",
-    "checkedAt": "2026-10-17T21:59:21+09:00"
+    "checkedAt": "2026-10-18T13:37:30+09:00"
   },
   {
     "company": "기아",
@@ -542,7 +542,7 @@
     "snippet": "",
     "discoveredBy": "sitemap",
     "reason": "not_job_posting",
-    "checkedAt": "2026-10-17T21:59:21+09:00"
+    "checkedAt": "2026-10-18T13:37:30+09:00"
   },
   {
     "company": "기아",
@@ -551,7 +551,7 @@
     "snippet": "",
     "discoveredBy": "sitemap",
     "reason": "not_job_posting",
-    "checkedAt": "2026-10-17T21:59:21+09:00"
+    "checkedAt": "2026-10-18T13:37:30+09:00"
   },
   {
     "company": "기아",
@@ -560,7 +560,7 @@
     "snippet": "",
     "discoveredBy": "sitemap",
     "reason": "not_job_posting",
-    "checkedAt": "2026-10-17T21:59:21+09:00"
+    "checkedAt": "2026-10-18T13:37:30+09:00"
   },
   {
     "company": "기아",
@@ -569,7 +569,7 @@
     "snippet": "",
     "discoveredBy": "sitemap",
     "reason": "not_job_posting",
-    "checkedAt": "2026-10-17T21:59:21+09:00"
+    "checkedAt": "2026-10-18T13:37:30+09:00"
   },
   {
     "company": "기아",
@@ -578,294 +578,294 @@
     "snippet": "",
     "discoveredBy": "sitemap",
     "reason": "not_job_posting",
-    "checkedAt": "2026-10-17T21:59:21+09:00"
+    "checkedAt": "2026-10-18T13:37:30+09:00"
   },
   {
     "company": "현대오토에버",
     "url": "https://career.hyundai-autoever.com/ko/o/240485",
-    "title": "[Tech] 클라우드 보안성 검토 및 관리 Core Tech(AI/DATA/Cloud/보안) [02] 보안 Service Security Engineer 경력 3~8년 정규직 서울/경기 2026. 10. 29, 14:59까지 D -12",
-    "snippet": "[Tech] 클라우드 보안성 검토 및 관리 Core Tech(AI/DATA/Cloud/보안) [02] 보안 Service Security Engineer 경력 3~8년 정규직 서울/경기 2026. 10. 29, 14:59까지 D -12 [EnIT] 그룹웨어 시스템 운영 및 개발 Enterprise IT Solution Developer 경력 3년 이상 정규직 서울/경기 2026. 10. 29, 14:59까지 D -12 [공통] HRM - HR 전략/제도 기획 공통/신사업/기타 경영기획/관리/지원 경력 5년 이상 정규직 서울/경기 [SDV] Embedded SW Platform Developer - 진단/Crypto 모듈 개발 SDV(차량전장SW) Embedded SW Platform Developer 경력 1~10년 정규직 서울/경기 2026. 10. 29, 14:59까지 D -12 [SDV] Embedded SW Platform Developer - Classic Autosar 통신 스택 개발 SDV(차량전장SW) Embedded SW Platform Developer 경력 2~7년 정규직 서울/경기 2026. 10. 29, 14:59까지 D -12 [SDV] Embedded SW Platform Developer - OS/Mode 모듈 개발 및 플랫폼 개발 SDV(차량전장SW) Embedded SW Platform Developer 경력 2~7년 정규직 서울/경기 2026. 10. 29, 14:59까지 D -12 [EnIT] IT PM - 서비스 Robot PM 및 필드/HW/SW 엔지니어 Enterprise IT IT PM 경력 4~20년 정규직 서울/경기 2026. 10. 29, 14:59까지 D -12 [EnIT] Solution Architect - SAP ERP 컨설팅/운영 (FI) Enterprise IT 솔루션아키텍트/개발(ERP/CRM/MS 등) 경력 3~10년 정규직 서울/경기 2026. 10. 29, 14:59까지 D -12 [EnIT]",
+    "title": "[Tech] 클라우드 보안성 검토 및 관리 Core Tech(AI/DATA/Cloud/보안) [02] 보안 Service Security Engineer 경력 3~8년 정규직 서울/경기 2026. 10. 29, 14:59까지 D -11",
+    "snippet": "[Tech] 클라우드 보안성 검토 및 관리 Core Tech(AI/DATA/Cloud/보안) [02] 보안 Service Security Engineer 경력 3~8년 정규직 서울/경기 2026. 10. 29, 14:59까지 D -11 [EnIT] 그룹웨어 시스템 운영 및 개발 Enterprise IT Solution Developer 경력 3년 이상 정규직 서울/경기 2026. 10. 29, 14:59까지 D -11 [공통] HRM - HR 전략/제도 기획 공통/신사업/기타 경영기획/관리/지원 경력 5년 이상 정규직 서울/경기 [SDV] Embedded SW Platform Developer - 진단/Crypto 모듈 개발 SDV(차량전장SW) Embedded SW Platform Developer 경력 1~10년 정규직 서울/경기 2026. 10. 29, 14:59까지 D -11 [SDV] Embedded SW Platform Developer - Classic Autosar 통신 스택 개발 SDV(차량전장SW) Embedded SW Platform Developer 경력 2~7년 정규직 서울/경기 2026. 10. 29, 14:59까지 D -11 [SDV] Embedded SW Platform Developer - OS/Mode 모듈 개발 및 플랫폼 개발 SDV(차량전장SW) Embedded SW Platform Developer 경력 2~7년 정규직 서울/경기 2026. 10. 29, 14:59까지 D -11 [EnIT] IT PM - 서비스 Robot PM 및 필드/HW/SW 엔지니어 Enterprise IT IT PM 경력 4~20년 정규직 서울/경기 2026. 10. 29, 14:59까지 D -11 [EnIT] Solution Architect - SAP ERP 컨설팅/운영 (FI) Enterprise IT 솔루션아키텍트/개발(ERP/CRM/MS 등) 경력 3~10년 정규직 서울/경기 2026. 10. 29, 14:59까지 D -11 [EnIT]",
     "discoveredBy": "official_page",
     "reason": "not_job_posting",
-    "checkedAt": "2026-10-17T21:59:21+09:00"
+    "checkedAt": "2026-10-18T13:37:30+09:00"
   },
   {
     "company": "현대오토에버",
     "url": "https://career.hyundai-autoever.com/ko/o/239563",
-    "title": "[EnIT] 그룹웨어 시스템 운영 및 개발 Enterprise IT Solution Developer 경력 3년 이상 정규직 서울/경기 2026. 10. 29, 14:59까지 D -12",
-    "snippet": "[Tech] 클라우드 보안성 검토 및 관리 Core Tech(AI/DATA/Cloud/보안) [02] 보안 Service Security Engineer 경력 3~8년 정규직 서울/경기 2026. 10. 29, 14:59까지 D -12 [EnIT] 그룹웨어 시스템 운영 및 개발 Enterprise IT Solution Developer 경력 3년 이상 정규직 서울/경기 2026. 10. 29, 14:59까지 D -12 [공통] HRM - HR 전략/제도 기획 공통/신사업/기타 경영기획/관리/지원 경력 5년 이상 정규직 서울/경기 [SDV] Embedded SW Platform Developer - 진단/Crypto 모듈 개발 SDV(차량전장SW) Embedded SW Platform Developer 경력 1~10년 정규직 서울/경기 2026. 10. 29, 14:59까지 D -12 [SDV] Embedded SW Platform Developer - Classic Autosar 통신 스택 개발 SDV(차량전장SW) Embedded SW Platform Developer 경력 2~7년 정규직 서울/경기 2026. 10. 29, 14:59까지 D -12 [SDV] Embedded SW Platform Developer - OS/Mode 모듈 개발 및 플랫폼 개발 SDV(차량전장SW) Embedded SW Platform Developer 경력 2~7년 정규직 서울/경기 2026. 10. 29, 14:59까지 D -12 [EnIT] IT PM - 서비스 Robot PM 및 필드/HW/SW 엔지니어 Enterprise IT IT PM 경력 4~20년 정규직 서울/경기 2026. 10. 29, 14:59까지 D -12 [EnIT] Solution Architect - SAP ERP 컨설팅/운영 (FI) Enterprise IT 솔루션아키텍트/개발(ERP/CRM/MS 등) 경력 3~10년 정규직 서울/경기 2026. 10. 29, 14:59까지 D -12 [EnIT]",
+    "title": "[EnIT] 그룹웨어 시스템 운영 및 개발 Enterprise IT Solution Developer 경력 3년 이상 정규직 서울/경기 2026. 10. 29, 14:59까지 D -11",
+    "snippet": "[Tech] 클라우드 보안성 검토 및 관리 Core Tech(AI/DATA/Cloud/보안) [02] 보안 Service Security Engineer 경력 3~8년 정규직 서울/경기 2026. 10. 29, 14:59까지 D -11 [EnIT] 그룹웨어 시스템 운영 및 개발 Enterprise IT Solution Developer 경력 3년 이상 정규직 서울/경기 2026. 10. 29, 14:59까지 D -11 [공통] HRM - HR 전략/제도 기획 공통/신사업/기타 경영기획/관리/지원 경력 5년 이상 정규직 서울/경기 [SDV] Embedded SW Platform Developer - 진단/Crypto 모듈 개발 SDV(차량전장SW) Embedded SW Platform Developer 경력 1~10년 정규직 서울/경기 2026. 10. 29, 14:59까지 D -11 [SDV] Embedded SW Platform Developer - Classic Autosar 통신 스택 개발 SDV(차량전장SW) Embedded SW Platform Developer 경력 2~7년 정규직 서울/경기 2026. 10. 29, 14:59까지 D -11 [SDV] Embedded SW Platform Developer - OS/Mode 모듈 개발 및 플랫폼 개발 SDV(차량전장SW) Embedded SW Platform Developer 경력 2~7년 정규직 서울/경기 2026. 10. 29, 14:59까지 D -11 [EnIT] IT PM - 서비스 Robot PM 및 필드/HW/SW 엔지니어 Enterprise IT IT PM 경력 4~20년 정규직 서울/경기 2026. 10. 29, 14:59까지 D -11 [EnIT] Solution Architect - SAP ERP 컨설팅/운영 (FI) Enterprise IT 솔루션아키텍트/개발(ERP/CRM/MS 등) 경력 3~10년 정규직 서울/경기 2026. 10. 29, 14:59까지 D -11 [EnIT]",
     "discoveredBy": "official_page",
     "reason": "not_job_posting",
-    "checkedAt": "2026-10-17T21:59:21+09:00"
+    "checkedAt": "2026-10-18T13:37:30+09:00"
   },
   {
     "company": "현대오토에버",
     "url": "https://career.hyundai-autoever.com/ko/o/238649",
-    "title": "[SDV] Embedded SW Platform Developer - 진단/Crypto 모듈 개발 SDV(차량전장SW) Embedded SW Platform Developer 경력 1~10년 정규직 서울/경기 2026. 10. 29, 14:59까지 D -12",
-    "snippet": "[Tech] 클라우드 보안성 검토 및 관리 Core Tech(AI/DATA/Cloud/보안) [02] 보안 Service Security Engineer 경력 3~8년 정규직 서울/경기 2026. 10. 29, 14:59까지 D -12 [EnIT] 그룹웨어 시스템 운영 및 개발 Enterprise IT Solution Developer 경력 3년 이상 정규직 서울/경기 2026. 10. 29, 14:59까지 D -12 [공통] HRM - HR 전략/제도 기획 공통/신사업/기타 경영기획/관리/지원 경력 5년 이상 정규직 서울/경기 [SDV] Embedded SW Platform Developer - 진단/Crypto 모듈 개발 SDV(차량전장SW) Embedded SW Platform Developer 경력 1~10년 정규직 서울/경기 2026. 10. 29, 14:59까지 D -12 [SDV] Embedded SW Platform Developer - Classic Autosar 통신 스택 개발 SDV(차량전장SW) Embedded SW Platform Developer 경력 2~7년 정규직 서울/경기 2026. 10. 29, 14:59까지 D -12 [SDV] Embedded SW Platform Developer - OS/Mode 모듈 개발 및 플랫폼 개발 SDV(차량전장SW) Embedded SW Platform Developer 경력 2~7년 정규직 서울/경기 2026. 10. 29, 14:59까지 D -12 [EnIT] IT PM - 서비스 Robot PM 및 필드/HW/SW 엔지니어 Enterprise IT IT PM 경력 4~20년 정규직 서울/경기 2026. 10. 29, 14:59까지 D -12 [EnIT] Solution Architect - SAP ERP 컨설팅/운영 (FI) Enterprise IT 솔루션아키텍트/개발(ERP/CRM/MS 등) 경력 3~10년 정규직 서울/경기 2026. 10. 29, 14:59까지 D -12 [EnIT]",
+    "title": "[SDV] Embedded SW Platform Developer - 진단/Crypto 모듈 개발 SDV(차량전장SW) Embedded SW Platform Developer 경력 1~10년 정규직 서울/경기 2026. 10. 29, 14:59까지 D -11",
+    "snippet": "[Tech] 클라우드 보안성 검토 및 관리 Core Tech(AI/DATA/Cloud/보안) [02] 보안 Service Security Engineer 경력 3~8년 정규직 서울/경기 2026. 10. 29, 14:59까지 D -11 [EnIT] 그룹웨어 시스템 운영 및 개발 Enterprise IT Solution Developer 경력 3년 이상 정규직 서울/경기 2026. 10. 29, 14:59까지 D -11 [공통] HRM - HR 전략/제도 기획 공통/신사업/기타 경영기획/관리/지원 경력 5년 이상 정규직 서울/경기 [SDV] Embedded SW Platform Developer - 진단/Crypto 모듈 개발 SDV(차량전장SW) Embedded SW Platform Developer 경력 1~10년 정규직 서울/경기 2026. 10. 29, 14:59까지 D -11 [SDV] Embedded SW Platform Developer - Classic Autosar 통신 스택 개발 SDV(차량전장SW) Embedded SW Platform Developer 경력 2~7년 정규직 서울/경기 2026. 10. 29, 14:59까지 D -11 [SDV] Embedded SW Platform Developer - OS/Mode 모듈 개발 및 플랫폼 개발 SDV(차량전장SW) Embedded SW Platform Developer 경력 2~7년 정규직 서울/경기 2026. 10. 29, 14:59까지 D -11 [EnIT] IT PM - 서비스 Robot PM 및 필드/HW/SW 엔지니어 Enterprise IT IT PM 경력 4~20년 정규직 서울/경기 2026. 10. 29, 14:59까지 D -11 [EnIT] Solution Architect - SAP ERP 컨설팅/운영 (FI) Enterprise IT 솔루션아키텍트/개발(ERP/CRM/MS 등) 경력 3~10년 정규직 서울/경기 2026. 10. 29, 14:59까지 D -11 [EnIT]",
     "discoveredBy": "official_page",
     "reason": "not_job_posting",
-    "checkedAt": "2026-10-17T21:59:21+09:00"
+    "checkedAt": "2026-10-18T13:37:30+09:00"
   },
   {
     "company": "현대오토에버",
     "url": "https://career.hyundai-autoever.com/ko/o/238644",
-    "title": "[SDV] Embedded SW Platform Developer - Classic Autosar 통신 스택 개발 SDV(차량전장SW) Embedded SW Platform Developer 경력 2~7년 정규직 서울/경기 2026. 10. 29, 14:59까지 D -12",
-    "snippet": "[Tech] 클라우드 보안성 검토 및 관리 Core Tech(AI/DATA/Cloud/보안) [02] 보안 Service Security Engineer 경력 3~8년 정규직 서울/경기 2026. 10. 29, 14:59까지 D -12 [EnIT] 그룹웨어 시스템 운영 및 개발 Enterprise IT Solution Developer 경력 3년 이상 정규직 서울/경기 2026. 10. 29, 14:59까지 D -12 [공통] HRM - HR 전략/제도 기획 공통/신사업/기타 경영기획/관리/지원 경력 5년 이상 정규직 서울/경기 [SDV] Embedded SW Platform Developer - 진단/Crypto 모듈 개발 SDV(차량전장SW) Embedded SW Platform Developer 경력 1~10년 정규직 서울/경기 2026. 10. 29, 14:59까지 D -12 [SDV] Embedded SW Platform Developer - Classic Autosar 통신 스택 개발 SDV(차량전장SW) Embedded SW Platform Developer 경력 2~7년 정규직 서울/경기 2026. 10. 29, 14:59까지 D -12 [SDV] Embedded SW Platform Developer - OS/Mode 모듈 개발 및 플랫폼 개발 SDV(차량전장SW) Embedded SW Platform Developer 경력 2~7년 정규직 서울/경기 2026. 10. 29, 14:59까지 D -12 [EnIT] IT PM - 서비스 Robot PM 및 필드/HW/SW 엔지니어 Enterprise IT IT PM 경력 4~20년 정규직 서울/경기 2026. 10. 29, 14:59까지 D -12 [EnIT] Solution Architect - SAP ERP 컨설팅/운영 (FI) Enterprise IT 솔루션아키텍트/개발(ERP/CRM/MS 등) 경력 3~10년 정규직 서울/경기 2026. 10. 29, 14:59까지 D -12 [EnIT]",
+    "title": "[SDV] Embedded SW Platform Developer - Classic Autosar 통신 스택 개발 SDV(차량전장SW) Embedded SW Platform Developer 경력 2~7년 정규직 서울/경기 2026. 10. 29, 14:59까지 D -11",
+    "snippet": "[Tech] 클라우드 보안성 검토 및 관리 Core Tech(AI/DATA/Cloud/보안) [02] 보안 Service Security Engineer 경력 3~8년 정규직 서울/경기 2026. 10. 29, 14:59까지 D -11 [EnIT] 그룹웨어 시스템 운영 및 개발 Enterprise IT Solution Developer 경력 3년 이상 정규직 서울/경기 2026. 10. 29, 14:59까지 D -11 [공통] HRM - HR 전략/제도 기획 공통/신사업/기타 경영기획/관리/지원 경력 5년 이상 정규직 서울/경기 [SDV] Embedded SW Platform Developer - 진단/Crypto 모듈 개발 SDV(차량전장SW) Embedded SW Platform Developer 경력 1~10년 정규직 서울/경기 2026. 10. 29, 14:59까지 D -11 [SDV] Embedded SW Platform Developer - Classic Autosar 통신 스택 개발 SDV(차량전장SW) Embedded SW Platform Developer 경력 2~7년 정규직 서울/경기 2026. 10. 29, 14:59까지 D -11 [SDV] Embedded SW Platform Developer - OS/Mode 모듈 개발 및 플랫폼 개발 SDV(차량전장SW) Embedded SW Platform Developer 경력 2~7년 정규직 서울/경기 2026. 10. 29, 14:59까지 D -11 [EnIT] IT PM - 서비스 Robot PM 및 필드/HW/SW 엔지니어 Enterprise IT IT PM 경력 4~20년 정규직 서울/경기 2026. 10. 29, 14:59까지 D -11 [EnIT] Solution Architect - SAP ERP 컨설팅/운영 (FI) Enterprise IT 솔루션아키텍트/개발(ERP/CRM/MS 등) 경력 3~10년 정규직 서울/경기 2026. 10. 29, 14:59까지 D -11 [EnIT]",
     "discoveredBy": "official_page",
     "reason": "not_job_posting",
-    "checkedAt": "2026-10-17T21:59:21+09:00"
+    "checkedAt": "2026-10-18T13:37:30+09:00"
   },
   {
     "company": "현대오토에버",
     "url": "https://career.hyundai-autoever.com/ko/o/238637",
-    "title": "[SDV] Embedded SW Platform Developer - OS/Mode 모듈 개발 및 플랫폼 개발 SDV(차량전장SW) Embedded SW Platform Developer 경력 2~7년 정규직 서울/경기 2026. 10. 29, 14:59까지 D -12",
-    "snippet": "[Tech] 클라우드 보안성 검토 및 관리 Core Tech(AI/DATA/Cloud/보안) [02] 보안 Service Security Engineer 경력 3~8년 정규직 서울/경기 2026. 10. 29, 14:59까지 D -12 [EnIT] 그룹웨어 시스템 운영 및 개발 Enterprise IT Solution Developer 경력 3년 이상 정규직 서울/경기 2026. 10. 29, 14:59까지 D -12 [공통] HRM - HR 전략/제도 기획 공통/신사업/기타 경영기획/관리/지원 경력 5년 이상 정규직 서울/경기 [SDV] Embedded SW Platform Developer - 진단/Crypto 모듈 개발 SDV(차량전장SW) Embedded SW Platform Developer 경력 1~10년 정규직 서울/경기 2026. 10. 29, 14:59까지 D -12 [SDV] Embedded SW Platform Developer - Classic Autosar 통신 스택 개발 SDV(차량전장SW) Embedded SW Platform Developer 경력 2~7년 정규직 서울/경기 2026. 10. 29, 14:59까지 D -12 [SDV] Embedded SW Platform Developer - OS/Mode 모듈 개발 및 플랫폼 개발 SDV(차량전장SW) Embedded SW Platform Developer 경력 2~7년 정규직 서울/경기 2026. 10. 29, 14:59까지 D -12 [EnIT] IT PM - 서비스 Robot PM 및 필드/HW/SW 엔지니어 Enterprise IT IT PM 경력 4~20년 정규직 서울/경기 2026. 10. 29, 14:59까지 D -12 [EnIT] Solution Architect - SAP ERP 컨설팅/운영 (FI) Enterprise IT 솔루션아키텍트/개발(ERP/CRM/MS 등) 경력 3~10년 정규직 서울/경기 2026. 10. 29, 14:59까지 D -12 [EnIT]",
+    "title": "[SDV] Embedded SW Platform Developer - OS/Mode 모듈 개발 및 플랫폼 개발 SDV(차량전장SW) Embedded SW Platform Developer 경력 2~7년 정규직 서울/경기 2026. 10. 29, 14:59까지 D -11",
+    "snippet": "[Tech] 클라우드 보안성 검토 및 관리 Core Tech(AI/DATA/Cloud/보안) [02] 보안 Service Security Engineer 경력 3~8년 정규직 서울/경기 2026. 10. 29, 14:59까지 D -11 [EnIT] 그룹웨어 시스템 운영 및 개발 Enterprise IT Solution Developer 경력 3년 이상 정규직 서울/경기 2026. 10. 29, 14:59까지 D -11 [공통] HRM - HR 전략/제도 기획 공통/신사업/기타 경영기획/관리/지원 경력 5년 이상 정규직 서울/경기 [SDV] Embedded SW Platform Developer - 진단/Crypto 모듈 개발 SDV(차량전장SW) Embedded SW Platform Developer 경력 1~10년 정규직 서울/경기 2026. 10. 29, 14:59까지 D -11 [SDV] Embedded SW Platform Developer - Classic Autosar 통신 스택 개발 SDV(차량전장SW) Embedded SW Platform Developer 경력 2~7년 정규직 서울/경기 2026. 10. 29, 14:59까지 D -11 [SDV] Embedded SW Platform Developer - OS/Mode 모듈 개발 및 플랫폼 개발 SDV(차량전장SW) Embedded SW Platform Developer 경력 2~7년 정규직 서울/경기 2026. 10. 29, 14:59까지 D -11 [EnIT] IT PM - 서비스 Robot PM 및 필드/HW/SW 엔지니어 Enterprise IT IT PM 경력 4~20년 정규직 서울/경기 2026. 10. 29, 14:59까지 D -11 [EnIT] Solution Architect - SAP ERP 컨설팅/운영 (FI) Enterprise IT 솔루션아키텍트/개발(ERP/CRM/MS 등) 경력 3~10년 정규직 서울/경기 2026. 10. 29, 14:59까지 D -11 [EnIT]",
     "discoveredBy": "official_page",
     "reason": "not_job_posting",
-    "checkedAt": "2026-10-17T21:59:21+09:00"
+    "checkedAt": "2026-10-18T13:37:30+09:00"
   },
   {
     "company": "현대오토에버",
     "url": "https://career.hyundai-autoever.com/ko/o/238037",
-    "title": "[EnIT] IT PM - 서비스 Robot PM 및 필드/HW/SW 엔지니어 Enterprise IT IT PM 경력 4~20년 정규직 서울/경기 2026. 10. 29, 14:59까지 D -12",
-    "snippet": "[Tech] 클라우드 보안성 검토 및 관리 Core Tech(AI/DATA/Cloud/보안) [02] 보안 Service Security Engineer 경력 3~8년 정규직 서울/경기 2026. 10. 29, 14:59까지 D -12 [EnIT] 그룹웨어 시스템 운영 및 개발 Enterprise IT Solution Developer 경력 3년 이상 정규직 서울/경기 2026. 10. 29, 14:59까지 D -12 [공통] HRM - HR 전략/제도 기획 공통/신사업/기타 경영기획/관리/지원 경력 5년 이상 정규직 서울/경기 [SDV] Embedded SW Platform Developer - 진단/Crypto 모듈 개발 SDV(차량전장SW) Embedded SW Platform Developer 경력 1~10년 정규직 서울/경기 2026. 10. 29, 14:59까지 D -12 [SDV] Embedded SW Platform Developer - Classic Autosar 통신 스택 개발 SDV(차량전장SW) Embedded SW Platform Developer 경력 2~7년 정규직 서울/경기 2026. 10. 29, 14:59까지 D -12 [SDV] Embedded SW Platform Developer - OS/Mode 모듈 개발 및 플랫폼 개발 SDV(차량전장SW) Embedded SW Platform Developer 경력 2~7년 정규직 서울/경기 2026. 10. 29, 14:59까지 D -12 [EnIT] IT PM - 서비스 Robot PM 및 필드/HW/SW 엔지니어 Enterprise IT IT PM 경력 4~20년 정규직 서울/경기 2026. 10. 29, 14:59까지 D -12 [EnIT] Solution Architect - SAP ERP 컨설팅/운영 (FI) Enterprise IT 솔루션아키텍트/개발(ERP/CRM/MS 등) 경력 3~10년 정규직 서울/경기 2026. 10. 29, 14:59까지 D -12 [EnIT]",
+    "title": "[EnIT] IT PM - 서비스 Robot PM 및 필드/HW/SW 엔지니어 Enterprise IT IT PM 경력 4~20년 정규직 서울/경기 2026. 10. 29, 14:59까지 D -11",
+    "snippet": "[Tech] 클라우드 보안성 검토 및 관리 Core Tech(AI/DATA/Cloud/보안) [02] 보안 Service Security Engineer 경력 3~8년 정규직 서울/경기 2026. 10. 29, 14:59까지 D -11 [EnIT] 그룹웨어 시스템 운영 및 개발 Enterprise IT Solution Developer 경력 3년 이상 정규직 서울/경기 2026. 10. 29, 14:59까지 D -11 [공통] HRM - HR 전략/제도 기획 공통/신사업/기타 경영기획/관리/지원 경력 5년 이상 정규직 서울/경기 [SDV] Embedded SW Platform Developer - 진단/Crypto 모듈 개발 SDV(차량전장SW) Embedded SW Platform Developer 경력 1~10년 정규직 서울/경기 2026. 10. 29, 14:59까지 D -11 [SDV] Embedded SW Platform Developer - Classic Autosar 통신 스택 개발 SDV(차량전장SW) Embedded SW Platform Developer 경력 2~7년 정규직 서울/경기 2026. 10. 29, 14:59까지 D -11 [SDV] Embedded SW Platform Developer - OS/Mode 모듈 개발 및 플랫폼 개발 SDV(차량전장SW) Embedded SW Platform Developer 경력 2~7년 정규직 서울/경기 2026. 10. 29, 14:59까지 D -11 [EnIT] IT PM - 서비스 Robot PM 및 필드/HW/SW 엔지니어 Enterprise IT IT PM 경력 4~20년 정규직 서울/경기 2026. 10. 29, 14:59까지 D -11 [EnIT] Solution Architect - SAP ERP 컨설팅/운영 (FI) Enterprise IT 솔루션아키텍트/개발(ERP/CRM/MS 등) 경력 3~10년 정규직 서울/경기 2026. 10. 29, 14:59까지 D -11 [EnIT]",
     "discoveredBy": "official_page",
     "reason": "not_job_posting",
-    "checkedAt": "2026-10-17T21:59:21+09:00"
+    "checkedAt": "2026-10-18T13:37:30+09:00"
   },
   {
     "company": "현대오토에버",
     "url": "https://career.hyundai-autoever.com/ko/o/238027",
-    "title": "[EnIT] Solution Architect - SAP ERP 컨설팅/운영 (FI) Enterprise IT 솔루션아키텍트/개발(ERP/CRM/MS 등) 경력 3~10년 정규직 서울/경기 2026. 10. 29, 14:59까지 D -12",
-    "snippet": "[Tech] 클라우드 보안성 검토 및 관리 Core Tech(AI/DATA/Cloud/보안) [02] 보안 Service Security Engineer 경력 3~8년 정규직 서울/경기 2026. 10. 29, 14:59까지 D -12 [EnIT] 그룹웨어 시스템 운영 및 개발 Enterprise IT Solution Developer 경력 3년 이상 정규직 서울/경기 2026. 10. 29, 14:59까지 D -12 [공통] HRM - HR 전략/제도 기획 공통/신사업/기타 경영기획/관리/지원 경력 5년 이상 정규직 서울/경기 [SDV] Embedded SW Platform Developer - 진단/Crypto 모듈 개발 SDV(차량전장SW) Embedded SW Platform Developer 경력 1~10년 정규직 서울/경기 2026. 10. 29, 14:59까지 D -12 [SDV] Embedded SW Platform Developer - Classic Autosar 통신 스택 개발 SDV(차량전장SW) Embedded SW Platform Developer 경력 2~7년 정규직 서울/경기 2026. 10. 29, 14:59까지 D -12 [SDV] Embedded SW Platform Developer - OS/Mode 모듈 개발 및 플랫폼 개발 SDV(차량전장SW) Embedded SW Platform Developer 경력 2~7년 정규직 서울/경기 2026. 10. 29, 14:59까지 D -12 [EnIT] IT PM - 서비스 Robot PM 및 필드/HW/SW 엔지니어 Enterprise IT IT PM 경력 4~20년 정규직 서울/경기 2026. 10. 29, 14:59까지 D -12 [EnIT] Solution Architect - SAP ERP 컨설팅/운영 (FI) Enterprise IT 솔루션아키텍트/개발(ERP/CRM/MS 등) 경력 3~10년 정규직 서울/경기 2026. 10. 29, 14:59까지 D -12 [EnIT]",
+    "title": "[EnIT] Solution Architect - SAP ERP 컨설팅/운영 (FI) Enterprise IT 솔루션아키텍트/개발(ERP/CRM/MS 등) 경력 3~10년 정규직 서울/경기 2026. 10. 29, 14:59까지 D -11",
+    "snippet": "[Tech] 클라우드 보안성 검토 및 관리 Core Tech(AI/DATA/Cloud/보안) [02] 보안 Service Security Engineer 경력 3~8년 정규직 서울/경기 2026. 10. 29, 14:59까지 D -11 [EnIT] 그룹웨어 시스템 운영 및 개발 Enterprise IT Solution Developer 경력 3년 이상 정규직 서울/경기 2026. 10. 29, 14:59까지 D -11 [공통] HRM - HR 전략/제도 기획 공통/신사업/기타 경영기획/관리/지원 경력 5년 이상 정규직 서울/경기 [SDV] Embedded SW Platform Developer - 진단/Crypto 모듈 개발 SDV(차량전장SW) Embedded SW Platform Developer 경력 1~10년 정규직 서울/경기 2026. 10. 29, 14:59까지 D -11 [SDV] Embedded SW Platform Developer - Classic Autosar 통신 스택 개발 SDV(차량전장SW) Embedded SW Platform Developer 경력 2~7년 정규직 서울/경기 2026. 10. 29, 14:59까지 D -11 [SDV] Embedded SW Platform Developer - OS/Mode 모듈 개발 및 플랫폼 개발 SDV(차량전장SW) Embedded SW Platform Developer 경력 2~7년 정규직 서울/경기 2026. 10. 29, 14:59까지 D -11 [EnIT] IT PM - 서비스 Robot PM 및 필드/HW/SW 엔지니어 Enterprise IT IT PM 경력 4~20년 정규직 서울/경기 2026. 10. 29, 14:59까지 D -11 [EnIT] Solution Architect - SAP ERP 컨설팅/운영 (FI) Enterprise IT 솔루션아키텍트/개발(ERP/CRM/MS 등) 경력 3~10년 정규직 서울/경기 2026. 10. 29, 14:59까지 D -11 [EnIT]",
     "discoveredBy": "official_page",
     "reason": "not_job_posting",
-    "checkedAt": "2026-10-17T21:59:21+09:00"
+    "checkedAt": "2026-10-18T13:37:30+09:00"
   },
   {
     "company": "현대오토에버",
     "url": "https://career.hyundai-autoever.com/ko/o/237978",
-    "title": "[EnIT] 정보보안 솔루션 구축 및 운영 (금융) Enterprise IT [04] VehicleIT검증 Project Manager 경력 10년 이상 정규직 서울/경기 2026. 10. 29, 14:59까지 D -12",
-    "snippet": "[Tech] 클라우드 보안성 검토 및 관리 Core Tech(AI/DATA/Cloud/보안) [02] 보안 Service Security Engineer 경력 3~8년 정규직 서울/경기 2026. 10. 29, 14:59까지 D -12 [EnIT] 그룹웨어 시스템 운영 및 개발 Enterprise IT Solution Developer 경력 3년 이상 정규직 서울/경기 2026. 10. 29, 14:59까지 D -12 [공통] HRM - HR 전략/제도 기획 공통/신사업/기타 경영기획/관리/지원 경력 5년 이상 정규직 서울/경기 [SDV] Embedded SW Platform Developer - 진단/Crypto 모듈 개발 SDV(차량전장SW) Embedded SW Platform Developer 경력 1~10년 정규직 서울/경기 2026. 10. 29, 14:59까지 D -12 [SDV] Embedded SW Platform Developer - Classic Autosar 통신 스택 개발 SDV(차량전장SW) Embedded SW Platform Developer 경력 2~7년 정규직 서울/경기 2026. 10. 29, 14:59까지 D -12 [SDV] Embedded SW Platform Developer - OS/Mode 모듈 개발 및 플랫폼 개발 SDV(차량전장SW) Embedded SW Platform Developer 경력 2~7년 정규직 서울/경기 2026. 10. 29, 14:59까지 D -12 [EnIT] IT PM - 서비스 Robot PM 및 필드/HW/SW 엔지니어 Enterprise IT IT PM 경력 4~20년 정규직 서울/경기 2026. 10. 29, 14:59까지 D -12 [EnIT] Solution Architect - SAP ERP 컨설팅/운영 (FI) Enterprise IT 솔루션아키텍트/개발(ERP/CRM/MS 등) 경력 3~10년 정규직 서울/경기 2026. 10. 29, 14:59까지 D -12 [EnIT]",
+    "title": "[EnIT] 정보보안 솔루션 구축 및 운영 (금융) Enterprise IT [04] VehicleIT검증 Project Manager 경력 10년 이상 정규직 서울/경기 2026. 10. 29, 14:59까지 D -11",
+    "snippet": "[Tech] 클라우드 보안성 검토 및 관리 Core Tech(AI/DATA/Cloud/보안) [02] 보안 Service Security Engineer 경력 3~8년 정규직 서울/경기 2026. 10. 29, 14:59까지 D -11 [EnIT] 그룹웨어 시스템 운영 및 개발 Enterprise IT Solution Developer 경력 3년 이상 정규직 서울/경기 2026. 10. 29, 14:59까지 D -11 [공통] HRM - HR 전략/제도 기획 공통/신사업/기타 경영기획/관리/지원 경력 5년 이상 정규직 서울/경기 [SDV] Embedded SW Platform Developer - 진단/Crypto 모듈 개발 SDV(차량전장SW) Embedded SW Platform Developer 경력 1~10년 정규직 서울/경기 2026. 10. 29, 14:59까지 D -11 [SDV] Embedded SW Platform Developer - Classic Autosar 통신 스택 개발 SDV(차량전장SW) Embedded SW Platform Developer 경력 2~7년 정규직 서울/경기 2026. 10. 29, 14:59까지 D -11 [SDV] Embedded SW Platform Developer - OS/Mode 모듈 개발 및 플랫폼 개발 SDV(차량전장SW) Embedded SW Platform Developer 경력 2~7년 정규직 서울/경기 2026. 10. 29, 14:59까지 D -11 [EnIT] IT PM - 서비스 Robot PM 및 필드/HW/SW 엔지니어 Enterprise IT IT PM 경력 4~20년 정규직 서울/경기 2026. 10. 29, 14:59까지 D -11 [EnIT] Solution Architect - SAP ERP 컨설팅/운영 (FI) Enterprise IT 솔루션아키텍트/개발(ERP/CRM/MS 등) 경력 3~10년 정규직 서울/경기 2026. 10. 29, 14:59까지 D -11 [EnIT]",
     "discoveredBy": "official_page",
     "reason": "not_job_posting",
-    "checkedAt": "2026-10-17T21:59:21+09:00"
+    "checkedAt": "2026-10-18T13:37:30+09:00"
   },
   {
     "company": "현대오토에버",
     "url": "https://career.hyundai-autoever.com/ko/o/235625",
-    "title": "[Tech] Service Strategy - Robot 플랫폼 기술 기획 Core Tech(AI/DATA/Cloud/보안) Strategy 경력 10년 이상 정규직 서울/경기 2026. 10. 29, 14:59까지 D -12",
-    "snippet": "[Tech] 클라우드 보안성 검토 및 관리 Core Tech(AI/DATA/Cloud/보안) [02] 보안 Service Security Engineer 경력 3~8년 정규직 서울/경기 2026. 10. 29, 14:59까지 D -12 [EnIT] 그룹웨어 시스템 운영 및 개발 Enterprise IT Solution Developer 경력 3년 이상 정규직 서울/경기 2026. 10. 29, 14:59까지 D -12 [공통] HRM - HR 전략/제도 기획 공통/신사업/기타 경영기획/관리/지원 경력 5년 이상 정규직 서울/경기 [SDV] Embedded SW Platform Developer - 진단/Crypto 모듈 개발 SDV(차량전장SW) Embedded SW Platform Developer 경력 1~10년 정규직 서울/경기 2026. 10. 29, 14:59까지 D -12 [SDV] Embedded SW Platform Developer - Classic Autosar 통신 스택 개발 SDV(차량전장SW) Embedded SW Platform Developer 경력 2~7년 정규직 서울/경기 2026. 10. 29, 14:59까지 D -12 [SDV] Embedded SW Platform Developer - OS/Mode 모듈 개발 및 플랫폼 개발 SDV(차량전장SW) Embedded SW Platform Developer 경력 2~7년 정규직 서울/경기 2026. 10. 29, 14:59까지 D -12 [EnIT] IT PM - 서비스 Robot PM 및 필드/HW/SW 엔지니어 Enterprise IT IT PM 경력 4~20년 정규직 서울/경기 2026. 10. 29, 14:59까지 D -12 [EnIT] Solution Architect - SAP ERP 컨설팅/운영 (FI) Enterprise IT 솔루션아키텍트/개발(ERP/CRM/MS 등) 경력 3~10년 정규직 서울/경기 2026. 10. 29, 14:59까지 D -12 [EnIT]",
+    "title": "[Tech] Service Strategy - Robot 플랫폼 기술 기획 Core Tech(AI/DATA/Cloud/보안) Strategy 경력 10년 이상 정규직 서울/경기 2026. 10. 29, 14:59까지 D -11",
+    "snippet": "[Tech] 클라우드 보안성 검토 및 관리 Core Tech(AI/DATA/Cloud/보안) [02] 보안 Service Security Engineer 경력 3~8년 정규직 서울/경기 2026. 10. 29, 14:59까지 D -11 [EnIT] 그룹웨어 시스템 운영 및 개발 Enterprise IT Solution Developer 경력 3년 이상 정규직 서울/경기 2026. 10. 29, 14:59까지 D -11 [공통] HRM - HR 전략/제도 기획 공통/신사업/기타 경영기획/관리/지원 경력 5년 이상 정규직 서울/경기 [SDV] Embedded SW Platform Developer - 진단/Crypto 모듈 개발 SDV(차량전장SW) Embedded SW Platform Developer 경력 1~10년 정규직 서울/경기 2026. 10. 29, 14:59까지 D -11 [SDV] Embedded SW Platform Developer - Classic Autosar 통신 스택 개발 SDV(차량전장SW) Embedded SW Platform Developer 경력 2~7년 정규직 서울/경기 2026. 10. 29, 14:59까지 D -11 [SDV] Embedded SW Platform Developer - OS/Mode 모듈 개발 및 플랫폼 개발 SDV(차량전장SW) Embedded SW Platform Developer 경력 2~7년 정규직 서울/경기 2026. 10. 29, 14:59까지 D -11 [EnIT] IT PM - 서비스 Robot PM 및 필드/HW/SW 엔지니어 Enterprise IT IT PM 경력 4~20년 정규직 서울/경기 2026. 10. 29, 14:59까지 D -11 [EnIT] Solution Architect - SAP ERP 컨설팅/운영 (FI) Enterprise IT 솔루션아키텍트/개발(ERP/CRM/MS 등) 경력 3~10년 정규직 서울/경기 2026. 10. 29, 14:59까지 D -11 [EnIT]",
     "discoveredBy": "official_page",
     "reason": "not_job_posting",
-    "checkedAt": "2026-10-17T21:59:21+09:00"
+    "checkedAt": "2026-10-18T13:37:30+09:00"
   },
   {
     "company": "현대오토에버",
     "url": "https://career.hyundai-autoever.com/ko/o/235322",
-    "title": "[EnIT] Solution Developer - SAP ERP ABAP 개발 및 솔루션 기획 Enterprise IT 솔루션아키텍트/개발(ERP/CRM/MS 등) 경력 7~20년 정규직 서울/경기 2026. 10. 29, 14:59까지 D -12",
-    "snippet": "[Tech] 클라우드 보안성 검토 및 관리 Core Tech(AI/DATA/Cloud/보안) [02] 보안 Service Security Engineer 경력 3~8년 정규직 서울/경기 2026. 10. 29, 14:59까지 D -12 [EnIT] 그룹웨어 시스템 운영 및 개발 Enterprise IT Solution Developer 경력 3년 이상 정규직 서울/경기 2026. 10. 29, 14:59까지 D -12 [공통] HRM - HR 전략/제도 기획 공통/신사업/기타 경영기획/관리/지원 경력 5년 이상 정규직 서울/경기 [SDV] Embedded SW Platform Developer - 진단/Crypto 모듈 개발 SDV(차량전장SW) Embedded SW Platform Developer 경력 1~10년 정규직 서울/경기 2026. 10. 29, 14:59까지 D -12 [SDV] Embedded SW Platform Developer - Classic Autosar 통신 스택 개발 SDV(차량전장SW) Embedded SW Platform Developer 경력 2~7년 정규직 서울/경기 2026. 10. 29, 14:59까지 D -12 [SDV] Embedded SW Platform Developer - OS/Mode 모듈 개발 및 플랫폼 개발 SDV(차량전장SW) Embedded SW Platform Developer 경력 2~7년 정규직 서울/경기 2026. 10. 29, 14:59까지 D -12 [EnIT] IT PM - 서비스 Robot PM 및 필드/HW/SW 엔지니어 Enterprise IT IT PM 경력 4~20년 정규직 서울/경기 2026. 10. 29, 14:59까지 D -12 [EnIT] Solution Architect - SAP ERP 컨설팅/운영 (FI) Enterprise IT 솔루션아키텍트/개발(ERP/CRM/MS 등) 경력 3~10년 정규직 서울/경기 2026. 10. 29, 14:59까지 D -12 [EnIT]",
+    "title": "[EnIT] Solution Developer - SAP ERP ABAP 개발 및 솔루션 기획 Enterprise IT 솔루션아키텍트/개발(ERP/CRM/MS 등) 경력 7~20년 정규직 서울/경기 2026. 10. 29, 14:59까지 D -11",
+    "snippet": "[Tech] 클라우드 보안성 검토 및 관리 Core Tech(AI/DATA/Cloud/보안) [02] 보안 Service Security Engineer 경력 3~8년 정규직 서울/경기 2026. 10. 29, 14:59까지 D -11 [EnIT] 그룹웨어 시스템 운영 및 개발 Enterprise IT Solution Developer 경력 3년 이상 정규직 서울/경기 2026. 10. 29, 14:59까지 D -11 [공통] HRM - HR 전략/제도 기획 공통/신사업/기타 경영기획/관리/지원 경력 5년 이상 정규직 서울/경기 [SDV] Embedded SW Platform Developer - 진단/Crypto 모듈 개발 SDV(차량전장SW) Embedded SW Platform Developer 경력 1~10년 정규직 서울/경기 2026. 10. 29, 14:59까지 D -11 [SDV] Embedded SW Platform Developer - Classic Autosar 통신 스택 개발 SDV(차량전장SW) Embedded SW Platform Developer 경력 2~7년 정규직 서울/경기 2026. 10. 29, 14:59까지 D -11 [SDV] Embedded SW Platform Developer - OS/Mode 모듈 개발 및 플랫폼 개발 SDV(차량전장SW) Embedded SW Platform Developer 경력 2~7년 정규직 서울/경기 2026. 10. 29, 14:59까지 D -11 [EnIT] IT PM - 서비스 Robot PM 및 필드/HW/SW 엔지니어 Enterprise IT IT PM 경력 4~20년 정규직 서울/경기 2026. 10. 29, 14:59까지 D -11 [EnIT] Solution Architect - SAP ERP 컨설팅/운영 (FI) Enterprise IT 솔루션아키텍트/개발(ERP/CRM/MS 등) 경력 3~10년 정규직 서울/경기 2026. 10. 29, 14:59까지 D -11 [EnIT]",
     "discoveredBy": "official_page",
     "reason": "not_job_posting",
-    "checkedAt": "2026-10-17T21:59:21+09:00"
+    "checkedAt": "2026-10-18T13:37:30+09:00"
   },
   {
     "company": "현대오토에버",
     "url": "https://career.hyundai-autoever.com/ko/o/234478",
-    "title": "[SDx] IT PM - Robot MES 개발 총괄 PM SDx(스마트제조) Project Manager 경력 13년 이상 정규직 서울/경기 2026. 10. 29, 14:59까지 D -12",
-    "snippet": "[Tech] 클라우드 보안성 검토 및 관리 Core Tech(AI/DATA/Cloud/보안) [02] 보안 Service Security Engineer 경력 3~8년 정규직 서울/경기 2026. 10. 29, 14:59까지 D -12 [EnIT] 그룹웨어 시스템 운영 및 개발 Enterprise IT Solution Developer 경력 3년 이상 정규직 서울/경기 2026. 10. 29, 14:59까지 D -12 [공통] HRM - HR 전략/제도 기획 공통/신사업/기타 경영기획/관리/지원 경력 5년 이상 정규직 서울/경기 [SDV] Embedded SW Platform Developer - 진단/Crypto 모듈 개발 SDV(차량전장SW) Embedded SW Platform Developer 경력 1~10년 정규직 서울/경기 2026. 10. 29, 14:59까지 D -12 [SDV] Embedded SW Platform Developer - Classic Autosar 통신 스택 개발 SDV(차량전장SW) Embedded SW Platform Developer 경력 2~7년 정규직 서울/경기 2026. 10. 29, 14:59까지 D -12 [SDV] Embedded SW Platform Developer - OS/Mode 모듈 개발 및 플랫폼 개발 SDV(차량전장SW) Embedded SW Platform Developer 경력 2~7년 정규직 서울/경기 2026. 10. 29, 14:59까지 D -12 [EnIT] IT PM - 서비스 Robot PM 및 필드/HW/SW 엔지니어 Enterprise IT IT PM 경력 4~20년 정규직 서울/경기 2026. 10. 29, 14:59까지 D -12 [EnIT] Solution Architect - SAP ERP 컨설팅/운영 (FI) Enterprise IT 솔루션아키텍트/개발(ERP/CRM/MS 등) 경력 3~10년 정규직 서울/경기 2026. 10. 29, 14:59까지 D -12 [EnIT]",
+    "title": "[SDx] IT PM - Robot MES 개발 총괄 PM SDx(스마트제조) Project Manager 경력 13년 이상 정규직 서울/경기 2026. 10. 29, 14:59까지 D -11",
+    "snippet": "[Tech] 클라우드 보안성 검토 및 관리 Core Tech(AI/DATA/Cloud/보안) [02] 보안 Service Security Engineer 경력 3~8년 정규직 서울/경기 2026. 10. 29, 14:59까지 D -11 [EnIT] 그룹웨어 시스템 운영 및 개발 Enterprise IT Solution Developer 경력 3년 이상 정규직 서울/경기 2026. 10. 29, 14:59까지 D -11 [공통] HRM - HR 전략/제도 기획 공통/신사업/기타 경영기획/관리/지원 경력 5년 이상 정규직 서울/경기 [SDV] Embedded SW Platform Developer - 진단/Crypto 모듈 개발 SDV(차량전장SW) Embedded SW Platform Developer 경력 1~10년 정규직 서울/경기 2026. 10. 29, 14:59까지 D -11 [SDV] Embedded SW Platform Developer - Classic Autosar 통신 스택 개발 SDV(차량전장SW) Embedded SW Platform Developer 경력 2~7년 정규직 서울/경기 2026. 10. 29, 14:59까지 D -11 [SDV] Embedded SW Platform Developer - OS/Mode 모듈 개발 및 플랫폼 개발 SDV(차량전장SW) Embedded SW Platform Developer 경력 2~7년 정규직 서울/경기 2026. 10. 29, 14:59까지 D -11 [EnIT] IT PM - 서비스 Robot PM 및 필드/HW/SW 엔지니어 Enterprise IT IT PM 경력 4~20년 정규직 서울/경기 2026. 10. 29, 14:59까지 D -11 [EnIT] Solution Architect - SAP ERP 컨설팅/운영 (FI) Enterprise IT 솔루션아키텍트/개발(ERP/CRM/MS 등) 경력 3~10년 정규직 서울/경기 2026. 10. 29, 14:59까지 D -11 [EnIT]",
     "discoveredBy": "official_page",
     "reason": "not_job_posting",
-    "checkedAt": "2026-10-17T21:59:21+09:00"
+    "checkedAt": "2026-10-18T13:37:30+09:00"
   },
   {
     "company": "현대오토에버",
     "url": "https://career.hyundai-autoever.com/ko/o/234060",
-    "title": "[EnIT] IT Architect - Application Architect Enterprise IT IT아키텍트/기획/품질 경력 10~20년 정규직 서울/경기 2026. 10. 29, 14:59까지 D -12",
-    "snippet": "[Tech] 클라우드 보안성 검토 및 관리 Core Tech(AI/DATA/Cloud/보안) [02] 보안 Service Security Engineer 경력 3~8년 정규직 서울/경기 2026. 10. 29, 14:59까지 D -12 [EnIT] 그룹웨어 시스템 운영 및 개발 Enterprise IT Solution Developer 경력 3년 이상 정규직 서울/경기 2026. 10. 29, 14:59까지 D -12 [공통] HRM - HR 전략/제도 기획 공통/신사업/기타 경영기획/관리/지원 경력 5년 이상 정규직 서울/경기 [SDV] Embedded SW Platform Developer - 진단/Crypto 모듈 개발 SDV(차량전장SW) Embedded SW Platform Developer 경력 1~10년 정규직 서울/경기 2026. 10. 29, 14:59까지 D -12 [SDV] Embedded SW Platform Developer - Classic Autosar 통신 스택 개발 SDV(차량전장SW) Embedded SW Platform Developer 경력 2~7년 정규직 서울/경기 2026. 10. 29, 14:59까지 D -12 [SDV] Embedded SW Platform Developer - OS/Mode 모듈 개발 및 플랫폼 개발 SDV(차량전장SW) Embedded SW Platform Developer 경력 2~7년 정규직 서울/경기 2026. 10. 29, 14:59까지 D -12 [EnIT] IT PM - 서비스 Robot PM 및 필드/HW/SW 엔지니어 Enterprise IT IT PM 경력 4~20년 정규직 서울/경기 2026. 10. 29, 14:59까지 D -12 [EnIT] Solution Architect - SAP ERP 컨설팅/운영 (FI) Enterprise IT 솔루션아키텍트/개발(ERP/CRM/MS 등) 경력 3~10년 정규직 서울/경기 2026. 10. 29, 14:59까지 D -12 [EnIT]",
+    "title": "[EnIT] IT Architect - Application Architect Enterprise IT IT아키텍트/기획/품질 경력 10~20년 정규직 서울/경기 2026. 10. 29, 14:59까지 D -11",
+    "snippet": "[Tech] 클라우드 보안성 검토 및 관리 Core Tech(AI/DATA/Cloud/보안) [02] 보안 Service Security Engineer 경력 3~8년 정규직 서울/경기 2026. 10. 29, 14:59까지 D -11 [EnIT] 그룹웨어 시스템 운영 및 개발 Enterprise IT Solution Developer 경력 3년 이상 정규직 서울/경기 2026. 10. 29, 14:59까지 D -11 [공통] HRM - HR 전략/제도 기획 공통/신사업/기타 경영기획/관리/지원 경력 5년 이상 정규직 서울/경기 [SDV] Embedded SW Platform Developer - 진단/Crypto 모듈 개발 SDV(차량전장SW) Embedded SW Platform Developer 경력 1~10년 정규직 서울/경기 2026. 10. 29, 14:59까지 D -11 [SDV] Embedded SW Platform Developer - Classic Autosar 통신 스택 개발 SDV(차량전장SW) Embedded SW Platform Developer 경력 2~7년 정규직 서울/경기 2026. 10. 29, 14:59까지 D -11 [SDV] Embedded SW Platform Developer - OS/Mode 모듈 개발 및 플랫폼 개발 SDV(차량전장SW) Embedded SW Platform Developer 경력 2~7년 정규직 서울/경기 2026. 10. 29, 14:59까지 D -11 [EnIT] IT PM - 서비스 Robot PM 및 필드/HW/SW 엔지니어 Enterprise IT IT PM 경력 4~20년 정규직 서울/경기 2026. 10. 29, 14:59까지 D -11 [EnIT] Solution Architect - SAP ERP 컨설팅/운영 (FI) Enterprise IT 솔루션아키텍트/개발(ERP/CRM/MS 등) 경력 3~10년 정규직 서울/경기 2026. 10. 29, 14:59까지 D -11 [EnIT]",
     "discoveredBy": "official_page",
     "reason": "not_job_posting",
-    "checkedAt": "2026-10-17T21:59:21+09:00"
+    "checkedAt": "2026-10-18T13:37:30+09:00"
   },
   {
     "company": "현대오토에버",
     "url": "https://career.hyundai-autoever.com/ko/o/234018",
-    "title": "[EnIT] Backend Developer - 인증/계정플랫폼 개발 및 운영 Enterprise IT SW 개발 공통 경력 7~15년 정규직 서울/경기 2026. 10. 29, 14:59까지 D -12",
-    "snippet": "[Tech] 클라우드 보안성 검토 및 관리 Core Tech(AI/DATA/Cloud/보안) [02] 보안 Service Security Engineer 경력 3~8년 정규직 서울/경기 2026. 10. 29, 14:59까지 D -12 [EnIT] 그룹웨어 시스템 운영 및 개발 Enterprise IT Solution Developer 경력 3년 이상 정규직 서울/경기 2026. 10. 29, 14:59까지 D -12 [공통] HRM - HR 전략/제도 기획 공통/신사업/기타 경영기획/관리/지원 경력 5년 이상 정규직 서울/경기 [SDV] Embedded SW Platform Developer - 진단/Crypto 모듈 개발 SDV(차량전장SW) Embedded SW Platform Developer 경력 1~10년 정규직 서울/경기 2026. 10. 29, 14:59까지 D -12 [SDV] Embedded SW Platform Developer - Classic Autosar 통신 스택 개발 SDV(차량전장SW) Embedded SW Platform Developer 경력 2~7년 정규직 서울/경기 2026. 10. 29, 14:59까지 D -12 [SDV] Embedded SW Platform Developer - OS/Mode 모듈 개발 및 플랫폼 개발 SDV(차량전장SW) Embedded SW Platform Developer 경력 2~7년 정규직 서울/경기 2026. 10. 29, 14:59까지 D -12 [EnIT] IT PM - 서비스 Robot PM 및 필드/HW/SW 엔지니어 Enterprise IT IT PM 경력 4~20년 정규직 서울/경기 2026. 10. 29, 14:59까지 D -12 [EnIT] Solution Architect - SAP ERP 컨설팅/운영 (FI) Enterprise IT 솔루션아키텍트/개발(ERP/CRM/MS 등) 경력 3~10년 정규직 서울/경기 2026. 10. 29, 14:59까지 D -12 [EnIT]",
+    "title": "[EnIT] Backend Developer - 인증/계정플랫폼 개발 및 운영 Enterprise IT SW 개발 공통 경력 7~15년 정규직 서울/경기 2026. 10. 29, 14:59까지 D -11",
+    "snippet": "[Tech] 클라우드 보안성 검토 및 관리 Core Tech(AI/DATA/Cloud/보안) [02] 보안 Service Security Engineer 경력 3~8년 정규직 서울/경기 2026. 10. 29, 14:59까지 D -11 [EnIT] 그룹웨어 시스템 운영 및 개발 Enterprise IT Solution Developer 경력 3년 이상 정규직 서울/경기 2026. 10. 29, 14:59까지 D -11 [공통] HRM - HR 전략/제도 기획 공통/신사업/기타 경영기획/관리/지원 경력 5년 이상 정규직 서울/경기 [SDV] Embedded SW Platform Developer - 진단/Crypto 모듈 개발 SDV(차량전장SW) Embedded SW Platform Developer 경력 1~10년 정규직 서울/경기 2026. 10. 29, 14:59까지 D -11 [SDV] Embedded SW Platform Developer - Classic Autosar 통신 스택 개발 SDV(차량전장SW) Embedded SW Platform Developer 경력 2~7년 정규직 서울/경기 2026. 10. 29, 14:59까지 D -11 [SDV] Embedded SW Platform Developer - OS/Mode 모듈 개발 및 플랫폼 개발 SDV(차량전장SW) Embedded SW Platform Developer 경력 2~7년 정규직 서울/경기 2026. 10. 29, 14:59까지 D -11 [EnIT] IT PM - 서비스 Robot PM 및 필드/HW/SW 엔지니어 Enterprise IT IT PM 경력 4~20년 정규직 서울/경기 2026. 10. 29, 14:59까지 D -11 [EnIT] Solution Architect - SAP ERP 컨설팅/운영 (FI) Enterprise IT 솔루션아키텍트/개발(ERP/CRM/MS 등) 경력 3~10년 정규직 서울/경기 2026. 10. 29, 14:59까지 D -11 [EnIT]",
     "discoveredBy": "official_page",
     "reason": "not_job_posting",
-    "checkedAt": "2026-10-17T21:59:21+09:00"
+    "checkedAt": "2026-10-18T13:37:30+09:00"
   },
   {
     "company": "현대오토에버",
     "url": "https://career.hyundai-autoever.com/ko/o/234006",
-    "title": "[EnIT] Frontend Developer - 계정 시스템 프론트엔드 개발 및 운영 Enterprise IT SW 개발 공통 경력 5~15년 정규직 서울/경기 2026. 10. 29, 14:59까지 D -12",
-    "snippet": "[Tech] 클라우드 보안성 검토 및 관리 Core Tech(AI/DATA/Cloud/보안) [02] 보안 Service Security Engineer 경력 3~8년 정규직 서울/경기 2026. 10. 29, 14:59까지 D -12 [EnIT] 그룹웨어 시스템 운영 및 개발 Enterprise IT Solution Developer 경력 3년 이상 정규직 서울/경기 2026. 10. 29, 14:59까지 D -12 [공통] HRM - HR 전략/제도 기획 공통/신사업/기타 경영기획/관리/지원 경력 5년 이상 정규직 서울/경기 [SDV] Embedded SW Platform Developer - 진단/Crypto 모듈 개발 SDV(차량전장SW) Embedded SW Platform Developer 경력 1~10년 정규직 서울/경기 2026. 10. 29, 14:59까지 D -12 [SDV] Embedded SW Platform Developer - Classic Autosar 통신 스택 개발 SDV(차량전장SW) Embedded SW Platform Developer 경력 2~7년 정규직 서울/경기 2026. 10. 29, 14:59까지 D -12 [SDV] Embedded SW Platform Developer - OS/Mode 모듈 개발 및 플랫폼 개발 SDV(차량전장SW) Embedded SW Platform Developer 경력 2~7년 정규직 서울/경기 2026. 10. 29, 14:59까지 D -12 [EnIT] IT PM - 서비스 Robot PM 및 필드/HW/SW 엔지니어 Enterprise IT IT PM 경력 4~20년 정규직 서울/경기 2026. 10. 29, 14:59까지 D -12 [EnIT] Solution Architect - SAP ERP 컨설팅/운영 (FI) Enterprise IT 솔루션아키텍트/개발(ERP/CRM/MS 등) 경력 3~10년 정규직 서울/경기 2026. 10. 29, 14:59까지 D -12 [EnIT]",
+    "title": "[EnIT] Frontend Developer - 계정 시스템 프론트엔드 개발 및 운영 Enterprise IT SW 개발 공통 경력 5~15년 정규직 서울/경기 2026. 10. 29, 14:59까지 D -11",
+    "snippet": "[Tech] 클라우드 보안성 검토 및 관리 Core Tech(AI/DATA/Cloud/보안) [02] 보안 Service Security Engineer 경력 3~8년 정규직 서울/경기 2026. 10. 29, 14:59까지 D -11 [EnIT] 그룹웨어 시스템 운영 및 개발 Enterprise IT Solution Developer 경력 3년 이상 정규직 서울/경기 2026. 10. 29, 14:59까지 D -11 [공통] HRM - HR 전략/제도 기획 공통/신사업/기타 경영기획/관리/지원 경력 5년 이상 정규직 서울/경기 [SDV] Embedded SW Platform Developer - 진단/Crypto 모듈 개발 SDV(차량전장SW) Embedded SW Platform Developer 경력 1~10년 정규직 서울/경기 2026. 10. 29, 14:59까지 D -11 [SDV] Embedded SW Platform Developer - Classic Autosar 통신 스택 개발 SDV(차량전장SW) Embedded SW Platform Developer 경력 2~7년 정규직 서울/경기 2026. 10. 29, 14:59까지 D -11 [SDV] Embedded SW Platform Developer - OS/Mode 모듈 개발 및 플랫폼 개발 SDV(차량전장SW) Embedded SW Platform Developer 경력 2~7년 정규직 서울/경기 2026. 10. 29, 14:59까지 D -11 [EnIT] IT PM - 서비스 Robot PM 및 필드/HW/SW 엔지니어 Enterprise IT IT PM 경력 4~20년 정규직 서울/경기 2026. 10. 29, 14:59까지 D -11 [EnIT] Solution Architect - SAP ERP 컨설팅/운영 (FI) Enterprise IT 솔루션아키텍트/개발(ERP/CRM/MS 등) 경력 3~10년 정규직 서울/경기 2026. 10. 29, 14:59까지 D -11 [EnIT]",
     "discoveredBy": "official_page",
     "reason": "not_job_posting",
-    "checkedAt": "2026-10-17T21:59:21+09:00"
+    "checkedAt": "2026-10-18T13:37:30+09:00"
   },
   {
     "company": "현대오토에버",
     "url": "https://career.hyundai-autoever.com/ko/o/233221",
-    "title": "[Tech] RX 기술 리더(팀장) Core Tech(AI/DATA/Cloud/보안) Data/AI(인공지능) 경력 10년 이상 정규직 서울/경기 2026. 10. 29, 14:59까지 D -12",
-    "snippet": "[Tech] 클라우드 보안성 검토 및 관리 Core Tech(AI/DATA/Cloud/보안) [02] 보안 Service Security Engineer 경력 3~8년 정규직 서울/경기 2026. 10. 29, 14:59까지 D -12 [EnIT] 그룹웨어 시스템 운영 및 개발 Enterprise IT Solution Developer 경력 3년 이상 정규직 서울/경기 2026. 10. 29, 14:59까지 D -12 [공통] HRM - HR 전략/제도 기획 공통/신사업/기타 경영기획/관리/지원 경력 5년 이상 정규직 서울/경기 [SDV] Embedded SW Platform Developer - 진단/Crypto 모듈 개발 SDV(차량전장SW) Embedded SW Platform Developer 경력 1~10년 정규직 서울/경기 2026. 10. 29, 14:59까지 D -12 [SDV] Embedded SW Platform Developer - Classic Autosar 통신 스택 개발 SDV(차량전장SW) Embedded SW Platform Developer 경력 2~7년 정규직 서울/경기 2026. 10. 29, 14:59까지 D -12 [SDV] Embedded SW Platform Developer - OS/Mode 모듈 개발 및 플랫폼 개발 SDV(차량전장SW) Embedded SW Platform Developer 경력 2~7년 정규직 서울/경기 2026. 10. 29, 14:59까지 D -12 [EnIT] IT PM - 서비스 Robot PM 및 필드/HW/SW 엔지니어 Enterprise IT IT PM 경력 4~20년 정규직 서울/경기 2026. 10. 29, 14:59까지 D -12 [EnIT] Solution Architect - SAP ERP 컨설팅/운영 (FI) Enterprise IT 솔루션아키텍트/개발(ERP/CRM/MS 등) 경력 3~10년 정규직 서울/경기 2026. 10. 29, 14:59까지 D -12 [EnIT]",
+    "title": "[Tech] RX 기술 리더(팀장) Core Tech(AI/DATA/Cloud/보안) Data/AI(인공지능) 경력 10년 이상 정규직 서울/경기 2026. 10. 29, 14:59까지 D -11",
+    "snippet": "[Tech] 클라우드 보안성 검토 및 관리 Core Tech(AI/DATA/Cloud/보안) [02] 보안 Service Security Engineer 경력 3~8년 정규직 서울/경기 2026. 10. 29, 14:59까지 D -11 [EnIT] 그룹웨어 시스템 운영 및 개발 Enterprise IT Solution Developer 경력 3년 이상 정규직 서울/경기 2026. 10. 29, 14:59까지 D -11 [공통] HRM - HR 전략/제도 기획 공통/신사업/기타 경영기획/관리/지원 경력 5년 이상 정규직 서울/경기 [SDV] Embedded SW Platform Developer - 진단/Crypto 모듈 개발 SDV(차량전장SW) Embedded SW Platform Developer 경력 1~10년 정규직 서울/경기 2026. 10. 29, 14:59까지 D -11 [SDV] Embedded SW Platform Developer - Classic Autosar 통신 스택 개발 SDV(차량전장SW) Embedded SW Platform Developer 경력 2~7년 정규직 서울/경기 2026. 10. 29, 14:59까지 D -11 [SDV] Embedded SW Platform Developer - OS/Mode 모듈 개발 및 플랫폼 개발 SDV(차량전장SW) Embedded SW Platform Developer 경력 2~7년 정규직 서울/경기 2026. 10. 29, 14:59까지 D -11 [EnIT] IT PM - 서비스 Robot PM 및 필드/HW/SW 엔지니어 Enterprise IT IT PM 경력 4~20년 정규직 서울/경기 2026. 10. 29, 14:59까지 D -11 [EnIT] Solution Architect - SAP ERP 컨설팅/운영 (FI) Enterprise IT 솔루션아키텍트/개발(ERP/CRM/MS 등) 경력 3~10년 정규직 서울/경기 2026. 10. 29, 14:59까지 D -11 [EnIT]",
     "discoveredBy": "official_page",
     "reason": "not_job_posting",
-    "checkedAt": "2026-10-17T21:59:21+09:00"
+    "checkedAt": "2026-10-18T13:37:30+09:00"
   },
   {
     "company": "현대오토에버",
     "url": "https://career.hyundai-autoever.com/ko/o/232348",
-    "title": "[Tech] Infra Security Engineer - 북미 기술 보안 주재원(네트웍 보안) Core Tech(AI/DATA/Cloud/보안) Security 경력 7년 이상 정규직 2026. 10. 29, 14:59까지 D -12",
-    "snippet": "[Tech] 클라우드 보안성 검토 및 관리 Core Tech(AI/DATA/Cloud/보안) [02] 보안 Service Security Engineer 경력 3~8년 정규직 서울/경기 2026. 10. 29, 14:59까지 D -12 [EnIT] 그룹웨어 시스템 운영 및 개발 Enterprise IT Solution Developer 경력 3년 이상 정규직 서울/경기 2026. 10. 29, 14:59까지 D -12 [공통] HRM - HR 전략/제도 기획 공통/신사업/기타 경영기획/관리/지원 경력 5년 이상 정규직 서울/경기 [SDV] Embedded SW Platform Developer - 진단/Crypto 모듈 개발 SDV(차량전장SW) Embedded SW Platform Developer 경력 1~10년 정규직 서울/경기 2026. 10. 29, 14:59까지 D -12 [SDV] Embedded SW Platform Developer - Classic Autosar 통신 스택 개발 SDV(차량전장SW) Embedded SW Platform Developer 경력 2~7년 정규직 서울/경기 2026. 10. 29, 14:59까지 D -12 [SDV] Embedded SW Platform Developer - OS/Mode 모듈 개발 및 플랫폼 개발 SDV(차량전장SW) Embedded SW Platform Developer 경력 2~7년 정규직 서울/경기 2026. 10. 29, 14:59까지 D -12 [EnIT] IT PM - 서비스 Robot PM 및 필드/HW/SW 엔지니어 Enterprise IT IT PM 경력 4~20년 정규직 서울/경기 2026. 10. 29, 14:59까지 D -12 [EnIT] Solution Architect - SAP ERP 컨설팅/운영 (FI) Enterprise IT 솔루션아키텍트/개발(ERP/CRM/MS 등) 경력 3~10년 정규직 서울/경기 2026. 10. 29, 14:59까지 D -12 [EnIT]",
+    "title": "[Tech] Infra Security Engineer - 북미 기술 보안 주재원(네트웍 보안) Core Tech(AI/DATA/Cloud/보안) Security 경력 7년 이상 정규직 2026. 10. 29, 14:59까지 D -11",
+    "snippet": "[Tech] 클라우드 보안성 검토 및 관리 Core Tech(AI/DATA/Cloud/보안) [02] 보안 Service Security Engineer 경력 3~8년 정규직 서울/경기 2026. 10. 29, 14:59까지 D -11 [EnIT] 그룹웨어 시스템 운영 및 개발 Enterprise IT Solution Developer 경력 3년 이상 정규직 서울/경기 2026. 10. 29, 14:59까지 D -11 [공통] HRM - HR 전략/제도 기획 공통/신사업/기타 경영기획/관리/지원 경력 5년 이상 정규직 서울/경기 [SDV] Embedded SW Platform Developer - 진단/Crypto 모듈 개발 SDV(차량전장SW) Embedded SW Platform Developer 경력 1~10년 정규직 서울/경기 2026. 10. 29, 14:59까지 D -11 [SDV] Embedded SW Platform Developer - Classic Autosar 통신 스택 개발 SDV(차량전장SW) Embedded SW Platform Developer 경력 2~7년 정규직 서울/경기 2026. 10. 29, 14:59까지 D -11 [SDV] Embedded SW Platform Developer - OS/Mode 모듈 개발 및 플랫폼 개발 SDV(차량전장SW) Embedded SW Platform Developer 경력 2~7년 정규직 서울/경기 2026. 10. 29, 14:59까지 D -11 [EnIT] IT PM - 서비스 Robot PM 및 필드/HW/SW 엔지니어 Enterprise IT IT PM 경력 4~20년 정규직 서울/경기 2026. 10. 29, 14:59까지 D -11 [EnIT] Solution Architect - SAP ERP 컨설팅/운영 (FI) Enterprise IT 솔루션아키텍트/개발(ERP/CRM/MS 등) 경력 3~10년 정규직 서울/경기 2026. 10. 29, 14:59까지 D -11 [EnIT]",
     "discoveredBy": "official_page",
     "reason": "not_job_posting",
-    "checkedAt": "2026-10-17T21:59:21+09:00"
+    "checkedAt": "2026-10-18T13:37:30+09:00"
   },
   {
     "company": "현대오토에버",
     "url": "https://career.hyundai-autoever.com/ko/o/232234",
-    "title": "[EnIT] Solution Architect - Canias ERP FCM 컨설팅 Enterprise IT 솔루션아키텍트/개발(ERP/CRM/MS 등) 경력 4년 이상 정규직 서울/경기 2026. 10. 29, 14:59까지 D -12",
-    "snippet": "[Tech] 클라우드 보안성 검토 및 관리 Core Tech(AI/DATA/Cloud/보안) [02] 보안 Service Security Engineer 경력 3~8년 정규직 서울/경기 2026. 10. 29, 14:59까지 D -12 [EnIT] 그룹웨어 시스템 운영 및 개발 Enterprise IT Solution Developer 경력 3년 이상 정규직 서울/경기 2026. 10. 29, 14:59까지 D -12 [공통] HRM - HR 전략/제도 기획 공통/신사업/기타 경영기획/관리/지원 경력 5년 이상 정규직 서울/경기 [SDV] Embedded SW Platform Developer - 진단/Crypto 모듈 개발 SDV(차량전장SW) Embedded SW Platform Developer 경력 1~10년 정규직 서울/경기 2026. 10. 29, 14:59까지 D -12 [SDV] Embedded SW Platform Developer - Classic Autosar 통신 스택 개발 SDV(차량전장SW) Embedded SW Platform Developer 경력 2~7년 정규직 서울/경기 2026. 10. 29, 14:59까지 D -12 [SDV] Embedded SW Platform Developer - OS/Mode 모듈 개발 및 플랫폼 개발 SDV(차량전장SW) Embedded SW Platform Developer 경력 2~7년 정규직 서울/경기 2026. 10. 29, 14:59까지 D -12 [EnIT] IT PM - 서비스 Robot PM 및 필드/HW/SW 엔지니어 Enterprise IT IT PM 경력 4~20년 정규직 서울/경기 2026. 10. 29, 14:59까지 D -12 [EnIT] Solution Architect - SAP ERP 컨설팅/운영 (FI) Enterprise IT 솔루션아키텍트/개발(ERP/CRM/MS 등) 경력 3~10년 정규직 서울/경기 2026. 10. 29, 14:59까지 D -12 [EnIT]",
+    "title": "[EnIT] Solution Architect - Canias ERP FCM 컨설팅 Enterprise IT 솔루션아키텍트/개발(ERP/CRM/MS 등) 경력 4년 이상 정규직 서울/경기 2026. 10. 29, 14:59까지 D -11",
+    "snippet": "[Tech] 클라우드 보안성 검토 및 관리 Core Tech(AI/DATA/Cloud/보안) [02] 보안 Service Security Engineer 경력 3~8년 정규직 서울/경기 2026. 10. 29, 14:59까지 D -11 [EnIT] 그룹웨어 시스템 운영 및 개발 Enterprise IT Solution Developer 경력 3년 이상 정규직 서울/경기 2026. 10. 29, 14:59까지 D -11 [공통] HRM - HR 전략/제도 기획 공통/신사업/기타 경영기획/관리/지원 경력 5년 이상 정규직 서울/경기 [SDV] Embedded SW Platform Developer - 진단/Crypto 모듈 개발 SDV(차량전장SW) Embedded SW Platform Developer 경력 1~10년 정규직 서울/경기 2026. 10. 29, 14:59까지 D -11 [SDV] Embedded SW Platform Developer - Classic Autosar 통신 스택 개발 SDV(차량전장SW) Embedded SW Platform Developer 경력 2~7년 정규직 서울/경기 2026. 10. 29, 14:59까지 D -11 [SDV] Embedded SW Platform Developer - OS/Mode 모듈 개발 및 플랫폼 개발 SDV(차량전장SW) Embedded SW Platform Developer 경력 2~7년 정규직 서울/경기 2026. 10. 29, 14:59까지 D -11 [EnIT] IT PM - 서비스 Robot PM 및 필드/HW/SW 엔지니어 Enterprise IT IT PM 경력 4~20년 정규직 서울/경기 2026. 10. 29, 14:59까지 D -11 [EnIT] Solution Architect - SAP ERP 컨설팅/운영 (FI) Enterprise IT 솔루션아키텍트/개발(ERP/CRM/MS 등) 경력 3~10년 정규직 서울/경기 2026. 10. 29, 14:59까지 D -11 [EnIT]",
     "discoveredBy": "official_page",
     "reason": "not_job_posting",
-    "checkedAt": "2026-10-17T21:59:21+09:00"
+    "checkedAt": "2026-10-18T13:37:30+09:00"
   },
   {
     "company": "현대오토에버",
     "url": "https://career.hyundai-autoever.com/ko/o/231922",
-    "title": "[Tech] Infra Security Engineer - 북미 기술 보안 주재원(Endpoint) Core Tech(AI/DATA/Cloud/보안) Security 경력 7년 이상 정규직 2026. 10. 29, 14:59까지 D -12",
-    "snippet": "[Tech] 클라우드 보안성 검토 및 관리 Core Tech(AI/DATA/Cloud/보안) [02] 보안 Service Security Engineer 경력 3~8년 정규직 서울/경기 2026. 10. 29, 14:59까지 D -12 [EnIT] 그룹웨어 시스템 운영 및 개발 Enterprise IT Solution Developer 경력 3년 이상 정규직 서울/경기 2026. 10. 29, 14:59까지 D -12 [공통] HRM - HR 전략/제도 기획 공통/신사업/기타 경영기획/관리/지원 경력 5년 이상 정규직 서울/경기 [SDV] Embedded SW Platform Developer - 진단/Crypto 모듈 개발 SDV(차량전장SW) Embedded SW Platform Developer 경력 1~10년 정규직 서울/경기 2026. 10. 29, 14:59까지 D -12 [SDV] Embedded SW Platform Developer - Classic Autosar 통신 스택 개발 SDV(차량전장SW) Embedded SW Platform Developer 경력 2~7년 정규직 서울/경기 2026. 10. 29, 14:59까지 D -12 [SDV] Embedded SW Platform Developer - OS/Mode 모듈 개발 및 플랫폼 개발 SDV(차량전장SW) Embedded SW Platform Developer 경력 2~7년 정규직 서울/경기 2026. 10. 29, 14:59까지 D -12 [EnIT] IT PM - 서비스 Robot PM 및 필드/HW/SW 엔지니어 Enterprise IT IT PM 경력 4~20년 정규직 서울/경기 2026. 10. 29, 14:59까지 D -12 [EnIT] Solution Architect - SAP ERP 컨설팅/운영 (FI) Enterprise IT 솔루션아키텍트/개발(ERP/CRM/MS 등) 경력 3~10년 정규직 서울/경기 2026. 10. 29, 14:59까지 D -12 [EnIT]",
+    "title": "[Tech] Infra Security Engineer - 북미 기술 보안 주재원(Endpoint) Core Tech(AI/DATA/Cloud/보안) Security 경력 7년 이상 정규직 2026. 10. 29, 14:59까지 D -11",
+    "snippet": "[Tech] 클라우드 보안성 검토 및 관리 Core Tech(AI/DATA/Cloud/보안) [02] 보안 Service Security Engineer 경력 3~8년 정규직 서울/경기 2026. 10. 29, 14:59까지 D -11 [EnIT] 그룹웨어 시스템 운영 및 개발 Enterprise IT Solution Developer 경력 3년 이상 정규직 서울/경기 2026. 10. 29, 14:59까지 D -11 [공통] HRM - HR 전략/제도 기획 공통/신사업/기타 경영기획/관리/지원 경력 5년 이상 정규직 서울/경기 [SDV] Embedded SW Platform Developer - 진단/Crypto 모듈 개발 SDV(차량전장SW) Embedded SW Platform Developer 경력 1~10년 정규직 서울/경기 2026. 10. 29, 14:59까지 D -11 [SDV] Embedded SW Platform Developer - Classic Autosar 통신 스택 개발 SDV(차량전장SW) Embedded SW Platform Developer 경력 2~7년 정규직 서울/경기 2026. 10. 29, 14:59까지 D -11 [SDV] Embedded SW Platform Developer - OS/Mode 모듈 개발 및 플랫폼 개발 SDV(차량전장SW) Embedded SW Platform Developer 경력 2~7년 정규직 서울/경기 2026. 10. 29, 14:59까지 D -11 [EnIT] IT PM - 서비스 Robot PM 및 필드/HW/SW 엔지니어 Enterprise IT IT PM 경력 4~20년 정규직 서울/경기 2026. 10. 29, 14:59까지 D -11 [EnIT] Solution Architect - SAP ERP 컨설팅/운영 (FI) Enterprise IT 솔루션아키텍트/개발(ERP/CRM/MS 등) 경력 3~10년 정규직 서울/경기 2026. 10. 29, 14:59까지 D -11 [EnIT]",
     "discoveredBy": "official_page",
     "reason": "not_job_posting",
-    "checkedAt": "2026-10-17T21:59:21+09:00"
+    "checkedAt": "2026-10-18T13:37:30+09:00"
   },
   {
     "company": "현대오토에버",
     "url": "https://career.hyundai-autoever.com/ko/o/229348",
-    "title": "[Tech] AI Engineer - Physical AI Engineer Core Tech(AI/DATA/Cloud/보안) Data/AI(인공지능) 경력 3년 이상 정규직 서울/경기 2026. 10. 29, 14:59까지 D -12",
-    "snippet": "[Tech] 클라우드 보안성 검토 및 관리 Core Tech(AI/DATA/Cloud/보안) [02] 보안 Service Security Engineer 경력 3~8년 정규직 서울/경기 2026. 10. 29, 14:59까지 D -12 [EnIT] 그룹웨어 시스템 운영 및 개발 Enterprise IT Solution Developer 경력 3년 이상 정규직 서울/경기 2026. 10. 29, 14:59까지 D -12 [공통] HRM - HR 전략/제도 기획 공통/신사업/기타 경영기획/관리/지원 경력 5년 이상 정규직 서울/경기 [SDV] Embedded SW Platform Developer - 진단/Crypto 모듈 개발 SDV(차량전장SW) Embedded SW Platform Developer 경력 1~10년 정규직 서울/경기 2026. 10. 29, 14:59까지 D -12 [SDV] Embedded SW Platform Developer - Classic Autosar 통신 스택 개발 SDV(차량전장SW) Embedded SW Platform Developer 경력 2~7년 정규직 서울/경기 2026. 10. 29, 14:59까지 D -12 [SDV] Embedded SW Platform Developer - OS/Mode 모듈 개발 및 플랫폼 개발 SDV(차량전장SW) Embedded SW Platform Developer 경력 2~7년 정규직 서울/경기 2026. 10. 29, 14:59까지 D -12 [EnIT] IT PM - 서비스 Robot PM 및 필드/HW/SW 엔지니어 Enterprise IT IT PM 경력 4~20년 정규직 서울/경기 2026. 10. 29, 14:59까지 D -12 [EnIT] Solution Architect - SAP ERP 컨설팅/운영 (FI) Enterprise IT 솔루션아키텍트/개발(ERP/CRM/MS 등) 경력 3~10년 정규직 서울/경기 2026. 10. 29, 14:59까지 D -12 [EnIT]",
+    "title": "[Tech] AI Engineer - Physical AI Engineer Core Tech(AI/DATA/Cloud/보안) Data/AI(인공지능) 경력 3년 이상 정규직 서울/경기 2026. 10. 29, 14:59까지 D -11",
+    "snippet": "[Tech] 클라우드 보안성 검토 및 관리 Core Tech(AI/DATA/Cloud/보안) [02] 보안 Service Security Engineer 경력 3~8년 정규직 서울/경기 2026. 10. 29, 14:59까지 D -11 [EnIT] 그룹웨어 시스템 운영 및 개발 Enterprise IT Solution Developer 경력 3년 이상 정규직 서울/경기 2026. 10. 29, 14:59까지 D -11 [공통] HRM - HR 전략/제도 기획 공통/신사업/기타 경영기획/관리/지원 경력 5년 이상 정규직 서울/경기 [SDV] Embedded SW Platform Developer - 진단/Crypto 모듈 개발 SDV(차량전장SW) Embedded SW Platform Developer 경력 1~10년 정규직 서울/경기 2026. 10. 29, 14:59까지 D -11 [SDV] Embedded SW Platform Developer - Classic Autosar 통신 스택 개발 SDV(차량전장SW) Embedded SW Platform Developer 경력 2~7년 정규직 서울/경기 2026. 10. 29, 14:59까지 D -11 [SDV] Embedded SW Platform Developer - OS/Mode 모듈 개발 및 플랫폼 개발 SDV(차량전장SW) Embedded SW Platform Developer 경력 2~7년 정규직 서울/경기 2026. 10. 29, 14:59까지 D -11 [EnIT] IT PM - 서비스 Robot PM 및 필드/HW/SW 엔지니어 Enterprise IT IT PM 경력 4~20년 정규직 서울/경기 2026. 10. 29, 14:59까지 D -11 [EnIT] Solution Architect - SAP ERP 컨설팅/운영 (FI) Enterprise IT 솔루션아키텍트/개발(ERP/CRM/MS 등) 경력 3~10년 정규직 서울/경기 2026. 10. 29, 14:59까지 D -11 [EnIT]",
     "discoveredBy": "official_page",
     "reason": "not_job_posting",
-    "checkedAt": "2026-10-17T21:59:21+09:00"
+    "checkedAt": "2026-10-18T13:37:30+09:00"
   },
   {
     "company": "현대오토에버",
     "url": "https://career.hyundai-autoever.com/ko/o/229073",
-    "title": "[SDx] Data Engineer - Robot Data Engineer SDx(스마트제조) Data/AI(인공지능) 경력 9년 이상 정규직 서울/경기 2026. 10. 29, 14:59까지 D -12",
-    "snippet": "[Tech] 클라우드 보안성 검토 및 관리 Core Tech(AI/DATA/Cloud/보안) [02] 보안 Service Security Engineer 경력 3~8년 정규직 서울/경기 2026. 10. 29, 14:59까지 D -12 [EnIT] 그룹웨어 시스템 운영 및 개발 Enterprise IT Solution Developer 경력 3년 이상 정규직 서울/경기 2026. 10. 29, 14:59까지 D -12 [공통] HRM - HR 전략/제도 기획 공통/신사업/기타 경영기획/관리/지원 경력 5년 이상 정규직 서울/경기 [SDV] Embedded SW Platform Developer - 진단/Crypto 모듈 개발 SDV(차량전장SW) Embedded SW Platform Developer 경력 1~10년 정규직 서울/경기 2026. 10. 29, 14:59까지 D -12 [SDV] Embedded SW Platform Developer - Classic Autosar 통신 스택 개발 SDV(차량전장SW) Embedded SW Platform Developer 경력 2~7년 정규직 서울/경기 2026. 10. 29, 14:59까지 D -12 [SDV] Embedded SW Platform Developer - OS/Mode 모듈 개발 및 플랫폼 개발 SDV(차량전장SW) Embedded SW Platform Developer 경력 2~7년 정규직 서울/경기 2026. 10. 29, 14:59까지 D -12 [EnIT] IT PM - 서비스 Robot PM 및 필드/HW/SW 엔지니어 Enterprise IT IT PM 경력 4~20년 정규직 서울/경기 2026. 10. 29, 14:59까지 D -12 [EnIT] Solution Architect - SAP ERP 컨설팅/운영 (FI) Enterprise IT 솔루션아키텍트/개발(ERP/CRM/MS 등) 경력 3~10년 정규직 서울/경기 2026. 10. 29, 14:59까지 D -12 [EnIT]",
+    "title": "[SDx] Data Engineer - Robot Data Engineer SDx(스마트제조) Data/AI(인공지능) 경력 9년 이상 정규직 서울/경기 2026. 10. 29, 14:59까지 D -11",
+    "snippet": "[Tech] 클라우드 보안성 검토 및 관리 Core Tech(AI/DATA/Cloud/보안) [02] 보안 Service Security Engineer 경력 3~8년 정규직 서울/경기 2026. 10. 29, 14:59까지 D -11 [EnIT] 그룹웨어 시스템 운영 및 개발 Enterprise IT Solution Developer 경력 3년 이상 정규직 서울/경기 2026. 10. 29, 14:59까지 D -11 [공통] HRM - HR 전략/제도 기획 공통/신사업/기타 경영기획/관리/지원 경력 5년 이상 정규직 서울/경기 [SDV] Embedded SW Platform Developer - 진단/Crypto 모듈 개발 SDV(차량전장SW) Embedded SW Platform Developer 경력 1~10년 정규직 서울/경기 2026. 10. 29, 14:59까지 D -11 [SDV] Embedded SW Platform Developer - Classic Autosar 통신 스택 개발 SDV(차량전장SW) Embedded SW Platform Developer 경력 2~7년 정규직 서울/경기 2026. 10. 29, 14:59까지 D -11 [SDV] Embedded SW Platform Developer - OS/Mode 모듈 개발 및 플랫폼 개발 SDV(차량전장SW) Embedded SW Platform Developer 경력 2~7년 정규직 서울/경기 2026. 10. 29, 14:59까지 D -11 [EnIT] IT PM - 서비스 Robot PM 및 필드/HW/SW 엔지니어 Enterprise IT IT PM 경력 4~20년 정규직 서울/경기 2026. 10. 29, 14:59까지 D -11 [EnIT] Solution Architect - SAP ERP 컨설팅/운영 (FI) Enterprise IT 솔루션아키텍트/개발(ERP/CRM/MS 등) 경력 3~10년 정규직 서울/경기 2026. 10. 29, 14:59까지 D -11 [EnIT]",
     "discoveredBy": "official_page",
     "reason": "not_job_posting",
-    "checkedAt": "2026-10-17T21:59:21+09:00"
+    "checkedAt": "2026-10-18T13:37:30+09:00"
   },
   {
     "company": "현대오토에버",
     "url": "https://career.hyundai-autoever.com/ko/o/228246",
-    "title": "[EnIT] IT PM - CRM시스템 Delivery Manager Enterprise IT Project Manager 경력 7~20년 정규직 서울/경기 2026. 10. 29, 14:59까지 D -12",
-    "snippet": "[Tech] 클라우드 보안성 검토 및 관리 Core Tech(AI/DATA/Cloud/보안) [02] 보안 Service Security Engineer 경력 3~8년 정규직 서울/경기 2026. 10. 29, 14:59까지 D -12 [EnIT] 그룹웨어 시스템 운영 및 개발 Enterprise IT Solution Developer 경력 3년 이상 정규직 서울/경기 2026. 10. 29, 14:59까지 D -12 [공통] HRM - HR 전략/제도 기획 공통/신사업/기타 경영기획/관리/지원 경력 5년 이상 정규직 서울/경기 [SDV] Embedded SW Platform Developer - 진단/Crypto 모듈 개발 SDV(차량전장SW) Embedded SW Platform Developer 경력 1~10년 정규직 서울/경기 2026. 10. 29, 14:59까지 D -12 [SDV] Embedded SW Platform Developer - Classic Autosar 통신 스택 개발 SDV(차량전장SW) Embedded SW Platform Developer 경력 2~7년 정규직 서울/경기 2026. 10. 29, 14:59까지 D -12 [SDV] Embedded SW Platform Developer - OS/Mode 모듈 개발 및 플랫폼 개발 SDV(차량전장SW) Embedded SW Platform Developer 경력 2~7년 정규직 서울/경기 2026. 10. 29, 14:59까지 D -12 [EnIT] IT PM - 서비스 Robot PM 및 필드/HW/SW 엔지니어 Enterprise IT IT PM 경력 4~20년 정규직 서울/경기 2026. 10. 29, 14:59까지 D -12 [EnIT] Solution Architect - SAP ERP 컨설팅/운영 (FI) Enterprise IT 솔루션아키텍트/개발(ERP/CRM/MS 등) 경력 3~10년 정규직 서울/경기 2026. 10. 29, 14:59까지 D -12 [EnIT]",
+    "title": "[EnIT] IT PM - CRM시스템 Delivery Manager Enterprise IT Project Manager 경력 7~20년 정규직 서울/경기 2026. 10. 29, 14:59까지 D -11",
+    "snippet": "[Tech] 클라우드 보안성 검토 및 관리 Core Tech(AI/DATA/Cloud/보안) [02] 보안 Service Security Engineer 경력 3~8년 정규직 서울/경기 2026. 10. 29, 14:59까지 D -11 [EnIT] 그룹웨어 시스템 운영 및 개발 Enterprise IT Solution Developer 경력 3년 이상 정규직 서울/경기 2026. 10. 29, 14:59까지 D -11 [공통] HRM - HR 전략/제도 기획 공통/신사업/기타 경영기획/관리/지원 경력 5년 이상 정규직 서울/경기 [SDV] Embedded SW Platform Developer - 진단/Crypto 모듈 개발 SDV(차량전장SW) Embedded SW Platform Developer 경력 1~10년 정규직 서울/경기 2026. 10. 29, 14:59까지 D -11 [SDV] Embedded SW Platform Developer - Classic Autosar 통신 스택 개발 SDV(차량전장SW) Embedded SW Platform Developer 경력 2~7년 정규직 서울/경기 2026. 10. 29, 14:59까지 D -11 [SDV] Embedded SW Platform Developer - OS/Mode 모듈 개발 및 플랫폼 개발 SDV(차량전장SW) Embedded SW Platform Developer 경력 2~7년 정규직 서울/경기 2026. 10. 29, 14:59까지 D -11 [EnIT] IT PM - 서비스 Robot PM 및 필드/HW/SW 엔지니어 Enterprise IT IT PM 경력 4~20년 정규직 서울/경기 2026. 10. 29, 14:59까지 D -11 [EnIT] Solution Architect - SAP ERP 컨설팅/운영 (FI) Enterprise IT 솔루션아키텍트/개발(ERP/CRM/MS 등) 경력 3~10년 정규직 서울/경기 2026. 10. 29, 14:59까지 D -11 [EnIT]",
     "discoveredBy": "official_page",
     "reason": "not_job_posting",
-    "checkedAt": "2026-10-17T21:59:21+09:00"
+    "checkedAt": "2026-10-18T13:37:30+09:00"
   },
   {
     "company": "현대오토에버",
     "url": "https://career.hyundai-autoever.com/ko/o/228233",
-    "title": "[EnIT] Business Planning - Robot Enterprise IT Platform Developer 경력 10~15년 정규직 서울/경기 2026. 10. 29, 14:59까지 D -12",
-    "snippet": "[Tech] 클라우드 보안성 검토 및 관리 Core Tech(AI/DATA/Cloud/보안) [02] 보안 Service Security Engineer 경력 3~8년 정규직 서울/경기 2026. 10. 29, 14:59까지 D -12 [EnIT] 그룹웨어 시스템 운영 및 개발 Enterprise IT Solution Developer 경력 3년 이상 정규직 서울/경기 2026. 10. 29, 14:59까지 D -12 [공통] HRM - HR 전략/제도 기획 공통/신사업/기타 경영기획/관리/지원 경력 5년 이상 정규직 서울/경기 [SDV] Embedded SW Platform Developer - 진단/Crypto 모듈 개발 SDV(차량전장SW) Embedded SW Platform Developer 경력 1~10년 정규직 서울/경기 2026. 10. 29, 14:59까지 D -12 [SDV] Embedded SW Platform Developer - Classic Autosar 통신 스택 개발 SDV(차량전장SW) Embedded SW Platform Developer 경력 2~7년 정규직 서울/경기 2026. 10. 29, 14:59까지 D -12 [SDV] Embedded SW Platform Developer - OS/Mode 모듈 개발 및 플랫폼 개발 SDV(차량전장SW) Embedded SW Platform Developer 경력 2~7년 정규직 서울/경기 2026. 10. 29, 14:59까지 D -12 [EnIT] IT PM - 서비스 Robot PM 및 필드/HW/SW 엔지니어 Enterprise IT IT PM 경력 4~20년 정규직 서울/경기 2026. 10. 29, 14:59까지 D -12 [EnIT] Solution Architect - SAP ERP 컨설팅/운영 (FI) Enterprise IT 솔루션아키텍트/개발(ERP/CRM/MS 등) 경력 3~10년 정규직 서울/경기 2026. 10. 29, 14:59까지 D -12 [EnIT]",
+    "title": "[EnIT] Business Planning - Robot Enterprise IT Platform Developer 경력 10~15년 정규직 서울/경기 2026. 10. 29, 14:59까지 D -11",
+    "snippet": "[Tech] 클라우드 보안성 검토 및 관리 Core Tech(AI/DATA/Cloud/보안) [02] 보안 Service Security Engineer 경력 3~8년 정규직 서울/경기 2026. 10. 29, 14:59까지 D -11 [EnIT] 그룹웨어 시스템 운영 및 개발 Enterprise IT Solution Developer 경력 3년 이상 정규직 서울/경기 2026. 10. 29, 14:59까지 D -11 [공통] HRM - HR 전략/제도 기획 공통/신사업/기타 경영기획/관리/지원 경력 5년 이상 정규직 서울/경기 [SDV] Embedded SW Platform Developer - 진단/Crypto 모듈 개발 SDV(차량전장SW) Embedded SW Platform Developer 경력 1~10년 정규직 서울/경기 2026. 10. 29, 14:59까지 D -11 [SDV] Embedded SW Platform Developer - Classic Autosar 통신 스택 개발 SDV(차량전장SW) Embedded SW Platform Developer 경력 2~7년 정규직 서울/경기 2026. 10. 29, 14:59까지 D -11 [SDV] Embedded SW Platform Developer - OS/Mode 모듈 개발 및 플랫폼 개발 SDV(차량전장SW) Embedded SW Platform Developer 경력 2~7년 정규직 서울/경기 2026. 10. 29, 14:59까지 D -11 [EnIT] IT PM - 서비스 Robot PM 및 필드/HW/SW 엔지니어 Enterprise IT IT PM 경력 4~20년 정규직 서울/경기 2026. 10. 29, 14:59까지 D -11 [EnIT] Solution Architect - SAP ERP 컨설팅/운영 (FI) Enterprise IT 솔루션아키텍트/개발(ERP/CRM/MS 등) 경력 3~10년 정규직 서울/경기 2026. 10. 29, 14:59까지 D -11 [EnIT]",
     "discoveredBy": "official_page",
     "reason": "not_job_posting",
-    "checkedAt": "2026-10-17T21:59:21+09:00"
+    "checkedAt": "2026-10-18T13:37:30+09:00"
   },
   {
     "company": "현대오토에버",
     "url": "https://career.hyundai-autoever.com/ko/o/225007",
-    "title": "[SDx] IT PM - Robot Field Application Engineer SDx(스마트제조) Project Manager 경력 4년 이상 정규직 서울/경기 2026. 10. 29, 14:59까지 D -12",
-    "snippet": "[Tech] 클라우드 보안성 검토 및 관리 Core Tech(AI/DATA/Cloud/보안) [02] 보안 Service Security Engineer 경력 3~8년 정규직 서울/경기 2026. 10. 29, 14:59까지 D -12 [EnIT] 그룹웨어 시스템 운영 및 개발 Enterprise IT Solution Developer 경력 3년 이상 정규직 서울/경기 2026. 10. 29, 14:59까지 D -12 [공통] HRM - HR 전략/제도 기획 공통/신사업/기타 경영기획/관리/지원 경력 5년 이상 정규직 서울/경기 [SDV] Embedded SW Platform Developer - 진단/Crypto 모듈 개발 SDV(차량전장SW) Embedded SW Platform Developer 경력 1~10년 정규직 서울/경기 2026. 10. 29, 14:59까지 D -12 [SDV] Embedded SW Platform Developer - Classic Autosar 통신 스택 개발 SDV(차량전장SW) Embedded SW Platform Developer 경력 2~7년 정규직 서울/경기 2026. 10. 29, 14:59까지 D -12 [SDV] Embedded SW Platform Developer - OS/Mode 모듈 개발 및 플랫폼 개발 SDV(차량전장SW) Embedded SW Platform Developer 경력 2~7년 정규직 서울/경기 2026. 10. 29, 14:59까지 D -12 [EnIT] IT PM - 서비스 Robot PM 및 필드/HW/SW 엔지니어 Enterprise IT IT PM 경력 4~20년 정규직 서울/경기 2026. 10. 29, 14:59까지 D -12 [EnIT] Solution Architect - SAP ERP 컨설팅/운영 (FI) Enterprise IT 솔루션아키텍트/개발(ERP/CRM/MS 등) 경력 3~10년 정규직 서울/경기 2026. 10. 29, 14:59까지 D -12 [EnIT]",
+    "title": "[SDx] IT PM - Robot Field Application Engineer SDx(스마트제조) Project Manager 경력 4년 이상 정규직 서울/경기 2026. 10. 29, 14:59까지 D -11",
+    "snippet": "[Tech] 클라우드 보안성 검토 및 관리 Core Tech(AI/DATA/Cloud/보안) [02] 보안 Service Security Engineer 경력 3~8년 정규직 서울/경기 2026. 10. 29, 14:59까지 D -11 [EnIT] 그룹웨어 시스템 운영 및 개발 Enterprise IT Solution Developer 경력 3년 이상 정규직 서울/경기 2026. 10. 29, 14:59까지 D -11 [공통] HRM - HR 전략/제도 기획 공통/신사업/기타 경영기획/관리/지원 경력 5년 이상 정규직 서울/경기 [SDV] Embedded SW Platform Developer - 진단/Crypto 모듈 개발 SDV(차량전장SW) Embedded SW Platform Developer 경력 1~10년 정규직 서울/경기 2026. 10. 29, 14:59까지 D -11 [SDV] Embedded SW Platform Developer - Classic Autosar 통신 스택 개발 SDV(차량전장SW) Embedded SW Platform Developer 경력 2~7년 정규직 서울/경기 2026. 10. 29, 14:59까지 D -11 [SDV] Embedded SW Platform Developer - OS/Mode 모듈 개발 및 플랫폼 개발 SDV(차량전장SW) Embedded SW Platform Developer 경력 2~7년 정규직 서울/경기 2026. 10. 29, 14:59까지 D -11 [EnIT] IT PM - 서비스 Robot PM 및 필드/HW/SW 엔지니어 Enterprise IT IT PM 경력 4~20년 정규직 서울/경기 2026. 10. 29, 14:59까지 D -11 [EnIT] Solution Architect - SAP ERP 컨설팅/운영 (FI) Enterprise IT 솔루션아키텍트/개발(ERP/CRM/MS 등) 경력 3~10년 정규직 서울/경기 2026. 10. 29, 14:59까지 D -11 [EnIT]",
     "discoveredBy": "official_page",
     "reason": "not_job_posting",
-    "checkedAt": "2026-10-17T21:59:21+09:00"
+    "checkedAt": "2026-10-18T13:37:30+09:00"
   },
   {
     "company": "현대오토에버",
     "url": "https://career.hyundai-autoever.com/ko/o/223741",
-    "title": "[Tech] Service Security Engineer - Security Analyst (보안 위협 분석/ 글로벌 사이버 위협 대응 체계 고도화) Core Tech(AI/DATA/Cloud/보안) Security 경력 3년 이상 정규직 서울/경기 2026. 10. 29, 14:59까지 D -12",
-    "snippet": "[Tech] 클라우드 보안성 검토 및 관리 Core Tech(AI/DATA/Cloud/보안) [02] 보안 Service Security Engineer 경력 3~8년 정규직 서울/경기 2026. 10. 29, 14:59까지 D -12 [EnIT] 그룹웨어 시스템 운영 및 개발 Enterprise IT Solution Developer 경력 3년 이상 정규직 서울/경기 2026. 10. 29, 14:59까지 D -12 [공통] HRM - HR 전략/제도 기획 공통/신사업/기타 경영기획/관리/지원 경력 5년 이상 정규직 서울/경기 [SDV] Embedded SW Platform Developer - 진단/Crypto 모듈 개발 SDV(차량전장SW) Embedded SW Platform Developer 경력 1~10년 정규직 서울/경기 2026. 10. 29, 14:59까지 D -12 [SDV] Embedded SW Platform Developer - Classic Autosar 통신 스택 개발 SDV(차량전장SW) Embedded SW Platform Developer 경력 2~7년 정규직 서울/경기 2026. 10. 29, 14:59까지 D -12 [SDV] Embedded SW Platform Developer - OS/Mode 모듈 개발 및 플랫폼 개발 SDV(차량전장SW) Embedded SW Platform Developer 경력 2~7년 정규직 서울/경기 2026. 10. 29, 14:59까지 D -12 [EnIT] IT PM - 서비스 Robot PM 및 필드/HW/SW 엔지니어 Enterprise IT IT PM 경력 4~20년 정규직 서울/경기 2026. 10. 29, 14:59까지 D -12 [EnIT] Solution Architect - SAP ERP 컨설팅/운영 (FI) Enterprise IT 솔루션아키텍트/개발(ERP/CRM/MS 등) 경력 3~10년 정규직 서울/경기 2026. 10. 29, 14:59까지 D -12 [EnIT]",
+    "title": "[Tech] Service Security Engineer - Security Analyst (보안 위협 분석/ 글로벌 사이버 위협 대응 체계 고도화) Core Tech(AI/DATA/Cloud/보안) Security 경력 3년 이상 정규직 서울/경기 2026. 10. 29, 14:59까지 D -11",
+    "snippet": "[Tech] 클라우드 보안성 검토 및 관리 Core Tech(AI/DATA/Cloud/보안) [02] 보안 Service Security Engineer 경력 3~8년 정규직 서울/경기 2026. 10. 29, 14:59까지 D -11 [EnIT] 그룹웨어 시스템 운영 및 개발 Enterprise IT Solution Developer 경력 3년 이상 정규직 서울/경기 2026. 10. 29, 14:59까지 D -11 [공통] HRM - HR 전략/제도 기획 공통/신사업/기타 경영기획/관리/지원 경력 5년 이상 정규직 서울/경기 [SDV] Embedded SW Platform Developer - 진단/Crypto 모듈 개발 SDV(차량전장SW) Embedded SW Platform Developer 경력 1~10년 정규직 서울/경기 2026. 10. 29, 14:59까지 D -11 [SDV] Embedded SW Platform Developer - Classic Autosar 통신 스택 개발 SDV(차량전장SW) Embedded SW Platform Developer 경력 2~7년 정규직 서울/경기 2026. 10. 29, 14:59까지 D -11 [SDV] Embedded SW Platform Developer - OS/Mode 모듈 개발 및 플랫폼 개발 SDV(차량전장SW) Embedded SW Platform Developer 경력 2~7년 정규직 서울/경기 2026. 10. 29, 14:59까지 D -11 [EnIT] IT PM - 서비스 Robot PM 및 필드/HW/SW 엔지니어 Enterprise IT IT PM 경력 4~20년 정규직 서울/경기 2026. 10. 29, 14:59까지 D -11 [EnIT] Solution Architect - SAP ERP 컨설팅/운영 (FI) Enterprise IT 솔루션아키텍트/개발(ERP/CRM/MS 등) 경력 3~10년 정규직 서울/경기 2026. 10. 29, 14:59까지 D -11 [EnIT]",
     "discoveredBy": "official_page",
     "reason": "not_job_posting",
-    "checkedAt": "2026-10-17T21:59:21+09:00"
+    "checkedAt": "2026-10-18T13:37:30+09:00"
   },
   {
     "company": "현대오토에버",
     "url": "https://career.hyundai-autoever.com/ko/o/221287",
-    "title": "[SDx] Service Engineer - 스마트팩토리 시스템(스마트태그) 개발 및 운영 SDx(스마트제조) Service Engineer 경력 5년 이상 정규직 영남권역 2026. 10. 29, 14:59까지 D -12",
-    "snippet": "[Tech] 클라우드 보안성 검토 및 관리 Core Tech(AI/DATA/Cloud/보안) [02] 보안 Service Security Engineer 경력 3~8년 정규직 서울/경기 2026. 10. 29, 14:59까지 D -12 [EnIT] 그룹웨어 시스템 운영 및 개발 Enterprise IT Solution Developer 경력 3년 이상 정규직 서울/경기 2026. 10. 29, 14:59까지 D -12 [공통] HRM - HR 전략/제도 기획 공통/신사업/기타 경영기획/관리/지원 경력 5년 이상 정규직 서울/경기 [SDV] Embedded SW Platform Developer - 진단/Crypto 모듈 개발 SDV(차량전장SW) Embedded SW Platform Developer 경력 1~10년 정규직 서울/경기 2026. 10. 29, 14:59까지 D -12 [SDV] Embedded SW Platform Developer - Classic Autosar 통신 스택 개발 SDV(차량전장SW) Embedded SW Platform Developer 경력 2~7년 정규직 서울/경기 2026. 10. 29, 14:59까지 D -12 [SDV] Embedded SW Platform Developer - OS/Mode 모듈 개발 및 플랫폼 개발 SDV(차량전장SW) Embedded SW Platform Developer 경력 2~7년 정규직 서울/경기 2026. 10. 29, 14:59까지 D -12 [EnIT] IT PM - 서비스 Robot PM 및 필드/HW/SW 엔지니어 Enterprise IT IT PM 경력 4~20년 정규직 서울/경기 2026. 10. 29, 14:59까지 D -12 [EnIT] Solution Architect - SAP ERP 컨설팅/운영 (FI) Enterprise IT 솔루션아키텍트/개발(ERP/CRM/MS 등) 경력 3~10년 정규직 서울/경기 2026. 10. 29, 14:59까지 D -12 [EnIT]",
+    "title": "[SDx] Service Engineer - 스마트팩토리 시스템(스마트태그) 개발 및 운영 SDx(스마트제조) Service Engineer 경력 5년 이상 정규직 영남권역 2026. 10. 29, 14:59까지 D -11",
+    "snippet": "[Tech] 클라우드 보안성 검토 및 관리 Core Tech(AI/DATA/Cloud/보안) [02] 보안 Service Security Engineer 경력 3~8년 정규직 서울/경기 2026. 10. 29, 14:59까지 D -11 [EnIT] 그룹웨어 시스템 운영 및 개발 Enterprise IT Solution Developer 경력 3년 이상 정규직 서울/경기 2026. 10. 29, 14:59까지 D -11 [공통] HRM - HR 전략/제도 기획 공통/신사업/기타 경영기획/관리/지원 경력 5년 이상 정규직 서울/경기 [SDV] Embedded SW Platform Developer - 진단/Crypto 모듈 개발 SDV(차량전장SW) Embedded SW Platform Developer 경력 1~10년 정규직 서울/경기 2026. 10. 29, 14:59까지 D -11 [SDV] Embedded SW Platform Developer - Classic Autosar 통신 스택 개발 SDV(차량전장SW) Embedded SW Platform Developer 경력 2~7년 정규직 서울/경기 2026. 10. 29, 14:59까지 D -11 [SDV] Embedded SW Platform Developer - OS/Mode 모듈 개발 및 플랫폼 개발 SDV(차량전장SW) Embedded SW Platform Developer 경력 2~7년 정규직 서울/경기 2026. 10. 29, 14:59까지 D -11 [EnIT] IT PM - 서비스 Robot PM 및 필드/HW/SW 엔지니어 Enterprise IT IT PM 경력 4~20년 정규직 서울/경기 2026. 10. 29, 14:59까지 D -11 [EnIT] Solution Architect - SAP ERP 컨설팅/운영 (FI) Enterprise IT 솔루션아키텍트/개발(ERP/CRM/MS 등) 경력 3~10년 정규직 서울/경기 2026. 10. 29, 14:59까지 D -11 [EnIT]",
     "discoveredBy": "official_page",
     "reason": "not_job_posting",
-    "checkedAt": "2026-10-17T21:59:21+09:00"
+    "checkedAt": "2026-10-18T13:37:30+09:00"
   },
   {
     "company": "현대오토에버",
     "url": "https://career.hyundai-autoever.com/ko/o/220755",
-    "title": "[SDx] Backend Developer - Robot/Smart Factory SDx(스마트제조) Backend 개발 경력 3년 이상 정규직 서울/경기 2026. 10. 29, 14:59까지 D -12",
-    "snippet": "[Tech] 클라우드 보안성 검토 및 관리 Core Tech(AI/DATA/Cloud/보안) [02] 보안 Service Security Engineer 경력 3~8년 정규직 서울/경기 2026. 10. 29, 14:59까지 D -12 [EnIT] 그룹웨어 시스템 운영 및 개발 Enterprise IT Solution Developer 경력 3년 이상 정규직 서울/경기 2026. 10. 29, 14:59까지 D -12 [공통] HRM - HR 전략/제도 기획 공통/신사업/기타 경영기획/관리/지원 경력 5년 이상 정규직 서울/경기 [SDV] Embedded SW Platform Developer - 진단/Crypto 모듈 개발 SDV(차량전장SW) Embedded SW Platform Developer 경력 1~10년 정규직 서울/경기 2026. 10. 29, 14:59까지 D -12 [SDV] Embedded SW Platform Developer - Classic Autosar 통신 스택 개발 SDV(차량전장SW) Embedded SW Platform Developer 경력 2~7년 정규직 서울/경기 2026. 10. 29, 14:59까지 D -12 [SDV] Embedded SW Platform Developer - OS/Mode 모듈 개발 및 플랫폼 개발 SDV(차량전장SW) Embedded SW Platform Developer 경력 2~7년 정규직 서울/경기 2026. 10. 29, 14:59까지 D -12 [EnIT] IT PM - 서비스 Robot PM 및 필드/HW/SW 엔지니어 Enterprise IT IT PM 경력 4~20년 정규직 서울/경기 2026. 10. 29, 14:59까지 D -12 [EnIT] Solution Architect - SAP ERP 컨설팅/운영 (FI) Enterprise IT 솔루션아키텍트/개발(ERP/CRM/MS 등) 경력 3~10년 정규직 서울/경기 2026. 10. 29, 14:59까지 D -12 [EnIT]",
+    "title": "[SDx] Backend Developer - Robot/Smart Factory SDx(스마트제조) Backend 개발 경력 3년 이상 정규직 서울/경기 2026. 10. 29, 14:59까지 D -11",
+    "snippet": "[Tech] 클라우드 보안성 검토 및 관리 Core Tech(AI/DATA/Cloud/보안) [02] 보안 Service Security Engineer 경력 3~8년 정규직 서울/경기 2026. 10. 29, 14:59까지 D -11 [EnIT] 그룹웨어 시스템 운영 및 개발 Enterprise IT Solution Developer 경력 3년 이상 정규직 서울/경기 2026. 10. 29, 14:59까지 D -11 [공통] HRM - HR 전략/제도 기획 공통/신사업/기타 경영기획/관리/지원 경력 5년 이상 정규직 서울/경기 [SDV] Embedded SW Platform Developer - 진단/Crypto 모듈 개발 SDV(차량전장SW) Embedded SW Platform Developer 경력 1~10년 정규직 서울/경기 2026. 10. 29, 14:59까지 D -11 [SDV] Embedded SW Platform Developer - Classic Autosar 통신 스택 개발 SDV(차량전장SW) Embedded SW Platform Developer 경력 2~7년 정규직 서울/경기 2026. 10. 29, 14:59까지 D -11 [SDV] Embedded SW Platform Developer - OS/Mode 모듈 개발 및 플랫폼 개발 SDV(차량전장SW) Embedded SW Platform Developer 경력 2~7년 정규직 서울/경기 2026. 10. 29, 14:59까지 D -11 [EnIT] IT PM - 서비스 Robot PM 및 필드/HW/SW 엔지니어 Enterprise IT IT PM 경력 4~20년 정규직 서울/경기 2026. 10. 29, 14:59까지 D -11 [EnIT] Solution Architect - SAP ERP 컨설팅/운영 (FI) Enterprise IT 솔루션아키텍트/개발(ERP/CRM/MS 등) 경력 3~10년 정규직 서울/경기 2026. 10. 29, 14:59까지 D -11 [EnIT]",
     "discoveredBy": "official_page",
     "reason": "not_job_posting",
-    "checkedAt": "2026-10-17T21:59:21+09:00"
+    "checkedAt": "2026-10-18T13:37:30+09:00"
   },
   {
     "company": "현대오토에버",
     "url": "https://career.hyundai-autoever.com/ko/o/220750",
-    "title": "[SDx] Frontend Developer - Robot/Smart Factory SDx(스마트제조) Frontend 개발 경력 3년 이상 정규직 서울/경기 2026. 10. 29, 14:59까지 D -12",
-    "snippet": "[Tech] 클라우드 보안성 검토 및 관리 Core Tech(AI/DATA/Cloud/보안) [02] 보안 Service Security Engineer 경력 3~8년 정규직 서울/경기 2026. 10. 29, 14:59까지 D -12 [EnIT] 그룹웨어 시스템 운영 및 개발 Enterprise IT Solution Developer 경력 3년 이상 정규직 서울/경기 2026. 10. 29, 14:59까지 D -12 [공통] HRM - HR 전략/제도 기획 공통/신사업/기타 경영기획/관리/지원 경력 5년 이상 정규직 서울/경기 [SDV] Embedded SW Platform Developer - 진단/Crypto 모듈 개발 SDV(차량전장SW) Embedded SW Platform Developer 경력 1~10년 정규직 서울/경기 2026. 10. 29, 14:59까지 D -12 [SDV] Embedded SW Platform Developer - Classic Autosar 통신 스택 개발 SDV(차량전장SW) Embedded SW Platform Developer 경력 2~7년 정규직 서울/경기 2026. 10. 29, 14:59까지 D -12 [SDV] Embedded SW Platform Developer - OS/Mode 모듈 개발 및 플랫폼 개발 SDV(차량전장SW) Embedded SW Platform Developer 경력 2~7년 정규직 서울/경기 2026. 10. 29, 14:59까지 D -12 [EnIT] IT PM - 서비스 Robot PM 및 필드/HW/SW 엔지니어 Enterprise IT IT PM 경력 4~20년 정규직 서울/경기 2026. 10. 29, 14:59까지 D -12 [EnIT] Solution Architect - SAP ERP 컨설팅/운영 (FI) Enterprise IT 솔루션아키텍트/개발(ERP/CRM/MS 등) 경력 3~10년 정규직 서울/경기 2026. 10. 29, 14:59까지 D -12 [EnIT]",
+    "title": "[SDx] Frontend Developer - Robot/Smart Factory SDx(스마트제조) Frontend 개발 경력 3년 이상 정규직 서울/경기 2026. 10. 29, 14:59까지 D -11",
+    "snippet": "[Tech] 클라우드 보안성 검토 및 관리 Core Tech(AI/DATA/Cloud/보안) [02] 보안 Service Security Engineer 경력 3~8년 정규직 서울/경기 2026. 10. 29, 14:59까지 D -11 [EnIT] 그룹웨어 시스템 운영 및 개발 Enterprise IT Solution Developer 경력 3년 이상 정규직 서울/경기 2026. 10. 29, 14:59까지 D -11 [공통] HRM - HR 전략/제도 기획 공통/신사업/기타 경영기획/관리/지원 경력 5년 이상 정규직 서울/경기 [SDV] Embedded SW Platform Developer - 진단/Crypto 모듈 개발 SDV(차량전장SW) Embedded SW Platform Developer 경력 1~10년 정규직 서울/경기 2026. 10. 29, 14:59까지 D -11 [SDV] Embedded SW Platform Developer - Classic Autosar 통신 스택 개발 SDV(차량전장SW) Embedded SW Platform Developer 경력 2~7년 정규직 서울/경기 2026. 10. 29, 14:59까지 D -11 [SDV] Embedded SW Platform Developer - OS/Mode 모듈 개발 및 플랫폼 개발 SDV(차량전장SW) Embedded SW Platform Developer 경력 2~7년 정규직 서울/경기 2026. 10. 29, 14:59까지 D -11 [EnIT] IT PM - 서비스 Robot PM 및 필드/HW/SW 엔지니어 Enterprise IT IT PM 경력 4~20년 정규직 서울/경기 2026. 10. 29, 14:59까지 D -11 [EnIT] Solution Architect - SAP ERP 컨설팅/운영 (FI) Enterprise IT 솔루션아키텍트/개발(ERP/CRM/MS 등) 경력 3~10년 정규직 서울/경기 2026. 10. 29, 14:59까지 D -11 [EnIT]",
     "discoveredBy": "official_page",
     "reason": "not_job_posting",
-    "checkedAt": "2026-10-17T21:59:21+09:00"
+    "checkedAt": "2026-10-18T13:37:30+09:00"
   },
   {
     "company": "현대오토에버",
     "url": "https://career.hyundai-autoever.com/ko/o/220742",
-    "title": "[SDx] Platform Developer - Robot SDx(스마트제조) Platform Developer 경력 3년 이상 정규직 서울/경기 2026. 10. 29, 14:59까지 D -12",
-    "snippet": "[Tech] 클라우드 보안성 검토 및 관리 Core Tech(AI/DATA/Cloud/보안) [02] 보안 Service Security Engineer 경력 3~8년 정규직 서울/경기 2026. 10. 29, 14:59까지 D -12 [EnIT] 그룹웨어 시스템 운영 및 개발 Enterprise IT Solution Developer 경력 3년 이상 정규직 서울/경기 2026. 10. 29, 14:59까지 D -12 [공통] HRM - HR 전략/제도 기획 공통/신사업/기타 경영기획/관리/지원 경력 5년 이상 정규직 서울/경기 [SDV] Embedded SW Platform Developer - 진단/Crypto 모듈 개발 SDV(차량전장SW) Embedded SW Platform Developer 경력 1~10년 정규직 서울/경기 2026. 10. 29, 14:59까지 D -12 [SDV] Embedded SW Platform Developer - Classic Autosar 통신 스택 개발 SDV(차량전장SW) Embedded SW Platform Developer 경력 2~7년 정규직 서울/경기 2026. 10. 29, 14:59까지 D -12 [SDV] Embedded SW Platform Developer - OS/Mode 모듈 개발 및 플랫폼 개발 SDV(차량전장SW) Embedded SW Platform Developer 경력 2~7년 정규직 서울/경기 2026. 10. 29, 14:59까지 D -12 [EnIT] IT PM - 서비스 Robot PM 및 필드/HW/SW 엔지니어 Enterprise IT IT PM 경력 4~20년 정규직 서울/경기 2026. 10. 29, 14:59까지 D -12 [EnIT] Solution Architect - SAP ERP 컨설팅/운영 (FI) Enterprise IT 솔루션아키텍트/개발(ERP/CRM/MS 등) 경력 3~10년 정규직 서울/경기 2026. 10. 29, 14:59까지 D -12 [EnIT]",
+    "title": "[SDx] Platform Developer - Robot SDx(스마트제조) Platform Developer 경력 3년 이상 정규직 서울/경기 2026. 10. 29, 14:59까지 D -11",
+    "snippet": "[Tech] 클라우드 보안성 검토 및 관리 Core Tech(AI/DATA/Cloud/보안) [02] 보안 Service Security Engineer 경력 3~8년 정규직 서울/경기 2026. 10. 29, 14:59까지 D -11 [EnIT] 그룹웨어 시스템 운영 및 개발 Enterprise IT Solution Developer 경력 3년 이상 정규직 서울/경기 2026. 10. 29, 14:59까지 D -11 [공통] HRM - HR 전략/제도 기획 공통/신사업/기타 경영기획/관리/지원 경력 5년 이상 정규직 서울/경기 [SDV] Embedded SW Platform Developer - 진단/Crypto 모듈 개발 SDV(차량전장SW) Embedded SW Platform Developer 경력 1~10년 정규직 서울/경기 2026. 10. 29, 14:59까지 D -11 [SDV] Embedded SW Platform Developer - Classic Autosar 통신 스택 개발 SDV(차량전장SW) Embedded SW Platform Developer 경력 2~7년 정규직 서울/경기 2026. 10. 29, 14:59까지 D -11 [SDV] Embedded SW Platform Developer - OS/Mode 모듈 개발 및 플랫폼 개발 SDV(차량전장SW) Embedded SW Platform Developer 경력 2~7년 정규직 서울/경기 2026. 10. 29, 14:59까지 D -11 [EnIT] IT PM - 서비스 Robot PM 및 필드/HW/SW 엔지니어 Enterprise IT IT PM 경력 4~20년 정규직 서울/경기 2026. 10. 29, 14:59까지 D -11 [EnIT] Solution Architect - SAP ERP 컨설팅/운영 (FI) Enterprise IT 솔루션아키텍트/개발(ERP/CRM/MS 등) 경력 3~10년 정규직 서울/경기 2026. 10. 29, 14:59까지 D -11 [EnIT]",
     "discoveredBy": "official_page",
     "reason": "not_job_posting",
-    "checkedAt": "2026-10-17T21:59:21+09:00"
+    "checkedAt": "2026-10-18T13:37:30+09:00"
   },
   {
     "company": "현대오토에버",
     "url": "https://career.hyundai-autoever.com/ko/o/220736",
-    "title": "[SDx] IT PM - Agile SDx(스마트제조) Project Manager 경력 3년 이상 정규직 서울/경기 2026. 10. 29, 14:59까지 D -12",
-    "snippet": "[Tech] 클라우드 보안성 검토 및 관리 Core Tech(AI/DATA/Cloud/보안) [02] 보안 Service Security Engineer 경력 3~8년 정규직 서울/경기 2026. 10. 29, 14:59까지 D -12 [EnIT] 그룹웨어 시스템 운영 및 개발 Enterprise IT Solution Developer 경력 3년 이상 정규직 서울/경기 2026. 10. 29, 14:59까지 D -12 [공통] HRM - HR 전략/제도 기획 공통/신사업/기타 경영기획/관리/지원 경력 5년 이상 정규직 서울/경기 [SDV] Embedded SW Platform Developer - 진단/Crypto 모듈 개발 SDV(차량전장SW) Embedded SW Platform Developer 경력 1~10년 정규직 서울/경기 2026. 10. 29, 14:59까지 D -12 [SDV] Embedded SW Platform Developer - Classic Autosar 통신 스택 개발 SDV(차량전장SW) Embedded SW Platform Developer 경력 2~7년 정규직 서울/경기 2026. 10. 29, 14:59까지 D -12 [SDV] Embedded SW Platform Developer - OS/Mode 모듈 개발 및 플랫폼 개발 SDV(차량전장SW) Embedded SW Platform Developer 경력 2~7년 정규직 서울/경기 2026. 10. 29, 14:59까지 D -12 [EnIT] IT PM - 서비스 Robot PM 및 필드/HW/SW 엔지니어 Enterprise IT IT PM 경력 4~20년 정규직 서울/경기 2026. 10. 29, 14:59까지 D -12 [EnIT] Solution Architect - SAP ERP 컨설팅/운영 (FI) Enterprise IT 솔루션아키텍트/개발(ERP/CRM/MS 등) 경력 3~10년 정규직 서울/경기 2026. 10. 29, 14:59까지 D -12 [EnIT]",
+    "title": "[SDx] IT PM - Agile SDx(스마트제조) Project Manager 경력 3년 이상 정규직 서울/경기 2026. 10. 29, 14:59까지 D -11",
+    "snippet": "[Tech] 클라우드 보안성 검토 및 관리 Core Tech(AI/DATA/Cloud/보안) [02] 보안 Service Security Engineer 경력 3~8년 정규직 서울/경기 2026. 10. 29, 14:59까지 D -11 [EnIT] 그룹웨어 시스템 운영 및 개발 Enterprise IT Solution Developer 경력 3년 이상 정규직 서울/경기 2026. 10. 29, 14:59까지 D -11 [공통] HRM - HR 전략/제도 기획 공통/신사업/기타 경영기획/관리/지원 경력 5년 이상 정규직 서울/경기 [SDV] Embedded SW Platform Developer - 진단/Crypto 모듈 개발 SDV(차량전장SW) Embedded SW Platform Developer 경력 1~10년 정규직 서울/경기 2026. 10. 29, 14:59까지 D -11 [SDV] Embedded SW Platform Developer - Classic Autosar 통신 스택 개발 SDV(차량전장SW) Embedded SW Platform Developer 경력 2~7년 정규직 서울/경기 2026. 10. 29, 14:59까지 D -11 [SDV] Embedded SW Platform Developer - OS/Mode 모듈 개발 및 플랫폼 개발 SDV(차량전장SW) Embedded SW Platform Developer 경력 2~7년 정규직 서울/경기 2026. 10. 29, 14:59까지 D -11 [EnIT] IT PM - 서비스 Robot PM 및 필드/HW/SW 엔지니어 Enterprise IT IT PM 경력 4~20년 정규직 서울/경기 2026. 10. 29, 14:59까지 D -11 [EnIT] Solution Architect - SAP ERP 컨설팅/운영 (FI) Enterprise IT 솔루션아키텍트/개발(ERP/CRM/MS 등) 경력 3~10년 정규직 서울/경기 2026. 10. 29, 14:59까지 D -11 [EnIT]",
     "discoveredBy": "official_page",
     "reason": "not_job_posting",
-    "checkedAt": "2026-10-17T21:59:21+09:00"
+    "checkedAt": "2026-10-18T13:37:30+09:00"
   },
   {
     "company": "현대오토에버",
     "url": "https://career.hyundai-autoever.com/ko/o/215834",
-    "title": "[EnIT] Service Analyst - SAP Presales 및 모듈 컨설팅 Enterprise IT 경력 5년 이상 정규직 서울/경기 2026. 10. 29, 14:59까지 D -12",
-    "snippet": "[Tech] 클라우드 보안성 검토 및 관리 Core Tech(AI/DATA/Cloud/보안) [02] 보안 Service Security Engineer 경력 3~8년 정규직 서울/경기 2026. 10. 29, 14:59까지 D -12 [EnIT] 그룹웨어 시스템 운영 및 개발 Enterprise IT Solution Developer 경력 3년 이상 정규직 서울/경기 2026. 10. 29, 14:59까지 D -12 [공통] HRM - HR 전략/제도 기획 공통/신사업/기타 경영기획/관리/지원 경력 5년 이상 정규직 서울/경기 [SDV] Embedded SW Platform Developer - 진단/Crypto 모듈 개발 SDV(차량전장SW) Embedded SW Platform Developer 경력 1~10년 정규직 서울/경기 2026. 10. 29, 14:59까지 D -12 [SDV] Embedded SW Platform Developer - Classic Autosar 통신 스택 개발 SDV(차량전장SW) Embedded SW Platform Developer 경력 2~7년 정규직 서울/경기 2026. 10. 29, 14:59까지 D -12 [SDV] Embedded SW Platform Developer - OS/Mode 모듈 개발 및 플랫폼 개발 SDV(차량전장SW) Embedded SW Platform Developer 경력 2~7년 정규직 서울/경기 2026. 10. 29, 14:59까지 D -12 [EnIT] IT PM - 서비스 Robot PM 및 필드/HW/SW 엔지니어 Enterprise IT IT PM 경력 4~20년 정규직 서울/경기 2026. 10. 29, 14:59까지 D -12 [EnIT] Solution Architect - SAP ERP 컨설팅/운영 (FI) Enterprise IT 솔루션아키텍트/개발(ERP/CRM/MS 등) 경력 3~10년 정규직 서울/경기 2026. 10. 29, 14:59까지 D -12 [EnIT]",
+    "title": "[EnIT] Service Analyst - SAP Presales 및 모듈 컨설팅 Enterprise IT 경력 5년 이상 정규직 서울/경기 2026. 10. 29, 14:59까지 D -11",
+    "snippet": "[Tech] 클라우드 보안성 검토 및 관리 Core Tech(AI/DATA/Cloud/보안) [02] 보안 Service Security Engineer 경력 3~8년 정규직 서울/경기 2026. 10. 29, 14:59까지 D -11 [EnIT] 그룹웨어 시스템 운영 및 개발 Enterprise IT Solution Developer 경력 3년 이상 정규직 서울/경기 2026. 10. 29, 14:59까지 D -11 [공통] HRM - HR 전략/제도 기획 공통/신사업/기타 경영기획/관리/지원 경력 5년 이상 정규직 서울/경기 [SDV] Embedded SW Platform Developer - 진단/Crypto 모듈 개발 SDV(차량전장SW) Embedded SW Platform Developer 경력 1~10년 정규직 서울/경기 2026. 10. 29, 14:59까지 D -11 [SDV] Embedded SW Platform Developer - Classic Autosar 통신 스택 개발 SDV(차량전장SW) Embedded SW Platform Developer 경력 2~7년 정규직 서울/경기 2026. 10. 29, 14:59까지 D -11 [SDV] Embedded SW Platform Developer - OS/Mode 모듈 개발 및 플랫폼 개발 SDV(차량전장SW) Embedded SW Platform Developer 경력 2~7년 정규직 서울/경기 2026. 10. 29, 14:59까지 D -11 [EnIT] IT PM - 서비스 Robot PM 및 필드/HW/SW 엔지니어 Enterprise IT IT PM 경력 4~20년 정규직 서울/경기 2026. 10. 29, 14:59까지 D -11 [EnIT] Solution Architect - SAP ERP 컨설팅/운영 (FI) Enterprise IT 솔루션아키텍트/개발(ERP/CRM/MS 등) 경력 3~10년 정규직 서울/경기 2026. 10. 29, 14:59까지 D -11 [EnIT]",
     "discoveredBy": "official_page",
     "reason": "not_job_posting",
-    "checkedAt": "2026-10-17T21:59:21+09:00"
+    "checkedAt": "2026-10-18T13:37:30+09:00"
   },
   {
     "company": "현대오토에버",
     "url": "https://career.hyundai-autoever.com/ko/o/215441",
-    "title": "[Tech] Service Security Engineer - DAST 솔루션 운영 및 피싱 모의해킹 플랫폼 운영 Core Tech(AI/DATA/Cloud/보안) Security 경력 2년 이상 정규직 서울/경기 2026. 10. 29, 14:59까지 D -12",
-    "snippet": "[Tech] 클라우드 보안성 검토 및 관리 Core Tech(AI/DATA/Cloud/보안) [02] 보안 Service Security Engineer 경력 3~8년 정규직 서울/경기 2026. 10. 29, 14:59까지 D -12 [EnIT] 그룹웨어 시스템 운영 및 개발 Enterprise IT Solution Developer 경력 3년 이상 정규직 서울/경기 2026. 10. 29, 14:59까지 D -12 [공통] HRM - HR 전략/제도 기획 공통/신사업/기타 경영기획/관리/지원 경력 5년 이상 정규직 서울/경기 [SDV] Embedded SW Platform Developer - 진단/Crypto 모듈 개발 SDV(차량전장SW) Embedded SW Platform Developer 경력 1~10년 정규직 서울/경기 2026. 10. 29, 14:59까지 D -12 [SDV] Embedded SW Platform Developer - Classic Autosar 통신 스택 개발 SDV(차량전장SW) Embedded SW Platform Developer 경력 2~7년 정규직 서울/경기 2026. 10. 29, 14:59까지 D -12 [SDV] Embedded SW Platform Developer - OS/Mode 모듈 개발 및 플랫폼 개발 SDV(차량전장SW) Embedded SW Platform Developer 경력 2~7년 정규직 서울/경기 2026. 10. 29, 14:59까지 D -12 [EnIT] IT PM - 서비스 Robot PM 및 필드/HW/SW 엔지니어 Enterprise IT IT PM 경력 4~20년 정규직 서울/경기 2026. 10. 29, 14:59까지 D -12 [EnIT] Solution Architect - SAP ERP 컨설팅/운영 (FI) Enterprise IT 솔루션아키텍트/개발(ERP/CRM/MS 등) 경력 3~10년 정규직 서울/경기 2026. 10. 29, 14:59까지 D -12 [EnIT]",
+    "title": "[Tech] Service Security Engineer - DAST 솔루션 운영 및 피싱 모의해킹 플랫폼 운영 Core Tech(AI/DATA/Cloud/보안) Security 경력 2년 이상 정규직 서울/경기 2026. 10. 29, 14:59까지 D -11",
+    "snippet": "[Tech] 클라우드 보안성 검토 및 관리 Core Tech(AI/DATA/Cloud/보안) [02] 보안 Service Security Engineer 경력 3~8년 정규직 서울/경기 2026. 10. 29, 14:59까지 D -11 [EnIT] 그룹웨어 시스템 운영 및 개발 Enterprise IT Solution Developer 경력 3년 이상 정규직 서울/경기 2026. 10. 29, 14:59까지 D -11 [공통] HRM - HR 전략/제도 기획 공통/신사업/기타 경영기획/관리/지원 경력 5년 이상 정규직 서울/경기 [SDV] Embedded SW Platform Developer - 진단/Crypto 모듈 개발 SDV(차량전장SW) Embedded SW Platform Developer 경력 1~10년 정규직 서울/경기 2026. 10. 29, 14:59까지 D -11 [SDV] Embedded SW Platform Developer - Classic Autosar 통신 스택 개발 SDV(차량전장SW) Embedded SW Platform Developer 경력 2~7년 정규직 서울/경기 2026. 10. 29, 14:59까지 D -11 [SDV] Embedded SW Platform Developer - OS/Mode 모듈 개발 및 플랫폼 개발 SDV(차량전장SW) Embedded SW Platform Developer 경력 2~7년 정규직 서울/경기 2026. 10. 29, 14:59까지 D -11 [EnIT] IT PM - 서비스 Robot PM 및 필드/HW/SW 엔지니어 Enterprise IT IT PM 경력 4~20년 정규직 서울/경기 2026. 10. 29, 14:59까지 D -11 [EnIT] Solution Architect - SAP ERP 컨설팅/운영 (FI) Enterprise IT 솔루션아키텍트/개발(ERP/CRM/MS 등) 경력 3~10년 정규직 서울/경기 2026. 10. 29, 14:59까지 D -11 [EnIT]",
     "discoveredBy": "official_page",
     "reason": "not_job_posting",
-    "checkedAt": "2026-10-17T21:59:21+09:00"
+    "checkedAt": "2026-10-18T13:37:30+09:00"
   },
   {
     "company": "현대오토에버",
     "url": "https://career.hyundai-autoever.com/ko/o/213899",
-    "title": "[EnIT] Solution Architect - SuccessFactors 구축 및 운영 Enterprise IT 솔루션아키텍트/개발(ERP/CRM/MS 등) 경력 6년 이상 정규직 서울/경기 2026. 10. 29, 14:59까지 D -12",
-    "snippet": "[Tech] 클라우드 보안성 검토 및 관리 Core Tech(AI/DATA/Cloud/보안) [02] 보안 Service Security Engineer 경력 3~8년 정규직 서울/경기 2026. 10. 29, 14:59까지 D -12 [EnIT] 그룹웨어 시스템 운영 및 개발 Enterprise IT Solution Developer 경력 3년 이상 정규직 서울/경기 2026. 10. 29, 14:59까지 D -12 [공통] HRM - HR 전략/제도 기획 공통/신사업/기타 경영기획/관리/지원 경력 5년 이상 정규직 서울/경기 [SDV] Embedded SW Platform Developer - 진단/Crypto 모듈 개발 SDV(차량전장SW) Embedded SW Platform Developer 경력 1~10년 정규직 서울/경기 2026. 10. 29, 14:59까지 D -12 [SDV] Embedded SW Platform Developer - Classic Autosar 통신 스택 개발 SDV(차량전장SW) Embedded SW Platform Developer 경력 2~7년 정규직 서울/경기 2026. 10. 29, 14:59까지 D -12 [SDV] Embedded SW Platform Developer - OS/Mode 모듈 개발 및 플랫폼 개발 SDV(차량전장SW) Embedded SW Platform Developer 경력 2~7년 정규직 서울/경기 2026. 10. 29, 14:59까지 D -12 [EnIT] IT PM - 서비스 Robot PM 및 필드/HW/SW 엔지니어 Enterprise IT IT PM 경력 4~20년 정규직 서울/경기 2026. 10. 29, 14:59까지 D -12 [EnIT] Solution Architect - SAP ERP 컨설팅/운영 (FI) Enterprise IT 솔루션아키텍트/개발(ERP/CRM/MS 등) 경력 3~10년 정규직 서울/경기 2026. 10. 29, 14:59까지 D -12 [EnIT]",
+    "title": "[EnIT] Solution Architect - SuccessFactors 구축 및 운영 Enterprise IT 솔루션아키텍트/개발(ERP/CRM/MS 등) 경력 6년 이상 정규직 서울/경기 2026. 10. 29, 14:59까지 D -11",
+    "snippet": "[Tech] 클라우드 보안성 검토 및 관리 Core Tech(AI/DATA/Cloud/보안) [02] 보안 Service Security Engineer 경력 3~8년 정규직 서울/경기 2026. 10. 29, 14:59까지 D -11 [EnIT] 그룹웨어 시스템 운영 및 개발 Enterprise IT Solution Developer 경력 3년 이상 정규직 서울/경기 2026. 10. 29, 14:59까지 D -11 [공통] HRM - HR 전략/제도 기획 공통/신사업/기타 경영기획/관리/지원 경력 5년 이상 정규직 서울/경기 [SDV] Embedded SW Platform Developer - 진단/Crypto 모듈 개발 SDV(차량전장SW) Embedded SW Platform Developer 경력 1~10년 정규직 서울/경기 2026. 10. 29, 14:59까지 D -11 [SDV] Embedded SW Platform Developer - Classic Autosar 통신 스택 개발 SDV(차량전장SW) Embedded SW Platform Developer 경력 2~7년 정규직 서울/경기 2026. 10. 29, 14:59까지 D -11 [SDV] Embedded SW Platform Developer - OS/Mode 모듈 개발 및 플랫폼 개발 SDV(차량전장SW) Embedded SW Platform Developer 경력 2~7년 정규직 서울/경기 2026. 10. 29, 14:59까지 D -11 [EnIT] IT PM - 서비스 Robot PM 및 필드/HW/SW 엔지니어 Enterprise IT IT PM 경력 4~20년 정규직 서울/경기 2026. 10. 29, 14:59까지 D -11 [EnIT] Solution Architect - SAP ERP 컨설팅/운영 (FI) Enterprise IT 솔루션아키텍트/개발(ERP/CRM/MS 등) 경력 3~10년 정규직 서울/경기 2026. 10. 29, 14:59까지 D -11 [EnIT]",
     "discoveredBy": "official_page",
     "reason": "not_job_posting",
-    "checkedAt": "2026-10-17T21:59:21+09:00"
+    "checkedAt": "2026-10-18T13:37:30+09:00"
   }
 ]
