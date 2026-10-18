@@ -1,5 +1,5 @@
 {
-  "lastRunAt": "2026-10-18T13:37:30+09:00",
+  "lastRunAt": "2026-10-18T22:19:46+09:00",
   "companies": {
     "삼성전자": {
       "discovered": 17,
@@ -766,12 +766,12 @@
       "rejected": {}
     },
     "인천국제공항공사": {
-      "discovered": 3,
+      "discovered": 0,
       "verified": 0,
-      "sources": {
-        "official_page": 3
-      },
-      "errors": [],
+      "sources": {},
+      "errors": [
+        "official_page:ConnectTimeout"
+      ],
       "rejected": {}
     },
     "한국장학재단": {
@@ -789,9 +789,7 @@
       "discovered": 0,
       "verified": 0,
       "sources": {},
-      "errors": [
-        "official_page:ConnectTimeout"
-      ],
+      "errors": [],
       "rejected": {}
     },
     "한국전력공사": {
@@ -816,18 +814,14 @@
       "discovered": 0,
       "verified": 0,
       "sources": {},
-      "errors": [
-        "official_page:ConnectTimeout"
-      ],
+      "errors": [],
       "rejected": {}
     },
     "NH농협손해보험": {
       "discovered": 0,
       "verified": 0,
       "sources": {},
-      "errors": [
-        "official_page:ConnectionError"
-      ],
+      "errors": [],
       "rejected": {}
     },
     "한화투자증권": {
@@ -845,13 +839,15 @@
       "rejected": {}
     },
     "한국투자공사": {
-      "discovered": 0,
+      "discovered": 29,
       "verified": 0,
-      "sources": {},
-      "errors": [
-        "official_page:ConnectTimeout"
-      ],
-      "rejected": {}
+      "sources": {
+        "official_page": 29
+      },
+      "errors": [],
+      "rejected": {
+        "eligibility_unconfirmed": 1
+      }
     },
     "LS그룹": {
       "discovered": 6,
@@ -935,12 +931,12 @@
       "rejected": {}
     },
     "하나카드": {
-      "discovered": 0,
+      "discovered": 1,
       "verified": 0,
-      "sources": {},
-      "errors": [
-        "official_page:ConnectTimeout"
-      ],
+      "sources": {
+        "official_page": 1
+      },
+      "errors": [],
       "rejected": {}
     }
   },
@@ -948,6 +944,6 @@
     "published": 33,
     "automatic": 32,
     "curated": 1,
-    "review": 350
+    "review": 351
   }
 }
