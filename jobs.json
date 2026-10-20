@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-20T01:29:20+09:00",
+  "updatedAt": "2026-10-20T13:54:13+09:00",
   "jobs": [
     {
       "id": "4984e149a5a21389",
@@ -17,7 +17,7 @@
       "source": "현대모비스 공식 채용",
       "initial": "현대",
       "color": "blue",
-      "verifiedAt": "2026-10-20T01:29+09:00"
+      "verifiedAt": "2026-10-20T13:54+09:00"
     },
     {
       "id": "ac53a52af798ba73",
@@ -34,7 +34,7 @@
       "source": "NAVER 공식 채용",
       "initial": "NA",
       "color": "orange",
-      "verifiedAt": "2026-10-20T01:29+09:00"
+      "verifiedAt": "2026-10-20T13:54+09:00"
     },
     {
       "id": "fc93c1591da1b5a2",
@@ -68,7 +68,7 @@
       "source": "카카오페이 공식 채용",
       "initial": "카카",
       "color": "green",
-      "verifiedAt": "2026-10-20T01:29+09:00"
+      "verifiedAt": "2026-10-20T13:54+09:00"
     },
     {
       "id": "ac239e4bbec74485",
@@ -85,7 +85,7 @@
       "source": "카카오페이 공식 채용",
       "initial": "카카",
       "color": "green",
-      "verifiedAt": "2026-10-20T01:29+09:00"
+      "verifiedAt": "2026-10-20T13:54+09:00"
     },
     {
       "id": "c720d7351093eca9",
@@ -102,7 +102,7 @@
       "source": "카카오페이 공식 채용",
       "initial": "카카",
       "color": "green",
-      "verifiedAt": "2026-10-20T01:29+09:00"
+      "verifiedAt": "2026-10-20T13:54+09:00"
     },
     {
       "id": "15af525206778277",
@@ -119,7 +119,7 @@
       "source": "카카오페이 공식 채용",
       "initial": "카카",
       "color": "green",
-      "verifiedAt": "2026-10-20T01:29+09:00"
+      "verifiedAt": "2026-10-20T13:54+09:00"
     },
     {
       "id": "9e18838c21fe1de5",
@@ -136,7 +136,7 @@
       "source": "카카오페이 공식 채용",
       "initial": "카카",
       "color": "green",
-      "verifiedAt": "2026-10-20T01:29+09:00"
+      "verifiedAt": "2026-10-20T13:54+09:00"
     },
     {
       "id": "e3d871299e9e192c",
@@ -532,7 +532,7 @@
       "source": "카카오 공식 채용",
       "initial": "카카",
       "color": "green",
-      "verifiedAt": "2026-10-20T01:29+09:00"
+      "verifiedAt": "2026-10-20T13:54+09:00"
     },
     {
       "id": "25085745b5f500ab",
@@ -549,7 +549,7 @@
       "source": "NAVER 공식 채용",
       "initial": "NA",
       "color": "orange",
-      "verifiedAt": "2026-10-20T01:29+09:00"
+      "verifiedAt": "2026-10-20T13:54+09:00"
     },
     {
       "id": "b0c44b810000cef2",
@@ -566,7 +566,7 @@
       "source": "NAVER Cloud 공식 채용",
       "initial": "NA",
       "color": "blue",
-      "verifiedAt": "2026-10-20T01:29+09:00"
+      "verifiedAt": "2026-10-20T13:54+09:00"
     },
     {
       "id": "44cea40cfea32b01",
@@ -583,7 +583,7 @@
       "source": "크래프톤 공식 채용",
       "initial": "크래",
       "color": "orange",
-      "verifiedAt": "2026-10-20T01:29+09:00"
+      "verifiedAt": "2026-10-20T13:54+09:00"
     }
   ]
 }
