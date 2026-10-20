@@ -1,5 +1,5 @@
 {
-  "lastRunAt": "2026-10-20T13:54:13+09:00",
+  "lastRunAt": "2026-10-20T23:19:33+09:00",
   "companies": {
     "삼성전자": {
       "discovered": 17,
@@ -48,15 +48,13 @@
       }
     },
     "삼성전기": {
-      "discovered": 18,
+      "discovered": 17,
       "verified": 0,
       "sources": {
-        "official_api": 1,
         "official_page": 17
       },
       "errors": [],
       "rejected": {
-        "not_data_track": 1,
         "not_job_posting": 1
       }
     },
@@ -395,29 +393,29 @@
       "rejected": {}
     },
     "NAVER": {
-      "discovered": 29,
+      "discovered": 30,
       "verified": 2,
       "sources": {
-        "official_api": 21,
+        "official_api": 22,
         "official_page": 8
       },
       "errors": [],
       "rejected": {
-        "not_data_track": 16,
+        "not_data_track": 17,
         "career_only": 4,
         "not_job_posting": 2
       }
     },
     "NAVER Cloud": {
-      "discovered": 14,
+      "discovered": 15,
       "verified": 1,
       "sources": {
-        "official_api": 6,
+        "official_api": 7,
         "official_page": 8
       },
       "errors": [],
       "rejected": {
-        "career_only": 5,
+        "career_only": 6,
         "eligibility_unconfirmed": 1,
         "not_job_posting": 2
       }
@@ -446,15 +444,15 @@
       "rejected": {}
     },
     "카카오페이": {
-      "discovered": 38,
+      "discovered": 34,
       "verified": 5,
       "sources": {
-        "official_page": 38
+        "official_page": 34
       },
       "errors": [],
       "rejected": {
         "career_only": 7,
-        "senior_career_required": 9
+        "senior_career_required": 5
       }
     },
     "LINE Plus": {
@@ -467,15 +465,16 @@
       "rejected": {}
     },
     "쿠팡": {
-      "discovered": 57,
+      "discovered": 69,
       "verified": 0,
       "sources": {
-        "official_page": 18,
+        "official_page": 30,
         "sitemap": 39
       },
       "errors": [],
       "rejected": {
-        "eligibility_unconfirmed": 6,
+        "eligibility_unconfirmed": 9,
+        "career_only": 3,
         "not_job_posting": 39
       }
     },
@@ -487,10 +486,10 @@
       "rejected": {}
     },
     "당근": {
-      "discovered": 36,
+      "discovered": 35,
       "verified": 0,
       "sources": {
-        "official_page": 36
+        "official_page": 35
       },
       "errors": [],
       "rejected": {}
@@ -571,10 +570,11 @@
       "rejected": {}
     },
     "크래프톤": {
-      "discovered": 75,
+      "discovered": 78,
       "verified": 1,
       "sources": {
-        "official_page": 75
+        "official_page": 75,
+        "bing": 3
       },
       "errors": [],
       "rejected": {
@@ -710,13 +710,15 @@
       }
     },
     "POSCO DX": {
-      "discovered": 0,
+      "discovered": 4,
       "verified": 0,
-      "sources": {},
-      "errors": [
-        "official_page:ConnectionError"
-      ],
-      "rejected": {}
+      "sources": {
+        "bing": 4
+      },
+      "errors": [],
+      "rejected": {
+        "not_job_posting": 1
+      }
     },
     "포스코": {
       "discovered": 0,
@@ -767,12 +769,12 @@
       "rejected": {}
     },
     "인천국제공항공사": {
-      "discovered": 3,
+      "discovered": 0,
       "verified": 0,
-      "sources": {
-        "official_page": 3
-      },
-      "errors": [],
+      "sources": {},
+      "errors": [
+        "official_page:ConnectTimeout"
+      ],
       "rejected": {}
     },
     "한국장학재단": {
@@ -817,7 +819,9 @@
       "discovered": 0,
       "verified": 0,
       "sources": {},
-      "errors": [],
+      "errors": [
+        "official_page:ConnectTimeout"
+      ],
       "rejected": {}
     },
     "NH농협손해보험": {
@@ -947,6 +951,6 @@
     "published": 34,
     "automatic": 33,
     "curated": 1,
-    "review": 337
+    "review": 340
   }
 }
