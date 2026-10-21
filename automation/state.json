@@ -1,5 +1,5 @@
 {
-  "lastRunAt": "2026-10-21T13:52:30+09:00",
+  "lastRunAt": "2026-10-21T23:30:17+09:00",
   "companies": {
     "삼성전자": {
       "discovered": 17,
@@ -139,7 +139,9 @@
       "sources": {
         "official_page": 5
       },
-      "errors": [],
+      "errors": [
+        "bing:ReadTimeout"
+      ],
       "rejected": {}
     },
     "SK이노베이션": {
@@ -201,7 +203,9 @@
       "discovered": 0,
       "verified": 0,
       "sources": {},
-      "errors": [],
+      "errors": [
+        "bing:ReadTimeout"
+      ],
       "rejected": {}
     },
     "LG화학": {
@@ -287,7 +291,8 @@
       "verified": 0,
       "sources": {},
       "errors": [
-        "official_page:ConnectionError"
+        "official_page:ConnectionError",
+        "bing:ReadTimeout"
       ],
       "rejected": {}
     },
@@ -393,15 +398,16 @@
       "rejected": {}
     },
     "NAVER": {
-      "discovered": 30,
+      "discovered": 32,
       "verified": 2,
       "sources": {
-        "official_api": 22,
+        "official_api": 24,
         "official_page": 8
       },
       "errors": [],
       "rejected": {
-        "not_data_track": 17,
+        "not_data_track": 18,
+        "eligibility_unconfirmed": 1,
         "career_only": 4,
         "not_job_posting": 2
       }
@@ -421,16 +427,16 @@
       }
     },
     "카카오": {
-      "discovered": 22,
+      "discovered": 23,
       "verified": 1,
       "sources": {
-        "official_api": 22
+        "official_api": 23
       },
       "errors": [],
       "rejected": {
         "career_only": 7,
         "advanced_degree_required": 2,
-        "not_data_track": 11,
+        "not_data_track": 12,
         "senior_career_required": 1
       }
     },
@@ -465,15 +471,15 @@
       "rejected": {}
     },
     "쿠팡": {
-      "discovered": 69,
+      "discovered": 60,
       "verified": 0,
       "sources": {
-        "official_page": 30,
+        "official_page": 21,
         "sitemap": 39
       },
       "errors": [],
       "rejected": {
-        "eligibility_unconfirmed": 9,
+        "eligibility_unconfirmed": 6,
         "not_job_posting": 39
       }
     },
@@ -709,21 +715,23 @@
       }
     },
     "POSCO DX": {
-      "discovered": 0,
+      "discovered": 3,
       "verified": 0,
-      "sources": {},
+      "sources": {
+        "bing": 3
+      },
       "errors": [
         "official_page:ConnectionError"
       ],
-      "rejected": {}
+      "rejected": {
+        "not_job_posting": 1
+      }
     },
     "포스코": {
       "discovered": 0,
       "verified": 0,
       "sources": {},
-      "errors": [
-        "official_page:ConnectionError"
-      ],
+      "errors": [],
       "rejected": {}
     },
     "HD현대": {
@@ -950,6 +958,6 @@
     "published": 34,
     "automatic": 33,
     "curated": 1,
-    "review": 334
+    "review": 333
   }
 }
