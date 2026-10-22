@@ -1,5 +1,5 @@
 {
-  "lastRunAt": "2026-10-21T23:30:17+09:00",
+  "lastRunAt": "2026-10-22T13:51:54+09:00",
   "companies": {
     "삼성전자": {
       "discovered": 17,
@@ -139,9 +139,7 @@
       "sources": {
         "official_page": 5
       },
-      "errors": [
-        "bing:ReadTimeout"
-      ],
+      "errors": [],
       "rejected": {}
     },
     "SK이노베이션": {
@@ -203,9 +201,7 @@
       "discovered": 0,
       "verified": 0,
       "sources": {},
-      "errors": [
-        "bing:ReadTimeout"
-      ],
+      "errors": [],
       "rejected": {}
     },
     "LG화학": {
@@ -258,14 +254,15 @@
       }
     },
     "현대모비스": {
-      "discovered": 6,
+      "discovered": 7,
       "verified": 0,
       "sources": {
-        "official_page": 6
+        "official_page": 7
       },
       "errors": [],
       "rejected": {
-        "not_job_posting": 1
+        "not_job_posting": 1,
+        "career_only": 1
       }
     },
     "현대로템": {
@@ -291,8 +288,7 @@
       "verified": 0,
       "sources": {},
       "errors": [
-        "official_page:ConnectionError",
-        "bing:ReadTimeout"
+        "official_page:ConnectionError"
       ],
       "rejected": {}
     },
@@ -398,17 +394,17 @@
       "rejected": {}
     },
     "NAVER": {
-      "discovered": 32,
+      "discovered": 30,
       "verified": 2,
       "sources": {
-        "official_api": 24,
+        "official_api": 22,
         "official_page": 8
       },
       "errors": [],
       "rejected": {
-        "not_data_track": 18,
+        "not_data_track": 17,
         "eligibility_unconfirmed": 1,
-        "career_only": 4,
+        "career_only": 3,
         "not_job_posting": 2
       }
     },
@@ -471,15 +467,16 @@
       "rejected": {}
     },
     "쿠팡": {
-      "discovered": 60,
+      "discovered": 69,
       "verified": 0,
       "sources": {
-        "official_page": 21,
+        "official_page": 30,
         "sitemap": 39
       },
       "errors": [],
       "rejected": {
-        "eligibility_unconfirmed": 6,
+        "eligibility_unconfirmed": 12,
+        "career_only": 3,
         "not_job_posting": 39
       }
     },
@@ -491,21 +488,20 @@
       "rejected": {}
     },
     "당근": {
-      "discovered": 34,
+      "discovered": 33,
       "verified": 0,
       "sources": {
-        "official_page": 34
+        "official_page": 33
       },
       "errors": [],
       "rejected": {}
     },
     "토스": {
-      "discovered": 14,
+      "discovered": 12,
       "verified": 0,
       "sources": {
         "official_page": 5,
-        "sitemap": 7,
-        "bing": 2
+        "sitemap": 7
       },
       "errors": [],
       "rejected": {
@@ -799,9 +795,7 @@
       "discovered": 0,
       "verified": 0,
       "sources": {},
-      "errors": [
-        "official_page:ConnectTimeout"
-      ],
+      "errors": [],
       "rejected": {}
     },
     "한국전력공사": {
@@ -826,9 +820,7 @@
       "discovered": 0,
       "verified": 0,
       "sources": {},
-      "errors": [
-        "official_page:ConnectTimeout"
-      ],
+      "errors": [],
       "rejected": {}
     },
     "NH농협손해보험": {
@@ -945,12 +937,12 @@
       "rejected": {}
     },
     "하나카드": {
-      "discovered": 1,
+      "discovered": 0,
       "verified": 0,
-      "sources": {
-        "official_page": 1
-      },
-      "errors": [],
+      "sources": {},
+      "errors": [
+        "official_page:ConnectTimeout"
+      ],
       "rejected": {}
     }
   },
@@ -958,6 +950,6 @@
     "published": 34,
     "automatic": 33,
     "curated": 1,
-    "review": 333
+    "review": 341
   }
 }
