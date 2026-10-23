@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-22T23:32:08+09:00",
+  "updatedAt": "2026-10-23T13:54:05+09:00",
   "jobs": [
     {
       "id": "4984e149a5a21389",
@@ -17,7 +17,7 @@
       "source": "현대모비스 공식 채용",
       "initial": "현대",
       "color": "blue",
-      "verifiedAt": "2026-10-22T23:32+09:00"
+      "verifiedAt": "2026-10-23T13:54+09:00"
     },
     {
       "id": "ac53a52af798ba73",
@@ -34,7 +34,7 @@
       "source": "NAVER 공식 채용",
       "initial": "NA",
       "color": "orange",
-      "verifiedAt": "2026-10-22T23:32+09:00"
+      "verifiedAt": "2026-10-23T13:54+09:00"
     },
     {
       "id": "69e10be56e4cbc24",
@@ -51,7 +51,7 @@
       "source": "NAVER 공식 채용",
       "initial": "NA",
       "color": "orange",
-      "verifiedAt": "2026-10-22T23:32+09:00"
+      "verifiedAt": "2026-10-23T13:54+09:00"
     },
     {
       "id": "fc93c1591da1b5a2",
@@ -85,7 +85,7 @@
       "source": "카카오페이 공식 채용",
       "initial": "카카",
       "color": "green",
-      "verifiedAt": "2026-10-22T23:32+09:00"
+      "verifiedAt": "2026-10-23T13:54+09:00"
     },
     {
       "id": "ac239e4bbec74485",
@@ -102,7 +102,7 @@
       "source": "카카오페이 공식 채용",
       "initial": "카카",
       "color": "green",
-      "verifiedAt": "2026-10-22T23:32+09:00"
+      "verifiedAt": "2026-10-23T13:54+09:00"
     },
     {
       "id": "c720d7351093eca9",
@@ -119,7 +119,7 @@
       "source": "카카오페이 공식 채용",
       "initial": "카카",
       "color": "green",
-      "verifiedAt": "2026-10-22T23:32+09:00"
+      "verifiedAt": "2026-10-23T13:54+09:00"
     },
     {
       "id": "15af525206778277",
@@ -136,7 +136,7 @@
       "source": "카카오페이 공식 채용",
       "initial": "카카",
       "color": "green",
-      "verifiedAt": "2026-10-22T23:32+09:00"
+      "verifiedAt": "2026-10-23T13:54+09:00"
     },
     {
       "id": "9e18838c21fe1de5",
@@ -153,7 +153,7 @@
       "source": "카카오페이 공식 채용",
       "initial": "카카",
       "color": "green",
-      "verifiedAt": "2026-10-22T23:32+09:00"
+      "verifiedAt": "2026-10-23T13:54+09:00"
     },
     {
       "id": "e3d871299e9e192c",
@@ -549,7 +549,7 @@
       "source": "카카오 공식 채용",
       "initial": "카카",
       "color": "green",
-      "verifiedAt": "2026-10-22T23:32+09:00"
+      "verifiedAt": "2026-10-23T13:54+09:00"
     },
     {
       "id": "25085745b5f500ab",
@@ -566,7 +566,7 @@
       "source": "NAVER 공식 채용",
       "initial": "NA",
       "color": "orange",
-      "verifiedAt": "2026-10-22T23:32+09:00"
+      "verifiedAt": "2026-10-23T13:54+09:00"
     },
     {
       "id": "b0c44b810000cef2",
@@ -583,7 +583,7 @@
       "source": "NAVER Cloud 공식 채용",
       "initial": "NA",
       "color": "blue",
-      "verifiedAt": "2026-10-22T23:32+09:00"
+      "verifiedAt": "2026-10-23T13:54+09:00"
     },
     {
       "id": "44cea40cfea32b01",
@@ -600,7 +600,58 @@
       "source": "크래프톤 공식 채용",
       "initial": "크래",
       "color": "orange",
-      "verifiedAt": "2026-10-22T23:32+09:00"
+      "verifiedAt": "2026-10-23T13:54+09:00"
+    },
+    {
+      "id": "b9fff7b28f30ab6b",
+      "company": "쿠팡",
+      "title": "[쿠팡로지스틱스서비스] 물류 데이터 분석 담당자 (신입 가능)",
+      "kind": "신입 · 정규직",
+      "place": "원문 확인",
+      "deadline": null,
+      "deadlineLabel": "원문 확인",
+      "track": "보안 / 인프라",
+      "note": "공식 채용 원문에서 보안 / 인프라 연관성이 확인된 공고입니다.",
+      "check": "신입·인턴 지원 조건을 확인했습니다. 상세 자격과 근무지는 원문에서 다시 확인하세요.",
+      "url": "https://www.coupang.jobs/kr/jobs/8316768/쿠팡로지스틱스서비스-물류-데이터-분석-담당자-신입-가능/?gh_jid=8316768",
+      "source": "쿠팡 공식 채용",
+      "initial": "쿠팡",
+      "color": "blue",
+      "verifiedAt": "2026-10-23T13:54+09:00"
+    },
+    {
+      "id": "dc028281437a94df",
+      "company": "쿠팡",
+      "title": "[쿠팡로지스틱스서비스] 물류 데이터 분석 담당자 (신입 가능)",
+      "kind": "신입 · 정규직",
+      "place": "원문 확인",
+      "deadline": null,
+      "deadlineLabel": "원문 확인",
+      "track": "보안 / 인프라",
+      "note": "공식 채용 원문에서 보안 / 인프라 연관성이 확인된 공고입니다.",
+      "check": "신입·인턴 지원 조건을 확인했습니다. 상세 자격과 근무지는 원문에서 다시 확인하세요.",
+      "url": "https://www.coupang.jobs/en/jobs/8316768/쿠팡로지스틱스서비스-물류-데이터-분석-담당자-신입-가능/?gh_jid=8316768",
+      "source": "쿠팡 공식 채용",
+      "initial": "쿠팡",
+      "color": "blue",
+      "verifiedAt": "2026-10-23T13:54+09:00"
+    },
+    {
+      "id": "7e49e4dc2e96cffd",
+      "company": "쿠팡",
+      "title": "[쿠팡로지스틱스서비스] 물류 데이터 분석 담당자 (신입 가능)",
+      "kind": "신입 · 정규직",
+      "place": "원문 확인",
+      "deadline": null,
+      "deadlineLabel": "원문 확인",
+      "track": "보안 / 인프라",
+      "note": "공식 채용 원문에서 보안 / 인프라 연관성이 확인된 공고입니다.",
+      "check": "신입·인턴 지원 조건을 확인했습니다. 상세 자격과 근무지는 원문에서 다시 확인하세요.",
+      "url": "https://www.coupang.jobs/tw/jobs/8316768/쿠팡로지스틱스서비스-물류-데이터-분석-담당자-신입-가능/?gh_jid=8316768",
+      "source": "쿠팡 공식 채용",
+      "initial": "쿠팡",
+      "color": "blue",
+      "verifiedAt": "2026-10-23T13:54+09:00"
     }
   ]
 }
