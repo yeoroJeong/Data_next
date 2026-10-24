@@ -1,5 +1,5 @@
 {
-  "lastRunAt": "2026-10-24T13:40:15+09:00",
+  "lastRunAt": "2026-10-24T22:21:29+09:00",
   "companies": {
     "삼성전자": {
       "discovered": 17,
@@ -269,9 +269,7 @@
       "sources": {
         "sitemap": 25
       },
-      "errors": [
-        "official_page:ConnectionError"
-      ],
+      "errors": [],
       "rejected": {}
     },
     "현대글로비스": {
@@ -497,12 +495,11 @@
       "rejected": {}
     },
     "토스": {
-      "discovered": 14,
+      "discovered": 12,
       "verified": 0,
       "sources": {
         "official_page": 5,
-        "sitemap": 7,
-        "bing": 2
+        "sitemap": 7
       },
       "errors": [],
       "rejected": {
@@ -623,11 +620,12 @@
       "rejected": {}
     },
     "우리은행": {
-      "discovered": 3,
+      "discovered": 5,
       "verified": 0,
       "sources": {
         "official_page": 2,
-        "sitemap": 1
+        "sitemap": 1,
+        "bing": 2
       },
       "errors": [],
       "rejected": {
@@ -712,12 +710,14 @@
       }
     },
     "POSCO DX": {
-      "discovered": 3,
+      "discovered": 2,
       "verified": 0,
       "sources": {
-        "bing": 3
+        "bing": 2
       },
-      "errors": [],
+      "errors": [
+        "official_page:ConnectionError"
+      ],
       "rejected": {
         "not_job_posting": 1
       }
@@ -726,7 +726,9 @@
       "discovered": 0,
       "verified": 0,
       "sources": {},
-      "errors": [],
+      "errors": [
+        "official_page:ConnectionError"
+      ],
       "rejected": {}
     },
     "HD현대": {
@@ -821,7 +823,9 @@
       "discovered": 0,
       "verified": 0,
       "sources": {},
-      "errors": [],
+      "errors": [
+        "official_page:ConnectTimeout"
+      ],
       "rejected": {}
     },
     "NH농협손해보험": {
@@ -938,12 +942,12 @@
       "rejected": {}
     },
     "하나카드": {
-      "discovered": 1,
+      "discovered": 0,
       "verified": 0,
-      "sources": {
-        "official_page": 1
-      },
-      "errors": [],
+      "sources": {},
+      "errors": [
+        "official_page:ConnectTimeout"
+      ],
       "rejected": {}
     }
   },
