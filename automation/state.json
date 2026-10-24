@@ -1,5 +1,5 @@
 {
-  "lastRunAt": "2026-10-23T23:15:46+09:00",
+  "lastRunAt": "2026-10-24T13:40:15+09:00",
   "companies": {
     "삼성전자": {
       "discovered": 17,
@@ -196,11 +196,9 @@
       "rejected": {}
     },
     "LG에너지솔루션": {
-      "discovered": 1,
+      "discovered": 0,
       "verified": 0,
-      "sources": {
-        "bing": 1
-      },
+      "sources": {},
       "errors": [],
       "rejected": {}
     },
@@ -271,7 +269,9 @@
       "sources": {
         "sitemap": 25
       },
-      "errors": [],
+      "errors": [
+        "official_page:ConnectionError"
+      ],
       "rejected": {}
     },
     "현대글로비스": {
@@ -337,37 +337,37 @@
       "rejected": {}
     },
     "롯데이노베이트": {
-      "discovered": 40,
+      "discovered": 34,
       "verified": 0,
       "sources": {
-        "official_page": 40
+        "official_page": 34
       },
       "errors": [],
       "rejected": {}
     },
     "롯데쇼핑": {
-      "discovered": 40,
+      "discovered": 34,
       "verified": 0,
       "sources": {
-        "official_page": 40
+        "official_page": 34
       },
       "errors": [],
       "rejected": {}
     },
     "롯데카드": {
-      "discovered": 40,
+      "discovered": 34,
       "verified": 0,
       "sources": {
-        "official_page": 40
+        "official_page": 34
       },
       "errors": [],
       "rejected": {}
     },
     "롯데e커머스": {
-      "discovered": 40,
+      "discovered": 34,
       "verified": 0,
       "sources": {
-        "official_page": 40
+        "official_page": 34
       },
       "errors": [],
       "rejected": {}
@@ -467,16 +467,17 @@
       "rejected": {}
     },
     "쿠팡": {
-      "discovered": 40,
+      "discovered": 60,
       "verified": 0,
       "sources": {
-        "sitemap": 40
+        "official_page": 21,
+        "sitemap": 39
       },
-      "errors": [
-        "official_page:ReadTimeout"
-      ],
+      "errors": [],
       "rejected": {
-        "not_job_posting": 34
+        "eligibility_unconfirmed": 3,
+        "career_only": 6,
+        "not_job_posting": 39
       }
     },
     "우아한형제들": {
@@ -496,11 +497,12 @@
       "rejected": {}
     },
     "토스": {
-      "discovered": 12,
+      "discovered": 14,
       "verified": 0,
       "sources": {
         "official_page": 5,
-        "sitemap": 7
+        "sitemap": 7,
+        "bing": 2
       },
       "errors": [],
       "rejected": {
@@ -710,11 +712,15 @@
       }
     },
     "POSCO DX": {
-      "discovered": 0,
+      "discovered": 3,
       "verified": 0,
-      "sources": {},
+      "sources": {
+        "bing": 3
+      },
       "errors": [],
-      "rejected": {}
+      "rejected": {
+        "not_job_posting": 1
+      }
     },
     "포스코": {
       "discovered": 0,
@@ -727,9 +733,7 @@
       "discovered": 0,
       "verified": 0,
       "sources": {},
-      "errors": [
-        "official_page:ConnectionError"
-      ],
+      "errors": [],
       "rejected": {}
     },
     "두산디지털이노베이션": {
@@ -790,7 +794,9 @@
       "discovered": 0,
       "verified": 0,
       "sources": {},
-      "errors": [],
+      "errors": [
+        "official_page:ConnectTimeout"
+      ],
       "rejected": {}
     },
     "한국전력공사": {
@@ -815,9 +821,7 @@
       "discovered": 0,
       "verified": 0,
       "sources": {},
-      "errors": [
-        "official_page:ConnectTimeout"
-      ],
+      "errors": [],
       "rejected": {}
     },
     "NH농협손해보험": {
@@ -925,21 +929,21 @@
       "rejected": {}
     },
     "롯데그룹": {
-      "discovered": 40,
+      "discovered": 34,
       "verified": 0,
       "sources": {
-        "official_page": 40
+        "official_page": 34
       },
       "errors": [],
       "rejected": {}
     },
     "하나카드": {
-      "discovered": 0,
+      "discovered": 1,
       "verified": 0,
-      "sources": {},
-      "errors": [
-        "official_page:ConnectTimeout"
-      ],
+      "sources": {
+        "official_page": 1
+      },
+      "errors": [],
       "rejected": {}
     }
   },
@@ -947,6 +951,6 @@
     "published": 38,
     "automatic": 37,
     "curated": 1,
-    "review": 330
+    "review": 337
   }
 }
