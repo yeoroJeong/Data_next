@@ -1,5 +1,5 @@
 {
-  "lastRunAt": "2026-10-25T13:45:21+09:00",
+  "lastRunAt": "2026-10-25T22:43:44+09:00",
   "companies": {
     "삼성전자": {
       "discovered": 17,
@@ -407,15 +407,15 @@
       }
     },
     "NAVER Cloud": {
-      "discovered": 15,
+      "discovered": 14,
       "verified": 1,
       "sources": {
-        "official_api": 7,
+        "official_api": 6,
         "official_page": 8
       },
       "errors": [],
       "rejected": {
-        "career_only": 6,
+        "career_only": 5,
         "eligibility_unconfirmed": 1,
         "not_job_posting": 2
       }
@@ -465,14 +465,15 @@
       "rejected": {}
     },
     "쿠팡": {
-      "discovered": 60,
+      "discovered": 63,
       "verified": 0,
       "sources": {
-        "official_page": 21,
+        "official_page": 24,
         "sitemap": 39
       },
       "errors": [],
       "rejected": {
+        "senior_career_required": 3,
         "eligibility_unconfirmed": 3,
         "career_only": 6,
         "not_job_posting": 39
@@ -507,12 +508,12 @@
       }
     },
     "카카오뱅크": {
-      "discovered": 0,
+      "discovered": 3,
       "verified": 0,
-      "sources": {},
-      "errors": [
-        "official_page:ConnectTimeout"
-      ],
+      "sources": {
+        "official_page": 3
+      },
+      "errors": [],
       "rejected": {}
     },
     "두나무": {
@@ -710,10 +711,10 @@
       }
     },
     "POSCO DX": {
-      "discovered": 4,
+      "discovered": 3,
       "verified": 0,
       "sources": {
-        "bing": 4
+        "bing": 3
       },
       "errors": [],
       "rejected": {}
@@ -817,9 +818,7 @@
       "discovered": 0,
       "verified": 0,
       "sources": {},
-      "errors": [
-        "official_page:ConnectTimeout"
-      ],
+      "errors": [],
       "rejected": {}
     },
     "NH농협손해보험": {
@@ -949,6 +948,6 @@
     "published": 38,
     "automatic": 37,
     "curated": 1,
-    "review": 336
+    "review": 338
   }
 }
