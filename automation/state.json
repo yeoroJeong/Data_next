@@ -1,5 +1,5 @@
 {
-  "lastRunAt": "2026-10-24T22:21:29+09:00",
+  "lastRunAt": "2026-10-25T13:45:21+09:00",
   "companies": {
     "삼성전자": {
       "discovered": 17,
@@ -335,37 +335,37 @@
       "rejected": {}
     },
     "롯데이노베이트": {
-      "discovered": 34,
+      "discovered": 32,
       "verified": 0,
       "sources": {
-        "official_page": 34
+        "official_page": 32
       },
       "errors": [],
       "rejected": {}
     },
     "롯데쇼핑": {
-      "discovered": 34,
+      "discovered": 32,
       "verified": 0,
       "sources": {
-        "official_page": 34
+        "official_page": 32
       },
       "errors": [],
       "rejected": {}
     },
     "롯데카드": {
-      "discovered": 34,
+      "discovered": 32,
       "verified": 0,
       "sources": {
-        "official_page": 34
+        "official_page": 32
       },
       "errors": [],
       "rejected": {}
     },
     "롯데e커머스": {
-      "discovered": 34,
+      "discovered": 32,
       "verified": 0,
       "sources": {
-        "official_page": 34
+        "official_page": 32
       },
       "errors": [],
       "rejected": {}
@@ -507,12 +507,12 @@
       }
     },
     "카카오뱅크": {
-      "discovered": 3,
+      "discovered": 0,
       "verified": 0,
-      "sources": {
-        "official_page": 3
-      },
-      "errors": [],
+      "sources": {},
+      "errors": [
+        "official_page:ConnectTimeout"
+      ],
       "rejected": {}
     },
     "두나무": {
@@ -710,25 +710,19 @@
       }
     },
     "POSCO DX": {
-      "discovered": 2,
+      "discovered": 4,
       "verified": 0,
       "sources": {
-        "bing": 2
+        "bing": 4
       },
-      "errors": [
-        "official_page:ConnectionError"
-      ],
-      "rejected": {
-        "not_job_posting": 1
-      }
+      "errors": [],
+      "rejected": {}
     },
     "포스코": {
       "discovered": 0,
       "verified": 0,
       "sources": {},
-      "errors": [
-        "official_page:ConnectionError"
-      ],
+      "errors": [],
       "rejected": {}
     },
     "HD현대": {
@@ -933,21 +927,21 @@
       "rejected": {}
     },
     "롯데그룹": {
-      "discovered": 34,
+      "discovered": 32,
       "verified": 0,
       "sources": {
-        "official_page": 34
+        "official_page": 32
       },
       "errors": [],
       "rejected": {}
     },
     "하나카드": {
-      "discovered": 0,
+      "discovered": 1,
       "verified": 0,
-      "sources": {},
-      "errors": [
-        "official_page:ConnectTimeout"
-      ],
+      "sources": {
+        "official_page": 1
+      },
+      "errors": [],
       "rejected": {}
     }
   },
@@ -955,6 +949,6 @@
     "published": 38,
     "automatic": 37,
     "curated": 1,
-    "review": 337
+    "review": 336
   }
 }
