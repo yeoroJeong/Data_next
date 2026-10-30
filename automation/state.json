@@ -1,5 +1,5 @@
 {
-  "lastRunAt": "2026-10-30T01:09:37+09:00",
+  "lastRunAt": "2026-10-30T14:52:40+09:00",
   "companies": {
     "삼성전자": {
       "discovered": 17,
@@ -278,9 +278,7 @@
       "sources": {
         "sitemap": 26
       },
-      "errors": [
-        "official_page:ConnectionError"
-      ],
+      "errors": [],
       "rejected": {}
     },
     "현대카드": {
@@ -402,26 +400,26 @@
       "rejected": {}
     },
     "NAVER": {
-      "discovered": 42,
+      "discovered": 46,
       "verified": 3,
       "sources": {
-        "official_api": 35,
-        "official_page": 7
+        "official_api": 38,
+        "official_page": 8
       },
       "errors": [],
       "rejected": {
         "career_only": 5,
-        "not_data_track": 25,
-        "eligibility_unconfirmed": 4,
+        "not_data_track": 27,
+        "eligibility_unconfirmed": 5,
         "not_job_posting": 2
       }
     },
     "NAVER Cloud": {
-      "discovered": 8,
+      "discovered": 9,
       "verified": 1,
       "sources": {
         "official_api": 1,
-        "official_page": 7
+        "official_page": 8
       },
       "errors": [],
       "rejected": {
@@ -475,15 +473,15 @@
       "rejected": {}
     },
     "쿠팡": {
-      "discovered": 69,
+      "discovered": 63,
       "verified": 0,
       "sources": {
-        "official_page": 30,
+        "official_page": 24,
         "sitemap": 39
       },
       "errors": [],
       "rejected": {
-        "eligibility_unconfirmed": 3,
+        "eligibility_unconfirmed": 9,
         "career_only": 3,
         "not_job_posting": 39
       }
@@ -630,15 +628,16 @@
       "rejected": {}
     },
     "우리은행": {
-      "discovered": 3,
-      "verified": 0,
+      "discovered": 203,
+      "verified": 2,
       "sources": {
-        "official_page": 2,
-        "sitemap": 1
+        "official_page": 203
       },
       "errors": [],
       "rejected": {
-        "not_job_posting": 2
+        "not_job_posting": 3,
+        "eligibility_unconfirmed": 6,
+        "career_only": 2
       }
     },
     "NH농협은행": {
@@ -658,12 +657,12 @@
       "rejected": {}
     },
     "한국투자증권": {
-      "discovered": 4,
+      "discovered": 0,
       "verified": 0,
-      "sources": {
-        "official_page": 4
-      },
-      "errors": [],
+      "sources": {},
+      "errors": [
+        "official_page:ConnectTimeout"
+      ],
       "rejected": {}
     },
     "CJ올리브네트웍스": {
@@ -722,7 +721,9 @@
       "discovered": 0,
       "verified": 0,
       "sources": {},
-      "errors": [],
+      "errors": [
+        "official_page:ConnectionError"
+      ],
       "rejected": {}
     },
     "포스코": {
@@ -753,9 +754,7 @@
         "official_page": 16
       },
       "errors": [],
-      "rejected": {
-        "eligibility_unconfirmed": 1
-      }
+      "rejected": {}
     },
     "BGF리테일": {
       "discovered": 0,
@@ -955,9 +954,9 @@
     }
   },
   "summary": {
-    "published": 40,
-    "automatic": 39,
+    "published": 42,
+    "automatic": 41,
     "curated": 1,
-    "review": 310
+    "review": 329
   }
 }
