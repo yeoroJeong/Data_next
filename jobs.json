@@ -1,24 +1,7 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-30T14:52:40+09:00",
+  "updatedAt": "2026-10-31T00:57:27+09:00",
   "jobs": [
-    {
-      "id": "37a2d5113804f32e",
-      "company": "NAVER",
-      "title": "[네이버웹툰] AI 애니메이션 제작 (AI animator) (신입)",
-      "kind": "신입 · 정규직",
-      "place": "원문 확인",
-      "deadline": "2026-10-30T23:59:00+09:00",
-      "deadlineLabel": "10.30 23:59",
-      "track": "데이터 / 디지털",
-      "note": "공식 채용 원문에서 데이터 / 디지털 연관성이 확인된 공고입니다.",
-      "check": "신입·인턴 지원 조건을 확인했습니다. 상세 자격과 근무지는 원문에서 다시 확인하세요.",
-      "url": "https://recruit.navercorp.com/rcrt/view.do?annoId=30005625",
-      "source": "NAVER 공식 채용",
-      "initial": "NA",
-      "color": "orange",
-      "verifiedAt": "2026-10-30T14:52+09:00"
-    },
     {
       "id": "69e10be56e4cbc24",
       "company": "NAVER",
@@ -34,7 +17,7 @@
       "source": "NAVER 공식 채용",
       "initial": "NA",
       "color": "orange",
-      "verifiedAt": "2026-10-30T14:52+09:00"
+      "verifiedAt": "2026-10-31T00:57+09:00"
     },
     {
       "id": "fc93c1591da1b5a2",
@@ -68,7 +51,7 @@
       "source": "카카오페이 공식 채용",
       "initial": "카카",
       "color": "green",
-      "verifiedAt": "2026-10-30T14:52+09:00"
+      "verifiedAt": "2026-10-31T00:57+09:00"
     },
     {
       "id": "ac239e4bbec74485",
@@ -85,7 +68,7 @@
       "source": "카카오페이 공식 채용",
       "initial": "카카",
       "color": "green",
-      "verifiedAt": "2026-10-30T14:52+09:00"
+      "verifiedAt": "2026-10-31T00:57+09:00"
     },
     {
       "id": "c720d7351093eca9",
@@ -102,7 +85,7 @@
       "source": "카카오페이 공식 채용",
       "initial": "카카",
       "color": "green",
-      "verifiedAt": "2026-10-30T14:52+09:00"
+      "verifiedAt": "2026-10-31T00:57+09:00"
     },
     {
       "id": "15af525206778277",
@@ -119,7 +102,7 @@
       "source": "카카오페이 공식 채용",
       "initial": "카카",
       "color": "green",
-      "verifiedAt": "2026-10-30T14:52+09:00"
+      "verifiedAt": "2026-10-31T00:57+09:00"
     },
     {
       "id": "9e18838c21fe1de5",
@@ -136,7 +119,7 @@
       "source": "카카오페이 공식 채용",
       "initial": "카카",
       "color": "green",
-      "verifiedAt": "2026-10-30T14:52+09:00"
+      "verifiedAt": "2026-10-31T00:57+09:00"
     },
     {
       "id": "e3d871299e9e192c",
@@ -532,7 +515,7 @@
       "source": "카카오 공식 채용",
       "initial": "카카",
       "color": "green",
-      "verifiedAt": "2026-10-30T14:52+09:00"
+      "verifiedAt": "2026-10-31T00:57+09:00"
     },
     {
       "id": "25085745b5f500ab",
@@ -549,7 +532,7 @@
       "source": "NAVER 공식 채용",
       "initial": "NA",
       "color": "orange",
-      "verifiedAt": "2026-10-30T14:52+09:00"
+      "verifiedAt": "2026-10-31T00:57+09:00"
     },
     {
       "id": "b0c44b810000cef2",
@@ -566,7 +549,7 @@
       "source": "NAVER Cloud 공식 채용",
       "initial": "NA",
       "color": "blue",
-      "verifiedAt": "2026-10-30T14:52+09:00"
+      "verifiedAt": "2026-10-31T00:57+09:00"
     },
     {
       "id": "44cea40cfea32b01",
@@ -583,7 +566,7 @@
       "source": "크래프톤 공식 채용",
       "initial": "크래",
       "color": "orange",
-      "verifiedAt": "2026-10-30T14:52+09:00"
+      "verifiedAt": "2026-10-31T00:57+09:00"
     },
     {
       "id": "b9fff7b28f30ab6b",
@@ -600,7 +583,7 @@
       "source": "쿠팡 공식 채용",
       "initial": "쿠팡",
       "color": "blue",
-      "verifiedAt": "2026-10-30T14:52+09:00"
+      "verifiedAt": "2026-10-31T00:57+09:00"
     },
     {
       "id": "dc028281437a94df",
@@ -617,7 +600,7 @@
       "source": "쿠팡 공식 채용",
       "initial": "쿠팡",
       "color": "blue",
-      "verifiedAt": "2026-10-30T14:52+09:00"
+      "verifiedAt": "2026-10-31T00:57+09:00"
     },
     {
       "id": "7e49e4dc2e96cffd",
@@ -634,7 +617,7 @@
       "source": "쿠팡 공식 채용",
       "initial": "쿠팡",
       "color": "blue",
-      "verifiedAt": "2026-10-30T14:52+09:00"
+      "verifiedAt": "2026-10-31T00:57+09:00"
     },
     {
       "id": "3e88b532c6923154",
@@ -651,7 +634,7 @@
       "source": "크래프톤 공식 채용",
       "initial": "크래",
       "color": "orange",
-      "verifiedAt": "2026-10-30T14:52+09:00"
+      "verifiedAt": "2026-10-31T00:57+09:00"
     },
     {
       "id": "0f39376584e25f9a",
@@ -668,7 +651,7 @@
       "source": "크래프톤 공식 채용",
       "initial": "크래",
       "color": "orange",
-      "verifiedAt": "2026-10-30T14:52+09:00"
+      "verifiedAt": "2026-10-31T00:57+09:00"
     },
     {
       "id": "afad47c285771f0d",
@@ -685,7 +668,7 @@
       "source": "크래프톤 공식 채용",
       "initial": "크래",
       "color": "orange",
-      "verifiedAt": "2026-10-30T14:52+09:00"
+      "verifiedAt": "2026-10-31T00:57+09:00"
     },
     {
       "id": "711df5fe69a09b9a",
@@ -702,7 +685,7 @@
       "source": "우리은행 공식 채용",
       "initial": "우리",
       "color": "blue",
-      "verifiedAt": "2026-10-30T14:52+09:00"
+      "verifiedAt": "2026-10-31T00:57+09:00"
     },
     {
       "id": "06e1e2431719059c",
@@ -719,7 +702,7 @@
       "source": "우리은행 공식 채용",
       "initial": "우리",
       "color": "blue",
-      "verifiedAt": "2026-10-30T14:52+09:00"
+      "verifiedAt": "2026-10-31T00:57+09:00"
     }
   ]
 }
