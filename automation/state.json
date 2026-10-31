@@ -1,5 +1,5 @@
 {
-  "lastRunAt": "2026-10-31T14:46:29+09:00",
+  "lastRunAt": "2026-11-01T00:20:51+09:00",
   "companies": {
     "삼성전자": {
       "discovered": 17,
@@ -481,10 +481,10 @@
       "rejected": {}
     },
     "쿠팡": {
-      "discovered": 60,
+      "discovered": 57,
       "verified": 0,
       "sources": {
-        "official_page": 21,
+        "official_page": 18,
         "sitemap": 39
       },
       "errors": [],
@@ -510,12 +510,11 @@
       "rejected": {}
     },
     "토스": {
-      "discovered": 14,
+      "discovered": 12,
       "verified": 0,
       "sources": {
         "official_page": 5,
-        "sitemap": 7,
-        "bing": 2
+        "sitemap": 7
       },
       "errors": [],
       "rejected": {
@@ -636,15 +635,16 @@
       "rejected": {}
     },
     "우리은행": {
-      "discovered": 196,
-      "verified": 4,
+      "discovered": 200,
+      "verified": 3,
       "sources": {
-        "official_page": 196
+        "official_page": 200
       },
       "errors": [],
       "rejected": {
         "not_job_posting": 3,
-        "eligibility_unconfirmed": 3
+        "eligibility_unconfirmed": 5,
+        "career_only": 2
       }
     },
     "NH농협은행": {
@@ -687,11 +687,10 @@
       "rejected": {}
     },
     "신세계I&C": {
-      "discovered": 2,
+      "discovered": 1,
       "verified": 0,
       "sources": {
-        "official_page": 1,
-        "bing": 1
+        "official_page": 1
       },
       "errors": [],
       "rejected": {}
@@ -726,16 +725,14 @@
       }
     },
     "POSCO DX": {
-      "discovered": 4,
+      "discovered": 2,
       "verified": 0,
       "sources": {
-        "bing": 4
+        "bing": 2
       },
-      "errors": [
-        "official_page:ConnectionError"
-      ],
+      "errors": [],
       "rejected": {
-        "not_job_posting": 1
+        "eligibility_unconfirmed": 1
       }
     },
     "포스코": {
@@ -810,7 +807,9 @@
       "discovered": 0,
       "verified": 0,
       "sources": {},
-      "errors": [],
+      "errors": [
+        "official_page:ConnectTimeout"
+      ],
       "rejected": {}
     },
     "한국전력공사": {
@@ -835,7 +834,9 @@
       "discovered": 0,
       "verified": 0,
       "sources": {},
-      "errors": [],
+      "errors": [
+        "official_page:ConnectTimeout"
+      ],
       "rejected": {}
     },
     "NH농협손해보험": {
@@ -958,19 +959,19 @@
       }
     },
     "하나카드": {
-      "discovered": 0,
+      "discovered": 1,
       "verified": 0,
-      "sources": {},
-      "errors": [
-        "official_page:ConnectTimeout"
-      ],
+      "sources": {
+        "official_page": 1
+      },
+      "errors": [],
       "rejected": {}
     }
   },
   "summary": {
-    "published": 45,
-    "automatic": 44,
+    "published": 46,
+    "automatic": 45,
     "curated": 1,
-    "review": 318
+    "review": 325
   }
 }

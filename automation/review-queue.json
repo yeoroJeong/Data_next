@@ -5,7 +5,7 @@
     "title": "[공통] 채용 브랜딩 – 콘텐츠 제작 및 SNS 채널 운영 (계약직) 공통/신사업/기타 경영기획/관리/지원 경력 무관 계약직 서울/경기",
     "snippet": "공식 채용 원문에서 SW / 백엔드 연관성이 확인된 공고입니다.",
     "reason": "existing_HTTPError",
-    "checkedAt": "2026-10-31T14:46:29+09:00"
+    "checkedAt": "2026-11-01T00:20:51+09:00"
   },
   {
     "company": "카카오페이",
@@ -13,23 +13,7 @@
     "title": "인재 pool - 디자인 경력 무관 정규직",
     "snippet": "공식 채용 원문에서 클라우드 / 플랫폼 연관성이 확인된 공고입니다.",
     "reason": "existing_posting_not_found",
-    "checkedAt": "2026-10-31T14:46:29+09:00"
-  },
-  {
-    "company": "카카오페이",
-    "url": "https://kakaopay.career.greetinghr.com/ko/o/103675",
-    "title": "인재 pool - 비즈니스 경력 무관 정규직",
-    "snippet": "공식 채용 원문에서 클라우드 / 플랫폼 연관성이 확인된 공고입니다.",
-    "reason": "existing_posting_not_found",
-    "checkedAt": "2026-10-31T14:46:29+09:00"
-  },
-  {
-    "company": "카카오페이",
-    "url": "https://kakaopay.career.greetinghr.com/ko/o/93966",
-    "title": "인재 pool - 프로덕트 경력 무관 정규직",
-    "snippet": "공식 채용 원문에서 클라우드 / 플랫폼 연관성이 확인된 공고입니다.",
-    "reason": "existing_posting_not_found",
-    "checkedAt": "2026-10-31T14:46:29+09:00"
+    "checkedAt": "2026-11-01T00:20:51+09:00"
   },
   {
     "company": "카카오페이",
@@ -37,7 +21,15 @@
     "title": "인재 pool - 기술 경력 무관 정규직",
     "snippet": "공식 채용 원문에서 클라우드 / 플랫폼 연관성이 확인된 공고입니다.",
     "reason": "existing_posting_not_found",
-    "checkedAt": "2026-10-31T14:46:29+09:00"
+    "checkedAt": "2026-11-01T00:20:51+09:00"
+  },
+  {
+    "company": "카카오페이",
+    "url": "https://kakaopay.career.greetinghr.com/ko/o/103675",
+    "title": "인재 pool - 비즈니스 경력 무관 정규직",
+    "snippet": "공식 채용 원문에서 클라우드 / 플랫폼 연관성이 확인된 공고입니다.",
+    "reason": "existing_posting_not_found",
+    "checkedAt": "2026-11-01T00:20:51+09:00"
   },
   {
     "company": "카카오페이",
@@ -45,15 +37,23 @@
     "title": "인재 pool - 스탭 경력 무관 정규직",
     "snippet": "공식 채용 원문에서 클라우드 / 플랫폼 연관성이 확인된 공고입니다.",
     "reason": "existing_posting_not_found",
-    "checkedAt": "2026-10-31T14:46:29+09:00"
+    "checkedAt": "2026-11-01T00:20:51+09:00"
   },
   {
-    "company": "크래프톤",
-    "url": "https://www.krafton.com/careers/recruit-detail/?var_page=1&job=5106&search_list_cnt=10",
-    "title": "[Infra Div.] IT Engineer (경력 무관 / 계약직)",
+    "company": "카카오페이",
+    "url": "https://kakaopay.career.greetinghr.com/ko/o/93966",
+    "title": "인재 pool - 프로덕트 경력 무관 정규직",
     "snippet": "공식 채용 원문에서 클라우드 / 플랫폼 연관성이 확인된 공고입니다.",
-    "reason": "existing_insufficient_text",
-    "checkedAt": "2026-10-31T14:46:29+09:00"
+    "reason": "existing_posting_not_found",
+    "checkedAt": "2026-11-01T00:20:51+09:00"
+  },
+  {
+    "company": "강원개발공사",
+    "url": "https://job.incruit.com/jobdb_info/jobpost.asp?job=2610080002345",
+    "title": "강원개발공사 2026년 강원개발공사 하반기 채용공고(계약직, 청년 체험형 인턴)",
+    "snippet": "공식 채용 원문에서 SW / 백엔드 연관성이 확인된 공고입니다.",
+    "reason": "existing_posting_not_found",
+    "checkedAt": "2026-11-01T00:20:51+09:00"
   },
   {
     "company": "카카오페이",
@@ -61,23 +61,15 @@
     "title": "[계약직] 정보 협력 담당자 - 대외기관 정보 제공 지원 스탭 신입 계약직 카카오페이",
     "snippet": "공식 채용 원문에서 데이터 엔지니어링 연관성이 확인된 공고입니다.",
     "reason": "existing_HTTPError",
-    "checkedAt": "2026-10-31T14:46:29+09:00"
+    "checkedAt": "2026-11-01T00:20:51+09:00"
   },
   {
     "company": "크래프톤",
-    "url": "https://www.krafton.com/en/careers/recruit-detail/?var_page=1&job=5106&search_list_cnt=10",
+    "url": "https://www.krafton.com/careers/recruit-detail/?var_page=1&job=5106&search_list_cnt=10",
     "title": "[Infra Div.] IT Engineer (경력 무관 / 계약직)",
     "snippet": "공식 채용 원문에서 클라우드 / 플랫폼 연관성이 확인된 공고입니다.",
     "reason": "existing_insufficient_text",
-    "checkedAt": "2026-10-31T14:46:29+09:00"
-  },
-  {
-    "company": "크래프톤",
-    "url": "https://www.krafton.com/zh/careers/recruit-detail/?var_page=1&job=5106&search_list_cnt=10",
-    "title": "[Infra Div.] IT Engineer (경력 무관 / 계약직)",
-    "snippet": "공식 채용 원문에서 클라우드 / 플랫폼 연관성이 확인된 공고입니다.",
-    "reason": "existing_insufficient_text",
-    "checkedAt": "2026-10-31T14:46:29+09:00"
+    "checkedAt": "2026-11-01T00:20:51+09:00"
   },
   {
     "company": "카카오페이",
@@ -85,7 +77,15 @@
     "title": "[어시스턴트] 2D/3D 그래픽 디자인 업무 지원 신입 인턴 카카오페이",
     "snippet": "공식 채용 원문에서 데이터 엔지니어링 연관성이 확인된 공고입니다.",
     "reason": "existing_HTTPError",
-    "checkedAt": "2026-10-31T14:46:29+09:00"
+    "checkedAt": "2026-11-01T00:20:51+09:00"
+  },
+  {
+    "company": "크래프톤",
+    "url": "https://www.krafton.com/en/careers/recruit-detail/?var_page=1&job=5106&search_list_cnt=10",
+    "title": "[Infra Div.] IT Engineer (경력 무관 / 계약직)",
+    "snippet": "공식 채용 원문에서 클라우드 / 플랫폼 연관성이 확인된 공고입니다.",
+    "reason": "existing_insufficient_text",
+    "checkedAt": "2026-11-01T00:20:51+09:00"
   },
   {
     "company": "카카오페이",
@@ -93,15 +93,7 @@
     "title": "[어시스턴트] 대출 마케팅 업무 운영 지원 신입 인턴 카카오페이",
     "snippet": "공식 채용 원문에서 데이터 엔지니어링 연관성이 확인된 공고입니다.",
     "reason": "existing_HTTPError",
-    "checkedAt": "2026-10-31T14:46:29+09:00"
-  },
-  {
-    "company": "카카오페이",
-    "url": "https://kakaopay.career.greetinghr.com/ko/o/236333",
-    "title": "[어시스턴트] 오프라인 결제 마케팅 업무 지원 신입 인턴 카카오페이",
-    "snippet": "공식 채용 원문에서 데이터 엔지니어링 연관성이 확인된 공고입니다.",
-    "reason": "existing_HTTPError",
-    "checkedAt": "2026-10-31T14:46:29+09:00"
+    "checkedAt": "2026-11-01T00:20:51+09:00"
   },
   {
     "company": "카카오페이",
@@ -109,15 +101,7 @@
     "title": "데이터 엔지니어 - 데이터 플랫폼 기술 신입 정규직 카카오페이",
     "snippet": "공식 채용 원문에서 데이터 엔지니어링 연관성이 확인된 공고입니다.",
     "reason": "existing_posting_not_found",
-    "checkedAt": "2026-10-31T14:46:29+09:00"
-  },
-  {
-    "company": "카카오페이",
-    "url": "https://kakaopay.career.greetinghr.com/ko/o/235177",
-    "title": "서버 개발자 - 데이터 플랫폼 기술 신입 정규직 카카오페이",
-    "snippet": "공식 채용 원문에서 데이터 엔지니어링 연관성이 확인된 공고입니다.",
-    "reason": "existing_posting_not_found",
-    "checkedAt": "2026-10-31T14:46:29+09:00"
+    "checkedAt": "2026-11-01T00:20:51+09:00"
   },
   {
     "company": "크래프톤",
@@ -125,7 +109,23 @@
     "title": "[AI Research Div.] Data Program Manager (경력무관 / 인턴)",
     "snippet": "공식 채용 원문에서 클라우드 / 플랫폼 연관성이 확인된 공고입니다.",
     "reason": "existing_insufficient_text",
-    "checkedAt": "2026-10-31T14:46:29+09:00"
+    "checkedAt": "2026-11-01T00:20:51+09:00"
+  },
+  {
+    "company": "크래프톤",
+    "url": "https://www.krafton.com/zh/careers/recruit-detail/?var_page=1&job=5106&search_list_cnt=10",
+    "title": "[Infra Div.] IT Engineer (경력 무관 / 계약직)",
+    "snippet": "공식 채용 원문에서 클라우드 / 플랫폼 연관성이 확인된 공고입니다.",
+    "reason": "existing_insufficient_text",
+    "checkedAt": "2026-11-01T00:20:51+09:00"
+  },
+  {
+    "company": "카카오페이",
+    "url": "https://kakaopay.career.greetinghr.com/ko/o/236333",
+    "title": "[어시스턴트] 오프라인 결제 마케팅 업무 지원 신입 인턴 카카오페이",
+    "snippet": "공식 채용 원문에서 데이터 엔지니어링 연관성이 확인된 공고입니다.",
+    "reason": "existing_HTTPError",
+    "checkedAt": "2026-11-01T00:20:51+09:00"
   },
   {
     "company": "크래프톤",
@@ -133,7 +133,7 @@
     "title": "[AI Research Div.] Data Program Manager (경력무관 / 인턴)",
     "snippet": "공식 채용 원문에서 클라우드 / 플랫폼 연관성이 확인된 공고입니다.",
     "reason": "existing_insufficient_text",
-    "checkedAt": "2026-10-31T14:46:29+09:00"
+    "checkedAt": "2026-11-01T00:20:51+09:00"
   },
   {
     "company": "크래프톤",
@@ -141,7 +141,15 @@
     "title": "[AI Research Div.] Data Program Manager (경력무관 / 인턴)",
     "snippet": "공식 채용 원문에서 클라우드 / 플랫폼 연관성이 확인된 공고입니다.",
     "reason": "existing_insufficient_text",
-    "checkedAt": "2026-10-31T14:46:29+09:00"
+    "checkedAt": "2026-11-01T00:20:51+09:00"
+  },
+  {
+    "company": "카카오페이",
+    "url": "https://kakaopay.career.greetinghr.com/ko/o/235177",
+    "title": "서버 개발자 - 데이터 플랫폼 기술 신입 정규직 카카오페이",
+    "snippet": "공식 채용 원문에서 데이터 엔지니어링 연관성이 확인된 공고입니다.",
+    "reason": "existing_posting_not_found",
+    "checkedAt": "2026-11-01T00:20:51+09:00"
   },
   {
     "company": "크래프톤",
@@ -149,15 +157,7 @@
     "title": "[AI Research Div.] Research Scientist/Engineer - Autonomous Mobility (경력무관)",
     "snippet": "공식 채용 원문에서 클라우드 / 플랫폼 연관성이 확인된 공고입니다.",
     "reason": "existing_insufficient_text",
-    "checkedAt": "2026-10-31T14:46:29+09:00"
-  },
-  {
-    "company": "크래프톤",
-    "url": "https://www.krafton.com/careers/recruit-detail/?var_page=1&job=5123&search_list_cnt=10",
-    "title": "[AI Research Div.] Research Scientist/Engineer - Autonomous Mobility (경력무관)",
-    "snippet": "공식 채용 원문에서 클라우드 / 플랫폼 연관성이 확인된 공고입니다.",
-    "reason": "existing_insufficient_text",
-    "checkedAt": "2026-10-31T14:46:29+09:00"
+    "checkedAt": "2026-11-01T00:20:51+09:00"
   },
   {
     "company": "크래프톤",
@@ -165,7 +165,15 @@
     "title": "[AI Research Div.] Research Scientist/Engineer - Autonomous Mobility (경력무관)",
     "snippet": "공식 채용 원문에서 클라우드 / 플랫폼 연관성이 확인된 공고입니다.",
     "reason": "existing_insufficient_text",
-    "checkedAt": "2026-10-31T14:46:29+09:00"
+    "checkedAt": "2026-11-01T00:20:51+09:00"
+  },
+  {
+    "company": "크래프톤",
+    "url": "https://www.krafton.com/careers/recruit-detail/?var_page=1&job=5123&search_list_cnt=10",
+    "title": "[AI Research Div.] Research Scientist/Engineer - Autonomous Mobility (경력무관)",
+    "snippet": "공식 채용 원문에서 클라우드 / 플랫폼 연관성이 확인된 공고입니다.",
+    "reason": "existing_insufficient_text",
+    "checkedAt": "2026-11-01T00:20:51+09:00"
   },
   {
     "company": "크래프톤",
@@ -173,23 +181,7 @@
     "title": "[AI Research Div.] Research Scientist - Specialized Model (2년 이상 / 인턴)",
     "snippet": "공식 채용 원문에서 클라우드 / 플랫폼 연관성이 확인된 공고입니다.",
     "reason": "existing_posting_not_found",
-    "checkedAt": "2026-10-31T14:46:29+09:00"
-  },
-  {
-    "company": "카카오",
-    "url": "https://careers.kakao.com/jobs/P-14562",
-    "title": "숏폼 서비스 영상 콘텐츠 제작 및 운영_어시스턴트",
-    "snippet": "공식 채용 원문에서 비즈니스 분석 연관성이 확인된 공고입니다.",
-    "reason": "existing_insufficient_text",
-    "checkedAt": "2026-10-31T14:46:29+09:00"
-  },
-  {
-    "company": "크래프톤",
-    "url": "https://www.krafton.com/careers/recruit-detail/?var_page=1&job=5127&search_list_cnt=10",
-    "title": "[AI Research Div.] AI Operation Manager (2년 이상 / 인턴)",
-    "snippet": "공식 채용 원문에서 클라우드 / 플랫폼 연관성이 확인된 공고입니다.",
-    "reason": "existing_posting_not_found",
-    "checkedAt": "2026-10-31T14:46:29+09:00"
+    "checkedAt": "2026-11-01T00:20:51+09:00"
   },
   {
     "company": "크래프톤",
@@ -197,7 +189,15 @@
     "title": "[AI Research Div.] AI Operation Manager (2년 이상 / 인턴)",
     "snippet": "공식 채용 원문에서 클라우드 / 플랫폼 연관성이 확인된 공고입니다.",
     "reason": "existing_posting_not_found",
-    "checkedAt": "2026-10-31T14:46:29+09:00"
+    "checkedAt": "2026-11-01T00:20:51+09:00"
+  },
+  {
+    "company": "크래프톤",
+    "url": "https://www.krafton.com/careers/recruit-detail/?var_page=1&job=5127&search_list_cnt=10",
+    "title": "[AI Research Div.] AI Operation Manager (2년 이상 / 인턴)",
+    "snippet": "공식 채용 원문에서 클라우드 / 플랫폼 연관성이 확인된 공고입니다.",
+    "reason": "existing_posting_not_found",
+    "checkedAt": "2026-11-01T00:20:51+09:00"
   },
   {
     "company": "크래프톤",
@@ -205,15 +205,7 @@
     "title": "[AI Research Div.] Research Scientist - Specialized Model (2년 이상 / 인턴)",
     "snippet": "공식 채용 원문에서 클라우드 / 플랫폼 연관성이 확인된 공고입니다.",
     "reason": "existing_posting_not_found",
-    "checkedAt": "2026-10-31T14:46:29+09:00"
-  },
-  {
-    "company": "크래프톤",
-    "url": "https://www.krafton.com/zh/careers/recruit-detail/?var_page=1&job=5127&search_list_cnt=10",
-    "title": "[AI Research Div.] AI Operation Manager (2년 이상 / 인턴)",
-    "snippet": "공식 채용 원문에서 클라우드 / 플랫폼 연관성이 확인된 공고입니다.",
-    "reason": "existing_posting_not_found",
-    "checkedAt": "2026-10-31T14:46:29+09:00"
+    "checkedAt": "2026-11-01T00:20:51+09:00"
   },
   {
     "company": "크래프톤",
@@ -221,7 +213,23 @@
     "title": "[AI Research Div.] Research Scientist - Specialized Model (2년 이상 / 인턴)",
     "snippet": "공식 채용 원문에서 클라우드 / 플랫폼 연관성이 확인된 공고입니다.",
     "reason": "existing_posting_not_found",
-    "checkedAt": "2026-10-31T14:46:29+09:00"
+    "checkedAt": "2026-11-01T00:20:51+09:00"
+  },
+  {
+    "company": "카카오",
+    "url": "https://careers.kakao.com/jobs/P-14562",
+    "title": "숏폼 서비스 영상 콘텐츠 제작 및 운영_어시스턴트",
+    "snippet": "공식 채용 원문에서 비즈니스 분석 연관성이 확인된 공고입니다.",
+    "reason": "existing_insufficient_text",
+    "checkedAt": "2026-11-01T00:20:51+09:00"
+  },
+  {
+    "company": "크래프톤",
+    "url": "https://www.krafton.com/zh/careers/recruit-detail/?var_page=1&job=5127&search_list_cnt=10",
+    "title": "[AI Research Div.] AI Operation Manager (2년 이상 / 인턴)",
+    "snippet": "공식 채용 원문에서 클라우드 / 플랫폼 연관성이 확인된 공고입니다.",
+    "reason": "existing_posting_not_found",
+    "checkedAt": "2026-11-01T00:20:51+09:00"
   },
   {
     "company": "크래프톤",
@@ -229,7 +237,7 @@
     "title": "2027 크래프톤 채용연계형 인턴십 더보기",
     "snippet": "공식 채용 원문에서 비즈니스 분석 연관성이 확인된 공고입니다.",
     "reason": "existing_posting_not_found",
-    "checkedAt": "2026-10-31T14:46:29+09:00"
+    "checkedAt": "2026-11-01T00:20:51+09:00"
   },
   {
     "company": "크래프톤",
@@ -237,15 +245,23 @@
     "title": "[AI Research Div.] Research Scientist - World Action Models (경력무관 / 인턴)",
     "snippet": "공식 채용 원문에서 클라우드 / 플랫폼 연관성이 확인된 공고입니다.",
     "reason": "existing_posting_not_found",
-    "checkedAt": "2026-10-31T14:46:29+09:00"
+    "checkedAt": "2026-11-01T00:20:51+09:00"
   },
   {
-    "company": "크래프톤",
-    "url": "https://www.krafton.com/careers/recruit-detail/?var_page=1&job=5163&search_list_cnt=10",
-    "title": "[AI Research Div.] Research Scientist - World Action Models (경력무관 / 인턴)",
-    "snippet": "공식 채용 원문에서 클라우드 / 플랫폼 연관성이 확인된 공고입니다.",
+    "company": "우리은행",
+    "url": "https://job.incruit.com/entry/jobpost.asp?job=2610150003260",
+    "title": "(주)카카오페이 [어시스턴트] 유저리서치 업무 지원",
+    "snippet": "공식 채용 원문에서 SW / 백엔드 연관성이 확인된 공고입니다.",
     "reason": "existing_posting_not_found",
-    "checkedAt": "2026-10-31T14:46:29+09:00"
+    "checkedAt": "2026-11-01T00:20:51+09:00"
+  },
+  {
+    "company": "우리은행",
+    "url": "https://people.incruit.com/store/simulation/simulationservice.asp",
+    "title": "채용정보 서브메뉴 추천 채용정보 코스맥스그룹 [코스맥스그룹] 26년 10월 경력사원 채용 (채용시) (주)농심 2026년 (주)농심 경력직 채용 (~11/02) 스노우(주) [SNOW] 12월 전분야 체험형 인턴 (",
+    "snippet": "공식 채용 원문에서 데이터 엔지니어링 연관성이 확인된 공고입니다.",
+    "reason": "existing_posting_not_found",
+    "checkedAt": "2026-11-01T00:20:51+09:00"
   },
   {
     "company": "크래프톤",
@@ -253,7 +269,15 @@
     "title": "[AI Research Div.] Research Scientist - World Action Models (경력무관 / 인턴)",
     "snippet": "공식 채용 원문에서 클라우드 / 플랫폼 연관성이 확인된 공고입니다.",
     "reason": "existing_posting_not_found",
-    "checkedAt": "2026-10-31T14:46:29+09:00"
+    "checkedAt": "2026-11-01T00:20:51+09:00"
+  },
+  {
+    "company": "크래프톤",
+    "url": "https://www.krafton.com/careers/recruit-detail/?var_page=1&job=5163&search_list_cnt=10",
+    "title": "[AI Research Div.] Research Scientist - World Action Models (경력무관 / 인턴)",
+    "snippet": "공식 채용 원문에서 클라우드 / 플랫폼 연관성이 확인된 공고입니다.",
+    "reason": "existing_posting_not_found",
+    "checkedAt": "2026-11-01T00:20:51+09:00"
   },
   {
     "company": "삼성전자",
@@ -262,7 +286,7 @@
     "snippet": "삼성글로벌리서치",
     "discoveredBy": "official_page",
     "reason": "not_job_posting",
-    "checkedAt": "2026-10-31T14:46:29+09:00"
+    "checkedAt": "2026-11-01T00:20:51+09:00"
   },
   {
     "company": "삼성SDS",
@@ -271,7 +295,7 @@
     "snippet": "삼성글로벌리서치",
     "discoveredBy": "official_page",
     "reason": "not_job_posting",
-    "checkedAt": "2026-10-31T14:46:29+09:00"
+    "checkedAt": "2026-11-01T00:20:51+09:00"
   },
   {
     "company": "삼성디스플레이",
@@ -280,7 +304,7 @@
     "snippet": "삼성글로벌리서치",
     "discoveredBy": "official_page",
     "reason": "not_job_posting",
-    "checkedAt": "2026-10-31T14:46:29+09:00"
+    "checkedAt": "2026-11-01T00:20:51+09:00"
   },
   {
     "company": "삼성SDI",
@@ -289,7 +313,7 @@
     "snippet": "삼성글로벌리서치",
     "discoveredBy": "official_page",
     "reason": "not_job_posting",
-    "checkedAt": "2026-10-31T14:46:29+09:00"
+    "checkedAt": "2026-11-01T00:20:51+09:00"
   },
   {
     "company": "삼성전기",
@@ -298,7 +322,7 @@
     "snippet": "삼성글로벌리서치",
     "discoveredBy": "official_page",
     "reason": "not_job_posting",
-    "checkedAt": "2026-10-31T14:46:29+09:00"
+    "checkedAt": "2026-11-01T00:20:51+09:00"
   },
   {
     "company": "삼성생명",
@@ -307,7 +331,7 @@
     "snippet": "삼성글로벌리서치",
     "discoveredBy": "official_page",
     "reason": "not_job_posting",
-    "checkedAt": "2026-10-31T14:46:29+09:00"
+    "checkedAt": "2026-11-01T00:20:51+09:00"
   },
   {
     "company": "삼성화재",
@@ -316,7 +340,7 @@
     "snippet": "삼성글로벌리서치",
     "discoveredBy": "official_page",
     "reason": "not_job_posting",
-    "checkedAt": "2026-10-31T14:46:29+09:00"
+    "checkedAt": "2026-11-01T00:20:51+09:00"
   },
   {
     "company": "삼성카드",
@@ -325,7 +349,7 @@
     "snippet": "삼성글로벌리서치",
     "discoveredBy": "official_page",
     "reason": "not_job_posting",
-    "checkedAt": "2026-10-31T14:46:29+09:00"
+    "checkedAt": "2026-11-01T00:20:51+09:00"
   },
   {
     "company": "삼성증권",
@@ -334,7 +358,7 @@
     "snippet": "삼성글로벌리서치",
     "discoveredBy": "official_page",
     "reason": "not_job_posting",
-    "checkedAt": "2026-10-31T14:46:29+09:00"
+    "checkedAt": "2026-11-01T00:20:51+09:00"
   },
   {
     "company": "삼성물산",
@@ -343,7 +367,7 @@
     "snippet": "삼성글로벌리서치",
     "discoveredBy": "official_page",
     "reason": "not_job_posting",
-    "checkedAt": "2026-10-31T14:46:29+09:00"
+    "checkedAt": "2026-11-01T00:20:51+09:00"
   },
   {
     "company": "현대자동차",
@@ -352,7 +376,7 @@
     "snippet": "",
     "discoveredBy": "sitemap",
     "reason": "not_job_posting",
-    "checkedAt": "2026-10-31T14:46:29+09:00"
+    "checkedAt": "2026-11-01T00:20:51+09:00"
   },
   {
     "company": "현대자동차",
@@ -361,7 +385,7 @@
     "snippet": "",
     "discoveredBy": "sitemap",
     "reason": "not_job_posting",
-    "checkedAt": "2026-10-31T14:46:29+09:00"
+    "checkedAt": "2026-11-01T00:20:51+09:00"
   },
   {
     "company": "현대자동차",
@@ -370,7 +394,7 @@
     "snippet": "",
     "discoveredBy": "sitemap",
     "reason": "insufficient_text",
-    "checkedAt": "2026-10-31T14:46:29+09:00"
+    "checkedAt": "2026-11-01T00:20:51+09:00"
   },
   {
     "company": "기아",
@@ -379,7 +403,7 @@
     "snippet": "",
     "discoveredBy": "sitemap",
     "reason": "not_job_posting",
-    "checkedAt": "2026-10-31T14:46:29+09:00"
+    "checkedAt": "2026-11-01T00:20:51+09:00"
   },
   {
     "company": "기아",
@@ -388,7 +412,7 @@
     "snippet": "",
     "discoveredBy": "sitemap",
     "reason": "insufficient_text",
-    "checkedAt": "2026-10-31T14:46:29+09:00"
+    "checkedAt": "2026-11-01T00:20:51+09:00"
   },
   {
     "company": "기아",
@@ -397,7 +421,7 @@
     "snippet": "",
     "discoveredBy": "sitemap",
     "reason": "not_job_posting",
-    "checkedAt": "2026-10-31T14:46:29+09:00"
+    "checkedAt": "2026-11-01T00:20:51+09:00"
   },
   {
     "company": "기아",
@@ -406,7 +430,7 @@
     "snippet": "",
     "discoveredBy": "sitemap",
     "reason": "not_job_posting",
-    "checkedAt": "2026-10-31T14:46:29+09:00"
+    "checkedAt": "2026-11-01T00:20:51+09:00"
   },
   {
     "company": "기아",
@@ -415,7 +439,7 @@
     "snippet": "",
     "discoveredBy": "sitemap",
     "reason": "not_job_posting",
-    "checkedAt": "2026-10-31T14:46:29+09:00"
+    "checkedAt": "2026-11-01T00:20:51+09:00"
   },
   {
     "company": "기아",
@@ -424,7 +448,7 @@
     "snippet": "",
     "discoveredBy": "sitemap",
     "reason": "not_job_posting",
-    "checkedAt": "2026-10-31T14:46:29+09:00"
+    "checkedAt": "2026-11-01T00:20:51+09:00"
   },
   {
     "company": "기아",
@@ -433,7 +457,7 @@
     "snippet": "",
     "discoveredBy": "sitemap",
     "reason": "not_job_posting",
-    "checkedAt": "2026-10-31T14:46:29+09:00"
+    "checkedAt": "2026-11-01T00:20:51+09:00"
   },
   {
     "company": "기아",
@@ -442,7 +466,7 @@
     "snippet": "",
     "discoveredBy": "sitemap",
     "reason": "not_job_posting",
-    "checkedAt": "2026-10-31T14:46:29+09:00"
+    "checkedAt": "2026-11-01T00:20:51+09:00"
   },
   {
     "company": "기아",
@@ -451,7 +475,7 @@
     "snippet": "",
     "discoveredBy": "sitemap",
     "reason": "not_job_posting",
-    "checkedAt": "2026-10-31T14:46:29+09:00"
+    "checkedAt": "2026-11-01T00:20:51+09:00"
   },
   {
     "company": "기아",
@@ -460,7 +484,7 @@
     "snippet": "",
     "discoveredBy": "sitemap",
     "reason": "not_job_posting",
-    "checkedAt": "2026-10-31T14:46:29+09:00"
+    "checkedAt": "2026-11-01T00:20:51+09:00"
   },
   {
     "company": "기아",
@@ -469,7 +493,7 @@
     "snippet": "",
     "discoveredBy": "sitemap",
     "reason": "not_job_posting",
-    "checkedAt": "2026-10-31T14:46:29+09:00"
+    "checkedAt": "2026-11-01T00:20:51+09:00"
   },
   {
     "company": "기아",
@@ -478,7 +502,7 @@
     "snippet": "",
     "discoveredBy": "sitemap",
     "reason": "not_job_posting",
-    "checkedAt": "2026-10-31T14:46:29+09:00"
+    "checkedAt": "2026-11-01T00:20:51+09:00"
   },
   {
     "company": "기아",
@@ -487,7 +511,7 @@
     "snippet": "",
     "discoveredBy": "sitemap",
     "reason": "not_job_posting",
-    "checkedAt": "2026-10-31T14:46:29+09:00"
+    "checkedAt": "2026-11-01T00:20:51+09:00"
   },
   {
     "company": "기아",
@@ -496,7 +520,7 @@
     "snippet": "",
     "discoveredBy": "sitemap",
     "reason": "not_job_posting",
-    "checkedAt": "2026-10-31T14:46:29+09:00"
+    "checkedAt": "2026-11-01T00:20:51+09:00"
   },
   {
     "company": "기아",
@@ -505,7 +529,7 @@
     "snippet": "",
     "discoveredBy": "sitemap",
     "reason": "not_job_posting",
-    "checkedAt": "2026-10-31T14:46:29+09:00"
+    "checkedAt": "2026-11-01T00:20:51+09:00"
   },
   {
     "company": "기아",
@@ -514,7 +538,7 @@
     "snippet": "",
     "discoveredBy": "sitemap",
     "reason": "insufficient_text",
-    "checkedAt": "2026-10-31T14:46:29+09:00"
+    "checkedAt": "2026-11-01T00:20:51+09:00"
   },
   {
     "company": "기아",
@@ -523,7 +547,7 @@
     "snippet": "",
     "discoveredBy": "sitemap",
     "reason": "not_job_posting",
-    "checkedAt": "2026-10-31T14:46:29+09:00"
+    "checkedAt": "2026-11-01T00:20:51+09:00"
   },
   {
     "company": "기아",
@@ -532,7 +556,7 @@
     "snippet": "",
     "discoveredBy": "sitemap",
     "reason": "not_job_posting",
-    "checkedAt": "2026-10-31T14:46:29+09:00"
+    "checkedAt": "2026-11-01T00:20:51+09:00"
   },
   {
     "company": "기아",
@@ -541,7 +565,7 @@
     "snippet": "",
     "discoveredBy": "sitemap",
     "reason": "not_job_posting",
-    "checkedAt": "2026-10-31T14:46:29+09:00"
+    "checkedAt": "2026-11-01T00:20:51+09:00"
   },
   {
     "company": "기아",
@@ -550,7 +574,7 @@
     "snippet": "",
     "discoveredBy": "sitemap",
     "reason": "not_job_posting",
-    "checkedAt": "2026-10-31T14:46:29+09:00"
+    "checkedAt": "2026-11-01T00:20:51+09:00"
   },
   {
     "company": "기아",
@@ -559,7 +583,7 @@
     "snippet": "",
     "discoveredBy": "sitemap",
     "reason": "not_job_posting",
-    "checkedAt": "2026-10-31T14:46:29+09:00"
+    "checkedAt": "2026-11-01T00:20:51+09:00"
   },
   {
     "company": "기아",
@@ -568,7 +592,7 @@
     "snippet": "",
     "discoveredBy": "sitemap",
     "reason": "not_job_posting",
-    "checkedAt": "2026-10-31T14:46:29+09:00"
+    "checkedAt": "2026-11-01T00:20:51+09:00"
   },
   {
     "company": "기아",
@@ -577,7 +601,7 @@
     "snippet": "",
     "discoveredBy": "sitemap",
     "reason": "not_job_posting",
-    "checkedAt": "2026-10-31T14:46:29+09:00"
+    "checkedAt": "2026-11-01T00:20:51+09:00"
   },
   {
     "company": "기아",
@@ -586,7 +610,7 @@
     "snippet": "",
     "discoveredBy": "sitemap",
     "reason": "not_job_posting",
-    "checkedAt": "2026-10-31T14:46:29+09:00"
+    "checkedAt": "2026-11-01T00:20:51+09:00"
   },
   {
     "company": "현대오토에버",
@@ -595,7 +619,7 @@
     "snippet": "[공통] HRM - HR 전략/제도 기획 공통/신사업/기타 경영기획/관리/지원 경력 5년 이상 정규직 서울/경기 [EnIT] Business Planning - Robot SI Enterprise IT Platform Developer 경력 10~15년 정규직 서울/경기 [공통] Construction Field Specialist - 정보통신공사현장 계약직(전국) 공통/신사업/기타 정보통신공사(현장직) 경력 2년 이상 계약직 ＊전국(다지역)",
     "discoveredBy": "official_page",
     "reason": "not_job_posting",
-    "checkedAt": "2026-10-31T14:46:29+09:00"
+    "checkedAt": "2026-11-01T00:20:51+09:00"
   },
   {
     "company": "현대오토에버",
@@ -604,7 +628,7 @@
     "snippet": "",
     "discoveredBy": "sitemap",
     "reason": "senior_career_required",
-    "checkedAt": "2026-10-31T14:46:29+09:00"
+    "checkedAt": "2026-11-01T00:20:51+09:00"
   },
   {
     "company": "현대오토에버",
@@ -613,7 +637,7 @@
     "snippet": "",
     "discoveredBy": "sitemap",
     "reason": "not_job_posting",
-    "checkedAt": "2026-10-31T14:46:29+09:00"
+    "checkedAt": "2026-11-01T00:20:51+09:00"
   },
   {
     "company": "현대오토에버",
@@ -622,7 +646,7 @@
     "snippet": "",
     "discoveredBy": "sitemap",
     "reason": "not_job_posting",
-    "checkedAt": "2026-10-31T14:46:29+09:00"
+    "checkedAt": "2026-11-01T00:20:51+09:00"
   },
   {
     "company": "현대모비스",
@@ -631,16 +655,16 @@
     "snippet": "/ 이전 슬라이드 이동 다음 슬라이드 이동 추천 직무 인터뷰 더보기",
     "discoveredBy": "official_page",
     "reason": "not_job_posting",
-    "checkedAt": "2026-10-31T14:46:29+09:00"
+    "checkedAt": "2026-11-01T00:20:51+09:00"
   },
   {
     "company": "현대모비스",
     "url": "https://careers.mobis.com/jobs#layerCollect",
-    "title": "D-3 경력-관리직 [로보틱스사업실] 26년 10월 관리직 경력채용 (Robotics Business Group, senior-admin.) 로보틱스 사업/제품 기획 로보틱스사업실 기획 경영전략/신사업기획 역삼본사",
-    "snippet": "D-3 경력-관리직 [로보틱스사업실] 26년 10월 관리직 경력채용 (Robotics Business Group, senior-admin.) 로보틱스 사업/제품 기획 로보틱스사업실 기획 경영전략/신사업기획 역삼본사 2026-10-22 - 2026-11-03 10:00",
+    "title": "D-2 경력-관리직 [로보틱스사업실] 26년 10월 관리직 경력채용 (Robotics Business Group, senior-admin.) 로보틱스 사업/제품 기획 로보틱스사업실 기획 경영전략/신사업기획 역삼본사",
+    "snippet": "D-2 경력-관리직 [로보틱스사업실] 26년 10월 관리직 경력채용 (Robotics Business Group, senior-admin.) 로보틱스 사업/제품 기획 로보틱스사업실 기획 경영전략/신사업기획 역삼본사 2026-10-22 - 2026-11-03 10:00",
     "discoveredBy": "official_page",
     "reason": "career_only",
-    "checkedAt": "2026-10-31T14:46:29+09:00"
+    "checkedAt": "2026-11-01T00:20:51+09:00"
   },
   {
     "company": "현대로템",
@@ -649,7 +673,7 @@
     "snippet": "",
     "discoveredBy": "sitemap",
     "reason": "insufficient_text",
-    "checkedAt": "2026-10-31T14:46:29+09:00"
+    "checkedAt": "2026-11-01T00:20:51+09:00"
   },
   {
     "company": "현대로템",
@@ -658,7 +682,7 @@
     "snippet": "",
     "discoveredBy": "sitemap",
     "reason": "insufficient_text",
-    "checkedAt": "2026-10-31T14:46:29+09:00"
+    "checkedAt": "2026-11-01T00:20:51+09:00"
   },
   {
     "company": "현대로템",
@@ -667,7 +691,7 @@
     "snippet": "",
     "discoveredBy": "sitemap",
     "reason": "insufficient_text",
-    "checkedAt": "2026-10-31T14:46:29+09:00"
+    "checkedAt": "2026-11-01T00:20:51+09:00"
   },
   {
     "company": "현대로템",
@@ -676,7 +700,7 @@
     "snippet": "",
     "discoveredBy": "sitemap",
     "reason": "insufficient_text",
-    "checkedAt": "2026-10-31T14:46:29+09:00"
+    "checkedAt": "2026-11-01T00:20:51+09:00"
   },
   {
     "company": "현대로템",
@@ -685,7 +709,7 @@
     "snippet": "",
     "discoveredBy": "sitemap",
     "reason": "insufficient_text",
-    "checkedAt": "2026-10-31T14:46:29+09:00"
+    "checkedAt": "2026-11-01T00:20:51+09:00"
   },
   {
     "company": "현대로템",
@@ -694,7 +718,7 @@
     "snippet": "",
     "discoveredBy": "sitemap",
     "reason": "insufficient_text",
-    "checkedAt": "2026-10-31T14:46:29+09:00"
+    "checkedAt": "2026-11-01T00:20:51+09:00"
   },
   {
     "company": "현대로템",
@@ -703,7 +727,7 @@
     "snippet": "",
     "discoveredBy": "sitemap",
     "reason": "insufficient_text",
-    "checkedAt": "2026-10-31T14:46:29+09:00"
+    "checkedAt": "2026-11-01T00:20:51+09:00"
   },
   {
     "company": "현대로템",
@@ -712,7 +736,7 @@
     "snippet": "",
     "discoveredBy": "sitemap",
     "reason": "insufficient_text",
-    "checkedAt": "2026-10-31T14:46:29+09:00"
+    "checkedAt": "2026-11-01T00:20:51+09:00"
   },
   {
     "company": "현대로템",
@@ -721,7 +745,7 @@
     "snippet": "",
     "discoveredBy": "sitemap",
     "reason": "insufficient_text",
-    "checkedAt": "2026-10-31T14:46:29+09:00"
+    "checkedAt": "2026-11-01T00:20:51+09:00"
   },
   {
     "company": "현대로템",
@@ -730,7 +754,7 @@
     "snippet": "",
     "discoveredBy": "sitemap",
     "reason": "insufficient_text",
-    "checkedAt": "2026-10-31T14:46:29+09:00"
+    "checkedAt": "2026-11-01T00:20:51+09:00"
   },
   {
     "company": "현대로템",
@@ -739,7 +763,7 @@
     "snippet": "",
     "discoveredBy": "sitemap",
     "reason": "insufficient_text",
-    "checkedAt": "2026-10-31T14:46:29+09:00"
+    "checkedAt": "2026-11-01T00:20:51+09:00"
   },
   {
     "company": "현대로템",
@@ -748,7 +772,7 @@
     "snippet": "",
     "discoveredBy": "sitemap",
     "reason": "insufficient_text",
-    "checkedAt": "2026-10-31T14:46:29+09:00"
+    "checkedAt": "2026-11-01T00:20:51+09:00"
   },
   {
     "company": "현대로템",
@@ -757,7 +781,7 @@
     "snippet": "",
     "discoveredBy": "sitemap",
     "reason": "insufficient_text",
-    "checkedAt": "2026-10-31T14:46:29+09:00"
+    "checkedAt": "2026-11-01T00:20:51+09:00"
   },
   {
     "company": "현대로템",
@@ -766,7 +790,7 @@
     "snippet": "",
     "discoveredBy": "sitemap",
     "reason": "insufficient_text",
-    "checkedAt": "2026-10-31T14:46:29+09:00"
+    "checkedAt": "2026-11-01T00:20:51+09:00"
   },
   {
     "company": "현대로템",
@@ -775,7 +799,7 @@
     "snippet": "",
     "discoveredBy": "sitemap",
     "reason": "insufficient_text",
-    "checkedAt": "2026-10-31T14:46:29+09:00"
+    "checkedAt": "2026-11-01T00:20:51+09:00"
   },
   {
     "company": "현대로템",
@@ -784,7 +808,7 @@
     "snippet": "",
     "discoveredBy": "sitemap",
     "reason": "insufficient_text",
-    "checkedAt": "2026-10-31T14:46:29+09:00"
+    "checkedAt": "2026-11-01T00:20:51+09:00"
   },
   {
     "company": "현대로템",
@@ -793,7 +817,7 @@
     "snippet": "",
     "discoveredBy": "sitemap",
     "reason": "insufficient_text",
-    "checkedAt": "2026-10-31T14:46:29+09:00"
+    "checkedAt": "2026-11-01T00:20:51+09:00"
   },
   {
     "company": "현대로템",
@@ -802,7 +826,7 @@
     "snippet": "",
     "discoveredBy": "sitemap",
     "reason": "insufficient_text",
-    "checkedAt": "2026-10-31T14:46:29+09:00"
+    "checkedAt": "2026-11-01T00:20:51+09:00"
   },
   {
     "company": "현대로템",
@@ -811,7 +835,7 @@
     "snippet": "",
     "discoveredBy": "sitemap",
     "reason": "insufficient_text",
-    "checkedAt": "2026-10-31T14:46:29+09:00"
+    "checkedAt": "2026-11-01T00:20:51+09:00"
   },
   {
     "company": "현대로템",
@@ -820,7 +844,7 @@
     "snippet": "",
     "discoveredBy": "sitemap",
     "reason": "insufficient_text",
-    "checkedAt": "2026-10-31T14:46:29+09:00"
+    "checkedAt": "2026-11-01T00:20:51+09:00"
   },
   {
     "company": "현대로템",
@@ -829,7 +853,7 @@
     "snippet": "",
     "discoveredBy": "sitemap",
     "reason": "insufficient_text",
-    "checkedAt": "2026-10-31T14:46:29+09:00"
+    "checkedAt": "2026-11-01T00:20:51+09:00"
   },
   {
     "company": "현대로템",
@@ -838,33 +862,6 @@
     "snippet": "",
     "discoveredBy": "sitemap",
     "reason": "insufficient_text",
-    "checkedAt": "2026-10-31T14:46:29+09:00"
-  },
-  {
-    "company": "현대로템",
-    "url": "https://hyundai-rotem.recruiter.co.kr/career/roterview(4)",
-    "title": "roterview(4)",
-    "snippet": "",
-    "discoveredBy": "sitemap",
-    "reason": "insufficient_text",
-    "checkedAt": "2026-10-31T14:46:29+09:00"
-  },
-  {
-    "company": "현대로템",
-    "url": "https://hyundai-rotem.recruiter.co.kr/career/roterview-list",
-    "title": "roterview-list",
-    "snippet": "",
-    "discoveredBy": "sitemap",
-    "reason": "insufficient_text",
-    "checkedAt": "2026-10-31T14:46:29+09:00"
-  },
-  {
-    "company": "현대로템",
-    "url": "https://hyundai-rotem.recruiter.co.kr/career/welfare",
-    "title": "welfare",
-    "snippet": "",
-    "discoveredBy": "sitemap",
-    "reason": "insufficient_text",
-    "checkedAt": "2026-10-31T14:46:29+09:00"
+    "checkedAt": "2026-11-01T00:20:51+09:00"
   }
 ]
