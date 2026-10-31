@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-31T00:57:27+09:00",
+  "updatedAt": "2026-10-31T14:46:29+09:00",
   "jobs": [
     {
       "id": "69e10be56e4cbc24",
@@ -17,7 +17,24 @@
       "source": "NAVER 공식 채용",
       "initial": "NA",
       "color": "orange",
-      "verifiedAt": "2026-10-31T00:57+09:00"
+      "verifiedAt": "2026-10-31T14:46+09:00"
+    },
+    {
+      "id": "91ccb2771d040183",
+      "company": "강원개발공사",
+      "title": "강원개발공사 2026년 강원개발공사 하반기 채용공고(계약직, 청년 체험형 인턴)",
+      "kind": "신입 · 인턴",
+      "place": "원문 확인",
+      "deadline": "2026-11-04T18:00:00+09:00",
+      "deadlineLabel": "11.04 18:00",
+      "track": "SW / 백엔드",
+      "note": "공식 채용 원문에서 SW / 백엔드 연관성이 확인된 공고입니다.",
+      "check": "신입·인턴 지원 조건을 확인했습니다. 상세 자격과 근무지는 원문에서 다시 확인하세요.",
+      "url": "https://job.incruit.com/jobdb_info/jobpost.asp?job=2610080002345",
+      "source": "강원개발공사 공식 채용",
+      "initial": "강원",
+      "color": "orange",
+      "verifiedAt": "2026-10-31T14:46+09:00"
     },
     {
       "id": "fc93c1591da1b5a2",
@@ -51,7 +68,7 @@
       "source": "카카오페이 공식 채용",
       "initial": "카카",
       "color": "green",
-      "verifiedAt": "2026-10-31T00:57+09:00"
+      "verifiedAt": "2026-10-31T14:46+09:00"
     },
     {
       "id": "ac239e4bbec74485",
@@ -68,7 +85,7 @@
       "source": "카카오페이 공식 채용",
       "initial": "카카",
       "color": "green",
-      "verifiedAt": "2026-10-31T00:57+09:00"
+      "verifiedAt": "2026-10-31T14:46+09:00"
     },
     {
       "id": "c720d7351093eca9",
@@ -85,7 +102,7 @@
       "source": "카카오페이 공식 채용",
       "initial": "카카",
       "color": "green",
-      "verifiedAt": "2026-10-31T00:57+09:00"
+      "verifiedAt": "2026-10-31T14:46+09:00"
     },
     {
       "id": "15af525206778277",
@@ -102,7 +119,7 @@
       "source": "카카오페이 공식 채용",
       "initial": "카카",
       "color": "green",
-      "verifiedAt": "2026-10-31T00:57+09:00"
+      "verifiedAt": "2026-10-31T14:46+09:00"
     },
     {
       "id": "9e18838c21fe1de5",
@@ -119,7 +136,7 @@
       "source": "카카오페이 공식 채용",
       "initial": "카카",
       "color": "green",
-      "verifiedAt": "2026-10-31T00:57+09:00"
+      "verifiedAt": "2026-10-31T14:46+09:00"
     },
     {
       "id": "e3d871299e9e192c",
@@ -515,7 +532,7 @@
       "source": "카카오 공식 채용",
       "initial": "카카",
       "color": "green",
-      "verifiedAt": "2026-10-31T00:57+09:00"
+      "verifiedAt": "2026-10-31T14:46+09:00"
     },
     {
       "id": "25085745b5f500ab",
@@ -532,7 +549,7 @@
       "source": "NAVER 공식 채용",
       "initial": "NA",
       "color": "orange",
-      "verifiedAt": "2026-10-31T00:57+09:00"
+      "verifiedAt": "2026-10-31T14:46+09:00"
     },
     {
       "id": "b0c44b810000cef2",
@@ -549,7 +566,7 @@
       "source": "NAVER Cloud 공식 채용",
       "initial": "NA",
       "color": "blue",
-      "verifiedAt": "2026-10-31T00:57+09:00"
+      "verifiedAt": "2026-10-31T14:46+09:00"
     },
     {
       "id": "44cea40cfea32b01",
@@ -566,7 +583,7 @@
       "source": "크래프톤 공식 채용",
       "initial": "크래",
       "color": "orange",
-      "verifiedAt": "2026-10-31T00:57+09:00"
+      "verifiedAt": "2026-10-31T14:46+09:00"
     },
     {
       "id": "b9fff7b28f30ab6b",
@@ -583,7 +600,7 @@
       "source": "쿠팡 공식 채용",
       "initial": "쿠팡",
       "color": "blue",
-      "verifiedAt": "2026-10-31T00:57+09:00"
+      "verifiedAt": "2026-10-31T14:46+09:00"
     },
     {
       "id": "dc028281437a94df",
@@ -600,7 +617,7 @@
       "source": "쿠팡 공식 채용",
       "initial": "쿠팡",
       "color": "blue",
-      "verifiedAt": "2026-10-31T00:57+09:00"
+      "verifiedAt": "2026-10-31T14:46+09:00"
     },
     {
       "id": "7e49e4dc2e96cffd",
@@ -617,7 +634,7 @@
       "source": "쿠팡 공식 채용",
       "initial": "쿠팡",
       "color": "blue",
-      "verifiedAt": "2026-10-31T00:57+09:00"
+      "verifiedAt": "2026-10-31T14:46+09:00"
     },
     {
       "id": "3e88b532c6923154",
@@ -634,7 +651,7 @@
       "source": "크래프톤 공식 채용",
       "initial": "크래",
       "color": "orange",
-      "verifiedAt": "2026-10-31T00:57+09:00"
+      "verifiedAt": "2026-10-31T14:46+09:00"
     },
     {
       "id": "0f39376584e25f9a",
@@ -651,7 +668,7 @@
       "source": "크래프톤 공식 채용",
       "initial": "크래",
       "color": "orange",
-      "verifiedAt": "2026-10-31T00:57+09:00"
+      "verifiedAt": "2026-10-31T14:46+09:00"
     },
     {
       "id": "afad47c285771f0d",
@@ -668,7 +685,7 @@
       "source": "크래프톤 공식 채용",
       "initial": "크래",
       "color": "orange",
-      "verifiedAt": "2026-10-31T00:57+09:00"
+      "verifiedAt": "2026-10-31T14:46+09:00"
     },
     {
       "id": "711df5fe69a09b9a",
@@ -685,7 +702,7 @@
       "source": "우리은행 공식 채용",
       "initial": "우리",
       "color": "blue",
-      "verifiedAt": "2026-10-31T00:57+09:00"
+      "verifiedAt": "2026-10-31T14:46+09:00"
     },
     {
       "id": "06e1e2431719059c",
@@ -702,7 +719,58 @@
       "source": "우리은행 공식 채용",
       "initial": "우리",
       "color": "blue",
-      "verifiedAt": "2026-10-31T00:57+09:00"
+      "verifiedAt": "2026-10-31T14:46+09:00"
+    },
+    {
+      "id": "064fd84ec87d922a",
+      "company": "우리은행",
+      "title": "(주)카카오페이 [어시스턴트] 유저리서치 업무 지원",
+      "kind": "신입 · 어시스턴트",
+      "place": "원문 확인",
+      "deadline": null,
+      "deadlineLabel": "원문 확인",
+      "track": "SW / 백엔드",
+      "note": "공식 채용 원문에서 SW / 백엔드 연관성이 확인된 공고입니다.",
+      "check": "신입·인턴 지원 조건을 확인했습니다. 상세 자격과 근무지는 원문에서 다시 확인하세요.",
+      "url": "https://job.incruit.com/entry/jobpost.asp?job=2610150003260",
+      "source": "우리은행 공식 채용",
+      "initial": "우리",
+      "color": "blue",
+      "verifiedAt": "2026-10-31T14:46+09:00"
+    },
+    {
+      "id": "9b2fdeeab1a0fb7e",
+      "company": "우리은행",
+      "title": "2026 LF 신사업개발팀 체험형 인턴",
+      "kind": "신입 · 인턴",
+      "place": "원문 확인",
+      "deadline": null,
+      "deadlineLabel": "원문 확인",
+      "track": "SW / 백엔드",
+      "note": "공식 채용 원문에서 SW / 백엔드 연관성이 확인된 공고입니다.",
+      "check": "신입·인턴 지원 조건을 확인했습니다. 상세 자격과 근무지는 원문에서 다시 확인하세요.",
+      "url": "https://job.incruit.com/jobdb_info/jobpost.asp?job=2610260003840",
+      "source": "우리은행 공식 채용",
+      "initial": "우리",
+      "color": "blue",
+      "verifiedAt": "2026-10-31T14:46+09:00"
+    },
+    {
+      "id": "8d79c0a2ed763082",
+      "company": "우리은행",
+      "title": "채용정보 서브메뉴 추천 채용정보 코스맥스그룹 [코스맥스그룹] 26년 10월 경력사원 채용 (채용시) (주)농심 2026년 (주)농심 경력직 채용 (~11/02) 스노우(주) [SNOW] 12월 전분야 체험형 인턴 (",
+      "kind": "신입 · 인턴",
+      "place": "원문 확인",
+      "deadline": null,
+      "deadlineLabel": "원문 확인",
+      "track": "데이터 엔지니어링",
+      "note": "공식 채용 원문에서 데이터 엔지니어링 연관성이 확인된 공고입니다.",
+      "check": "신입·인턴 지원 조건을 확인했습니다. 상세 자격과 근무지는 원문에서 다시 확인하세요.",
+      "url": "https://people.incruit.com/store/simulation/simulationservice.asp",
+      "source": "우리은행 공식 채용",
+      "initial": "우리",
+      "color": "blue",
+      "verifiedAt": "2026-10-31T14:46+09:00"
     }
   ]
 }

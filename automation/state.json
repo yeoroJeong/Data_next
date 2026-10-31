@@ -1,5 +1,5 @@
 {
-  "lastRunAt": "2026-10-31T00:57:27+09:00",
+  "lastRunAt": "2026-10-31T14:46:29+09:00",
   "companies": {
     "삼성전자": {
       "discovered": 17,
@@ -269,9 +269,7 @@
       "sources": {
         "sitemap": 25
       },
-      "errors": [
-        "official_page:ReadTimeout"
-      ],
+      "errors": [],
       "rejected": {}
     },
     "현대글로비스": {
@@ -305,35 +303,45 @@
       "discovered": 0,
       "verified": 0,
       "sources": {},
-      "errors": [],
+      "errors": [
+        "official_page:ConnectTimeout"
+      ],
       "rejected": {}
     },
     "한화시스템": {
       "discovered": 0,
       "verified": 0,
       "sources": {},
-      "errors": [],
+      "errors": [
+        "official_page:ConnectTimeout"
+      ],
       "rejected": {}
     },
     "한화에어로스페이스": {
       "discovered": 0,
       "verified": 0,
       "sources": {},
-      "errors": [],
+      "errors": [
+        "official_page:ConnectTimeout"
+      ],
       "rejected": {}
     },
     "한화손해보험": {
       "discovered": 0,
       "verified": 0,
       "sources": {},
-      "errors": [],
+      "errors": [
+        "official_page:ConnectTimeout"
+      ],
       "rejected": {}
     },
     "한화비전": {
       "discovered": 0,
       "verified": 0,
       "sources": {},
-      "errors": [],
+      "errors": [
+        "official_page:ConnectTimeout"
+      ],
       "rejected": {}
     },
     "롯데이노베이트": {
@@ -473,10 +481,10 @@
       "rejected": {}
     },
     "쿠팡": {
-      "discovered": 54,
+      "discovered": 60,
       "verified": 0,
       "sources": {
-        "official_page": 15,
+        "official_page": 21,
         "sitemap": 39
       },
       "errors": [],
@@ -502,11 +510,12 @@
       "rejected": {}
     },
     "토스": {
-      "discovered": 12,
+      "discovered": 14,
       "verified": 0,
       "sources": {
         "official_page": 5,
-        "sitemap": 7
+        "sitemap": 7,
+        "bing": 2
       },
       "errors": [],
       "rejected": {
@@ -627,17 +636,15 @@
       "rejected": {}
     },
     "우리은행": {
-      "discovered": 200,
-      "verified": 0,
+      "discovered": 196,
+      "verified": 4,
       "sources": {
-        "official_page": 196,
-        "bing": 4
+        "official_page": 196
       },
       "errors": [],
       "rejected": {
         "not_job_posting": 3,
-        "eligibility_unconfirmed": 5,
-        "career_only": 2
+        "eligibility_unconfirmed": 3
       }
     },
     "NH농협은행": {
@@ -680,10 +687,11 @@
       "rejected": {}
     },
     "신세계I&C": {
-      "discovered": 1,
+      "discovered": 2,
       "verified": 0,
       "sources": {
-        "official_page": 1
+        "official_page": 1,
+        "bing": 1
       },
       "errors": [],
       "rejected": {}
@@ -841,14 +849,18 @@
       "discovered": 0,
       "verified": 0,
       "sources": {},
-      "errors": [],
+      "errors": [
+        "official_page:ConnectTimeout"
+      ],
       "rejected": {}
     },
     "한화자산운용": {
       "discovered": 0,
       "verified": 0,
       "sources": {},
-      "errors": [],
+      "errors": [
+        "official_page:ConnectTimeout"
+      ],
       "rejected": {}
     },
     "한국투자공사": {
@@ -956,9 +968,9 @@
     }
   },
   "summary": {
-    "published": 41,
-    "automatic": 40,
+    "published": 45,
+    "automatic": 44,
     "curated": 1,
-    "review": 326
+    "review": 318
   }
 }
