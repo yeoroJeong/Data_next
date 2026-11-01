@@ -1,5 +1,5 @@
 {
-  "lastRunAt": "2026-11-01T00:20:51+09:00",
+  "lastRunAt": "2026-11-01T15:10:32+09:00",
   "companies": {
     "삼성전자": {
       "discovered": 17,
@@ -235,7 +235,7 @@
       },
       "errors": [],
       "rejected": {
-        "not_job_posting": 22
+        "not_job_posting": 21
       }
     },
     "현대오토에버": {
@@ -481,15 +481,15 @@
       "rejected": {}
     },
     "쿠팡": {
-      "discovered": 57,
+      "discovered": 60,
       "verified": 0,
       "sources": {
-        "official_page": 18,
+        "official_page": 21,
         "sitemap": 39
       },
       "errors": [],
       "rejected": {
-        "eligibility_unconfirmed": 3,
+        "eligibility_unconfirmed": 6,
         "not_job_posting": 39
       }
     },
@@ -635,16 +635,16 @@
       "rejected": {}
     },
     "우리은행": {
-      "discovered": 200,
-      "verified": 3,
+      "discovered": 199,
+      "verified": 1,
       "sources": {
-        "official_page": 200
+        "official_page": 199
       },
       "errors": [],
       "rejected": {
         "not_job_posting": 3,
-        "eligibility_unconfirmed": 5,
-        "career_only": 2
+        "eligibility_unconfirmed": 7,
+        "career_only": 4
       }
     },
     "NH농협은행": {
@@ -725,15 +725,11 @@
       }
     },
     "POSCO DX": {
-      "discovered": 2,
+      "discovered": 0,
       "verified": 0,
-      "sources": {
-        "bing": 2
-      },
+      "sources": {},
       "errors": [],
-      "rejected": {
-        "eligibility_unconfirmed": 1
-      }
+      "rejected": {}
     },
     "포스코": {
       "discovered": 0,
@@ -807,9 +803,7 @@
       "discovered": 0,
       "verified": 0,
       "sources": {},
-      "errors": [
-        "official_page:ConnectTimeout"
-      ],
+      "errors": [],
       "rejected": {}
     },
     "한국전력공사": {
@@ -834,9 +828,7 @@
       "discovered": 0,
       "verified": 0,
       "sources": {},
-      "errors": [
-        "official_page:ConnectTimeout"
-      ],
+      "errors": [],
       "rejected": {}
     },
     "NH농협손해보험": {
@@ -969,9 +961,9 @@
     }
   },
   "summary": {
-    "published": 46,
-    "automatic": 45,
+    "published": 47,
+    "automatic": 46,
     "curated": 1,
-    "review": 325
+    "review": 330
   }
 }
