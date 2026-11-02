@@ -1,5 +1,5 @@
 {
-  "lastRunAt": "2026-11-02T01:03:41+09:00",
+  "lastRunAt": "2026-11-02T15:10:31+09:00",
   "companies": {
     "삼성전자": {
       "discovered": 17,
@@ -239,15 +239,15 @@
       }
     },
     "현대오토에버": {
-      "discovered": 13,
+      "discovered": 16,
       "verified": 0,
       "sources": {
-        "official_page": 10,
+        "official_page": 13,
         "sitemap": 3
       },
       "errors": [],
       "rejected": {
-        "not_job_posting": 3,
+        "not_job_posting": 6,
         "senior_career_required": 1
       }
     },
@@ -303,45 +303,35 @@
       "discovered": 0,
       "verified": 0,
       "sources": {},
-      "errors": [
-        "official_page:ConnectTimeout"
-      ],
+      "errors": [],
       "rejected": {}
     },
     "한화시스템": {
       "discovered": 0,
       "verified": 0,
       "sources": {},
-      "errors": [
-        "official_page:ConnectTimeout"
-      ],
+      "errors": [],
       "rejected": {}
     },
     "한화에어로스페이스": {
       "discovered": 0,
       "verified": 0,
       "sources": {},
-      "errors": [
-        "official_page:ConnectTimeout"
-      ],
+      "errors": [],
       "rejected": {}
     },
     "한화손해보험": {
       "discovered": 0,
       "verified": 0,
       "sources": {},
-      "errors": [
-        "official_page:ConnectTimeout"
-      ],
+      "errors": [],
       "rejected": {}
     },
     "한화비전": {
       "discovered": 0,
       "verified": 0,
       "sources": {},
-      "errors": [
-        "official_page:ConnectTimeout"
-      ],
+      "errors": [],
       "rejected": {}
     },
     "롯데이노베이트": {
@@ -481,15 +471,16 @@
       "rejected": {}
     },
     "쿠팡": {
-      "discovered": 54,
+      "discovered": 66,
       "verified": 0,
       "sources": {
-        "official_page": 15,
+        "official_page": 27,
         "sitemap": 39
       },
       "errors": [],
       "rejected": {
-        "eligibility_unconfirmed": 3,
+        "eligibility_unconfirmed": 9,
+        "senior_career_required": 3,
         "not_job_posting": 39
       }
     },
@@ -501,10 +492,10 @@
       "rejected": {}
     },
     "당근": {
-      "discovered": 37,
+      "discovered": 35,
       "verified": 0,
       "sources": {
-        "official_page": 37
+        "official_page": 35
       },
       "errors": [],
       "rejected": {}
@@ -585,11 +576,10 @@
       "rejected": {}
     },
     "크래프톤": {
-      "discovered": 81,
+      "discovered": 75,
       "verified": 4,
       "sources": {
-        "official_page": 75,
-        "bing": 6
+        "official_page": 75
       },
       "errors": [],
       "rejected": {
@@ -636,16 +626,15 @@
       "rejected": {}
     },
     "우리은행": {
-      "discovered": 210,
-      "verified": 3,
+      "discovered": 207,
+      "verified": 2,
       "sources": {
-        "official_page": 204,
-        "bing": 6
+        "official_page": 207
       },
       "errors": [],
       "rejected": {
         "not_job_posting": 3,
-        "eligibility_unconfirmed": 11,
+        "eligibility_unconfirmed": 6,
         "career_only": 1
       }
     },
@@ -727,11 +716,17 @@
       }
     },
     "POSCO DX": {
-      "discovered": 0,
+      "discovered": 2,
       "verified": 0,
-      "sources": {},
-      "errors": [],
-      "rejected": {}
+      "sources": {
+        "bing": 2
+      },
+      "errors": [
+        "official_page:ConnectionError"
+      ],
+      "rejected": {
+        "eligibility_unconfirmed": 1
+      }
     },
     "포스코": {
       "discovered": 0,
@@ -805,9 +800,7 @@
       "discovered": 0,
       "verified": 0,
       "sources": {},
-      "errors": [
-        "official_page:ConnectTimeout"
-      ],
+      "errors": [],
       "rejected": {}
     },
     "한국전력공사": {
@@ -832,9 +825,7 @@
       "discovered": 0,
       "verified": 0,
       "sources": {},
-      "errors": [
-        "official_page:ConnectTimeout"
-      ],
+      "errors": [],
       "rejected": {}
     },
     "NH농협손해보험": {
@@ -848,18 +839,14 @@
       "discovered": 0,
       "verified": 0,
       "sources": {},
-      "errors": [
-        "official_page:ConnectTimeout"
-      ],
+      "errors": [],
       "rejected": {}
     },
     "한화자산운용": {
       "discovered": 0,
       "verified": 0,
       "sources": {},
-      "errors": [
-        "official_page:ConnectTimeout"
-      ],
+      "errors": [],
       "rejected": {}
     },
     "한국투자공사": {
@@ -901,10 +888,10 @@
       "rejected": {}
     },
     "안랩": {
-      "discovered": 26,
+      "discovered": 27,
       "verified": 0,
       "sources": {
-        "sitemap": 26
+        "sitemap": 27
       },
       "errors": [],
       "rejected": {}
@@ -967,9 +954,9 @@
     }
   },
   "summary": {
-    "published": 48,
-    "automatic": 47,
+    "published": 49,
+    "automatic": 48,
     "curated": 1,
-    "review": 331
+    "review": 339
   }
 }
