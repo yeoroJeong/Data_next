@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-03T15:51:19+09:00",
+  "updatedAt": "2026-11-04T02:05:25+09:00",
   "jobs": [
     {
       "id": "91ccb2771d040183",
@@ -37,6 +37,23 @@
       "verifiedAt": "2026-11-03T04:30+09:00"
     },
     {
+      "id": "ee088fd161cd4859",
+      "company": "NAVER",
+      "title": "[네이버웹툰] AI 애니메이션 제작 담당 (정규 전환형)",
+      "kind": "신입 · 정규직",
+      "place": "원문 확인",
+      "deadline": "2026-11-18T23:59:00+09:00",
+      "deadlineLabel": "11.18 23:59",
+      "track": "데이터 / 디지털",
+      "note": "공식 채용 원문에서 데이터 / 디지털 연관성이 확인된 공고입니다.",
+      "check": "신입·인턴 지원 조건을 확인했습니다. 상세 자격과 근무지는 원문에서 다시 확인하세요.",
+      "url": "https://recruit.navercorp.com/rcrt/view.do?annoId=30005662",
+      "source": "NAVER 공식 채용",
+      "initial": "NA",
+      "color": "orange",
+      "verifiedAt": "2026-11-04T02:05+09:00"
+    },
+    {
       "id": "fc93c1591da1b5a2",
       "company": "현대오토에버",
       "title": "[공통] 채용 브랜딩 – 콘텐츠 제작 및 SNS 채널 운영 (계약직) 공통/신사업/기타 경영기획/관리/지원 경력 무관 계약직 서울/경기",
@@ -61,14 +78,14 @@
       "place": "원문 확인",
       "deadline": null,
       "deadlineLabel": "원문 확인",
-      "track": "데이터 엔지니어링",
-      "note": "공식 채용 원문에서 데이터 엔지니어링 연관성이 확인된 공고입니다.",
+      "track": "클라우드 / 플랫폼",
+      "note": "공식 채용 원문에서 클라우드 / 플랫폼 연관성이 확인된 공고입니다.",
       "check": "신입·인턴 지원 조건을 확인했습니다. 상세 자격과 근무지는 원문에서 다시 확인하세요.",
       "url": "https://kakaopay.career.greetinghr.com/ko/o/103674",
       "source": "카카오페이 공식 채용",
       "initial": "카카",
       "color": "green",
-      "verifiedAt": "2026-11-03T15:51+09:00"
+      "verifiedAt": "2026-11-04T02:05+09:00"
     },
     {
       "id": "ac239e4bbec74485",
@@ -78,14 +95,14 @@
       "place": "원문 확인",
       "deadline": null,
       "deadlineLabel": "원문 확인",
-      "track": "데이터 엔지니어링",
-      "note": "공식 채용 원문에서 데이터 엔지니어링 연관성이 확인된 공고입니다.",
+      "track": "클라우드 / 플랫폼",
+      "note": "공식 채용 원문에서 클라우드 / 플랫폼 연관성이 확인된 공고입니다.",
       "check": "신입·인턴 지원 조건을 확인했습니다. 상세 자격과 근무지는 원문에서 다시 확인하세요.",
       "url": "https://kakaopay.career.greetinghr.com/ko/o/103676",
       "source": "카카오페이 공식 채용",
       "initial": "카카",
       "color": "green",
-      "verifiedAt": "2026-11-03T15:51+09:00"
+      "verifiedAt": "2026-11-04T02:05+09:00"
     },
     {
       "id": "c720d7351093eca9",
@@ -95,14 +112,14 @@
       "place": "원문 확인",
       "deadline": null,
       "deadlineLabel": "원문 확인",
-      "track": "데이터 엔지니어링",
-      "note": "공식 채용 원문에서 데이터 엔지니어링 연관성이 확인된 공고입니다.",
+      "track": "클라우드 / 플랫폼",
+      "note": "공식 채용 원문에서 클라우드 / 플랫폼 연관성이 확인된 공고입니다.",
       "check": "신입·인턴 지원 조건을 확인했습니다. 상세 자격과 근무지는 원문에서 다시 확인하세요.",
       "url": "https://kakaopay.career.greetinghr.com/ko/o/103675",
       "source": "카카오페이 공식 채용",
       "initial": "카카",
       "color": "green",
-      "verifiedAt": "2026-11-03T15:51+09:00"
+      "verifiedAt": "2026-11-04T02:05+09:00"
     },
     {
       "id": "15af525206778277",
@@ -112,14 +129,14 @@
       "place": "원문 확인",
       "deadline": null,
       "deadlineLabel": "원문 확인",
-      "track": "데이터 엔지니어링",
-      "note": "공식 채용 원문에서 데이터 엔지니어링 연관성이 확인된 공고입니다.",
+      "track": "클라우드 / 플랫폼",
+      "note": "공식 채용 원문에서 클라우드 / 플랫폼 연관성이 확인된 공고입니다.",
       "check": "신입·인턴 지원 조건을 확인했습니다. 상세 자격과 근무지는 원문에서 다시 확인하세요.",
       "url": "https://kakaopay.career.greetinghr.com/ko/o/103673",
       "source": "카카오페이 공식 채용",
       "initial": "카카",
       "color": "green",
-      "verifiedAt": "2026-11-03T15:51+09:00"
+      "verifiedAt": "2026-11-04T02:05+09:00"
     },
     {
       "id": "9e18838c21fe1de5",
@@ -129,14 +146,14 @@
       "place": "원문 확인",
       "deadline": null,
       "deadlineLabel": "원문 확인",
-      "track": "데이터 엔지니어링",
-      "note": "공식 채용 원문에서 데이터 엔지니어링 연관성이 확인된 공고입니다.",
+      "track": "클라우드 / 플랫폼",
+      "note": "공식 채용 원문에서 클라우드 / 플랫폼 연관성이 확인된 공고입니다.",
       "check": "신입·인턴 지원 조건을 확인했습니다. 상세 자격과 근무지는 원문에서 다시 확인하세요.",
       "url": "https://kakaopay.career.greetinghr.com/ko/o/93966",
       "source": "카카오페이 공식 채용",
       "initial": "카카",
       "color": "green",
-      "verifiedAt": "2026-11-03T15:51+09:00"
+      "verifiedAt": "2026-11-04T02:05+09:00"
     },
     {
       "id": "e3d871299e9e192c",
@@ -583,7 +600,7 @@
       "source": "크래프톤 공식 채용",
       "initial": "크래",
       "color": "orange",
-      "verifiedAt": "2026-11-03T15:51+09:00"
+      "verifiedAt": "2026-11-04T02:05+09:00"
     },
     {
       "id": "b9fff7b28f30ab6b",
@@ -600,7 +617,7 @@
       "source": "쿠팡 공식 채용",
       "initial": "쿠팡",
       "color": "blue",
-      "verifiedAt": "2026-11-03T15:51+09:00"
+      "verifiedAt": "2026-11-04T02:05+09:00"
     },
     {
       "id": "dc028281437a94df",
@@ -617,7 +634,7 @@
       "source": "쿠팡 공식 채용",
       "initial": "쿠팡",
       "color": "blue",
-      "verifiedAt": "2026-11-03T15:51+09:00"
+      "verifiedAt": "2026-11-04T02:05+09:00"
     },
     {
       "id": "7e49e4dc2e96cffd",
@@ -634,7 +651,7 @@
       "source": "쿠팡 공식 채용",
       "initial": "쿠팡",
       "color": "blue",
-      "verifiedAt": "2026-11-03T15:51+09:00"
+      "verifiedAt": "2026-11-04T02:05+09:00"
     },
     {
       "id": "3e88b532c6923154",
@@ -651,7 +668,7 @@
       "source": "크래프톤 공식 채용",
       "initial": "크래",
       "color": "orange",
-      "verifiedAt": "2026-11-03T15:51+09:00"
+      "verifiedAt": "2026-11-04T02:05+09:00"
     },
     {
       "id": "0f39376584e25f9a",
@@ -668,7 +685,7 @@
       "source": "크래프톤 공식 채용",
       "initial": "크래",
       "color": "orange",
-      "verifiedAt": "2026-11-03T15:51+09:00"
+      "verifiedAt": "2026-11-04T02:05+09:00"
     },
     {
       "id": "afad47c285771f0d",
@@ -685,7 +702,7 @@
       "source": "크래프톤 공식 채용",
       "initial": "크래",
       "color": "orange",
-      "verifiedAt": "2026-11-03T15:51+09:00"
+      "verifiedAt": "2026-11-04T02:05+09:00"
     },
     {
       "id": "711df5fe69a09b9a",
@@ -702,7 +719,7 @@
       "source": "우리은행 공식 채용",
       "initial": "우리",
       "color": "blue",
-      "verifiedAt": "2026-11-03T15:51+09:00"
+      "verifiedAt": "2026-11-04T02:05+09:00"
     },
     {
       "id": "06e1e2431719059c",
@@ -719,7 +736,7 @@
       "source": "우리은행 공식 채용",
       "initial": "우리",
       "color": "blue",
-      "verifiedAt": "2026-11-03T15:51+09:00"
+      "verifiedAt": "2026-11-04T02:05+09:00"
     },
     {
       "id": "064fd84ec87d922a",
@@ -753,7 +770,7 @@
       "source": "우리은행 공식 채용",
       "initial": "우리",
       "color": "blue",
-      "verifiedAt": "2026-11-03T15:51+09:00"
+      "verifiedAt": "2026-11-04T02:05+09:00"
     },
     {
       "id": "8d79c0a2ed763082",
@@ -804,7 +821,7 @@
       "source": "우리은행 공식 채용",
       "initial": "우리",
       "color": "blue",
-      "verifiedAt": "2026-11-03T15:51+09:00"
+      "verifiedAt": "2026-11-04T02:05+09:00"
     },
     {
       "id": "6518b9dbb5d80019",
@@ -855,7 +872,7 @@
       "source": "우리은행 공식 채용",
       "initial": "우리",
       "color": "blue",
-      "verifiedAt": "2026-11-03T15:51+09:00"
+      "verifiedAt": "2026-11-04T02:05+09:00"
     }
   ]
 }
