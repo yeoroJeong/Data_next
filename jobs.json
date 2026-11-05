@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-05T02:17:00+09:00",
+  "updatedAt": "2026-11-05T15:51:07+09:00",
   "jobs": [
     {
       "id": "2ff91f72c76930fb",
@@ -34,7 +34,7 @@
       "source": "NAVER 공식 채용",
       "initial": "NA",
       "color": "orange",
-      "verifiedAt": "2026-11-05T02:17+09:00"
+      "verifiedAt": "2026-11-05T15:51+09:00"
     },
     {
       "id": "fc93c1591da1b5a2",
@@ -68,7 +68,7 @@
       "source": "카카오페이 공식 채용",
       "initial": "카카",
       "color": "green",
-      "verifiedAt": "2026-11-05T02:17+09:00"
+      "verifiedAt": "2026-11-05T15:51+09:00"
     },
     {
       "id": "ac239e4bbec74485",
@@ -85,7 +85,7 @@
       "source": "카카오페이 공식 채용",
       "initial": "카카",
       "color": "green",
-      "verifiedAt": "2026-11-05T02:17+09:00"
+      "verifiedAt": "2026-11-05T15:51+09:00"
     },
     {
       "id": "c720d7351093eca9",
@@ -102,7 +102,7 @@
       "source": "카카오페이 공식 채용",
       "initial": "카카",
       "color": "green",
-      "verifiedAt": "2026-11-05T02:17+09:00"
+      "verifiedAt": "2026-11-05T15:51+09:00"
     },
     {
       "id": "15af525206778277",
@@ -119,7 +119,7 @@
       "source": "카카오페이 공식 채용",
       "initial": "카카",
       "color": "green",
-      "verifiedAt": "2026-11-05T02:17+09:00"
+      "verifiedAt": "2026-11-05T15:51+09:00"
     },
     {
       "id": "9e18838c21fe1de5",
@@ -136,7 +136,7 @@
       "source": "카카오페이 공식 채용",
       "initial": "카카",
       "color": "green",
-      "verifiedAt": "2026-11-05T02:17+09:00"
+      "verifiedAt": "2026-11-05T15:51+09:00"
     },
     {
       "id": "e3d871299e9e192c",
@@ -583,7 +583,7 @@
       "source": "크래프톤 공식 채용",
       "initial": "크래",
       "color": "orange",
-      "verifiedAt": "2026-11-05T02:17+09:00"
+      "verifiedAt": "2026-11-05T15:51+09:00"
     },
     {
       "id": "b9fff7b28f30ab6b",
@@ -600,7 +600,7 @@
       "source": "쿠팡 공식 채용",
       "initial": "쿠팡",
       "color": "blue",
-      "verifiedAt": "2026-11-05T02:17+09:00"
+      "verifiedAt": "2026-11-05T15:51+09:00"
     },
     {
       "id": "dc028281437a94df",
@@ -617,7 +617,7 @@
       "source": "쿠팡 공식 채용",
       "initial": "쿠팡",
       "color": "blue",
-      "verifiedAt": "2026-11-05T02:17+09:00"
+      "verifiedAt": "2026-11-05T15:51+09:00"
     },
     {
       "id": "7e49e4dc2e96cffd",
@@ -634,7 +634,7 @@
       "source": "쿠팡 공식 채용",
       "initial": "쿠팡",
       "color": "blue",
-      "verifiedAt": "2026-11-05T02:17+09:00"
+      "verifiedAt": "2026-11-05T15:51+09:00"
     },
     {
       "id": "3e88b532c6923154",
@@ -702,7 +702,7 @@
       "source": "우리은행 공식 채용",
       "initial": "우리",
       "color": "blue",
-      "verifiedAt": "2026-11-05T02:17+09:00"
+      "verifiedAt": "2026-11-05T15:51+09:00"
     },
     {
       "id": "06e1e2431719059c",
@@ -719,7 +719,7 @@
       "source": "우리은행 공식 채용",
       "initial": "우리",
       "color": "blue",
-      "verifiedAt": "2026-11-05T02:17+09:00"
+      "verifiedAt": "2026-11-05T15:51+09:00"
     },
     {
       "id": "064fd84ec87d922a",
@@ -753,7 +753,7 @@
       "source": "우리은행 공식 채용",
       "initial": "우리",
       "color": "blue",
-      "verifiedAt": "2026-11-05T02:17+09:00"
+      "verifiedAt": "2026-11-05T15:51+09:00"
     },
     {
       "id": "8d79c0a2ed763082",
@@ -804,7 +804,7 @@
       "source": "우리은행 공식 채용",
       "initial": "우리",
       "color": "blue",
-      "verifiedAt": "2026-11-05T02:17+09:00"
+      "verifiedAt": "2026-11-05T15:51+09:00"
     },
     {
       "id": "6518b9dbb5d80019",
@@ -838,7 +838,7 @@
       "source": "우리은행 공식 채용",
       "initial": "우리",
       "color": "blue",
-      "verifiedAt": "2026-11-05T02:17+09:00"
+      "verifiedAt": "2026-11-05T15:51+09:00"
     },
     {
       "id": "2df8a9cc34fda7be",
@@ -855,7 +855,7 @@
       "source": "우리은행 공식 채용",
       "initial": "우리",
       "color": "blue",
-      "verifiedAt": "2026-11-04T15:27+09:00"
+      "verifiedAt": "2026-11-05T15:51+09:00"
     },
     {
       "id": "918cd09b1d9cc638",
@@ -872,7 +872,7 @@
       "source": "크래프톤 공식 채용",
       "initial": "크래",
       "color": "orange",
-      "verifiedAt": "2026-11-05T02:17+09:00"
+      "verifiedAt": "2026-11-05T15:51+09:00"
     },
     {
       "id": "76da75a8d4b1e7c0",
@@ -889,7 +889,7 @@
       "source": "크래프톤 공식 채용",
       "initial": "크래",
       "color": "orange",
-      "verifiedAt": "2026-11-05T02:17+09:00"
+      "verifiedAt": "2026-11-05T15:51+09:00"
     },
     {
       "id": "169c2b28d16f519a",
@@ -906,7 +906,7 @@
       "source": "크래프톤 공식 채용",
       "initial": "크래",
       "color": "orange",
-      "verifiedAt": "2026-11-05T02:17+09:00"
+      "verifiedAt": "2026-11-05T15:51+09:00"
     },
     {
       "id": "355917f77edb19fd",
@@ -957,7 +957,7 @@
       "source": "APR 공식 채용",
       "initial": "AP",
       "color": "green",
-      "verifiedAt": "2026-11-05T02:17+09:00"
+      "verifiedAt": "2026-11-05T15:51+09:00"
     },
     {
       "id": "298ebbb2cd881181",
@@ -974,7 +974,58 @@
       "source": "우리은행 공식 채용",
       "initial": "우리",
       "color": "blue",
-      "verifiedAt": "2026-11-05T02:17+09:00"
+      "verifiedAt": "2026-11-05T15:51+09:00"
+    },
+    {
+      "id": "b56c74d5c538c509",
+      "company": "쿠팡",
+      "title": "[쿠팡] 이츠 카탈로그 데이터 분석 및 운영개선 담당자 (SQL/자동화) - 신입급",
+      "kind": "신입 · 정규직",
+      "place": "원문 확인",
+      "deadline": null,
+      "deadlineLabel": "원문 확인",
+      "track": "데이터 / 디지털",
+      "note": "공식 채용 원문에서 데이터 / 디지털 연관성이 확인된 공고입니다.",
+      "check": "신입·인턴 지원 조건을 확인했습니다. 상세 자격과 근무지는 원문에서 다시 확인하세요.",
+      "url": "https://www.coupang.jobs/kr/jobs/8332845/쿠팡-이츠-카탈로그-데이터-분석-및-운영개선-담당자-sql자동화-신입급/?gh_jid=8332845",
+      "source": "쿠팡 공식 채용",
+      "initial": "쿠팡",
+      "color": "blue",
+      "verifiedAt": "2026-11-05T15:51+09:00"
+    },
+    {
+      "id": "d2401791388e26fb",
+      "company": "쿠팡",
+      "title": "[쿠팡] 이츠 카탈로그 데이터 분석 및 운영개선 담당자 (SQL/자동화) - 신입급",
+      "kind": "신입 · 정규직",
+      "place": "원문 확인",
+      "deadline": null,
+      "deadlineLabel": "원문 확인",
+      "track": "데이터 / 디지털",
+      "note": "공식 채용 원문에서 데이터 / 디지털 연관성이 확인된 공고입니다.",
+      "check": "신입·인턴 지원 조건을 확인했습니다. 상세 자격과 근무지는 원문에서 다시 확인하세요.",
+      "url": "https://www.coupang.jobs/en/jobs/8332845/쿠팡-이츠-카탈로그-데이터-분석-및-운영개선-담당자-sql자동화-신입급/?gh_jid=8332845",
+      "source": "쿠팡 공식 채용",
+      "initial": "쿠팡",
+      "color": "blue",
+      "verifiedAt": "2026-11-05T15:51+09:00"
+    },
+    {
+      "id": "0a57fad930b8d0e6",
+      "company": "쿠팡",
+      "title": "[쿠팡] 이츠 카탈로그 데이터 분석 및 운영개선 담당자 (SQL/자동화) - 신입급",
+      "kind": "신입 · 정규직",
+      "place": "원문 확인",
+      "deadline": null,
+      "deadlineLabel": "원문 확인",
+      "track": "데이터 / 디지털",
+      "note": "공식 채용 원문에서 데이터 / 디지털 연관성이 확인된 공고입니다.",
+      "check": "신입·인턴 지원 조건을 확인했습니다. 상세 자격과 근무지는 원문에서 다시 확인하세요.",
+      "url": "https://www.coupang.jobs/tw/jobs/8332845/쿠팡-이츠-카탈로그-데이터-분석-및-운영개선-담당자-sql자동화-신입급/?gh_jid=8332845",
+      "source": "쿠팡 공식 채용",
+      "initial": "쿠팡",
+      "color": "blue",
+      "verifiedAt": "2026-11-05T15:51+09:00"
     }
   ]
 }
