@@ -1,7 +1,24 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-05T15:51:07+09:00",
+  "updatedAt": "2026-11-06T02:25:50+09:00",
   "jobs": [
+    {
+      "id": "290dc5d2c9f3c88b",
+      "company": "우리은행",
+      "title": "[피앤피시큐어 및 관계사] SW 연구개발직군 신입/경력 공개채용",
+      "kind": "신입 · 정규직",
+      "place": "원문 확인",
+      "deadline": "2026-11-08T23:59:00+09:00",
+      "deadlineLabel": "11.08 23:59",
+      "track": "SW / 백엔드",
+      "note": "공식 채용 원문에서 SW / 백엔드 연관성이 확인된 공고입니다.",
+      "check": "신입·인턴 지원 조건을 확인했습니다. 상세 자격과 근무지는 원문에서 다시 확인하세요.",
+      "url": "https://job.incruit.com/jobdb_info/jobpost.asp?job=2610140003691",
+      "source": "우리은행 공식 채용",
+      "initial": "우리",
+      "color": "blue",
+      "verifiedAt": "2026-11-06T02:25+09:00"
+    },
     {
       "id": "2ff91f72c76930fb",
       "company": "우리은행",
@@ -20,6 +37,23 @@
       "verifiedAt": "2026-11-03T04:30+09:00"
     },
     {
+      "id": "e5bb9788bca14fd4",
+      "company": "우리은행",
+      "title": "2026년 3차 체험형 청년인턴 모집 공고[일반행정,AI]",
+      "kind": "신입 · 인턴",
+      "place": "원문 확인",
+      "deadline": "2026-11-09T18:00:00+09:00",
+      "deadlineLabel": "11.09 18:00",
+      "track": "SW / 백엔드",
+      "note": "공식 채용 원문에서 SW / 백엔드 연관성이 확인된 공고입니다.",
+      "check": "신입·인턴 지원 조건을 확인했습니다. 상세 자격과 근무지는 원문에서 다시 확인하세요.",
+      "url": "https://job.incruit.com/jobdb_info/jobpost.asp?job=2610260000976",
+      "source": "우리은행 공식 채용",
+      "initial": "우리",
+      "color": "blue",
+      "verifiedAt": "2026-11-06T02:25+09:00"
+    },
+    {
       "id": "ee088fd161cd4859",
       "company": "NAVER",
       "title": "[네이버웹툰] AI 애니메이션 제작 담당 (정규 전환형)",
@@ -34,7 +68,7 @@
       "source": "NAVER 공식 채용",
       "initial": "NA",
       "color": "orange",
-      "verifiedAt": "2026-11-05T15:51+09:00"
+      "verifiedAt": "2026-11-06T02:25+09:00"
     },
     {
       "id": "fc93c1591da1b5a2",
@@ -61,14 +95,14 @@
       "place": "원문 확인",
       "deadline": null,
       "deadlineLabel": "원문 확인",
-      "track": "클라우드 / 플랫폼",
-      "note": "공식 채용 원문에서 클라우드 / 플랫폼 연관성이 확인된 공고입니다.",
+      "track": "데이터 엔지니어링",
+      "note": "공식 채용 원문에서 데이터 엔지니어링 연관성이 확인된 공고입니다.",
       "check": "신입·인턴 지원 조건을 확인했습니다. 상세 자격과 근무지는 원문에서 다시 확인하세요.",
       "url": "https://kakaopay.career.greetinghr.com/ko/o/103674",
       "source": "카카오페이 공식 채용",
       "initial": "카카",
       "color": "green",
-      "verifiedAt": "2026-11-05T15:51+09:00"
+      "verifiedAt": "2026-11-06T02:25+09:00"
     },
     {
       "id": "ac239e4bbec74485",
@@ -78,14 +112,14 @@
       "place": "원문 확인",
       "deadline": null,
       "deadlineLabel": "원문 확인",
-      "track": "클라우드 / 플랫폼",
-      "note": "공식 채용 원문에서 클라우드 / 플랫폼 연관성이 확인된 공고입니다.",
+      "track": "데이터 엔지니어링",
+      "note": "공식 채용 원문에서 데이터 엔지니어링 연관성이 확인된 공고입니다.",
       "check": "신입·인턴 지원 조건을 확인했습니다. 상세 자격과 근무지는 원문에서 다시 확인하세요.",
       "url": "https://kakaopay.career.greetinghr.com/ko/o/103676",
       "source": "카카오페이 공식 채용",
       "initial": "카카",
       "color": "green",
-      "verifiedAt": "2026-11-05T15:51+09:00"
+      "verifiedAt": "2026-11-06T02:25+09:00"
     },
     {
       "id": "c720d7351093eca9",
@@ -95,14 +129,14 @@
       "place": "원문 확인",
       "deadline": null,
       "deadlineLabel": "원문 확인",
-      "track": "클라우드 / 플랫폼",
-      "note": "공식 채용 원문에서 클라우드 / 플랫폼 연관성이 확인된 공고입니다.",
+      "track": "데이터 엔지니어링",
+      "note": "공식 채용 원문에서 데이터 엔지니어링 연관성이 확인된 공고입니다.",
       "check": "신입·인턴 지원 조건을 확인했습니다. 상세 자격과 근무지는 원문에서 다시 확인하세요.",
       "url": "https://kakaopay.career.greetinghr.com/ko/o/103675",
       "source": "카카오페이 공식 채용",
       "initial": "카카",
       "color": "green",
-      "verifiedAt": "2026-11-05T15:51+09:00"
+      "verifiedAt": "2026-11-06T02:25+09:00"
     },
     {
       "id": "15af525206778277",
@@ -112,14 +146,14 @@
       "place": "원문 확인",
       "deadline": null,
       "deadlineLabel": "원문 확인",
-      "track": "클라우드 / 플랫폼",
-      "note": "공식 채용 원문에서 클라우드 / 플랫폼 연관성이 확인된 공고입니다.",
+      "track": "데이터 엔지니어링",
+      "note": "공식 채용 원문에서 데이터 엔지니어링 연관성이 확인된 공고입니다.",
       "check": "신입·인턴 지원 조건을 확인했습니다. 상세 자격과 근무지는 원문에서 다시 확인하세요.",
       "url": "https://kakaopay.career.greetinghr.com/ko/o/103673",
       "source": "카카오페이 공식 채용",
       "initial": "카카",
       "color": "green",
-      "verifiedAt": "2026-11-05T15:51+09:00"
+      "verifiedAt": "2026-11-06T02:25+09:00"
     },
     {
       "id": "9e18838c21fe1de5",
@@ -129,14 +163,14 @@
       "place": "원문 확인",
       "deadline": null,
       "deadlineLabel": "원문 확인",
-      "track": "클라우드 / 플랫폼",
-      "note": "공식 채용 원문에서 클라우드 / 플랫폼 연관성이 확인된 공고입니다.",
+      "track": "데이터 엔지니어링",
+      "note": "공식 채용 원문에서 데이터 엔지니어링 연관성이 확인된 공고입니다.",
       "check": "신입·인턴 지원 조건을 확인했습니다. 상세 자격과 근무지는 원문에서 다시 확인하세요.",
       "url": "https://kakaopay.career.greetinghr.com/ko/o/93966",
       "source": "카카오페이 공식 채용",
       "initial": "카카",
       "color": "green",
-      "verifiedAt": "2026-11-05T15:51+09:00"
+      "verifiedAt": "2026-11-06T02:25+09:00"
     },
     {
       "id": "e3d871299e9e192c",
@@ -583,7 +617,7 @@
       "source": "크래프톤 공식 채용",
       "initial": "크래",
       "color": "orange",
-      "verifiedAt": "2026-11-05T15:51+09:00"
+      "verifiedAt": "2026-11-06T02:25+09:00"
     },
     {
       "id": "b9fff7b28f30ab6b",
@@ -600,7 +634,7 @@
       "source": "쿠팡 공식 채용",
       "initial": "쿠팡",
       "color": "blue",
-      "verifiedAt": "2026-11-05T15:51+09:00"
+      "verifiedAt": "2026-11-06T02:25+09:00"
     },
     {
       "id": "dc028281437a94df",
@@ -617,7 +651,7 @@
       "source": "쿠팡 공식 채용",
       "initial": "쿠팡",
       "color": "blue",
-      "verifiedAt": "2026-11-05T15:51+09:00"
+      "verifiedAt": "2026-11-06T02:25+09:00"
     },
     {
       "id": "7e49e4dc2e96cffd",
@@ -634,7 +668,7 @@
       "source": "쿠팡 공식 채용",
       "initial": "쿠팡",
       "color": "blue",
-      "verifiedAt": "2026-11-05T15:51+09:00"
+      "verifiedAt": "2026-11-06T02:25+09:00"
     },
     {
       "id": "3e88b532c6923154",
@@ -702,7 +736,7 @@
       "source": "우리은행 공식 채용",
       "initial": "우리",
       "color": "blue",
-      "verifiedAt": "2026-11-05T15:51+09:00"
+      "verifiedAt": "2026-11-06T02:25+09:00"
     },
     {
       "id": "06e1e2431719059c",
@@ -719,7 +753,7 @@
       "source": "우리은행 공식 채용",
       "initial": "우리",
       "color": "blue",
-      "verifiedAt": "2026-11-05T15:51+09:00"
+      "verifiedAt": "2026-11-06T02:25+09:00"
     },
     {
       "id": "064fd84ec87d922a",
@@ -736,7 +770,7 @@
       "source": "우리은행 공식 채용",
       "initial": "우리",
       "color": "blue",
-      "verifiedAt": "2026-11-01T00:20+09:00"
+      "verifiedAt": "2026-11-06T02:25+09:00"
     },
     {
       "id": "9b2fdeeab1a0fb7e",
@@ -753,7 +787,7 @@
       "source": "우리은행 공식 채용",
       "initial": "우리",
       "color": "blue",
-      "verifiedAt": "2026-11-05T15:51+09:00"
+      "verifiedAt": "2026-11-06T02:25+09:00"
     },
     {
       "id": "8d79c0a2ed763082",
@@ -804,7 +838,7 @@
       "source": "우리은행 공식 채용",
       "initial": "우리",
       "color": "blue",
-      "verifiedAt": "2026-11-05T15:51+09:00"
+      "verifiedAt": "2026-11-06T02:25+09:00"
     },
     {
       "id": "6518b9dbb5d80019",
@@ -838,7 +872,7 @@
       "source": "우리은행 공식 채용",
       "initial": "우리",
       "color": "blue",
-      "verifiedAt": "2026-11-05T15:51+09:00"
+      "verifiedAt": "2026-11-06T02:25+09:00"
     },
     {
       "id": "2df8a9cc34fda7be",
@@ -855,7 +889,7 @@
       "source": "우리은행 공식 채용",
       "initial": "우리",
       "color": "blue",
-      "verifiedAt": "2026-11-05T15:51+09:00"
+      "verifiedAt": "2026-11-06T02:25+09:00"
     },
     {
       "id": "918cd09b1d9cc638",
@@ -872,7 +906,7 @@
       "source": "크래프톤 공식 채용",
       "initial": "크래",
       "color": "orange",
-      "verifiedAt": "2026-11-05T15:51+09:00"
+      "verifiedAt": "2026-11-06T02:25+09:00"
     },
     {
       "id": "76da75a8d4b1e7c0",
@@ -889,7 +923,7 @@
       "source": "크래프톤 공식 채용",
       "initial": "크래",
       "color": "orange",
-      "verifiedAt": "2026-11-05T15:51+09:00"
+      "verifiedAt": "2026-11-06T02:25+09:00"
     },
     {
       "id": "169c2b28d16f519a",
@@ -906,7 +940,7 @@
       "source": "크래프톤 공식 채용",
       "initial": "크래",
       "color": "orange",
-      "verifiedAt": "2026-11-05T15:51+09:00"
+      "verifiedAt": "2026-11-06T02:25+09:00"
     },
     {
       "id": "355917f77edb19fd",
@@ -957,7 +991,7 @@
       "source": "APR 공식 채용",
       "initial": "AP",
       "color": "green",
-      "verifiedAt": "2026-11-05T15:51+09:00"
+      "verifiedAt": "2026-11-06T02:25+09:00"
     },
     {
       "id": "298ebbb2cd881181",
@@ -974,7 +1008,7 @@
       "source": "우리은행 공식 채용",
       "initial": "우리",
       "color": "blue",
-      "verifiedAt": "2026-11-05T15:51+09:00"
+      "verifiedAt": "2026-11-06T02:25+09:00"
     },
     {
       "id": "b56c74d5c538c509",
@@ -991,7 +1025,7 @@
       "source": "쿠팡 공식 채용",
       "initial": "쿠팡",
       "color": "blue",
-      "verifiedAt": "2026-11-05T15:51+09:00"
+      "verifiedAt": "2026-11-06T02:25+09:00"
     },
     {
       "id": "d2401791388e26fb",
@@ -1008,7 +1042,7 @@
       "source": "쿠팡 공식 채용",
       "initial": "쿠팡",
       "color": "blue",
-      "verifiedAt": "2026-11-05T15:51+09:00"
+      "verifiedAt": "2026-11-06T02:25+09:00"
     },
     {
       "id": "0a57fad930b8d0e6",
@@ -1025,7 +1059,41 @@
       "source": "쿠팡 공식 채용",
       "initial": "쿠팡",
       "color": "blue",
-      "verifiedAt": "2026-11-05T15:51+09:00"
+      "verifiedAt": "2026-11-06T02:25+09:00"
+    },
+    {
+      "id": "8082fc8438b30ea3",
+      "company": "우리은행",
+      "title": "[SK인텔릭스] 데이터 분석 체험형 인턴 채용",
+      "kind": "신입 · 인턴",
+      "place": "원문 확인",
+      "deadline": null,
+      "deadlineLabel": "원문 확인",
+      "track": "SW / 백엔드",
+      "note": "공식 채용 원문에서 SW / 백엔드 연관성이 확인된 공고입니다.",
+      "check": "신입·인턴 지원 조건을 확인했습니다. 상세 자격과 근무지는 원문에서 다시 확인하세요.",
+      "url": "https://job.incruit.com/jobdb_info/jobpost.asp?job=2610290001138",
+      "source": "우리은행 공식 채용",
+      "initial": "우리",
+      "color": "blue",
+      "verifiedAt": "2026-11-06T02:25+09:00"
+    },
+    {
+      "id": "d71eca550e2b911f",
+      "company": "우리은행",
+      "title": "[동국제약] 신입/경력 채용(Global/관리/마케팅/영업/디자인/개발 등 모집)",
+      "kind": "신입 · 정규직",
+      "place": "원문 확인",
+      "deadline": null,
+      "deadlineLabel": "원문 확인",
+      "track": "SW / 백엔드",
+      "note": "공식 채용 원문에서 SW / 백엔드 연관성이 확인된 공고입니다.",
+      "check": "신입·인턴 지원 조건을 확인했습니다. 상세 자격과 근무지는 원문에서 다시 확인하세요.",
+      "url": "https://job.incruit.com/jobdb_info/jobpost.asp?job=2611030002703",
+      "source": "우리은행 공식 채용",
+      "initial": "우리",
+      "color": "blue",
+      "verifiedAt": "2026-11-06T02:25+09:00"
     }
   ]
 }
