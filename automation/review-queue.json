@@ -1,35 +1,11 @@
 [
   {
-    "company": "현대오토에버",
-    "url": "https://career.hyundai-autoever.com/ko/o/208548",
-    "title": "[공통] 채용 브랜딩 – 콘텐츠 제작 및 SNS 채널 운영 (계약직) 공통/신사업/기타 경영기획/관리/지원 경력 무관 계약직 서울/경기",
-    "snippet": "공식 채용 원문에서 SW / 백엔드 연관성이 확인된 공고입니다.",
-    "reason": "existing_HTTPError",
-    "checkedAt": "2026-11-08T00:40:47+09:00"
-  },
-  {
     "company": "우리은행",
     "url": "https://job.incruit.com/jobdb_info/jobpost.asp?job=2610260004019",
     "title": "2026년 3차 체험형 청년인턴(일반행정,AI) 모집 공고(26.10.26. 14:00 ~ 11.9. 18:00)",
     "snippet": "공식 채용 원문에서 SW / 백엔드 연관성이 확인된 공고입니다.",
     "reason": "existing_posting_not_found",
-    "checkedAt": "2026-11-08T00:40:47+09:00"
-  },
-  {
-    "company": "카카오페이",
-    "url": "https://kakaopay.career.greetinghr.com/ko/o/103675",
-    "title": "인재 pool - 비즈니스 경력 무관 정규직",
-    "snippet": "공식 채용 원문에서 데이터 엔지니어링 연관성이 확인된 공고입니다.",
-    "reason": "existing_posting_not_found",
-    "checkedAt": "2026-11-08T00:40:47+09:00"
-  },
-  {
-    "company": "카카오페이",
-    "url": "https://kakaopay.career.greetinghr.com/ko/o/103676",
-    "title": "인재 pool - 디자인 경력 무관 정규직",
-    "snippet": "공식 채용 원문에서 데이터 엔지니어링 연관성이 확인된 공고입니다.",
-    "reason": "existing_posting_not_found",
-    "checkedAt": "2026-11-08T00:40:47+09:00"
+    "checkedAt": "2026-11-08T15:05:45+09:00"
   },
   {
     "company": "카카오페이",
@@ -37,39 +13,23 @@
     "title": "인재 pool - 기술 경력 무관 정규직",
     "snippet": "공식 채용 원문에서 데이터 엔지니어링 연관성이 확인된 공고입니다.",
     "reason": "existing_posting_not_found",
-    "checkedAt": "2026-11-08T00:40:47+09:00"
+    "checkedAt": "2026-11-08T15:05:45+09:00"
   },
   {
     "company": "카카오페이",
-    "url": "https://kakaopay.career.greetinghr.com/ko/o/103673",
-    "title": "인재 pool - 스탭 경력 무관 정규직",
+    "url": "https://kakaopay.career.greetinghr.com/ko/o/103675",
+    "title": "인재 pool - 비즈니스 경력 무관 정규직",
     "snippet": "공식 채용 원문에서 데이터 엔지니어링 연관성이 확인된 공고입니다.",
     "reason": "existing_posting_not_found",
-    "checkedAt": "2026-11-08T00:40:47+09:00"
+    "checkedAt": "2026-11-08T15:05:45+09:00"
   },
   {
     "company": "카카오페이",
-    "url": "https://kakaopay.career.greetinghr.com/ko/o/93966",
-    "title": "인재 pool - 프로덕트 경력 무관 정규직",
+    "url": "https://kakaopay.career.greetinghr.com/ko/o/103676",
+    "title": "인재 pool - 디자인 경력 무관 정규직",
     "snippet": "공식 채용 원문에서 데이터 엔지니어링 연관성이 확인된 공고입니다.",
     "reason": "existing_posting_not_found",
-    "checkedAt": "2026-11-08T00:40:47+09:00"
-  },
-  {
-    "company": "크래프톤",
-    "url": "https://www.krafton.com/en/careers/recruit-detail/?var_page=1&job=5106&search_list_cnt=10",
-    "title": "[Infra Div.] IT Engineer (경력 무관 / 계약직)",
-    "snippet": "공식 채용 원문에서 클라우드 / 플랫폼 연관성이 확인된 공고입니다.",
-    "reason": "existing_insufficient_text",
-    "checkedAt": "2026-11-08T00:40:47+09:00"
-  },
-  {
-    "company": "크래프톤",
-    "url": "https://www.krafton.com/zh/careers/recruit-detail/?var_page=1&job=5106&search_list_cnt=10",
-    "title": "[Infra Div.] IT Engineer (경력 무관 / 계약직)",
-    "snippet": "공식 채용 원문에서 클라우드 / 플랫폼 연관성이 확인된 공고입니다.",
-    "reason": "existing_insufficient_text",
-    "checkedAt": "2026-11-08T00:40:47+09:00"
+    "checkedAt": "2026-11-08T15:05:45+09:00"
   },
   {
     "company": "크래프톤",
@@ -77,15 +37,31 @@
     "title": "[Infra Div.] IT Engineer (경력 무관 / 계약직)",
     "snippet": "공식 채용 원문에서 클라우드 / 플랫폼 연관성이 확인된 공고입니다.",
     "reason": "existing_insufficient_text",
-    "checkedAt": "2026-11-08T00:40:47+09:00"
+    "checkedAt": "2026-11-08T15:05:45+09:00"
   },
   {
     "company": "크래프톤",
-    "url": "https://www.krafton.com/careers/recruit-detail/?var_page=1&job=5112&search_list_cnt=10",
-    "title": "[AI Research Div.] Data Program Manager (경력무관 / 인턴)",
+    "url": "https://www.krafton.com/en/careers/recruit-detail/?var_page=1&job=5106&search_list_cnt=10",
+    "title": "[Infra Div.] IT Engineer (경력 무관 / 계약직)",
     "snippet": "공식 채용 원문에서 클라우드 / 플랫폼 연관성이 확인된 공고입니다.",
     "reason": "existing_insufficient_text",
-    "checkedAt": "2026-11-08T00:40:47+09:00"
+    "checkedAt": "2026-11-08T15:05:45+09:00"
+  },
+  {
+    "company": "카카오페이",
+    "url": "https://kakaopay.career.greetinghr.com/ko/o/103673",
+    "title": "인재 pool - 스탭 경력 무관 정규직",
+    "snippet": "공식 채용 원문에서 데이터 엔지니어링 연관성이 확인된 공고입니다.",
+    "reason": "existing_posting_not_found",
+    "checkedAt": "2026-11-08T15:05:45+09:00"
+  },
+  {
+    "company": "카카오페이",
+    "url": "https://kakaopay.career.greetinghr.com/ko/o/93966",
+    "title": "인재 pool - 프로덕트 경력 무관 정규직",
+    "snippet": "공식 채용 원문에서 데이터 엔지니어링 연관성이 확인된 공고입니다.",
+    "reason": "existing_posting_not_found",
+    "checkedAt": "2026-11-08T15:05:45+09:00"
   },
   {
     "company": "크래프톤",
@@ -93,15 +69,23 @@
     "title": "[AI Research Div.] Data Program Manager (경력무관 / 인턴)",
     "snippet": "공식 채용 원문에서 클라우드 / 플랫폼 연관성이 확인된 공고입니다.",
     "reason": "existing_insufficient_text",
-    "checkedAt": "2026-11-08T00:40:47+09:00"
+    "checkedAt": "2026-11-08T15:05:45+09:00"
   },
   {
-    "company": "카카오페이",
-    "url": "https://kakaopay.career.greetinghr.com/ko/o/234437",
-    "title": "[어시스턴트] 대출 마케팅 업무 운영 지원 신입 인턴 카카오페이",
-    "snippet": "공식 채용 원문에서 데이터 엔지니어링 연관성이 확인된 공고입니다.",
-    "reason": "existing_HTTPError",
-    "checkedAt": "2026-11-08T00:40:47+09:00"
+    "company": "크래프톤",
+    "url": "https://www.krafton.com/zh/careers/recruit-detail/?var_page=1&job=5106&search_list_cnt=10",
+    "title": "[Infra Div.] IT Engineer (경력 무관 / 계약직)",
+    "snippet": "공식 채용 원문에서 클라우드 / 플랫폼 연관성이 확인된 공고입니다.",
+    "reason": "existing_insufficient_text",
+    "checkedAt": "2026-11-08T15:05:45+09:00"
+  },
+  {
+    "company": "크래프톤",
+    "url": "https://www.krafton.com/careers/recruit-detail/?var_page=1&job=5112&search_list_cnt=10",
+    "title": "[AI Research Div.] Data Program Manager (경력무관 / 인턴)",
+    "snippet": "공식 채용 원문에서 클라우드 / 플랫폼 연관성이 확인된 공고입니다.",
+    "reason": "existing_insufficient_text",
+    "checkedAt": "2026-11-08T15:05:45+09:00"
   },
   {
     "company": "카카오페이",
@@ -109,23 +93,7 @@
     "title": "[계약직] 정보 협력 담당자 - 대외기관 정보 제공 지원 스탭 신입 계약직 카카오페이",
     "snippet": "공식 채용 원문에서 데이터 엔지니어링 연관성이 확인된 공고입니다.",
     "reason": "existing_HTTPError",
-    "checkedAt": "2026-11-08T00:40:47+09:00"
-  },
-  {
-    "company": "크래프톤",
-    "url": "https://www.krafton.com/zh/careers/recruit-detail/?var_page=1&job=5112&search_list_cnt=10",
-    "title": "[AI Research Div.] Data Program Manager (경력무관 / 인턴)",
-    "snippet": "공식 채용 원문에서 클라우드 / 플랫폼 연관성이 확인된 공고입니다.",
-    "reason": "existing_insufficient_text",
-    "checkedAt": "2026-11-08T00:40:47+09:00"
-  },
-  {
-    "company": "카카오페이",
-    "url": "https://kakaopay.career.greetinghr.com/ko/o/236333",
-    "title": "[어시스턴트] 오프라인 결제 마케팅 업무 지원 신입 인턴 카카오페이",
-    "snippet": "공식 채용 원문에서 데이터 엔지니어링 연관성이 확인된 공고입니다.",
-    "reason": "existing_HTTPError",
-    "checkedAt": "2026-11-08T00:40:47+09:00"
+    "checkedAt": "2026-11-08T15:05:45+09:00"
   },
   {
     "company": "카카오페이",
@@ -133,7 +101,23 @@
     "title": "[어시스턴트] 2D/3D 그래픽 디자인 업무 지원 신입 인턴 카카오페이",
     "snippet": "공식 채용 원문에서 데이터 엔지니어링 연관성이 확인된 공고입니다.",
     "reason": "existing_HTTPError",
-    "checkedAt": "2026-11-08T00:40:47+09:00"
+    "checkedAt": "2026-11-08T15:05:45+09:00"
+  },
+  {
+    "company": "카카오페이",
+    "url": "https://kakaopay.career.greetinghr.com/ko/o/236333",
+    "title": "[어시스턴트] 오프라인 결제 마케팅 업무 지원 신입 인턴 카카오페이",
+    "snippet": "공식 채용 원문에서 데이터 엔지니어링 연관성이 확인된 공고입니다.",
+    "reason": "existing_HTTPError",
+    "checkedAt": "2026-11-08T15:05:45+09:00"
+  },
+  {
+    "company": "크래프톤",
+    "url": "https://www.krafton.com/zh/careers/recruit-detail/?var_page=1&job=5112&search_list_cnt=10",
+    "title": "[AI Research Div.] Data Program Manager (경력무관 / 인턴)",
+    "snippet": "공식 채용 원문에서 클라우드 / 플랫폼 연관성이 확인된 공고입니다.",
+    "reason": "existing_insufficient_text",
+    "checkedAt": "2026-11-08T15:05:45+09:00"
   },
   {
     "company": "카카오페이",
@@ -141,7 +125,23 @@
     "title": "데이터 엔지니어 - 데이터 플랫폼 기술 신입 정규직 카카오페이",
     "snippet": "공식 채용 원문에서 데이터 엔지니어링 연관성이 확인된 공고입니다.",
     "reason": "existing_posting_not_found",
-    "checkedAt": "2026-11-08T00:40:47+09:00"
+    "checkedAt": "2026-11-08T15:05:45+09:00"
+  },
+  {
+    "company": "카카오페이",
+    "url": "https://kakaopay.career.greetinghr.com/ko/o/234437",
+    "title": "[어시스턴트] 대출 마케팅 업무 운영 지원 신입 인턴 카카오페이",
+    "snippet": "공식 채용 원문에서 데이터 엔지니어링 연관성이 확인된 공고입니다.",
+    "reason": "existing_HTTPError",
+    "checkedAt": "2026-11-08T15:05:45+09:00"
+  },
+  {
+    "company": "현대오토에버",
+    "url": "https://career.hyundai-autoever.com/ko/o/208548",
+    "title": "[공통] 채용 브랜딩 – 콘텐츠 제작 및 SNS 채널 운영 (계약직) 공통/신사업/기타 경영기획/관리/지원 경력 무관 계약직 서울/경기",
+    "snippet": "공식 채용 원문에서 SW / 백엔드 연관성이 확인된 공고입니다.",
+    "reason": "existing_HTTPError",
+    "checkedAt": "2026-11-08T15:05:45+09:00"
   },
   {
     "company": "카카오페이",
@@ -149,31 +149,7 @@
     "title": "서버 개발자 - 데이터 플랫폼 기술 신입 정규직 카카오페이",
     "snippet": "공식 채용 원문에서 데이터 엔지니어링 연관성이 확인된 공고입니다.",
     "reason": "existing_posting_not_found",
-    "checkedAt": "2026-11-08T00:40:47+09:00"
-  },
-  {
-    "company": "크래프톤",
-    "url": "https://www.krafton.com/careers/recruit-detail/?var_page=1&job=5123&search_list_cnt=10",
-    "title": "[AI Research Div.] Research Scientist/Engineer - Autonomous Mobility (경력무관)",
-    "snippet": "공식 채용 원문에서 클라우드 / 플랫폼 연관성이 확인된 공고입니다.",
-    "reason": "existing_insufficient_text",
-    "checkedAt": "2026-11-08T00:40:47+09:00"
-  },
-  {
-    "company": "크래프톤",
-    "url": "https://www.krafton.com/zh/careers/recruit-detail/?var_page=1&job=5123&search_list_cnt=10",
-    "title": "[AI Research Div.] Research Scientist/Engineer - Autonomous Mobility (경력무관)",
-    "snippet": "공식 채용 원문에서 클라우드 / 플랫폼 연관성이 확인된 공고입니다.",
-    "reason": "existing_insufficient_text",
-    "checkedAt": "2026-11-08T00:40:47+09:00"
-  },
-  {
-    "company": "크래프톤",
-    "url": "https://www.krafton.com/careers/recruit-detail/?var_page=1&job=5128&search_list_cnt=10",
-    "title": "[AI Research Div.] Research Scientist - Specialized Model (2년 이상 / 인턴)",
-    "snippet": "공식 채용 원문에서 클라우드 / 플랫폼 연관성이 확인된 공고입니다.",
-    "reason": "existing_posting_not_found",
-    "checkedAt": "2026-11-08T00:40:47+09:00"
+    "checkedAt": "2026-11-08T15:05:45+09:00"
   },
   {
     "company": "크래프톤",
@@ -181,7 +157,23 @@
     "title": "[AI Research Div.] Research Scientist/Engineer - Autonomous Mobility (경력무관)",
     "snippet": "공식 채용 원문에서 클라우드 / 플랫폼 연관성이 확인된 공고입니다.",
     "reason": "existing_insufficient_text",
-    "checkedAt": "2026-11-08T00:40:47+09:00"
+    "checkedAt": "2026-11-08T15:05:45+09:00"
+  },
+  {
+    "company": "크래프톤",
+    "url": "https://www.krafton.com/zh/careers/recruit-detail/?var_page=1&job=5123&search_list_cnt=10",
+    "title": "[AI Research Div.] Research Scientist/Engineer - Autonomous Mobility (경력무관)",
+    "snippet": "공식 채용 원문에서 클라우드 / 플랫폼 연관성이 확인된 공고입니다.",
+    "reason": "existing_insufficient_text",
+    "checkedAt": "2026-11-08T15:05:45+09:00"
+  },
+  {
+    "company": "크래프톤",
+    "url": "https://www.krafton.com/careers/recruit-detail/?var_page=1&job=5123&search_list_cnt=10",
+    "title": "[AI Research Div.] Research Scientist/Engineer - Autonomous Mobility (경력무관)",
+    "snippet": "공식 채용 원문에서 클라우드 / 플랫폼 연관성이 확인된 공고입니다.",
+    "reason": "existing_insufficient_text",
+    "checkedAt": "2026-11-08T15:05:45+09:00"
   },
   {
     "company": "크래프톤",
@@ -189,7 +181,15 @@
     "title": "[AI Research Div.] Research Scientist - Specialized Model (2년 이상 / 인턴)",
     "snippet": "공식 채용 원문에서 클라우드 / 플랫폼 연관성이 확인된 공고입니다.",
     "reason": "existing_posting_not_found",
-    "checkedAt": "2026-11-08T00:40:47+09:00"
+    "checkedAt": "2026-11-08T15:05:45+09:00"
+  },
+  {
+    "company": "크래프톤",
+    "url": "https://www.krafton.com/careers/recruit-detail/?var_page=1&job=5128&search_list_cnt=10",
+    "title": "[AI Research Div.] Research Scientist - Specialized Model (2년 이상 / 인턴)",
+    "snippet": "공식 채용 원문에서 클라우드 / 플랫폼 연관성이 확인된 공고입니다.",
+    "reason": "existing_posting_not_found",
+    "checkedAt": "2026-11-08T15:05:45+09:00"
   },
   {
     "company": "크래프톤",
@@ -197,7 +197,7 @@
     "title": "[AI Research Div.] AI Operation Manager (2년 이상 / 인턴)",
     "snippet": "공식 채용 원문에서 클라우드 / 플랫폼 연관성이 확인된 공고입니다.",
     "reason": "existing_posting_not_found",
-    "checkedAt": "2026-11-08T00:40:47+09:00"
+    "checkedAt": "2026-11-08T15:05:45+09:00"
   },
   {
     "company": "크래프톤",
@@ -205,15 +205,7 @@
     "title": "[AI Research Div.] AI Operation Manager (2년 이상 / 인턴)",
     "snippet": "공식 채용 원문에서 클라우드 / 플랫폼 연관성이 확인된 공고입니다.",
     "reason": "existing_posting_not_found",
-    "checkedAt": "2026-11-08T00:40:47+09:00"
-  },
-  {
-    "company": "크래프톤",
-    "url": "https://www.krafton.com/zh/careers/recruit-detail/?var_page=1&job=5128&search_list_cnt=10",
-    "title": "[AI Research Div.] Research Scientist - Specialized Model (2년 이상 / 인턴)",
-    "snippet": "공식 채용 원문에서 클라우드 / 플랫폼 연관성이 확인된 공고입니다.",
-    "reason": "existing_posting_not_found",
-    "checkedAt": "2026-11-08T00:40:47+09:00"
+    "checkedAt": "2026-11-08T15:05:45+09:00"
   },
   {
     "company": "크래프톤",
@@ -221,7 +213,7 @@
     "title": "[AI Research Div.] AI Operation Manager (2년 이상 / 인턴)",
     "snippet": "공식 채용 원문에서 클라우드 / 플랫폼 연관성이 확인된 공고입니다.",
     "reason": "existing_posting_not_found",
-    "checkedAt": "2026-11-08T00:40:47+09:00"
+    "checkedAt": "2026-11-08T15:05:45+09:00"
   },
   {
     "company": "카카오",
@@ -229,23 +221,7 @@
     "title": "숏폼 서비스 영상 콘텐츠 제작 및 운영_어시스턴트",
     "snippet": "공식 채용 원문에서 비즈니스 분석 연관성이 확인된 공고입니다.",
     "reason": "existing_insufficient_text",
-    "checkedAt": "2026-11-08T00:40:47+09:00"
-  },
-  {
-    "company": "NAVER",
-    "url": "https://recruit.navercorp.com/rcrt/list.do?srchClassCd=1000000#n",
-    "title": "[네이버랩스] Robot Manipulation Data Engineer 모집 부서 Tech 모집 분야 AI/ML 모집 경력 무관 근로 조건 정규 모집 기간 2026.10.22 ~ 2026.11.01",
-    "snippet": "공식 채용 원문에서 데이터 엔지니어링 연관성이 확인된 공고입니다.",
-    "reason": "existing_posting_not_found",
-    "checkedAt": "2026-11-08T00:40:47+09:00"
-  },
-  {
-    "company": "NAVER Cloud",
-    "url": "https://recruit.navercorp.com/rcrt/list.do?srchClassCd=1000000#n",
-    "title": "[네이버랩스] Robot Manipulation Data Engineer 모집 부서 Tech 모집 분야 AI/ML 모집 경력 무관 근로 조건 정규 모집 기간 2026.10.22 ~ 2026.11.01",
-    "snippet": "공식 채용 원문에서 데이터 엔지니어링 연관성이 확인된 공고입니다.",
-    "reason": "existing_posting_not_found",
-    "checkedAt": "2026-11-08T00:40:47+09:00"
+    "checkedAt": "2026-11-08T15:05:45+09:00"
   },
   {
     "company": "크래프톤",
@@ -253,7 +229,31 @@
     "title": "2027 크래프톤 채용연계형 인턴십 더보기",
     "snippet": "공식 채용 원문에서 비즈니스 분석 연관성이 확인된 공고입니다.",
     "reason": "existing_posting_not_found",
-    "checkedAt": "2026-11-08T00:40:47+09:00"
+    "checkedAt": "2026-11-08T15:05:45+09:00"
+  },
+  {
+    "company": "NAVER",
+    "url": "https://recruit.navercorp.com/rcrt/list.do?srchClassCd=1000000#n",
+    "title": "[네이버랩스] Robot Manipulation Data Engineer 모집 부서 Tech 모집 분야 AI/ML 모집 경력 무관 근로 조건 정규 모집 기간 2026.10.22 ~ 2026.11.01",
+    "snippet": "공식 채용 원문에서 데이터 엔지니어링 연관성이 확인된 공고입니다.",
+    "reason": "existing_posting_not_found",
+    "checkedAt": "2026-11-08T15:05:45+09:00"
+  },
+  {
+    "company": "크래프톤",
+    "url": "https://www.krafton.com/zh/careers/recruit-detail/?var_page=1&job=5128&search_list_cnt=10",
+    "title": "[AI Research Div.] Research Scientist - Specialized Model (2년 이상 / 인턴)",
+    "snippet": "공식 채용 원문에서 클라우드 / 플랫폼 연관성이 확인된 공고입니다.",
+    "reason": "existing_posting_not_found",
+    "checkedAt": "2026-11-08T15:05:45+09:00"
+  },
+  {
+    "company": "NAVER Cloud",
+    "url": "https://recruit.navercorp.com/rcrt/list.do?srchClassCd=1000000#n",
+    "title": "[네이버랩스] Robot Manipulation Data Engineer 모집 부서 Tech 모집 분야 AI/ML 모집 경력 무관 근로 조건 정규 모집 기간 2026.10.22 ~ 2026.11.01",
+    "snippet": "공식 채용 원문에서 데이터 엔지니어링 연관성이 확인된 공고입니다.",
+    "reason": "existing_posting_not_found",
+    "checkedAt": "2026-11-08T15:05:45+09:00"
   },
   {
     "company": "우리은행",
@@ -261,23 +261,7 @@
     "title": "(주)카카오페이 [어시스턴트] 유저리서치 업무 지원",
     "snippet": "공식 채용 원문에서 SW / 백엔드 연관성이 확인된 공고입니다.",
     "reason": "existing_posting_not_found",
-    "checkedAt": "2026-11-08T00:40:47+09:00"
-  },
-  {
-    "company": "크래프톤",
-    "url": "https://www.krafton.com/en/careers/recruit-detail/?var_page=1&job=5163&search_list_cnt=10",
-    "title": "[AI Research Div.] Research Scientist - World Action Models (경력무관 / 인턴)",
-    "snippet": "공식 채용 원문에서 클라우드 / 플랫폼 연관성이 확인된 공고입니다.",
-    "reason": "existing_insufficient_text",
-    "checkedAt": "2026-11-08T00:40:47+09:00"
-  },
-  {
-    "company": "크래프톤",
-    "url": "https://www.krafton.com/zh/careers/recruit-detail/?var_page=1&job=5163&search_list_cnt=10",
-    "title": "[AI Research Div.] Research Scientist - World Action Models (경력무관 / 인턴)",
-    "snippet": "공식 채용 원문에서 클라우드 / 플랫폼 연관성이 확인된 공고입니다.",
-    "reason": "existing_insufficient_text",
-    "checkedAt": "2026-11-08T00:40:47+09:00"
+    "checkedAt": "2026-11-08T15:05:45+09:00"
   },
   {
     "company": "크래프톤",
@@ -285,63 +269,23 @@
     "title": "[AI Research Div.] Research Scientist - World Action Models (경력무관 / 인턴)",
     "snippet": "공식 채용 원문에서 클라우드 / 플랫폼 연관성이 확인된 공고입니다.",
     "reason": "existing_insufficient_text",
-    "checkedAt": "2026-11-08T00:40:47+09:00"
-  },
-  {
-    "company": "우리은행",
-    "url": "https://people.incruit.com/store/simulation/simulationservice.asp",
-    "title": "채용정보 서브메뉴 추천 채용정보 코스맥스그룹 [코스맥스그룹] 26년 10월 경력사원 채용 (채용시) (주)농심 2026년 (주)농심 경력직 채용 (~11/02) 스노우(주) [SNOW] 12월 전분야 체험형 인턴 (",
-    "snippet": "공식 채용 원문에서 데이터 엔지니어링 연관성이 확인된 공고입니다.",
-    "reason": "existing_posting_not_found",
-    "checkedAt": "2026-11-08T00:40:47+09:00"
-  },
-  {
-    "company": "우리은행",
-    "url": "https://people.incruit.com/jobsuppsvc/jat.asp?ty=1",
-    "title": "채용정보 서브메뉴 추천 채용정보 (주)농심 2026년 (주)농심 경력직 채용 (23시 마감) 스노우(주) [SNOW] 12월 전분야 체험형 인턴 (~11/08) 한패스(주) [ 한패스 ] 글로벌 핀테크 그로스 마케터",
-    "snippet": "공식 채용 원문에서 SW / 백엔드 연관성이 확인된 공고입니다.",
-    "reason": "existing_posting_not_found",
-    "checkedAt": "2026-11-08T00:40:47+09:00"
+    "checkedAt": "2026-11-08T15:05:45+09:00"
   },
   {
     "company": "크래프톤",
-    "url": "https://www.krafton.com/en/careers/recruit-detail/?var_page=1&job=5182&search_list_cnt=10",
-    "title": "[AI Frontier Div.] Research Assistant (일본어 능통자, 인턴)",
+    "url": "https://www.krafton.com/zh/careers/recruit-detail/?var_page=1&job=5163&search_list_cnt=10",
+    "title": "[AI Research Div.] Research Scientist - World Action Models (경력무관 / 인턴)",
     "snippet": "공식 채용 원문에서 클라우드 / 플랫폼 연관성이 확인된 공고입니다.",
-    "reason": "existing_posting_not_found",
-    "checkedAt": "2026-11-08T00:40:47+09:00"
+    "reason": "existing_insufficient_text",
+    "checkedAt": "2026-11-08T15:05:45+09:00"
   },
   {
     "company": "크래프톤",
-    "url": "https://www.krafton.com/careers/recruit-detail/?var_page=1&job=5182&search_list_cnt=10",
-    "title": "[AI Frontier Div.] Research Assistant (일본어 능통자, 인턴)",
+    "url": "https://www.krafton.com/en/careers/recruit-detail/?var_page=1&job=5163&search_list_cnt=10",
+    "title": "[AI Research Div.] Research Scientist - World Action Models (경력무관 / 인턴)",
     "snippet": "공식 채용 원문에서 클라우드 / 플랫폼 연관성이 확인된 공고입니다.",
-    "reason": "existing_posting_not_found",
-    "checkedAt": "2026-11-08T00:40:47+09:00"
-  },
-  {
-    "company": "우리은행",
-    "url": "https://job.incruit.com/entry/jobpost.asp?job=2611030000018",
-    "title": "한국지엠 [2027 GMTCK 동계인턴십] Software and Electronics Engineering",
-    "snippet": "공식 채용 원문에서 SW / 백엔드 연관성이 확인된 공고입니다.",
-    "reason": "existing_posting_not_found",
-    "checkedAt": "2026-11-08T00:40:47+09:00"
-  },
-  {
-    "company": "크래프톤",
-    "url": "https://www.krafton.com/zh/careers/recruit-detail/?var_page=1&job=5182&search_list_cnt=10",
-    "title": "[AI Frontier Div.] Research Assistant (일본어 능통자, 인턴)",
-    "snippet": "공식 채용 원문에서 클라우드 / 플랫폼 연관성이 확인된 공고입니다.",
-    "reason": "existing_posting_not_found",
-    "checkedAt": "2026-11-08T00:40:47+09:00"
-  },
-  {
-    "company": "우리은행",
-    "url": "https://people.incruit.com/store/pubexam/main.asp",
-    "title": "채용정보 서브메뉴 추천 채용정보 금호고속 주식회사 2026년 금호익스프레스 신입사원(사무직) 모집 (~11/06) (재)혁신형소형모듈원자로기술개발사업단 2026년도 제2차 직원 채용 모집요강 (~11/11) 현대엔지",
-    "snippet": "공식 채용 원문에서 SW / 백엔드 연관성이 확인된 공고입니다.",
-    "reason": "existing_posting_not_found",
-    "checkedAt": "2026-11-08T00:40:47+09:00"
+    "reason": "existing_insufficient_text",
+    "checkedAt": "2026-11-08T15:05:45+09:00"
   },
   {
     "company": "우리은행",
@@ -349,7 +293,55 @@
     "title": "(주)엔씨 [인턴] NC AI 교육사업팀 K-뉴딜 아카데미 부산 캠퍼스 운영매니저 모집 (채용시 마감)",
     "snippet": "공식 채용 원문에서 SW / 백엔드 연관성이 확인된 공고입니다.",
     "reason": "existing_posting_not_found",
-    "checkedAt": "2026-11-08T00:40:47+09:00"
+    "checkedAt": "2026-11-08T15:05:45+09:00"
+  },
+  {
+    "company": "우리은행",
+    "url": "https://people.incruit.com/store/simulation/simulationservice.asp",
+    "title": "채용정보 서브메뉴 추천 채용정보 코스맥스그룹 [코스맥스그룹] 26년 10월 경력사원 채용 (채용시) (주)농심 2026년 (주)농심 경력직 채용 (~11/02) 스노우(주) [SNOW] 12월 전분야 체험형 인턴 (",
+    "snippet": "공식 채용 원문에서 데이터 엔지니어링 연관성이 확인된 공고입니다.",
+    "reason": "existing_posting_not_found",
+    "checkedAt": "2026-11-08T15:05:45+09:00"
+  },
+  {
+    "company": "우리은행",
+    "url": "https://people.incruit.com/jobsuppsvc/jat.asp?ty=1",
+    "title": "채용정보 서브메뉴 추천 채용정보 (주)농심 2026년 (주)농심 경력직 채용 (23시 마감) 스노우(주) [SNOW] 12월 전분야 체험형 인턴 (~11/08) 한패스(주) [ 한패스 ] 글로벌 핀테크 그로스 마케터",
+    "snippet": "공식 채용 원문에서 SW / 백엔드 연관성이 확인된 공고입니다.",
+    "reason": "existing_posting_not_found",
+    "checkedAt": "2026-11-08T15:05:45+09:00"
+  },
+  {
+    "company": "크래프톤",
+    "url": "https://www.krafton.com/careers/recruit-detail/?var_page=1&job=5182&search_list_cnt=10",
+    "title": "[AI Frontier Div.] Research Assistant (일본어 능통자, 인턴)",
+    "snippet": "공식 채용 원문에서 클라우드 / 플랫폼 연관성이 확인된 공고입니다.",
+    "reason": "existing_posting_not_found",
+    "checkedAt": "2026-11-08T15:05:45+09:00"
+  },
+  {
+    "company": "우리은행",
+    "url": "https://job.incruit.com/entry/jobpost.asp?job=2611030000018",
+    "title": "한국지엠 [2027 GMTCK 동계인턴십] Software and Electronics Engineering",
+    "snippet": "공식 채용 원문에서 SW / 백엔드 연관성이 확인된 공고입니다.",
+    "reason": "existing_posting_not_found",
+    "checkedAt": "2026-11-08T15:05:45+09:00"
+  },
+  {
+    "company": "크래프톤",
+    "url": "https://www.krafton.com/en/careers/recruit-detail/?var_page=1&job=5182&search_list_cnt=10",
+    "title": "[AI Frontier Div.] Research Assistant (일본어 능통자, 인턴)",
+    "snippet": "공식 채용 원문에서 클라우드 / 플랫폼 연관성이 확인된 공고입니다.",
+    "reason": "existing_posting_not_found",
+    "checkedAt": "2026-11-08T15:05:45+09:00"
+  },
+  {
+    "company": "크래프톤",
+    "url": "https://www.krafton.com/zh/careers/recruit-detail/?var_page=1&job=5182&search_list_cnt=10",
+    "title": "[AI Frontier Div.] Research Assistant (일본어 능통자, 인턴)",
+    "snippet": "공식 채용 원문에서 클라우드 / 플랫폼 연관성이 확인된 공고입니다.",
+    "reason": "existing_posting_not_found",
+    "checkedAt": "2026-11-08T15:05:45+09:00"
   },
   {
     "company": "우리은행",
@@ -357,15 +349,15 @@
     "title": "네이버클라우드 주식회사 [NAVER Cloud] B2B 브랜드 마케팅 (체험형 인턴)",
     "snippet": "공식 채용 원문에서 SW / 백엔드 연관성이 확인된 공고입니다.",
     "reason": "existing_posting_not_found",
-    "checkedAt": "2026-11-08T00:40:47+09:00"
+    "checkedAt": "2026-11-08T15:05:45+09:00"
   },
   {
     "company": "우리은행",
-    "url": "https://job.incruit.com/jobdb_info/jobpost.asp?job=2611030002703",
-    "title": "[동국제약] 신입/경력 채용(Global/관리/마케팅/영업/디자인/개발 등 모집)",
+    "url": "https://people.incruit.com/store/pubexam/main.asp",
+    "title": "채용정보 서브메뉴 추천 채용정보 금호고속 주식회사 2026년 금호익스프레스 신입사원(사무직) 모집 (~11/06) (재)혁신형소형모듈원자로기술개발사업단 2026년도 제2차 직원 채용 모집요강 (~11/11) 현대엔지",
     "snippet": "공식 채용 원문에서 SW / 백엔드 연관성이 확인된 공고입니다.",
-    "reason": "existing_ReadTimeout",
-    "checkedAt": "2026-11-08T00:40:47+09:00"
+    "reason": "existing_posting_not_found",
+    "checkedAt": "2026-11-08T15:05:45+09:00"
   },
   {
     "company": "삼성전자",
@@ -374,7 +366,7 @@
     "snippet": "삼성글로벌리서치",
     "discoveredBy": "official_page",
     "reason": "not_job_posting",
-    "checkedAt": "2026-11-08T00:40:47+09:00"
+    "checkedAt": "2026-11-08T15:05:45+09:00"
   },
   {
     "company": "삼성SDS",
@@ -383,7 +375,7 @@
     "snippet": "삼성글로벌리서치",
     "discoveredBy": "official_page",
     "reason": "not_job_posting",
-    "checkedAt": "2026-11-08T00:40:47+09:00"
+    "checkedAt": "2026-11-08T15:05:45+09:00"
   },
   {
     "company": "삼성디스플레이",
@@ -392,7 +384,7 @@
     "snippet": "삼성글로벌리서치",
     "discoveredBy": "official_page",
     "reason": "not_job_posting",
-    "checkedAt": "2026-11-08T00:40:47+09:00"
+    "checkedAt": "2026-11-08T15:05:45+09:00"
   },
   {
     "company": "삼성SDI",
@@ -401,7 +393,7 @@
     "snippet": "삼성글로벌리서치",
     "discoveredBy": "official_page",
     "reason": "not_job_posting",
-    "checkedAt": "2026-11-08T00:40:47+09:00"
+    "checkedAt": "2026-11-08T15:05:45+09:00"
   },
   {
     "company": "삼성전기",
@@ -410,7 +402,7 @@
     "snippet": "삼성글로벌리서치",
     "discoveredBy": "official_page",
     "reason": "not_job_posting",
-    "checkedAt": "2026-11-08T00:40:47+09:00"
+    "checkedAt": "2026-11-08T15:05:45+09:00"
   },
   {
     "company": "삼성생명",
@@ -419,7 +411,7 @@
     "snippet": "삼성글로벌리서치",
     "discoveredBy": "official_page",
     "reason": "not_job_posting",
-    "checkedAt": "2026-11-08T00:40:47+09:00"
+    "checkedAt": "2026-11-08T15:05:45+09:00"
   },
   {
     "company": "삼성화재",
@@ -428,7 +420,7 @@
     "snippet": "삼성글로벌리서치",
     "discoveredBy": "official_page",
     "reason": "not_job_posting",
-    "checkedAt": "2026-11-08T00:40:47+09:00"
+    "checkedAt": "2026-11-08T15:05:45+09:00"
   },
   {
     "company": "삼성카드",
@@ -437,7 +429,7 @@
     "snippet": "삼성글로벌리서치",
     "discoveredBy": "official_page",
     "reason": "not_job_posting",
-    "checkedAt": "2026-11-08T00:40:47+09:00"
+    "checkedAt": "2026-11-08T15:05:45+09:00"
   },
   {
     "company": "삼성증권",
@@ -446,7 +438,7 @@
     "snippet": "삼성글로벌리서치",
     "discoveredBy": "official_page",
     "reason": "not_job_posting",
-    "checkedAt": "2026-11-08T00:40:47+09:00"
+    "checkedAt": "2026-11-08T15:05:45+09:00"
   },
   {
     "company": "삼성물산 건설부문",
@@ -455,7 +447,7 @@
     "snippet": "공유 채용 공고를 공유할 수 있습니다. 스크랩 관심 공고로 스크랩할 수 있습니다. 삼성물산 건설부문 경력사원 채용(AI서비스개발, 정보기술, 데이터) 경력 2026. 11. 04 ~ 2026. 11. 16 D- 8 AI서비스 개발 정보시스템 개발/운영 정보기술기획 건설 디지털 기술(기술 연구) 데이터 엔지니어",
     "discoveredBy": "official_api",
     "reason": "career_only",
-    "checkedAt": "2026-11-08T00:40:47+09:00"
+    "checkedAt": "2026-11-08T15:05:45+09:00"
   },
   {
     "company": "삼성물산",
@@ -464,7 +456,7 @@
     "snippet": "삼성글로벌리서치",
     "discoveredBy": "official_page",
     "reason": "not_job_posting",
-    "checkedAt": "2026-11-08T00:40:47+09:00"
+    "checkedAt": "2026-11-08T15:05:45+09:00"
   },
   {
     "company": "현대자동차",
@@ -473,7 +465,7 @@
     "snippet": "",
     "discoveredBy": "sitemap",
     "reason": "not_job_posting",
-    "checkedAt": "2026-11-08T00:40:47+09:00"
+    "checkedAt": "2026-11-08T15:05:45+09:00"
   },
   {
     "company": "현대자동차",
@@ -482,7 +474,7 @@
     "snippet": "",
     "discoveredBy": "sitemap",
     "reason": "not_job_posting",
-    "checkedAt": "2026-11-08T00:40:47+09:00"
+    "checkedAt": "2026-11-08T15:05:45+09:00"
   },
   {
     "company": "현대자동차",
@@ -491,7 +483,7 @@
     "snippet": "",
     "discoveredBy": "sitemap",
     "reason": "insufficient_text",
-    "checkedAt": "2026-11-08T00:40:47+09:00"
+    "checkedAt": "2026-11-08T15:05:45+09:00"
   },
   {
     "company": "기아",
@@ -500,7 +492,7 @@
     "snippet": "",
     "discoveredBy": "sitemap",
     "reason": "not_job_posting",
-    "checkedAt": "2026-11-08T00:40:47+09:00"
+    "checkedAt": "2026-11-08T15:05:45+09:00"
   },
   {
     "company": "기아",
@@ -509,7 +501,7 @@
     "snippet": "",
     "discoveredBy": "sitemap",
     "reason": "insufficient_text",
-    "checkedAt": "2026-11-08T00:40:47+09:00"
+    "checkedAt": "2026-11-08T15:05:45+09:00"
   },
   {
     "company": "기아",
@@ -518,7 +510,7 @@
     "snippet": "",
     "discoveredBy": "sitemap",
     "reason": "not_job_posting",
-    "checkedAt": "2026-11-08T00:40:47+09:00"
+    "checkedAt": "2026-11-08T15:05:45+09:00"
   },
   {
     "company": "기아",
@@ -527,7 +519,7 @@
     "snippet": "",
     "discoveredBy": "sitemap",
     "reason": "not_job_posting",
-    "checkedAt": "2026-11-08T00:40:47+09:00"
+    "checkedAt": "2026-11-08T15:05:45+09:00"
   },
   {
     "company": "기아",
@@ -536,7 +528,7 @@
     "snippet": "",
     "discoveredBy": "sitemap",
     "reason": "not_job_posting",
-    "checkedAt": "2026-11-08T00:40:47+09:00"
+    "checkedAt": "2026-11-08T15:05:45+09:00"
   },
   {
     "company": "기아",
@@ -545,7 +537,7 @@
     "snippet": "",
     "discoveredBy": "sitemap",
     "reason": "not_job_posting",
-    "checkedAt": "2026-11-08T00:40:47+09:00"
+    "checkedAt": "2026-11-08T15:05:45+09:00"
   },
   {
     "company": "기아",
@@ -554,7 +546,7 @@
     "snippet": "",
     "discoveredBy": "sitemap",
     "reason": "not_job_posting",
-    "checkedAt": "2026-11-08T00:40:47+09:00"
+    "checkedAt": "2026-11-08T15:05:45+09:00"
   },
   {
     "company": "기아",
@@ -563,7 +555,7 @@
     "snippet": "",
     "discoveredBy": "sitemap",
     "reason": "not_job_posting",
-    "checkedAt": "2026-11-08T00:40:47+09:00"
+    "checkedAt": "2026-11-08T15:05:45+09:00"
   },
   {
     "company": "기아",
@@ -572,7 +564,7 @@
     "snippet": "",
     "discoveredBy": "sitemap",
     "reason": "not_job_posting",
-    "checkedAt": "2026-11-08T00:40:47+09:00"
+    "checkedAt": "2026-11-08T15:05:45+09:00"
   },
   {
     "company": "기아",
@@ -581,7 +573,7 @@
     "snippet": "",
     "discoveredBy": "sitemap",
     "reason": "not_job_posting",
-    "checkedAt": "2026-11-08T00:40:47+09:00"
+    "checkedAt": "2026-11-08T15:05:45+09:00"
   },
   {
     "company": "기아",
@@ -590,7 +582,7 @@
     "snippet": "",
     "discoveredBy": "sitemap",
     "reason": "not_job_posting",
-    "checkedAt": "2026-11-08T00:40:47+09:00"
+    "checkedAt": "2026-11-08T15:05:45+09:00"
   },
   {
     "company": "기아",
@@ -598,8 +590,8 @@
     "title": "global.kc?code=R009&codeGb=2400",
     "snippet": "",
     "discoveredBy": "sitemap",
-    "reason": "not_job_posting",
-    "checkedAt": "2026-11-08T00:40:47+09:00"
+    "reason": "HTTPError",
+    "checkedAt": "2026-11-08T15:05:45+09:00"
   },
   {
     "company": "기아",
@@ -608,7 +600,7 @@
     "snippet": "",
     "discoveredBy": "sitemap",
     "reason": "not_job_posting",
-    "checkedAt": "2026-11-08T00:40:47+09:00"
+    "checkedAt": "2026-11-08T15:05:45+09:00"
   },
   {
     "company": "기아",
@@ -617,7 +609,7 @@
     "snippet": "",
     "discoveredBy": "sitemap",
     "reason": "not_job_posting",
-    "checkedAt": "2026-11-08T00:40:47+09:00"
+    "checkedAt": "2026-11-08T15:05:45+09:00"
   },
   {
     "company": "기아",
@@ -626,7 +618,7 @@
     "snippet": "",
     "discoveredBy": "sitemap",
     "reason": "not_job_posting",
-    "checkedAt": "2026-11-08T00:40:47+09:00"
+    "checkedAt": "2026-11-08T15:05:45+09:00"
   },
   {
     "company": "기아",
@@ -635,7 +627,7 @@
     "snippet": "",
     "discoveredBy": "sitemap",
     "reason": "insufficient_text",
-    "checkedAt": "2026-11-08T00:40:47+09:00"
+    "checkedAt": "2026-11-08T15:05:45+09:00"
   },
   {
     "company": "기아",
@@ -644,7 +636,7 @@
     "snippet": "",
     "discoveredBy": "sitemap",
     "reason": "not_job_posting",
-    "checkedAt": "2026-11-08T00:40:47+09:00"
+    "checkedAt": "2026-11-08T15:05:45+09:00"
   },
   {
     "company": "기아",
@@ -653,7 +645,7 @@
     "snippet": "",
     "discoveredBy": "sitemap",
     "reason": "not_job_posting",
-    "checkedAt": "2026-11-08T00:40:47+09:00"
+    "checkedAt": "2026-11-08T15:05:45+09:00"
   },
   {
     "company": "기아",
@@ -662,7 +654,7 @@
     "snippet": "",
     "discoveredBy": "sitemap",
     "reason": "not_job_posting",
-    "checkedAt": "2026-11-08T00:40:47+09:00"
+    "checkedAt": "2026-11-08T15:05:45+09:00"
   },
   {
     "company": "기아",
@@ -671,7 +663,7 @@
     "snippet": "",
     "discoveredBy": "sitemap",
     "reason": "not_job_posting",
-    "checkedAt": "2026-11-08T00:40:47+09:00"
+    "checkedAt": "2026-11-08T15:05:45+09:00"
   },
   {
     "company": "기아",
@@ -680,7 +672,7 @@
     "snippet": "",
     "discoveredBy": "sitemap",
     "reason": "not_job_posting",
-    "checkedAt": "2026-11-08T00:40:47+09:00"
+    "checkedAt": "2026-11-08T15:05:45+09:00"
   },
   {
     "company": "기아",
@@ -689,7 +681,7 @@
     "snippet": "",
     "discoveredBy": "sitemap",
     "reason": "not_job_posting",
-    "checkedAt": "2026-11-08T00:40:47+09:00"
+    "checkedAt": "2026-11-08T15:05:45+09:00"
   },
   {
     "company": "기아",
@@ -698,7 +690,7 @@
     "snippet": "",
     "discoveredBy": "sitemap",
     "reason": "not_job_posting",
-    "checkedAt": "2026-11-08T00:40:47+09:00"
+    "checkedAt": "2026-11-08T15:05:45+09:00"
   },
   {
     "company": "기아",
@@ -707,7 +699,7 @@
     "snippet": "",
     "discoveredBy": "sitemap",
     "reason": "not_job_posting",
-    "checkedAt": "2026-11-08T00:40:47+09:00"
+    "checkedAt": "2026-11-08T15:05:45+09:00"
   },
   {
     "company": "현대오토에버",
@@ -716,7 +708,7 @@
     "snippet": "[Tech] Solution Architect - AI플랫폼 연구개발 아키텍트 Core Tech(AI/DATA/Cloud/보안) Data/AI(인공지능) 경력 5년 이상 정규직 서울/경기 2026. 11. 26, 14:59까지 D -18 [Tech] Security Engineer - 인도 법인 보안&인프라 주재원 Core Tech(AI/DATA/Cloud/보안) [02] 보안 Service Security Engineer 경력 10~20년 정규직 서울/경기 2026. 11. 26, 14:59까지 D -18 [Tech] Database Administrator - DBMS 운영/관리 DBA Core Tech(AI/DATA/Cloud/보안) Infra/Cloud 경력 5년 이상 정규직 서울/경기 2026. 11. 26, 14:59까지 D -18 [Tech] Security Engineer - 클라우드 보안성 검토 및 관리 Core Tech(AI/DATA/Cloud/보안) [02] 보안 Service Security Engineer 경력 8년 이상 정규직 서울/경기 [EnIT] 그룹웨어 시스템 운영 및 개발 (금융) Enterprise IT Solution Developer 경력 3년 이상 정규직 서울/경기 2026. 11. 26, 14:59까지 D -18 [공통] HRM - HR 전략/제도 기획 공통/신사업/기타 경영기획/관리/지원 경력 5년 이상 정규직 서울/경기 [SDV] Embedded SW Platform Developer - 진단/Crypto 모듈 개발 SDV(차량전장SW) Embedded SW Platform Developer 경력 3~7년 정규직 서울/경기 2026. 11. 26, 14:59까지 D -18 [SDV] Embedded SW Platform Developer - Classic Autosar 통신 스택 개발 SDV(차량전장SW) Embedded SW Platform Developer 경력 3~7년 정규직 서울/경기 2026. 11. 26,",
     "discoveredBy": "official_page",
     "reason": "not_job_posting",
-    "checkedAt": "2026-11-08T00:40:47+09:00"
+    "checkedAt": "2026-11-08T15:05:45+09:00"
   },
   {
     "company": "현대오토에버",
@@ -725,7 +717,7 @@
     "snippet": "[Tech] Solution Architect - AI플랫폼 연구개발 아키텍트 Core Tech(AI/DATA/Cloud/보안) Data/AI(인공지능) 경력 5년 이상 정규직 서울/경기 2026. 11. 26, 14:59까지 D -18 [Tech] Security Engineer - 인도 법인 보안&인프라 주재원 Core Tech(AI/DATA/Cloud/보안) [02] 보안 Service Security Engineer 경력 10~20년 정규직 서울/경기 2026. 11. 26, 14:59까지 D -18 [Tech] Database Administrator - DBMS 운영/관리 DBA Core Tech(AI/DATA/Cloud/보안) Infra/Cloud 경력 5년 이상 정규직 서울/경기 2026. 11. 26, 14:59까지 D -18 [Tech] Security Engineer - 클라우드 보안성 검토 및 관리 Core Tech(AI/DATA/Cloud/보안) [02] 보안 Service Security Engineer 경력 8년 이상 정규직 서울/경기 [EnIT] 그룹웨어 시스템 운영 및 개발 (금융) Enterprise IT Solution Developer 경력 3년 이상 정규직 서울/경기 2026. 11. 26, 14:59까지 D -18 [공통] HRM - HR 전략/제도 기획 공통/신사업/기타 경영기획/관리/지원 경력 5년 이상 정규직 서울/경기 [SDV] Embedded SW Platform Developer - 진단/Crypto 모듈 개발 SDV(차량전장SW) Embedded SW Platform Developer 경력 3~7년 정규직 서울/경기 2026. 11. 26, 14:59까지 D -18 [SDV] Embedded SW Platform Developer - Classic Autosar 통신 스택 개발 SDV(차량전장SW) Embedded SW Platform Developer 경력 3~7년 정규직 서울/경기 2026. 11. 26,",
     "discoveredBy": "official_page",
     "reason": "not_job_posting",
-    "checkedAt": "2026-11-08T00:40:47+09:00"
+    "checkedAt": "2026-11-08T15:05:45+09:00"
   },
   {
     "company": "현대오토에버",
@@ -734,7 +726,7 @@
     "snippet": "[Tech] Solution Architect - AI플랫폼 연구개발 아키텍트 Core Tech(AI/DATA/Cloud/보안) Data/AI(인공지능) 경력 5년 이상 정규직 서울/경기 2026. 11. 26, 14:59까지 D -18 [Tech] Security Engineer - 인도 법인 보안&인프라 주재원 Core Tech(AI/DATA/Cloud/보안) [02] 보안 Service Security Engineer 경력 10~20년 정규직 서울/경기 2026. 11. 26, 14:59까지 D -18 [Tech] Database Administrator - DBMS 운영/관리 DBA Core Tech(AI/DATA/Cloud/보안) Infra/Cloud 경력 5년 이상 정규직 서울/경기 2026. 11. 26, 14:59까지 D -18 [Tech] Security Engineer - 클라우드 보안성 검토 및 관리 Core Tech(AI/DATA/Cloud/보안) [02] 보안 Service Security Engineer 경력 8년 이상 정규직 서울/경기 [EnIT] 그룹웨어 시스템 운영 및 개발 (금융) Enterprise IT Solution Developer 경력 3년 이상 정규직 서울/경기 2026. 11. 26, 14:59까지 D -18 [공통] HRM - HR 전략/제도 기획 공통/신사업/기타 경영기획/관리/지원 경력 5년 이상 정규직 서울/경기 [SDV] Embedded SW Platform Developer - 진단/Crypto 모듈 개발 SDV(차량전장SW) Embedded SW Platform Developer 경력 3~7년 정규직 서울/경기 2026. 11. 26, 14:59까지 D -18 [SDV] Embedded SW Platform Developer - Classic Autosar 통신 스택 개발 SDV(차량전장SW) Embedded SW Platform Developer 경력 3~7년 정규직 서울/경기 2026. 11. 26,",
     "discoveredBy": "official_page",
     "reason": "not_job_posting",
-    "checkedAt": "2026-11-08T00:40:47+09:00"
+    "checkedAt": "2026-11-08T15:05:45+09:00"
   },
   {
     "company": "현대오토에버",
@@ -743,7 +735,7 @@
     "snippet": "[Tech] Solution Architect - AI플랫폼 연구개발 아키텍트 Core Tech(AI/DATA/Cloud/보안) Data/AI(인공지능) 경력 5년 이상 정규직 서울/경기 2026. 11. 26, 14:59까지 D -18 [Tech] Security Engineer - 인도 법인 보안&인프라 주재원 Core Tech(AI/DATA/Cloud/보안) [02] 보안 Service Security Engineer 경력 10~20년 정규직 서울/경기 2026. 11. 26, 14:59까지 D -18 [Tech] Database Administrator - DBMS 운영/관리 DBA Core Tech(AI/DATA/Cloud/보안) Infra/Cloud 경력 5년 이상 정규직 서울/경기 2026. 11. 26, 14:59까지 D -18 [Tech] Security Engineer - 클라우드 보안성 검토 및 관리 Core Tech(AI/DATA/Cloud/보안) [02] 보안 Service Security Engineer 경력 8년 이상 정규직 서울/경기 [EnIT] 그룹웨어 시스템 운영 및 개발 (금융) Enterprise IT Solution Developer 경력 3년 이상 정규직 서울/경기 2026. 11. 26, 14:59까지 D -18 [공통] HRM - HR 전략/제도 기획 공통/신사업/기타 경영기획/관리/지원 경력 5년 이상 정규직 서울/경기 [SDV] Embedded SW Platform Developer - 진단/Crypto 모듈 개발 SDV(차량전장SW) Embedded SW Platform Developer 경력 3~7년 정규직 서울/경기 2026. 11. 26, 14:59까지 D -18 [SDV] Embedded SW Platform Developer - Classic Autosar 통신 스택 개발 SDV(차량전장SW) Embedded SW Platform Developer 경력 3~7년 정규직 서울/경기 2026. 11. 26,",
     "discoveredBy": "official_page",
     "reason": "not_job_posting",
-    "checkedAt": "2026-11-08T00:40:47+09:00"
+    "checkedAt": "2026-11-08T15:05:45+09:00"
   },
   {
     "company": "현대오토에버",
@@ -752,7 +744,7 @@
     "snippet": "[Tech] Solution Architect - AI플랫폼 연구개발 아키텍트 Core Tech(AI/DATA/Cloud/보안) Data/AI(인공지능) 경력 5년 이상 정규직 서울/경기 2026. 11. 26, 14:59까지 D -18 [Tech] Security Engineer - 인도 법인 보안&인프라 주재원 Core Tech(AI/DATA/Cloud/보안) [02] 보안 Service Security Engineer 경력 10~20년 정규직 서울/경기 2026. 11. 26, 14:59까지 D -18 [Tech] Database Administrator - DBMS 운영/관리 DBA Core Tech(AI/DATA/Cloud/보안) Infra/Cloud 경력 5년 이상 정규직 서울/경기 2026. 11. 26, 14:59까지 D -18 [Tech] Security Engineer - 클라우드 보안성 검토 및 관리 Core Tech(AI/DATA/Cloud/보안) [02] 보안 Service Security Engineer 경력 8년 이상 정규직 서울/경기 [EnIT] 그룹웨어 시스템 운영 및 개발 (금융) Enterprise IT Solution Developer 경력 3년 이상 정규직 서울/경기 2026. 11. 26, 14:59까지 D -18 [공통] HRM - HR 전략/제도 기획 공통/신사업/기타 경영기획/관리/지원 경력 5년 이상 정규직 서울/경기 [SDV] Embedded SW Platform Developer - 진단/Crypto 모듈 개발 SDV(차량전장SW) Embedded SW Platform Developer 경력 3~7년 정규직 서울/경기 2026. 11. 26, 14:59까지 D -18 [SDV] Embedded SW Platform Developer - Classic Autosar 통신 스택 개발 SDV(차량전장SW) Embedded SW Platform Developer 경력 3~7년 정규직 서울/경기 2026. 11. 26,",
     "discoveredBy": "official_page",
     "reason": "not_job_posting",
-    "checkedAt": "2026-11-08T00:40:47+09:00"
+    "checkedAt": "2026-11-08T15:05:45+09:00"
   },
   {
     "company": "현대오토에버",
@@ -761,7 +753,7 @@
     "snippet": "[Tech] Solution Architect - AI플랫폼 연구개발 아키텍트 Core Tech(AI/DATA/Cloud/보안) Data/AI(인공지능) 경력 5년 이상 정규직 서울/경기 2026. 11. 26, 14:59까지 D -18 [Tech] Security Engineer - 인도 법인 보안&인프라 주재원 Core Tech(AI/DATA/Cloud/보안) [02] 보안 Service Security Engineer 경력 10~20년 정규직 서울/경기 2026. 11. 26, 14:59까지 D -18 [Tech] Database Administrator - DBMS 운영/관리 DBA Core Tech(AI/DATA/Cloud/보안) Infra/Cloud 경력 5년 이상 정규직 서울/경기 2026. 11. 26, 14:59까지 D -18 [Tech] Security Engineer - 클라우드 보안성 검토 및 관리 Core Tech(AI/DATA/Cloud/보안) [02] 보안 Service Security Engineer 경력 8년 이상 정규직 서울/경기 [EnIT] 그룹웨어 시스템 운영 및 개발 (금융) Enterprise IT Solution Developer 경력 3년 이상 정규직 서울/경기 2026. 11. 26, 14:59까지 D -18 [공통] HRM - HR 전략/제도 기획 공통/신사업/기타 경영기획/관리/지원 경력 5년 이상 정규직 서울/경기 [SDV] Embedded SW Platform Developer - 진단/Crypto 모듈 개발 SDV(차량전장SW) Embedded SW Platform Developer 경력 3~7년 정규직 서울/경기 2026. 11. 26, 14:59까지 D -18 [SDV] Embedded SW Platform Developer - Classic Autosar 통신 스택 개발 SDV(차량전장SW) Embedded SW Platform Developer 경력 3~7년 정규직 서울/경기 2026. 11. 26,",
     "discoveredBy": "official_page",
     "reason": "not_job_posting",
-    "checkedAt": "2026-11-08T00:40:47+09:00"
+    "checkedAt": "2026-11-08T15:05:45+09:00"
   },
   {
     "company": "현대오토에버",
@@ -770,7 +762,7 @@
     "snippet": "[Tech] Solution Architect - AI플랫폼 연구개발 아키텍트 Core Tech(AI/DATA/Cloud/보안) Data/AI(인공지능) 경력 5년 이상 정규직 서울/경기 2026. 11. 26, 14:59까지 D -18 [Tech] Security Engineer - 인도 법인 보안&인프라 주재원 Core Tech(AI/DATA/Cloud/보안) [02] 보안 Service Security Engineer 경력 10~20년 정규직 서울/경기 2026. 11. 26, 14:59까지 D -18 [Tech] Database Administrator - DBMS 운영/관리 DBA Core Tech(AI/DATA/Cloud/보안) Infra/Cloud 경력 5년 이상 정규직 서울/경기 2026. 11. 26, 14:59까지 D -18 [Tech] Security Engineer - 클라우드 보안성 검토 및 관리 Core Tech(AI/DATA/Cloud/보안) [02] 보안 Service Security Engineer 경력 8년 이상 정규직 서울/경기 [EnIT] 그룹웨어 시스템 운영 및 개발 (금융) Enterprise IT Solution Developer 경력 3년 이상 정규직 서울/경기 2026. 11. 26, 14:59까지 D -18 [공통] HRM - HR 전략/제도 기획 공통/신사업/기타 경영기획/관리/지원 경력 5년 이상 정규직 서울/경기 [SDV] Embedded SW Platform Developer - 진단/Crypto 모듈 개발 SDV(차량전장SW) Embedded SW Platform Developer 경력 3~7년 정규직 서울/경기 2026. 11. 26, 14:59까지 D -18 [SDV] Embedded SW Platform Developer - Classic Autosar 통신 스택 개발 SDV(차량전장SW) Embedded SW Platform Developer 경력 3~7년 정규직 서울/경기 2026. 11. 26,",
     "discoveredBy": "official_page",
     "reason": "not_job_posting",
-    "checkedAt": "2026-11-08T00:40:47+09:00"
+    "checkedAt": "2026-11-08T15:05:45+09:00"
   },
   {
     "company": "현대오토에버",
@@ -779,7 +771,7 @@
     "snippet": "[Tech] Solution Architect - AI플랫폼 연구개발 아키텍트 Core Tech(AI/DATA/Cloud/보안) Data/AI(인공지능) 경력 5년 이상 정규직 서울/경기 2026. 11. 26, 14:59까지 D -18 [Tech] Security Engineer - 인도 법인 보안&인프라 주재원 Core Tech(AI/DATA/Cloud/보안) [02] 보안 Service Security Engineer 경력 10~20년 정규직 서울/경기 2026. 11. 26, 14:59까지 D -18 [Tech] Database Administrator - DBMS 운영/관리 DBA Core Tech(AI/DATA/Cloud/보안) Infra/Cloud 경력 5년 이상 정규직 서울/경기 2026. 11. 26, 14:59까지 D -18 [Tech] Security Engineer - 클라우드 보안성 검토 및 관리 Core Tech(AI/DATA/Cloud/보안) [02] 보안 Service Security Engineer 경력 8년 이상 정규직 서울/경기 [EnIT] 그룹웨어 시스템 운영 및 개발 (금융) Enterprise IT Solution Developer 경력 3년 이상 정규직 서울/경기 2026. 11. 26, 14:59까지 D -18 [공통] HRM - HR 전략/제도 기획 공통/신사업/기타 경영기획/관리/지원 경력 5년 이상 정규직 서울/경기 [SDV] Embedded SW Platform Developer - 진단/Crypto 모듈 개발 SDV(차량전장SW) Embedded SW Platform Developer 경력 3~7년 정규직 서울/경기 2026. 11. 26, 14:59까지 D -18 [SDV] Embedded SW Platform Developer - Classic Autosar 통신 스택 개발 SDV(차량전장SW) Embedded SW Platform Developer 경력 3~7년 정규직 서울/경기 2026. 11. 26,",
     "discoveredBy": "official_page",
     "reason": "not_job_posting",
-    "checkedAt": "2026-11-08T00:40:47+09:00"
+    "checkedAt": "2026-11-08T15:05:45+09:00"
   },
   {
     "company": "현대오토에버",
@@ -788,7 +780,7 @@
     "snippet": "[Tech] Solution Architect - AI플랫폼 연구개발 아키텍트 Core Tech(AI/DATA/Cloud/보안) Data/AI(인공지능) 경력 5년 이상 정규직 서울/경기 2026. 11. 26, 14:59까지 D -18 [Tech] Security Engineer - 인도 법인 보안&인프라 주재원 Core Tech(AI/DATA/Cloud/보안) [02] 보안 Service Security Engineer 경력 10~20년 정규직 서울/경기 2026. 11. 26, 14:59까지 D -18 [Tech] Database Administrator - DBMS 운영/관리 DBA Core Tech(AI/DATA/Cloud/보안) Infra/Cloud 경력 5년 이상 정규직 서울/경기 2026. 11. 26, 14:59까지 D -18 [Tech] Security Engineer - 클라우드 보안성 검토 및 관리 Core Tech(AI/DATA/Cloud/보안) [02] 보안 Service Security Engineer 경력 8년 이상 정규직 서울/경기 [EnIT] 그룹웨어 시스템 운영 및 개발 (금융) Enterprise IT Solution Developer 경력 3년 이상 정규직 서울/경기 2026. 11. 26, 14:59까지 D -18 [공통] HRM - HR 전략/제도 기획 공통/신사업/기타 경영기획/관리/지원 경력 5년 이상 정규직 서울/경기 [SDV] Embedded SW Platform Developer - 진단/Crypto 모듈 개발 SDV(차량전장SW) Embedded SW Platform Developer 경력 3~7년 정규직 서울/경기 2026. 11. 26, 14:59까지 D -18 [SDV] Embedded SW Platform Developer - Classic Autosar 통신 스택 개발 SDV(차량전장SW) Embedded SW Platform Developer 경력 3~7년 정규직 서울/경기 2026. 11. 26,",
     "discoveredBy": "official_page",
     "reason": "not_job_posting",
-    "checkedAt": "2026-11-08T00:40:47+09:00"
+    "checkedAt": "2026-11-08T15:05:45+09:00"
   },
   {
     "company": "현대오토에버",
@@ -797,7 +789,7 @@
     "snippet": "[Tech] Solution Architect - AI플랫폼 연구개발 아키텍트 Core Tech(AI/DATA/Cloud/보안) Data/AI(인공지능) 경력 5년 이상 정규직 서울/경기 2026. 11. 26, 14:59까지 D -18 [Tech] Security Engineer - 인도 법인 보안&인프라 주재원 Core Tech(AI/DATA/Cloud/보안) [02] 보안 Service Security Engineer 경력 10~20년 정규직 서울/경기 2026. 11. 26, 14:59까지 D -18 [Tech] Database Administrator - DBMS 운영/관리 DBA Core Tech(AI/DATA/Cloud/보안) Infra/Cloud 경력 5년 이상 정규직 서울/경기 2026. 11. 26, 14:59까지 D -18 [Tech] Security Engineer - 클라우드 보안성 검토 및 관리 Core Tech(AI/DATA/Cloud/보안) [02] 보안 Service Security Engineer 경력 8년 이상 정규직 서울/경기 [EnIT] 그룹웨어 시스템 운영 및 개발 (금융) Enterprise IT Solution Developer 경력 3년 이상 정규직 서울/경기 2026. 11. 26, 14:59까지 D -18 [공통] HRM - HR 전략/제도 기획 공통/신사업/기타 경영기획/관리/지원 경력 5년 이상 정규직 서울/경기 [SDV] Embedded SW Platform Developer - 진단/Crypto 모듈 개발 SDV(차량전장SW) Embedded SW Platform Developer 경력 3~7년 정규직 서울/경기 2026. 11. 26, 14:59까지 D -18 [SDV] Embedded SW Platform Developer - Classic Autosar 통신 스택 개발 SDV(차량전장SW) Embedded SW Platform Developer 경력 3~7년 정규직 서울/경기 2026. 11. 26,",
     "discoveredBy": "official_page",
     "reason": "not_job_posting",
-    "checkedAt": "2026-11-08T00:40:47+09:00"
+    "checkedAt": "2026-11-08T15:05:45+09:00"
   },
   {
     "company": "현대오토에버",
@@ -806,7 +798,7 @@
     "snippet": "[Tech] Solution Architect - AI플랫폼 연구개발 아키텍트 Core Tech(AI/DATA/Cloud/보안) Data/AI(인공지능) 경력 5년 이상 정규직 서울/경기 2026. 11. 26, 14:59까지 D -18 [Tech] Security Engineer - 인도 법인 보안&인프라 주재원 Core Tech(AI/DATA/Cloud/보안) [02] 보안 Service Security Engineer 경력 10~20년 정규직 서울/경기 2026. 11. 26, 14:59까지 D -18 [Tech] Database Administrator - DBMS 운영/관리 DBA Core Tech(AI/DATA/Cloud/보안) Infra/Cloud 경력 5년 이상 정규직 서울/경기 2026. 11. 26, 14:59까지 D -18 [Tech] Security Engineer - 클라우드 보안성 검토 및 관리 Core Tech(AI/DATA/Cloud/보안) [02] 보안 Service Security Engineer 경력 8년 이상 정규직 서울/경기 [EnIT] 그룹웨어 시스템 운영 및 개발 (금융) Enterprise IT Solution Developer 경력 3년 이상 정규직 서울/경기 2026. 11. 26, 14:59까지 D -18 [공통] HRM - HR 전략/제도 기획 공통/신사업/기타 경영기획/관리/지원 경력 5년 이상 정규직 서울/경기 [SDV] Embedded SW Platform Developer - 진단/Crypto 모듈 개발 SDV(차량전장SW) Embedded SW Platform Developer 경력 3~7년 정규직 서울/경기 2026. 11. 26, 14:59까지 D -18 [SDV] Embedded SW Platform Developer - Classic Autosar 통신 스택 개발 SDV(차량전장SW) Embedded SW Platform Developer 경력 3~7년 정규직 서울/경기 2026. 11. 26,",
     "discoveredBy": "official_page",
     "reason": "not_job_posting",
-    "checkedAt": "2026-11-08T00:40:47+09:00"
+    "checkedAt": "2026-11-08T15:05:45+09:00"
   },
   {
     "company": "현대오토에버",
@@ -815,7 +807,7 @@
     "snippet": "[Tech] Solution Architect - AI플랫폼 연구개발 아키텍트 Core Tech(AI/DATA/Cloud/보안) Data/AI(인공지능) 경력 5년 이상 정규직 서울/경기 2026. 11. 26, 14:59까지 D -18 [Tech] Security Engineer - 인도 법인 보안&인프라 주재원 Core Tech(AI/DATA/Cloud/보안) [02] 보안 Service Security Engineer 경력 10~20년 정규직 서울/경기 2026. 11. 26, 14:59까지 D -18 [Tech] Database Administrator - DBMS 운영/관리 DBA Core Tech(AI/DATA/Cloud/보안) Infra/Cloud 경력 5년 이상 정규직 서울/경기 2026. 11. 26, 14:59까지 D -18 [Tech] Security Engineer - 클라우드 보안성 검토 및 관리 Core Tech(AI/DATA/Cloud/보안) [02] 보안 Service Security Engineer 경력 8년 이상 정규직 서울/경기 [EnIT] 그룹웨어 시스템 운영 및 개발 (금융) Enterprise IT Solution Developer 경력 3년 이상 정규직 서울/경기 2026. 11. 26, 14:59까지 D -18 [공통] HRM - HR 전략/제도 기획 공통/신사업/기타 경영기획/관리/지원 경력 5년 이상 정규직 서울/경기 [SDV] Embedded SW Platform Developer - 진단/Crypto 모듈 개발 SDV(차량전장SW) Embedded SW Platform Developer 경력 3~7년 정규직 서울/경기 2026. 11. 26, 14:59까지 D -18 [SDV] Embedded SW Platform Developer - Classic Autosar 통신 스택 개발 SDV(차량전장SW) Embedded SW Platform Developer 경력 3~7년 정규직 서울/경기 2026. 11. 26,",
     "discoveredBy": "official_page",
     "reason": "not_job_posting",
-    "checkedAt": "2026-11-08T00:40:47+09:00"
+    "checkedAt": "2026-11-08T15:05:45+09:00"
   },
   {
     "company": "현대오토에버",
@@ -824,7 +816,7 @@
     "snippet": "[Tech] Solution Architect - AI플랫폼 연구개발 아키텍트 Core Tech(AI/DATA/Cloud/보안) Data/AI(인공지능) 경력 5년 이상 정규직 서울/경기 2026. 11. 26, 14:59까지 D -18 [Tech] Security Engineer - 인도 법인 보안&인프라 주재원 Core Tech(AI/DATA/Cloud/보안) [02] 보안 Service Security Engineer 경력 10~20년 정규직 서울/경기 2026. 11. 26, 14:59까지 D -18 [Tech] Database Administrator - DBMS 운영/관리 DBA Core Tech(AI/DATA/Cloud/보안) Infra/Cloud 경력 5년 이상 정규직 서울/경기 2026. 11. 26, 14:59까지 D -18 [Tech] Security Engineer - 클라우드 보안성 검토 및 관리 Core Tech(AI/DATA/Cloud/보안) [02] 보안 Service Security Engineer 경력 8년 이상 정규직 서울/경기 [EnIT] 그룹웨어 시스템 운영 및 개발 (금융) Enterprise IT Solution Developer 경력 3년 이상 정규직 서울/경기 2026. 11. 26, 14:59까지 D -18 [공통] HRM - HR 전략/제도 기획 공통/신사업/기타 경영기획/관리/지원 경력 5년 이상 정규직 서울/경기 [SDV] Embedded SW Platform Developer - 진단/Crypto 모듈 개발 SDV(차량전장SW) Embedded SW Platform Developer 경력 3~7년 정규직 서울/경기 2026. 11. 26, 14:59까지 D -18 [SDV] Embedded SW Platform Developer - Classic Autosar 통신 스택 개발 SDV(차량전장SW) Embedded SW Platform Developer 경력 3~7년 정규직 서울/경기 2026. 11. 26,",
     "discoveredBy": "official_page",
     "reason": "not_job_posting",
-    "checkedAt": "2026-11-08T00:40:47+09:00"
+    "checkedAt": "2026-11-08T15:05:45+09:00"
   },
   {
     "company": "현대오토에버",
@@ -833,7 +825,7 @@
     "snippet": "[Tech] Solution Architect - AI플랫폼 연구개발 아키텍트 Core Tech(AI/DATA/Cloud/보안) Data/AI(인공지능) 경력 5년 이상 정규직 서울/경기 2026. 11. 26, 14:59까지 D -18 [Tech] Security Engineer - 인도 법인 보안&인프라 주재원 Core Tech(AI/DATA/Cloud/보안) [02] 보안 Service Security Engineer 경력 10~20년 정규직 서울/경기 2026. 11. 26, 14:59까지 D -18 [Tech] Database Administrator - DBMS 운영/관리 DBA Core Tech(AI/DATA/Cloud/보안) Infra/Cloud 경력 5년 이상 정규직 서울/경기 2026. 11. 26, 14:59까지 D -18 [Tech] Security Engineer - 클라우드 보안성 검토 및 관리 Core Tech(AI/DATA/Cloud/보안) [02] 보안 Service Security Engineer 경력 8년 이상 정규직 서울/경기 [EnIT] 그룹웨어 시스템 운영 및 개발 (금융) Enterprise IT Solution Developer 경력 3년 이상 정규직 서울/경기 2026. 11. 26, 14:59까지 D -18 [공통] HRM - HR 전략/제도 기획 공통/신사업/기타 경영기획/관리/지원 경력 5년 이상 정규직 서울/경기 [SDV] Embedded SW Platform Developer - 진단/Crypto 모듈 개발 SDV(차량전장SW) Embedded SW Platform Developer 경력 3~7년 정규직 서울/경기 2026. 11. 26, 14:59까지 D -18 [SDV] Embedded SW Platform Developer - Classic Autosar 통신 스택 개발 SDV(차량전장SW) Embedded SW Platform Developer 경력 3~7년 정규직 서울/경기 2026. 11. 26,",
     "discoveredBy": "official_page",
     "reason": "not_job_posting",
-    "checkedAt": "2026-11-08T00:40:47+09:00"
+    "checkedAt": "2026-11-08T15:05:45+09:00"
   },
   {
     "company": "현대오토에버",
@@ -842,7 +834,7 @@
     "snippet": "[Tech] Solution Architect - AI플랫폼 연구개발 아키텍트 Core Tech(AI/DATA/Cloud/보안) Data/AI(인공지능) 경력 5년 이상 정규직 서울/경기 2026. 11. 26, 14:59까지 D -18 [Tech] Security Engineer - 인도 법인 보안&인프라 주재원 Core Tech(AI/DATA/Cloud/보안) [02] 보안 Service Security Engineer 경력 10~20년 정규직 서울/경기 2026. 11. 26, 14:59까지 D -18 [Tech] Database Administrator - DBMS 운영/관리 DBA Core Tech(AI/DATA/Cloud/보안) Infra/Cloud 경력 5년 이상 정규직 서울/경기 2026. 11. 26, 14:59까지 D -18 [Tech] Security Engineer - 클라우드 보안성 검토 및 관리 Core Tech(AI/DATA/Cloud/보안) [02] 보안 Service Security Engineer 경력 8년 이상 정규직 서울/경기 [EnIT] 그룹웨어 시스템 운영 및 개발 (금융) Enterprise IT Solution Developer 경력 3년 이상 정규직 서울/경기 2026. 11. 26, 14:59까지 D -18 [공통] HRM - HR 전략/제도 기획 공통/신사업/기타 경영기획/관리/지원 경력 5년 이상 정규직 서울/경기 [SDV] Embedded SW Platform Developer - 진단/Crypto 모듈 개발 SDV(차량전장SW) Embedded SW Platform Developer 경력 3~7년 정규직 서울/경기 2026. 11. 26, 14:59까지 D -18 [SDV] Embedded SW Platform Developer - Classic Autosar 통신 스택 개발 SDV(차량전장SW) Embedded SW Platform Developer 경력 3~7년 정규직 서울/경기 2026. 11. 26,",
     "discoveredBy": "official_page",
     "reason": "not_job_posting",
-    "checkedAt": "2026-11-08T00:40:47+09:00"
+    "checkedAt": "2026-11-08T15:05:45+09:00"
   },
   {
     "company": "현대오토에버",
@@ -851,6 +843,15 @@
     "snippet": "[Tech] Solution Architect - AI플랫폼 연구개발 아키텍트 Core Tech(AI/DATA/Cloud/보안) Data/AI(인공지능) 경력 5년 이상 정규직 서울/경기 2026. 11. 26, 14:59까지 D -18 [Tech] Security Engineer - 인도 법인 보안&인프라 주재원 Core Tech(AI/DATA/Cloud/보안) [02] 보안 Service Security Engineer 경력 10~20년 정규직 서울/경기 2026. 11. 26, 14:59까지 D -18 [Tech] Database Administrator - DBMS 운영/관리 DBA Core Tech(AI/DATA/Cloud/보안) Infra/Cloud 경력 5년 이상 정규직 서울/경기 2026. 11. 26, 14:59까지 D -18 [Tech] Security Engineer - 클라우드 보안성 검토 및 관리 Core Tech(AI/DATA/Cloud/보안) [02] 보안 Service Security Engineer 경력 8년 이상 정규직 서울/경기 [EnIT] 그룹웨어 시스템 운영 및 개발 (금융) Enterprise IT Solution Developer 경력 3년 이상 정규직 서울/경기 2026. 11. 26, 14:59까지 D -18 [공통] HRM - HR 전략/제도 기획 공통/신사업/기타 경영기획/관리/지원 경력 5년 이상 정규직 서울/경기 [SDV] Embedded SW Platform Developer - 진단/Crypto 모듈 개발 SDV(차량전장SW) Embedded SW Platform Developer 경력 3~7년 정규직 서울/경기 2026. 11. 26, 14:59까지 D -18 [SDV] Embedded SW Platform Developer - Classic Autosar 통신 스택 개발 SDV(차량전장SW) Embedded SW Platform Developer 경력 3~7년 정규직 서울/경기 2026. 11. 26,",
     "discoveredBy": "official_page",
     "reason": "not_job_posting",
-    "checkedAt": "2026-11-08T00:40:47+09:00"
+    "checkedAt": "2026-11-08T15:05:45+09:00"
+  },
+  {
+    "company": "현대오토에버",
+    "url": "https://career.hyundai-autoever.com/ko/o/232234",
+    "title": "[EnIT] Solution Architect - ERP 컨설팅(Canias 경험 무관 / ERP 경력자 채용) Enterprise IT 솔루션아키텍트/개발(ERP/CRM/MS 등) 경력 6년 이상 정규직 서울/경기 2026. 11. 26, 14:59까지 D -18",
+    "snippet": "[Tech] Solution Architect - AI플랫폼 연구개발 아키텍트 Core Tech(AI/DATA/Cloud/보안) Data/AI(인공지능) 경력 5년 이상 정규직 서울/경기 2026. 11. 26, 14:59까지 D -18 [Tech] Security Engineer - 인도 법인 보안&인프라 주재원 Core Tech(AI/DATA/Cloud/보안) [02] 보안 Service Security Engineer 경력 10~20년 정규직 서울/경기 2026. 11. 26, 14:59까지 D -18 [Tech] Database Administrator - DBMS 운영/관리 DBA Core Tech(AI/DATA/Cloud/보안) Infra/Cloud 경력 5년 이상 정규직 서울/경기 2026. 11. 26, 14:59까지 D -18 [Tech] Security Engineer - 클라우드 보안성 검토 및 관리 Core Tech(AI/DATA/Cloud/보안) [02] 보안 Service Security Engineer 경력 8년 이상 정규직 서울/경기 [EnIT] 그룹웨어 시스템 운영 및 개발 (금융) Enterprise IT Solution Developer 경력 3년 이상 정규직 서울/경기 2026. 11. 26, 14:59까지 D -18 [공통] HRM - HR 전략/제도 기획 공통/신사업/기타 경영기획/관리/지원 경력 5년 이상 정규직 서울/경기 [SDV] Embedded SW Platform Developer - 진단/Crypto 모듈 개발 SDV(차량전장SW) Embedded SW Platform Developer 경력 3~7년 정규직 서울/경기 2026. 11. 26, 14:59까지 D -18 [SDV] Embedded SW Platform Developer - Classic Autosar 통신 스택 개발 SDV(차량전장SW) Embedded SW Platform Developer 경력 3~7년 정규직 서울/경기 2026. 11. 26,",
+    "discoveredBy": "official_page",
+    "reason": "career_only",
+    "checkedAt": "2026-11-08T15:05:45+09:00"
   }
 ]

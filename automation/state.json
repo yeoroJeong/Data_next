@@ -1,5 +1,5 @@
 {
-  "lastRunAt": "2026-11-08T00:40:47+09:00",
+  "lastRunAt": "2026-11-08T15:05:45+09:00",
   "companies": {
     "삼성전자": {
       "discovered": 17,
@@ -236,7 +236,7 @@
       },
       "errors": [],
       "rejected": {
-        "not_job_posting": 22
+        "not_job_posting": 21
       }
     },
     "현대오토에버": {
@@ -627,16 +627,16 @@
       "rejected": {}
     },
     "우리은행": {
-      "discovered": 183,
+      "discovered": 193,
       "verified": 3,
       "sources": {
-        "official_page": 183
+        "official_page": 189,
+        "bing": 4
       },
       "errors": [],
       "rejected": {
-        "not_job_posting": 4,
-        "eligibility_unconfirmed": 5,
-        "career_only": 4
+        "not_job_posting": 5,
+        "eligibility_unconfirmed": 5
       }
     },
     "NH농협은행": {
@@ -717,22 +717,16 @@
       }
     },
     "POSCO DX": {
-      "discovered": 2,
+      "discovered": 0,
       "verified": 0,
-      "sources": {
-        "bing": 2
-      },
+      "sources": {},
       "errors": [],
-      "rejected": {
-        "eligibility_unconfirmed": 1
-      }
+      "rejected": {}
     },
     "포스코": {
-      "discovered": 1,
+      "discovered": 0,
       "verified": 0,
-      "sources": {
-        "bing": 1
-      },
+      "sources": {},
       "errors": [],
       "rejected": {}
     },
@@ -778,12 +772,12 @@
       "rejected": {}
     },
     "인천국제공항공사": {
-      "discovered": 0,
+      "discovered": 3,
       "verified": 0,
-      "sources": {},
-      "errors": [
-        "official_page:ConnectTimeout"
-      ],
+      "sources": {
+        "official_page": 3
+      },
+      "errors": [],
       "rejected": {}
     },
     "한국장학재단": {
@@ -953,19 +947,19 @@
       }
     },
     "하나카드": {
-      "discovered": 0,
+      "discovered": 1,
       "verified": 0,
-      "sources": {},
-      "errors": [
-        "official_page:ConnectTimeout"
-      ],
+      "sources": {
+        "official_page": 1
+      },
+      "errors": [],
       "rejected": {}
     }
   },
   "summary": {
-    "published": 65,
-    "automatic": 64,
+    "published": 67,
+    "automatic": 66,
     "curated": 1,
-    "review": 403
+    "review": 395
   }
 }
