@@ -1,5 +1,5 @@
 {
-  "lastRunAt": "2026-11-08T15:05:45+09:00",
+  "lastRunAt": "2026-11-09T00:59:37+09:00",
   "companies": {
     "삼성전자": {
       "discovered": 17,
@@ -236,7 +236,7 @@
       },
       "errors": [],
       "rejected": {
-        "not_job_posting": 21
+        "not_job_posting": 22
       }
     },
     "현대오토에버": {
@@ -265,11 +265,9 @@
       }
     },
     "현대로템": {
-      "discovered": 25,
+      "discovered": 0,
       "verified": 0,
-      "sources": {
-        "sitemap": 25
-      },
+      "sources": {},
       "errors": [],
       "rejected": {}
     },
@@ -401,17 +399,17 @@
       "rejected": {}
     },
     "NAVER": {
-      "discovered": 43,
+      "discovered": 35,
       "verified": 1,
       "sources": {
-        "official_api": 35,
+        "official_api": 27,
         "official_page": 8
       },
       "errors": [],
       "rejected": {
-        "career_only": 6,
-        "not_data_track": 20,
-        "eligibility_unconfirmed": 9,
+        "career_only": 5,
+        "not_data_track": 16,
+        "eligibility_unconfirmed": 6,
         "not_job_posting": 2
       }
     },
@@ -627,16 +625,16 @@
       "rejected": {}
     },
     "우리은행": {
-      "discovered": 193,
-      "verified": 3,
+      "discovered": 217,
+      "verified": 6,
       "sources": {
-        "official_page": 189,
-        "bing": 4
+        "official_page": 217
       },
       "errors": [],
       "rejected": {
-        "not_job_posting": 5,
-        "eligibility_unconfirmed": 5
+        "not_job_posting": 6,
+        "eligibility_unconfirmed": 12,
+        "career_only": 1
       }
     },
     "NH농협은행": {
@@ -717,11 +715,15 @@
       }
     },
     "POSCO DX": {
-      "discovered": 0,
+      "discovered": 2,
       "verified": 0,
-      "sources": {},
+      "sources": {
+        "bing": 2
+      },
       "errors": [],
-      "rejected": {}
+      "rejected": {
+        "not_job_posting": 1
+      }
     },
     "포스코": {
       "discovered": 0,
@@ -772,12 +774,12 @@
       "rejected": {}
     },
     "인천국제공항공사": {
-      "discovered": 3,
+      "discovered": 0,
       "verified": 0,
-      "sources": {
-        "official_page": 3
-      },
-      "errors": [],
+      "sources": {},
+      "errors": [
+        "official_page:ConnectTimeout"
+      ],
       "rejected": {}
     },
     "한국장학재단": {
@@ -795,7 +797,9 @@
       "discovered": 0,
       "verified": 0,
       "sources": {},
-      "errors": [],
+      "errors": [
+        "official_page:ConnectTimeout"
+      ],
       "rejected": {}
     },
     "한국전력공사": {
@@ -820,7 +824,9 @@
       "discovered": 0,
       "verified": 0,
       "sources": {},
-      "errors": [],
+      "errors": [
+        "official_page:ConnectTimeout"
+      ],
       "rejected": {}
     },
     "NH농협손해보험": {
@@ -874,15 +880,15 @@
       "rejected": {}
     },
     "SIMPAC그룹": {
-      "discovered": 13,
+      "discovered": 12,
       "verified": 0,
       "sources": {
         "official_page": 3,
-        "sitemap": 10
+        "sitemap": 9
       },
       "errors": [],
       "rejected": {
-        "not_data_track": 9
+        "not_data_track": 8
       }
     },
     "안랩": {
@@ -922,16 +928,16 @@
       "rejected": {}
     },
     "APR": {
-      "discovered": 58,
+      "discovered": 59,
       "verified": 1,
       "sources": {
-        "sitemap": 58
+        "sitemap": 59
       },
       "errors": [
         "official_page:HTTPError"
       ],
       "rejected": {
-        "not_data_track": 48,
+        "not_data_track": 49,
         "career_only": 9
       }
     },
@@ -957,9 +963,9 @@
     }
   },
   "summary": {
-    "published": 67,
-    "automatic": 66,
+    "published": 69,
+    "automatic": 68,
     "curated": 1,
-    "review": 395
+    "review": 377
   }
 }
