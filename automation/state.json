@@ -1,5 +1,5 @@
 {
-  "lastRunAt": "2026-11-09T15:37:20+09:00",
+  "lastRunAt": "2026-11-10T04:50:56+09:00",
   "companies": {
     "삼성전자": {
       "discovered": 17,
@@ -416,15 +416,16 @@
       }
     },
     "NAVER Cloud": {
-      "discovered": 9,
+      "discovered": 11,
       "verified": 0,
       "sources": {
-        "official_api": 1,
+        "official_api": 3,
         "official_page": 8
       },
       "errors": [],
       "rejected": {
-        "career_only": 2,
+        "career_only": 3,
+        "eligibility_unconfirmed": 1,
         "not_job_posting": 2
       }
     },
@@ -451,15 +452,15 @@
       "rejected": {}
     },
     "카카오페이": {
-      "discovered": 37,
+      "discovered": 38,
       "verified": 5,
       "sources": {
-        "official_page": 37
+        "official_page": 38
       },
       "errors": [],
       "rejected": {
-        "career_only": 7,
-        "senior_career_required": 7
+        "senior_career_required": 8,
+        "career_only": 7
       }
     },
     "LINE Plus": {
@@ -472,15 +473,14 @@
       "rejected": {}
     },
     "쿠팡": {
-      "discovered": 24,
+      "discovered": 18,
       "verified": 0,
       "sources": {
-        "official_page": 24
+        "official_page": 18
       },
       "errors": [],
       "rejected": {
-        "career_only": 3,
-        "eligibility_unconfirmed": 6
+        "career_only": 3
       }
     },
     "우아한형제들": {
@@ -625,16 +625,15 @@
       "rejected": {}
     },
     "우리은행": {
-      "discovered": 178,
-      "verified": 1,
+      "discovered": 183,
+      "verified": 3,
       "sources": {
-        "official_page": 178
+        "official_page": 183
       },
       "errors": [],
       "rejected": {
         "not_job_posting": 5,
-        "eligibility_unconfirmed": 10,
-        "career_only": 1
+        "eligibility_unconfirmed": 14
       }
     },
     "NH농협은행": {
@@ -720,9 +719,7 @@
       "sources": {
         "bing": 2
       },
-      "errors": [
-        "official_page:ConnectionError"
-      ],
+      "errors": [],
       "rejected": {
         "not_job_posting": 1
       }
@@ -799,9 +796,7 @@
       "discovered": 0,
       "verified": 0,
       "sources": {},
-      "errors": [
-        "official_page:ConnectTimeout"
-      ],
+      "errors": [],
       "rejected": {}
     },
     "한국전력공사": {
@@ -826,9 +821,7 @@
       "discovered": 0,
       "verified": 0,
       "sources": {},
-      "errors": [
-        "official_page:ConnectTimeout"
-      ],
+      "errors": [],
       "rejected": {}
     },
     "NH농협손해보험": {
@@ -930,10 +923,10 @@
       "rejected": {}
     },
     "APR": {
-      "discovered": 59,
+      "discovered": 60,
       "verified": 1,
       "sources": {
-        "sitemap": 59
+        "sitemap": 60
       },
       "errors": [
         "official_page:HTTPError"
@@ -955,19 +948,19 @@
       }
     },
     "하나카드": {
-      "discovered": 1,
+      "discovered": 0,
       "verified": 0,
-      "sources": {
-        "official_page": 1
-      },
-      "errors": [],
+      "sources": {},
+      "errors": [
+        "official_page:ConnectTimeout"
+      ],
       "rejected": {}
     }
   },
   "summary": {
-    "published": 69,
-    "automatic": 68,
+    "published": 68,
+    "automatic": 67,
     "curated": 1,
-    "review": 371
+    "review": 370
   }
 }
