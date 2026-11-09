@@ -1,5 +1,5 @@
 {
-  "lastRunAt": "2026-11-09T00:59:37+09:00",
+  "lastRunAt": "2026-11-09T15:37:20+09:00",
   "companies": {
     "삼성전자": {
       "discovered": 17,
@@ -240,24 +240,24 @@
       }
     },
     "현대오토에버": {
-      "discovered": 51,
+      "discovered": 50,
       "verified": 0,
       "sources": {
-        "official_page": 48,
+        "official_page": 47,
         "sitemap": 3
       },
       "errors": [],
       "rejected": {
-        "not_job_posting": 39,
+        "not_job_posting": 38,
         "career_only": 1,
         "senior_career_required": 1
       }
     },
     "현대모비스": {
-      "discovered": 5,
+      "discovered": 3,
       "verified": 0,
       "sources": {
-        "official_page": 5
+        "official_page": 3
       },
       "errors": [],
       "rejected": {
@@ -265,9 +265,11 @@
       }
     },
     "현대로템": {
-      "discovered": 0,
+      "discovered": 25,
       "verified": 0,
-      "sources": {},
+      "sources": {
+        "sitemap": 25
+      },
       "errors": [],
       "rejected": {}
     },
@@ -399,16 +401,16 @@
       "rejected": {}
     },
     "NAVER": {
-      "discovered": 35,
+      "discovered": 36,
       "verified": 1,
       "sources": {
-        "official_api": 27,
+        "official_api": 28,
         "official_page": 8
       },
       "errors": [],
       "rejected": {
         "career_only": 5,
-        "not_data_track": 16,
+        "not_data_track": 17,
         "eligibility_unconfirmed": 6,
         "not_job_posting": 2
       }
@@ -427,16 +429,16 @@
       }
     },
     "카카오": {
-      "discovered": 23,
+      "discovered": 24,
       "verified": 0,
       "sources": {
-        "official_api": 23
+        "official_api": 24
       },
       "errors": [],
       "rejected": {
         "career_only": 6,
         "advanced_degree_required": 3,
-        "not_data_track": 14
+        "not_data_track": 15
       }
     },
     "카카오모빌리티": {
@@ -470,16 +472,15 @@
       "rejected": {}
     },
     "쿠팡": {
-      "discovered": 60,
+      "discovered": 24,
       "verified": 0,
       "sources": {
-        "official_page": 21,
-        "sitemap": 39
+        "official_page": 24
       },
       "errors": [],
       "rejected": {
-        "eligibility_unconfirmed": 9,
-        "not_job_posting": 39
+        "career_only": 3,
+        "eligibility_unconfirmed": 6
       }
     },
     "우아한형제들": {
@@ -490,10 +491,10 @@
       "rejected": {}
     },
     "당근": {
-      "discovered": 34,
+      "discovered": 35,
       "verified": 0,
       "sources": {
-        "official_page": 34
+        "official_page": 35
       },
       "errors": [],
       "rejected": {}
@@ -575,14 +576,13 @@
     },
     "크래프톤": {
       "discovered": 75,
-      "verified": 4,
+      "verified": 1,
       "sources": {
         "official_page": 75
       },
       "errors": [],
       "rejected": {
-        "eligibility_unconfirmed": 8,
-        "career_only": 3
+        "eligibility_unconfirmed": 20
       }
     },
     "엔씨소프트": {
@@ -625,15 +625,15 @@
       "rejected": {}
     },
     "우리은행": {
-      "discovered": 217,
-      "verified": 6,
+      "discovered": 178,
+      "verified": 1,
       "sources": {
-        "official_page": 217
+        "official_page": 178
       },
       "errors": [],
       "rejected": {
-        "not_job_posting": 6,
-        "eligibility_unconfirmed": 12,
+        "not_job_posting": 5,
+        "eligibility_unconfirmed": 10,
         "career_only": 1
       }
     },
@@ -720,7 +720,9 @@
       "sources": {
         "bing": 2
       },
-      "errors": [],
+      "errors": [
+        "official_page:ConnectionError"
+      ],
       "rejected": {
         "not_job_posting": 1
       }
@@ -966,6 +968,6 @@
     "published": 69,
     "automatic": 68,
     "curated": 1,
-    "review": 377
+    "review": 371
   }
 }
