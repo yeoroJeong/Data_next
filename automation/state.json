@@ -1,5 +1,5 @@
 {
-  "lastRunAt": "2026-11-11T15:28:13+09:00",
+  "lastRunAt": "2026-11-12T02:11:05+09:00",
   "companies": {
     "삼성전자": {
       "discovered": 20,
@@ -402,31 +402,31 @@
       "rejected": {}
     },
     "NAVER": {
-      "discovered": 37,
+      "discovered": 38,
       "verified": 1,
       "sources": {
-        "official_api": 29,
+        "official_api": 30,
         "official_page": 8
       },
       "errors": [],
       "rejected": {
-        "not_data_track": 18,
+        "not_data_track": 19,
         "career_only": 3,
         "eligibility_unconfirmed": 7,
         "not_job_posting": 2
       }
     },
     "NAVER Cloud": {
-      "discovered": 12,
+      "discovered": 11,
       "verified": 0,
       "sources": {
-        "official_api": 4,
+        "official_api": 3,
         "official_page": 8
       },
       "errors": [],
       "rejected": {
-        "career_only": 3,
         "eligibility_unconfirmed": 1,
+        "career_only": 2,
         "not_job_posting": 2
       }
     },
@@ -474,16 +474,13 @@
       "rejected": {}
     },
     "쿠팡": {
-      "discovered": 33,
+      "discovered": 0,
       "verified": 0,
-      "sources": {
-        "official_page": 33
-      },
-      "errors": [],
-      "rejected": {
-        "career_only": 3,
-        "eligibility_unconfirmed": 15
-      }
+      "sources": {},
+      "errors": [
+        "official_page:HTTPError"
+      ],
+      "rejected": {}
     },
     "우아한형제들": {
       "discovered": 0,
@@ -502,11 +499,12 @@
       "rejected": {}
     },
     "토스": {
-      "discovered": 12,
+      "discovered": 14,
       "verified": 0,
       "sources": {
         "official_page": 5,
-        "sitemap": 7
+        "sitemap": 7,
+        "bing": 2
       },
       "errors": [],
       "rejected": {
@@ -627,16 +625,16 @@
       "rejected": {}
     },
     "우리은행": {
-      "discovered": 185,
-      "verified": 4,
+      "discovered": 1,
+      "verified": 0,
       "sources": {
-        "official_page": 185
+        "sitemap": 1
       },
-      "errors": [],
+      "errors": [
+        "official_page:ConnectTimeout"
+      ],
       "rejected": {
-        "not_job_posting": 6,
-        "eligibility_unconfirmed": 14,
-        "career_only": 1
+        "not_job_posting": 1
       }
     },
     "NH농협은행": {
@@ -720,9 +718,7 @@
       "discovered": 0,
       "verified": 0,
       "sources": {},
-      "errors": [
-        "official_page:ConnectionError"
-      ],
+      "errors": [],
       "rejected": {}
     },
     "포스코": {
@@ -774,12 +770,12 @@
       "rejected": {}
     },
     "인천국제공항공사": {
-      "discovered": 3,
+      "discovered": 0,
       "verified": 0,
-      "sources": {
-        "official_page": 3
-      },
-      "errors": [],
+      "sources": {},
+      "errors": [
+        "official_page:ConnectTimeout"
+      ],
       "rejected": {}
     },
     "한국장학재단": {
@@ -797,7 +793,9 @@
       "discovered": 0,
       "verified": 0,
       "sources": {},
-      "errors": [],
+      "errors": [
+        "official_page:ConnectTimeout"
+      ],
       "rejected": {}
     },
     "한국전력공사": {
@@ -876,15 +874,15 @@
       "rejected": {}
     },
     "SIMPAC그룹": {
-      "discovered": 12,
+      "discovered": 11,
       "verified": 0,
       "sources": {
         "official_page": 3,
-        "sitemap": 9
+        "sitemap": 8
       },
       "errors": [],
       "rejected": {
-        "not_data_track": 8
+        "not_data_track": 7
       }
     },
     "안랩": {
@@ -924,16 +922,16 @@
       "rejected": {}
     },
     "APR": {
-      "discovered": 60,
+      "discovered": 61,
       "verified": 1,
       "sources": {
-        "sitemap": 60
+        "sitemap": 61
       },
       "errors": [
         "official_page:HTTPError"
       ],
       "rejected": {
-        "not_data_track": 49,
+        "not_data_track": 50,
         "career_only": 9
       }
     },
@@ -957,9 +955,9 @@
     }
   },
   "summary": {
-    "published": 73,
-    "automatic": 72,
+    "published": 72,
+    "automatic": 71,
     "curated": 1,
-    "review": 383
+    "review": 343
   }
 }
