@@ -1,15 +1,16 @@
 {
-  "lastRunAt": "2026-11-11T02:04:11+09:00",
+  "lastRunAt": "2026-11-11T15:28:13+09:00",
   "companies": {
     "삼성전자": {
-      "discovered": 19,
+      "discovered": 20,
       "verified": 1,
       "sources": {
-        "official_api": 2,
+        "official_api": 3,
         "official_page": 17
       },
       "errors": [],
       "rejected": {
+        "career_only": 1,
         "not_data_track": 1,
         "not_job_posting": 1
       }
@@ -401,45 +402,45 @@
       "rejected": {}
     },
     "NAVER": {
-      "discovered": 35,
+      "discovered": 37,
       "verified": 1,
       "sources": {
-        "official_api": 27,
+        "official_api": 29,
         "official_page": 8
       },
       "errors": [],
       "rejected": {
-        "not_data_track": 17,
+        "not_data_track": 18,
         "career_only": 3,
-        "eligibility_unconfirmed": 6,
+        "eligibility_unconfirmed": 7,
         "not_job_posting": 2
       }
     },
     "NAVER Cloud": {
-      "discovered": 11,
+      "discovered": 12,
       "verified": 0,
       "sources": {
-        "official_api": 3,
+        "official_api": 4,
         "official_page": 8
       },
       "errors": [],
       "rejected": {
-        "career_only": 2,
+        "career_only": 3,
         "eligibility_unconfirmed": 1,
         "not_job_posting": 2
       }
     },
     "카카오": {
-      "discovered": 24,
+      "discovered": 26,
       "verified": 0,
       "sources": {
-        "official_api": 24
+        "official_api": 26
       },
       "errors": [],
       "rejected": {
         "career_only": 6,
         "advanced_degree_required": 3,
-        "not_data_track": 15
+        "not_data_track": 17
       }
     },
     "카카오모빌리티": {
@@ -452,14 +453,14 @@
       "rejected": {}
     },
     "카카오페이": {
-      "discovered": 40,
+      "discovered": 41,
       "verified": 5,
       "sources": {
-        "official_page": 40
+        "official_page": 41
       },
       "errors": [],
       "rejected": {
-        "senior_career_required": 9,
+        "senior_career_required": 10,
         "career_only": 8
       }
     },
@@ -473,13 +474,16 @@
       "rejected": {}
     },
     "쿠팡": {
-      "discovered": 18,
-      "verified": 3,
+      "discovered": 33,
+      "verified": 0,
       "sources": {
-        "official_page": 18
+        "official_page": 33
       },
       "errors": [],
-      "rejected": {}
+      "rejected": {
+        "career_only": 3,
+        "eligibility_unconfirmed": 15
+      }
     },
     "우아한형제들": {
       "discovered": 0,
@@ -616,26 +620,23 @@
       "rejected": {}
     },
     "하나은행": {
-      "discovered": 2,
+      "discovered": 0,
       "verified": 0,
-      "sources": {
-        "bing": 2
-      },
+      "sources": {},
       "errors": [],
       "rejected": {}
     },
     "우리은행": {
-      "discovered": 5,
-      "verified": 0,
+      "discovered": 185,
+      "verified": 4,
       "sources": {
-        "sitemap": 1,
-        "bing": 4
+        "official_page": 185
       },
-      "errors": [
-        "official_page:ConnectTimeout"
-      ],
+      "errors": [],
       "rejected": {
-        "not_job_posting": 1
+        "not_job_posting": 6,
+        "eligibility_unconfirmed": 14,
+        "career_only": 1
       }
     },
     "NH농협은행": {
@@ -716,15 +717,13 @@
       }
     },
     "POSCO DX": {
-      "discovered": 2,
+      "discovered": 0,
       "verified": 0,
-      "sources": {
-        "bing": 2
-      },
-      "errors": [],
-      "rejected": {
-        "not_job_posting": 1
-      }
+      "sources": {},
+      "errors": [
+        "official_page:ConnectionError"
+      ],
+      "rejected": {}
     },
     "포스코": {
       "discovered": 0,
@@ -775,12 +774,12 @@
       "rejected": {}
     },
     "인천국제공항공사": {
-      "discovered": 0,
+      "discovered": 3,
       "verified": 0,
-      "sources": {},
-      "errors": [
-        "official_page:ConnectTimeout"
-      ],
+      "sources": {
+        "official_page": 3
+      },
+      "errors": [],
       "rejected": {}
     },
     "한국장학재단": {
@@ -798,9 +797,7 @@
       "discovered": 0,
       "verified": 0,
       "sources": {},
-      "errors": [
-        "official_page:ConnectTimeout"
-      ],
+      "errors": [],
       "rejected": {}
     },
     "한국전력공사": {
@@ -963,6 +960,6 @@
     "published": 73,
     "automatic": 72,
     "curated": 1,
-    "review": 341
+    "review": 383
   }
 }
