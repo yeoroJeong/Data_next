@@ -1,5 +1,5 @@
 {
-  "lastRunAt": "2026-11-14T02:14:01+09:00",
+  "lastRunAt": "2026-11-14T15:28:00+09:00",
   "companies": {
     "삼성전자": {
       "discovered": 20,
@@ -522,13 +522,15 @@
       "rejected": {}
     },
     "두나무": {
-      "discovered": 0,
+      "discovered": 3,
       "verified": 0,
-      "sources": {},
-      "errors": [
-        "official_page:HTTPError"
-      ],
-      "rejected": {}
+      "sources": {
+        "official_page": 3
+      },
+      "errors": [],
+      "rejected": {
+        "not_job_posting": 3
+      }
     },
     "쏘카": {
       "discovered": 0,
@@ -576,10 +578,11 @@
       "rejected": {}
     },
     "크래프톤": {
-      "discovered": 75,
+      "discovered": 80,
       "verified": 1,
       "sources": {
-        "official_page": 75
+        "official_page": 75,
+        "bing": 5
       },
       "errors": [],
       "rejected": {
@@ -626,10 +629,10 @@
       "rejected": {}
     },
     "우리은행": {
-      "discovered": 193,
-      "verified": 2,
+      "discovered": 191,
+      "verified": 5,
       "sources": {
-        "official_page": 193
+        "official_page": 191
       },
       "errors": [],
       "rejected": {
@@ -677,11 +680,10 @@
       "rejected": {}
     },
     "신세계I&C": {
-      "discovered": 2,
+      "discovered": 1,
       "verified": 0,
       "sources": {
-        "official_page": 1,
-        "bing": 1
+        "official_page": 1
       },
       "errors": [],
       "rejected": {}
@@ -716,16 +718,16 @@
       }
     },
     "POSCO DX": {
-      "discovered": 2,
+      "discovered": 3,
       "verified": 0,
       "sources": {
-        "bing": 2
+        "bing": 3
       },
       "errors": [
         "official_page:ConnectionError"
       ],
       "rejected": {
-        "not_job_posting": 1
+        "eligibility_unconfirmed": 1
       }
     },
     "포스코": {
@@ -750,11 +752,15 @@
       "rejected": {}
     },
     "아모레퍼시픽": {
-      "discovered": 0,
+      "discovered": 16,
       "verified": 0,
-      "sources": {},
+      "sources": {
+        "official_page": 16
+      },
       "errors": [],
-      "rejected": {}
+      "rejected": {
+        "eligibility_unconfirmed": 1
+      }
     },
     "BGF리테일": {
       "discovered": 0,
@@ -773,12 +779,12 @@
       "rejected": {}
     },
     "인천국제공항공사": {
-      "discovered": 0,
+      "discovered": 3,
       "verified": 0,
-      "sources": {},
-      "errors": [
-        "official_page:ConnectTimeout"
-      ],
+      "sources": {
+        "official_page": 3
+      },
+      "errors": [],
       "rejected": {}
     },
     "한국장학재단": {
@@ -946,19 +952,19 @@
       "rejected": {}
     },
     "하나카드": {
-      "discovered": 0,
+      "discovered": 1,
       "verified": 0,
-      "sources": {},
-      "errors": [
-        "official_page:ConnectTimeout"
-      ],
+      "sources": {
+        "official_page": 1
+      },
+      "errors": [],
       "rejected": {}
     }
   },
   "summary": {
-    "published": 74,
-    "automatic": 73,
+    "published": 76,
+    "automatic": 75,
     "curated": 1,
-    "review": 354
+    "review": 363
   }
 }
