@@ -1,5 +1,5 @@
 {
-  "lastRunAt": "2026-11-15T00:50:01+09:00",
+  "lastRunAt": "2026-11-15T15:37:22+09:00",
   "companies": {
     "삼성전자": {
       "discovered": 20,
@@ -208,11 +208,9 @@
       "rejected": {}
     },
     "LG에너지솔루션": {
-      "discovered": 1,
+      "discovered": 0,
       "verified": 0,
-      "sources": {
-        "bing": 1
-      },
+      "sources": {},
       "errors": [],
       "rejected": {}
     },
@@ -503,11 +501,12 @@
       "rejected": {}
     },
     "토스": {
-      "discovered": 12,
+      "discovered": 14,
       "verified": 0,
       "sources": {
         "official_page": 5,
-        "sitemap": 7
+        "sitemap": 7,
+        "bing": 2
       },
       "errors": [],
       "rejected": {
@@ -614,9 +613,11 @@
       "rejected": {}
     },
     "신한은행": {
-      "discovered": 0,
+      "discovered": 5,
       "verified": 0,
-      "sources": {},
+      "sources": {
+        "bing": 5
+      },
       "errors": [],
       "rejected": {}
     },
@@ -628,16 +629,16 @@
       "rejected": {}
     },
     "우리은행": {
-      "discovered": 197,
-      "verified": 5,
+      "discovered": 196,
+      "verified": 4,
       "sources": {
-        "official_page": 197
+        "official_page": 195,
+        "bing": 1
       },
       "errors": [],
       "rejected": {
-        "not_job_posting": 7,
-        "eligibility_unconfirmed": 8,
-        "career_only": 1
+        "not_job_posting": 6,
+        "eligibility_unconfirmed": 12
       }
     },
     "NH농협은행": {
@@ -718,17 +719,13 @@
       }
     },
     "POSCO DX": {
-      "discovered": 2,
+      "discovered": 0,
       "verified": 0,
-      "sources": {
-        "bing": 2
-      },
+      "sources": {},
       "errors": [
         "official_page:ConnectionError"
       ],
-      "rejected": {
-        "not_job_posting": 1
-      }
+      "rejected": {}
     },
     "포스코": {
       "discovered": 0,
@@ -779,12 +776,12 @@
       "rejected": {}
     },
     "인천국제공항공사": {
-      "discovered": 3,
+      "discovered": 0,
       "verified": 0,
-      "sources": {
-        "official_page": 3
-      },
-      "errors": [],
+      "sources": {},
+      "errors": [
+        "official_page:ConnectTimeout"
+      ],
       "rejected": {}
     },
     "한국장학재단": {
@@ -952,19 +949,19 @@
       "rejected": {}
     },
     "하나카드": {
-      "discovered": 1,
+      "discovered": 0,
       "verified": 0,
-      "sources": {
-        "official_page": 1
-      },
-      "errors": [],
+      "sources": {},
+      "errors": [
+        "official_page:ConnectTimeout"
+      ],
       "rejected": {}
     }
   },
   "summary": {
-    "published": 77,
-    "automatic": 76,
+    "published": 78,
+    "automatic": 77,
     "curated": 1,
-    "review": 355
+    "review": 356
   }
 }
