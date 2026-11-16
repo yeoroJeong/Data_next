@@ -1,5 +1,5 @@
 {
-  "lastRunAt": "2026-11-16T01:23:33+09:00",
+  "lastRunAt": "2026-11-16T15:33:59+09:00",
   "companies": {
     "삼성전자": {
       "discovered": 20,
@@ -27,26 +27,28 @@
       }
     },
     "삼성디스플레이": {
-      "discovered": 17,
+      "discovered": 18,
       "verified": 0,
       "sources": {
+        "official_api": 1,
         "official_page": 17
       },
       "errors": [],
       "rejected": {
+        "not_data_track": 1,
         "not_job_posting": 1
       }
     },
     "삼성SDI": {
-      "discovered": 22,
+      "discovered": 23,
       "verified": 1,
       "sources": {
-        "official_api": 5,
+        "official_api": 6,
         "official_page": 17
       },
       "errors": [],
       "rejected": {
-        "not_data_track": 4,
+        "not_data_track": 5,
         "not_job_posting": 1
       }
     },
@@ -251,15 +253,15 @@
       }
     },
     "현대오토에버": {
-      "discovered": 51,
+      "discovered": 53,
       "verified": 0,
       "sources": {
-        "official_page": 48,
+        "official_page": 50,
         "sitemap": 3
       },
       "errors": [],
       "rejected": {
-        "not_job_posting": 38,
+        "not_job_posting": 40,
         "career_only": 1,
         "senior_career_required": 1
       }
@@ -404,30 +406,30 @@
       "rejected": {}
     },
     "NAVER": {
-      "discovered": 33,
-      "verified": 1,
+      "discovered": 35,
+      "verified": 2,
       "sources": {
-        "official_api": 25,
+        "official_api": 27,
         "official_page": 8
       },
       "errors": [],
       "rejected": {
         "not_data_track": 19,
         "eligibility_unconfirmed": 3,
-        "career_only": 2,
+        "career_only": 3,
         "not_job_posting": 2
       }
     },
     "NAVER Cloud": {
-      "discovered": 11,
+      "discovered": 13,
       "verified": 0,
       "sources": {
-        "official_api": 3,
+        "official_api": 5,
         "official_page": 8
       },
       "errors": [],
       "rejected": {
-        "eligibility_unconfirmed": 1,
+        "eligibility_unconfirmed": 3,
         "career_only": 2,
         "not_job_posting": 2
       }
@@ -455,14 +457,14 @@
       "rejected": {}
     },
     "카카오페이": {
-      "discovered": 40,
+      "discovered": 39,
       "verified": 5,
       "sources": {
-        "official_page": 40
+        "official_page": 39
       },
       "errors": [],
       "rejected": {
-        "senior_career_required": 10,
+        "senior_career_required": 9,
         "career_only": 8
       }
     },
@@ -576,11 +578,10 @@
       "rejected": {}
     },
     "크래프톤": {
-      "discovered": 81,
+      "discovered": 75,
       "verified": 1,
       "sources": {
-        "official_page": 75,
-        "bing": 6
+        "official_page": 75
       },
       "errors": [],
       "rejected": {
@@ -613,14 +614,10 @@
       "rejected": {}
     },
     "신한은행": {
-      "discovered": 5,
+      "discovered": 0,
       "verified": 0,
-      "sources": {
-        "bing": 5
-      },
-      "errors": [
-        "official_page:ReadTimeout"
-      ],
+      "sources": {},
+      "errors": [],
       "rejected": {}
     },
     "하나은행": {
@@ -631,16 +628,16 @@
       "rejected": {}
     },
     "우리은행": {
-      "discovered": 1,
-      "verified": 0,
+      "discovered": 191,
+      "verified": 4,
       "sources": {
-        "sitemap": 1
+        "official_page": 187,
+        "bing": 4
       },
-      "errors": [
-        "official_page:ConnectTimeout"
-      ],
+      "errors": [],
       "rejected": {
-        "not_job_posting": 1
+        "not_job_posting": 5,
+        "eligibility_unconfirmed": 13
       }
     },
     "NH농협은행": {
@@ -726,7 +723,9 @@
       "sources": {
         "bing": 2
       },
-      "errors": [],
+      "errors": [
+        "official_page:ConnectionError"
+      ],
       "rejected": {
         "not_job_posting": 1
       }
@@ -830,9 +829,7 @@
       "discovered": 0,
       "verified": 0,
       "sources": {},
-      "errors": [
-        "official_page:ConnectTimeout"
-      ],
+      "errors": [],
       "rejected": {}
     },
     "NH농협손해보험": {
@@ -943,8 +940,8 @@
         "official_page:HTTPError"
       ],
       "rejected": {
-        "not_data_track": 51,
-        "career_only": 8
+        "not_data_track": 45,
+        "career_only": 7
       }
     },
     "롯데그룹": {
@@ -957,19 +954,19 @@
       "rejected": {}
     },
     "하나카드": {
-      "discovered": 1,
+      "discovered": 0,
       "verified": 0,
-      "sources": {
-        "official_page": 1
-      },
-      "errors": [],
+      "sources": {},
+      "errors": [
+        "official_page:ConnectTimeout"
+      ],
       "rejected": {}
     }
   },
   "summary": {
-    "published": 78,
-    "automatic": 77,
+    "published": 80,
+    "automatic": 79,
     "curated": 1,
-    "review": 334
+    "review": 362
   }
 }
