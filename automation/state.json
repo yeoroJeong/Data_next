@@ -1,17 +1,16 @@
 {
-  "lastRunAt": "2026-11-17T16:57:49+09:00",
+  "lastRunAt": "2026-11-18T03:35:55+09:00",
   "companies": {
     "삼성전자": {
-      "discovered": 20,
-      "verified": 1,
+      "discovered": 18,
+      "verified": 0,
       "sources": {
-        "official_api": 3,
+        "official_api": 1,
         "official_page": 17
       },
       "errors": [],
       "rejected": {
         "career_only": 1,
-        "not_data_track": 1,
         "not_job_posting": 1
       }
     },
@@ -40,28 +39,26 @@
       }
     },
     "삼성SDI": {
-      "discovered": 23,
-      "verified": 1,
+      "discovered": 18,
+      "verified": 0,
       "sources": {
-        "official_api": 6,
+        "official_api": 1,
         "official_page": 17
       },
       "errors": [],
       "rejected": {
-        "not_data_track": 5,
+        "not_data_track": 1,
         "not_job_posting": 1
       }
     },
     "삼성전기": {
-      "discovered": 20,
+      "discovered": 17,
       "verified": 0,
       "sources": {
-        "official_api": 3,
         "official_page": 17
       },
       "errors": [],
       "rejected": {
-        "not_data_track": 3,
         "not_job_posting": 1
       }
     },
@@ -101,15 +98,13 @@
       }
     },
     "삼성증권": {
-      "discovered": 19,
+      "discovered": 17,
       "verified": 0,
       "sources": {
-        "official_api": 2,
         "official_page": 17
       },
       "errors": [],
       "rejected": {
-        "not_data_track": 2,
         "not_job_posting": 1
       }
     },
@@ -434,16 +429,16 @@
       }
     },
     "카카오": {
-      "discovered": 25,
+      "discovered": 26,
       "verified": 0,
       "sources": {
-        "official_api": 25
+        "official_api": 26
       },
       "errors": [],
       "rejected": {
         "career_only": 6,
         "advanced_degree_required": 3,
-        "not_data_track": 16
+        "not_data_track": 17
       }
     },
     "카카오모빌리티": {
@@ -502,12 +497,11 @@
       "rejected": {}
     },
     "토스": {
-      "discovered": 14,
+      "discovered": 12,
       "verified": 0,
       "sources": {
         "official_page": 5,
-        "sitemap": 7,
-        "bing": 2
+        "sitemap": 7
       },
       "errors": [],
       "rejected": {
@@ -630,15 +624,16 @@
       "rejected": {}
     },
     "우리은행": {
-      "discovered": 217,
-      "verified": 6,
+      "discovered": 186,
+      "verified": 4,
       "sources": {
-        "official_page": 217
+        "official_page": 186
       },
       "errors": [],
       "rejected": {
         "not_job_posting": 5,
-        "eligibility_unconfirmed": 11
+        "eligibility_unconfirmed": 8,
+        "excluded_role": 1
       }
     },
     "NH농협은행": {
@@ -723,9 +718,7 @@
       "discovered": 0,
       "verified": 0,
       "sources": {},
-      "errors": [
-        "official_page:ConnectionError"
-      ],
+      "errors": [],
       "rejected": {}
     },
     "포스코": {
@@ -861,11 +854,10 @@
       }
     },
     "LS그룹": {
-      "discovered": 7,
+      "discovered": 6,
       "verified": 0,
       "sources": {
-        "official_page": 6,
-        "bing": 1
+        "official_page": 6
       },
       "errors": [],
       "rejected": {}
@@ -961,9 +953,9 @@
     }
   },
   "summary": {
-    "published": 82,
-    "automatic": 81,
+    "published": 80,
+    "automatic": 79,
     "curated": 1,
-    "review": 364
+    "review": 363
   }
 }
