@@ -1,24 +1,7 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-18T16:32:44+09:00",
+  "updatedAt": "2026-11-19T03:06:56+09:00",
   "jobs": [
-    {
-      "id": "ee088fd161cd4859",
-      "company": "NAVER",
-      "title": "[네이버웹툰] AI 애니메이션 제작 담당 (정규 전환형)",
-      "kind": "신입 · 정규직",
-      "place": "원문 확인",
-      "deadline": "2026-11-18T23:59:00+09:00",
-      "deadlineLabel": "11.18 23:59",
-      "track": "데이터 / 디지털",
-      "note": "공식 채용 원문에서 데이터 / 디지털 연관성이 확인된 공고입니다.",
-      "check": "신입·인턴 지원 조건을 확인했습니다. 상세 자격과 근무지는 원문에서 다시 확인하세요.",
-      "url": "https://recruit.navercorp.com/rcrt/view.do?annoId=30005662",
-      "source": "NAVER 공식 채용",
-      "initial": "NA",
-      "color": "orange",
-      "verifiedAt": "2026-11-18T16:32+09:00"
-    },
     {
       "id": "62c66c1a41f0316d",
       "company": "우리은행",
@@ -51,7 +34,7 @@
       "source": "우리은행 공식 채용",
       "initial": "우리",
       "color": "blue",
-      "verifiedAt": "2026-11-18T16:32+09:00"
+      "verifiedAt": "2026-11-19T03:06+09:00"
     },
     {
       "id": "bf5d76443841531c",
@@ -68,7 +51,7 @@
       "source": "우리은행 공식 채용",
       "initial": "우리",
       "color": "blue",
-      "verifiedAt": "2026-11-18T16:32+09:00"
+      "verifiedAt": "2026-11-19T03:06+09:00"
     },
     {
       "id": "7f91d6fcb2463f5c",
@@ -85,7 +68,7 @@
       "source": "우리은행 공식 채용",
       "initial": "우리",
       "color": "blue",
-      "verifiedAt": "2026-11-18T16:32+09:00"
+      "verifiedAt": "2026-11-19T03:06+09:00"
     },
     {
       "id": "ab145df426ff92ca",
@@ -102,7 +85,7 @@
       "source": "우리은행 공식 채용",
       "initial": "우리",
       "color": "blue",
-      "verifiedAt": "2026-11-18T16:32+09:00"
+      "verifiedAt": "2026-11-19T03:06+09:00"
     },
     {
       "id": "07523bd6a09b1288",
@@ -119,7 +102,7 @@
       "source": "NAVER 공식 채용",
       "initial": "NA",
       "color": "orange",
-      "verifiedAt": "2026-11-18T16:32+09:00"
+      "verifiedAt": "2026-11-19T03:06+09:00"
     },
     {
       "id": "359424749721eb69",
@@ -136,7 +119,7 @@
       "source": "우리은행 공식 채용",
       "initial": "우리",
       "color": "blue",
-      "verifiedAt": "2026-11-18T16:32+09:00"
+      "verifiedAt": "2026-11-19T03:06+09:00"
     },
     {
       "id": "fc93c1591da1b5a2",
@@ -170,7 +153,7 @@
       "source": "카카오페이 공식 채용",
       "initial": "카카",
       "color": "green",
-      "verifiedAt": "2026-11-18T16:32+09:00"
+      "verifiedAt": "2026-11-19T03:06+09:00"
     },
     {
       "id": "ac239e4bbec74485",
@@ -187,7 +170,7 @@
       "source": "카카오페이 공식 채용",
       "initial": "카카",
       "color": "green",
-      "verifiedAt": "2026-11-18T16:32+09:00"
+      "verifiedAt": "2026-11-19T03:06+09:00"
     },
     {
       "id": "c720d7351093eca9",
@@ -204,7 +187,7 @@
       "source": "카카오페이 공식 채용",
       "initial": "카카",
       "color": "green",
-      "verifiedAt": "2026-11-18T16:32+09:00"
+      "verifiedAt": "2026-11-19T03:06+09:00"
     },
     {
       "id": "15af525206778277",
@@ -221,7 +204,7 @@
       "source": "카카오페이 공식 채용",
       "initial": "카카",
       "color": "green",
-      "verifiedAt": "2026-11-18T16:32+09:00"
+      "verifiedAt": "2026-11-19T03:06+09:00"
     },
     {
       "id": "9e18838c21fe1de5",
@@ -238,7 +221,7 @@
       "source": "카카오페이 공식 채용",
       "initial": "카카",
       "color": "green",
-      "verifiedAt": "2026-11-18T16:32+09:00"
+      "verifiedAt": "2026-11-19T03:06+09:00"
     },
     {
       "id": "e3d871299e9e192c",
@@ -685,7 +668,7 @@
       "source": "크래프톤 공식 채용",
       "initial": "크래",
       "color": "orange",
-      "verifiedAt": "2026-11-18T16:32+09:00"
+      "verifiedAt": "2026-11-19T03:06+09:00"
     },
     {
       "id": "b9fff7b28f30ab6b",
@@ -702,7 +685,7 @@
       "source": "쿠팡 공식 채용",
       "initial": "쿠팡",
       "color": "blue",
-      "verifiedAt": "2026-11-18T16:32+09:00"
+      "verifiedAt": "2026-11-19T03:06+09:00"
     },
     {
       "id": "dc028281437a94df",
@@ -719,7 +702,7 @@
       "source": "쿠팡 공식 채용",
       "initial": "쿠팡",
       "color": "blue",
-      "verifiedAt": "2026-11-18T16:32+09:00"
+      "verifiedAt": "2026-11-19T03:06+09:00"
     },
     {
       "id": "7e49e4dc2e96cffd",
@@ -736,7 +719,7 @@
       "source": "쿠팡 공식 채용",
       "initial": "쿠팡",
       "color": "blue",
-      "verifiedAt": "2026-11-18T16:32+09:00"
+      "verifiedAt": "2026-11-19T03:06+09:00"
     },
     {
       "id": "3e88b532c6923154",
@@ -804,7 +787,7 @@
       "source": "우리은행 공식 채용",
       "initial": "우리",
       "color": "blue",
-      "verifiedAt": "2026-11-18T16:32+09:00"
+      "verifiedAt": "2026-11-19T03:06+09:00"
     },
     {
       "id": "06e1e2431719059c",
@@ -821,7 +804,7 @@
       "source": "우리은행 공식 채용",
       "initial": "우리",
       "color": "blue",
-      "verifiedAt": "2026-11-18T16:32+09:00"
+      "verifiedAt": "2026-11-19T03:06+09:00"
     },
     {
       "id": "064fd84ec87d922a",
@@ -855,7 +838,7 @@
       "source": "우리은행 공식 채용",
       "initial": "우리",
       "color": "blue",
-      "verifiedAt": "2026-11-18T16:32+09:00"
+      "verifiedAt": "2026-11-19T03:06+09:00"
     },
     {
       "id": "8d79c0a2ed763082",
@@ -906,7 +889,7 @@
       "source": "우리은행 공식 채용",
       "initial": "우리",
       "color": "blue",
-      "verifiedAt": "2026-11-18T16:32+09:00"
+      "verifiedAt": "2026-11-19T03:06+09:00"
     },
     {
       "id": "6518b9dbb5d80019",
@@ -940,7 +923,7 @@
       "source": "우리은행 공식 채용",
       "initial": "우리",
       "color": "blue",
-      "verifiedAt": "2026-11-18T16:32+09:00"
+      "verifiedAt": "2026-11-19T03:06+09:00"
     },
     {
       "id": "2df8a9cc34fda7be",
@@ -957,7 +940,7 @@
       "source": "우리은행 공식 채용",
       "initial": "우리",
       "color": "blue",
-      "verifiedAt": "2026-11-18T16:32+09:00"
+      "verifiedAt": "2026-11-19T03:06+09:00"
     },
     {
       "id": "918cd09b1d9cc638",
@@ -1059,7 +1042,7 @@
       "source": "APR 공식 채용",
       "initial": "AP",
       "color": "green",
-      "verifiedAt": "2026-11-18T16:32+09:00"
+      "verifiedAt": "2026-11-19T03:06+09:00"
     },
     {
       "id": "298ebbb2cd881181",
@@ -1076,7 +1059,7 @@
       "source": "우리은행 공식 채용",
       "initial": "우리",
       "color": "blue",
-      "verifiedAt": "2026-11-18T16:32+09:00"
+      "verifiedAt": "2026-11-19T03:06+09:00"
     },
     {
       "id": "b56c74d5c538c509",
@@ -1144,7 +1127,7 @@
       "source": "우리은행 공식 채용",
       "initial": "우리",
       "color": "blue",
-      "verifiedAt": "2026-11-18T16:32+09:00"
+      "verifiedAt": "2026-11-19T03:06+09:00"
     },
     {
       "id": "d71eca550e2b911f",
@@ -1161,7 +1144,7 @@
       "source": "우리은행 공식 채용",
       "initial": "우리",
       "color": "blue",
-      "verifiedAt": "2026-11-18T16:32+09:00"
+      "verifiedAt": "2026-11-19T03:06+09:00"
     },
     {
       "id": "a8e712b6add82ff3",
@@ -1229,7 +1212,7 @@
       "source": "쿠팡 공식 채용",
       "initial": "쿠팡",
       "color": "blue",
-      "verifiedAt": "2026-11-18T16:32+09:00"
+      "verifiedAt": "2026-11-19T03:06+09:00"
     },
     {
       "id": "9003e39c91860b5c",
@@ -1246,7 +1229,7 @@
       "source": "쿠팡 공식 채용",
       "initial": "쿠팡",
       "color": "blue",
-      "verifiedAt": "2026-11-18T16:32+09:00"
+      "verifiedAt": "2026-11-19T03:06+09:00"
     },
     {
       "id": "4d32fa91ebc8ee2b",
@@ -1263,7 +1246,7 @@
       "source": "쿠팡 공식 채용",
       "initial": "쿠팡",
       "color": "blue",
-      "verifiedAt": "2026-11-18T16:32+09:00"
+      "verifiedAt": "2026-11-19T03:06+09:00"
     },
     {
       "id": "d94e30e9641aefe1",
@@ -1280,7 +1263,7 @@
       "source": "우리은행 공식 채용",
       "initial": "우리",
       "color": "blue",
-      "verifiedAt": "2026-11-18T16:32+09:00"
+      "verifiedAt": "2026-11-19T03:06+09:00"
     },
     {
       "id": "27ea38cb258e5e38",
@@ -1297,7 +1280,7 @@
       "source": "우리은행 공식 채용",
       "initial": "우리",
       "color": "blue",
-      "verifiedAt": "2026-11-18T16:32+09:00"
+      "verifiedAt": "2026-11-19T03:06+09:00"
     },
     {
       "id": "3c9f1833e8db6d8d",
@@ -1314,7 +1297,7 @@
       "source": "우리은행 공식 채용",
       "initial": "우리",
       "color": "blue",
-      "verifiedAt": "2026-11-18T16:32+09:00"
+      "verifiedAt": "2026-11-19T03:06+09:00"
     },
     {
       "id": "2635b2ae410beefb",
@@ -1348,7 +1331,7 @@
       "source": "우리은행 공식 채용",
       "initial": "우리",
       "color": "blue",
-      "verifiedAt": "2026-11-18T16:32+09:00"
+      "verifiedAt": "2026-11-19T03:06+09:00"
     },
     {
       "id": "74fee3ecf8c94942",
@@ -1366,6 +1349,125 @@
       "initial": "우리",
       "color": "blue",
       "verifiedAt": "2026-11-17T16:57+09:00"
+    },
+    {
+      "id": "e184a33a49134186",
+      "company": "우리은행",
+      "title": "[강남언니] Data Analyst 인턴 (마켓 인사이트, 체험형)",
+      "kind": "신입 · 인턴",
+      "place": "원문 확인",
+      "deadline": null,
+      "deadlineLabel": "원문 확인",
+      "track": "SW / 백엔드",
+      "note": "공식 채용 원문에서 SW / 백엔드 연관성이 확인된 공고입니다.",
+      "check": "신입·인턴 지원 조건을 확인했습니다. 상세 자격과 근무지는 원문에서 다시 확인하세요.",
+      "url": "https://job.incruit.com/jobdb_info/jobpost.asp?job=2611170003861",
+      "source": "우리은행 공식 채용",
+      "initial": "우리",
+      "color": "blue",
+      "verifiedAt": "2026-11-19T03:06+09:00"
+    },
+    {
+      "id": "a0e2b8b379eaeac7",
+      "company": "SIMPAC그룹",
+      "title": "[SIMPAC KDA] 자동화설계 경력직 KDA 관리직 자동화설계 경력 무관 정규직 심팩케이디에이",
+      "kind": "신입 · 정규직",
+      "place": "원문 확인",
+      "deadline": null,
+      "deadlineLabel": "원문 확인",
+      "track": "데이터 / 디지털",
+      "note": "공식 채용 원문에서 데이터 / 디지털 연관성이 확인된 공고입니다.",
+      "check": "신입·인턴 지원 조건을 확인했습니다. 상세 자격과 근무지는 원문에서 다시 확인하세요.",
+      "url": "https://simpac.ninehire.site/job_posting/smMvG13Y",
+      "source": "SIMPAC그룹 공식 채용",
+      "initial": "SI",
+      "color": "green",
+      "verifiedAt": "2026-11-19T03:06+09:00"
+    },
+    {
+      "id": "118bdbb48d53b4ae",
+      "company": "SIMPAC그룹",
+      "title": "[SIMPAC 아뜰리에] Perfumer H 향수 큐레이터(전환형 계약직) 채용 시 마감 아뜰리에 경력 1년 이상 계약직 Perfumer H 신세계백화점 본점(명동) · Perfumer H 플래그십스토어",
+      "kind": "신입 · 정규직",
+      "place": "원문 확인",
+      "deadline": null,
+      "deadlineLabel": "원문 확인",
+      "track": "데이터 / 디지털",
+      "note": "공식 채용 원문에서 데이터 / 디지털 연관성이 확인된 공고입니다.",
+      "check": "신입·인턴 지원 조건을 확인했습니다. 상세 자격과 근무지는 원문에서 다시 확인하세요.",
+      "url": "https://simpac.ninehire.site/job_posting/5pK3lnY5",
+      "source": "SIMPAC그룹 공식 채용",
+      "initial": "SI",
+      "color": "green",
+      "verifiedAt": "2026-11-19T03:06+09:00"
+    },
+    {
+      "id": "c197284bbf85ebbe",
+      "company": "SIMPAC그룹",
+      "title": "[SIMPAC 아뜰리에] Perfumer H 향수 큐레이터(파트타이머) 채용 시 마감 아뜰리에 Scent Curator 경력 무관 아르바이트 Perfumer H 플래그십스토어 · Perfumer H 신세계백화점 본점",
+      "kind": "신입 · 정규직",
+      "place": "원문 확인",
+      "deadline": null,
+      "deadlineLabel": "원문 확인",
+      "track": "데이터 / 디지털",
+      "note": "공식 채용 원문에서 데이터 / 디지털 연관성이 확인된 공고입니다.",
+      "check": "신입·인턴 지원 조건을 확인했습니다. 상세 자격과 근무지는 원문에서 다시 확인하세요.",
+      "url": "https://simpac.ninehire.site/job_posting/a6UWns2n",
+      "source": "SIMPAC그룹 공식 채용",
+      "initial": "SI",
+      "color": "green",
+      "verifiedAt": "2026-11-19T03:06+09:00"
+    },
+    {
+      "id": "91a272f91ce88865",
+      "company": "SIMPAC그룹",
+      "title": "[SIMPAC프레스] R&D 수시채용 인재 POOL (관리직) 상시 모집 프레스 신입 정규직 SIMPAC",
+      "kind": "신입 · 정규직",
+      "place": "원문 확인",
+      "deadline": null,
+      "deadlineLabel": "원문 확인",
+      "track": "데이터 / 디지털",
+      "note": "공식 채용 원문에서 데이터 / 디지털 연관성이 확인된 공고입니다.",
+      "check": "신입·인턴 지원 조건을 확인했습니다. 상세 자격과 근무지는 원문에서 다시 확인하세요.",
+      "url": "https://simpac.ninehire.site/job_posting/QFH5HIcL",
+      "source": "SIMPAC그룹 공식 채용",
+      "initial": "SI",
+      "color": "green",
+      "verifiedAt": "2026-11-19T03:06+09:00"
+    },
+    {
+      "id": "0c53d624815c32fa",
+      "company": "SIMPAC그룹",
+      "title": "[SIMPAC프레스] 기계설계 수시채용 인재 POOL (관리직) 상시 모집 프레스 신입 정규직 SIMPAC",
+      "kind": "신입 · 정규직",
+      "place": "원문 확인",
+      "deadline": null,
+      "deadlineLabel": "원문 확인",
+      "track": "데이터 / 디지털",
+      "note": "공식 채용 원문에서 데이터 / 디지털 연관성이 확인된 공고입니다.",
+      "check": "신입·인턴 지원 조건을 확인했습니다. 상세 자격과 근무지는 원문에서 다시 확인하세요.",
+      "url": "https://simpac.ninehire.site/job_posting/eLUgJ8zD",
+      "source": "SIMPAC그룹 공식 채용",
+      "initial": "SI",
+      "color": "green",
+      "verifiedAt": "2026-11-19T03:06+09:00"
+    },
+    {
+      "id": "b51d0f12433eafd5",
+      "company": "SIMPAC그룹",
+      "title": "[SIMPAC프레스] 전기설계 수시채용 인재 POOL (관리직) 상시 모집 프레스 신입 정규직 SIMPAC",
+      "kind": "신입 · 정규직",
+      "place": "원문 확인",
+      "deadline": null,
+      "deadlineLabel": "원문 확인",
+      "track": "데이터 / 디지털",
+      "note": "공식 채용 원문에서 데이터 / 디지털 연관성이 확인된 공고입니다.",
+      "check": "신입·인턴 지원 조건을 확인했습니다. 상세 자격과 근무지는 원문에서 다시 확인하세요.",
+      "url": "https://simpac.ninehire.site/job_posting/CqHMraLr",
+      "source": "SIMPAC그룹 공식 채용",
+      "initial": "SI",
+      "color": "green",
+      "verifiedAt": "2026-11-19T03:06+09:00"
     }
   ]
 }
