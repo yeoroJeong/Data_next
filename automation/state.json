@@ -1,5 +1,5 @@
 {
-  "lastRunAt": "2026-11-19T03:06:56+09:00",
+  "lastRunAt": "2026-11-19T16:29:20+09:00",
   "companies": {
     "삼성전자": {
       "discovered": 18,
@@ -247,17 +247,17 @@
       }
     },
     "현대오토에버": {
-      "discovered": 53,
+      "discovered": 54,
       "verified": 0,
       "sources": {
-        "official_page": 50,
+        "official_page": 51,
         "sitemap": 3
       },
       "errors": [],
       "rejected": {
-        "not_job_posting": 40,
-        "career_only": 1,
-        "senior_career_required": 1
+        "senior_career_required": 2,
+        "career_only": 39,
+        "not_job_posting": 2
       }
     },
     "현대모비스": {
@@ -343,37 +343,37 @@
       "rejected": {}
     },
     "롯데이노베이트": {
-      "discovered": 26,
+      "discovered": 27,
       "verified": 0,
       "sources": {
-        "official_page": 26
+        "official_page": 27
       },
       "errors": [],
       "rejected": {}
     },
     "롯데쇼핑": {
-      "discovered": 26,
+      "discovered": 27,
       "verified": 0,
       "sources": {
-        "official_page": 26
+        "official_page": 27
       },
       "errors": [],
       "rejected": {}
     },
     "롯데카드": {
-      "discovered": 26,
+      "discovered": 27,
       "verified": 0,
       "sources": {
-        "official_page": 26
+        "official_page": 27
       },
       "errors": [],
       "rejected": {}
     },
     "롯데e커머스": {
-      "discovered": 26,
+      "discovered": 27,
       "verified": 0,
       "sources": {
-        "official_page": 26
+        "official_page": 27
       },
       "errors": [],
       "rejected": {}
@@ -400,15 +400,15 @@
       "rejected": {}
     },
     "NAVER": {
-      "discovered": 39,
+      "discovered": 38,
       "verified": 1,
       "sources": {
-        "official_api": 31,
+        "official_api": 30,
         "official_page": 8
       },
       "errors": [],
       "rejected": {
-        "not_data_track": 23,
+        "not_data_track": 22,
         "eligibility_unconfirmed": 5,
         "career_only": 2,
         "not_job_posting": 2
@@ -429,16 +429,16 @@
       }
     },
     "카카오": {
-      "discovered": 26,
+      "discovered": 25,
       "verified": 0,
       "sources": {
-        "official_api": 26
+        "official_api": 25
       },
       "errors": [],
       "rejected": {
         "career_only": 6,
         "advanced_degree_required": 3,
-        "not_data_track": 17
+        "not_data_track": 16
       }
     },
     "카카오모빌리티": {
@@ -581,7 +581,7 @@
       },
       "errors": [],
       "rejected": {
-        "eligibility_unconfirmed": 20
+        "eligibility_unconfirmed": 8
       }
     },
     "엔씨소프트": {
@@ -617,26 +617,22 @@
       "rejected": {}
     },
     "하나은행": {
-      "discovered": 3,
+      "discovered": 0,
       "verified": 0,
-      "sources": {
-        "bing": 3
-      },
+      "sources": {},
       "errors": [],
       "rejected": {}
     },
     "우리은행": {
-      "discovered": 186,
-      "verified": 4,
+      "discovered": 211,
+      "verified": 5,
       "sources": {
-        "official_page": 186
+        "official_page": 211
       },
       "errors": [],
       "rejected": {
         "not_job_posting": 5,
-        "eligibility_unconfirmed": 7,
-        "career_only": 3,
-        "excluded_role": 1
+        "eligibility_unconfirmed": 8
       }
     },
     "NH농협은행": {
@@ -858,11 +854,10 @@
       }
     },
     "LS그룹": {
-      "discovered": 7,
+      "discovered": 6,
       "verified": 0,
       "sources": {
-        "official_page": 6,
-        "bing": 1
+        "official_page": 6
       },
       "errors": [],
       "rejected": {}
@@ -932,10 +927,10 @@
       "rejected": {}
     },
     "롯데그룹": {
-      "discovered": 26,
+      "discovered": 27,
       "verified": 0,
       "sources": {
-        "official_page": 26
+        "official_page": 27
       },
       "errors": [],
       "rejected": {}
@@ -951,9 +946,9 @@
     }
   },
   "summary": {
-    "published": 86,
-    "automatic": 85,
+    "published": 87,
+    "automatic": 86,
     "curated": 1,
-    "review": 351
+    "review": 343
   }
 }
