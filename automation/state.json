@@ -1,5 +1,5 @@
 {
-  "lastRunAt": "2026-11-20T03:18:28+09:00",
+  "lastRunAt": "2026-11-20T16:19:45+09:00",
   "companies": {
     "삼성전자": {
       "discovered": 18,
@@ -247,16 +247,16 @@
       }
     },
     "현대오토에버": {
-      "discovered": 54,
+      "discovered": 52,
       "verified": 0,
       "sources": {
-        "official_page": 51,
+        "official_page": 49,
         "sitemap": 3
       },
       "errors": [],
       "rejected": {
         "senior_career_required": 2,
-        "career_only": 39,
+        "career_only": 37,
         "not_job_posting": 2
       }
     },
@@ -277,7 +277,9 @@
       "sources": {
         "sitemap": 25
       },
-      "errors": [],
+      "errors": [
+        "official_page:ConnectionError"
+      ],
       "rejected": {}
     },
     "현대글로비스": {
@@ -429,16 +431,16 @@
       }
     },
     "카카오": {
-      "discovered": 25,
+      "discovered": 24,
       "verified": 0,
       "sources": {
-        "official_api": 25
+        "official_api": 24
       },
       "errors": [],
       "rejected": {
         "career_only": 6,
         "advanced_degree_required": 3,
-        "not_data_track": 16
+        "not_data_track": 15
       }
     },
     "카카오모빌리티": {
@@ -451,14 +453,14 @@
       "rejected": {}
     },
     "카카오페이": {
-      "discovered": 37,
+      "discovered": 36,
       "verified": 5,
       "sources": {
-        "official_page": 37
+        "official_page": 36
       },
       "errors": [],
       "rejected": {
-        "senior_career_required": 8,
+        "senior_career_required": 7,
         "career_only": 8
       }
     },
@@ -488,10 +490,10 @@
       "rejected": {}
     },
     "당근": {
-      "discovered": 31,
+      "discovered": 32,
       "verified": 0,
       "sources": {
-        "official_page": 31
+        "official_page": 32
       },
       "errors": [],
       "rejected": {}
@@ -611,9 +613,7 @@
       "discovered": 0,
       "verified": 0,
       "sources": {},
-      "errors": [
-        "official_page:ConnectionError"
-      ],
+      "errors": [],
       "rejected": {}
     },
     "하나은행": {
@@ -624,13 +624,17 @@
       "rejected": {}
     },
     "우리은행": {
-      "discovered": 0,
+      "discovered": 1,
       "verified": 0,
-      "sources": {},
+      "sources": {
+        "sitemap": 1
+      },
       "errors": [
         "official_page:ConnectTimeout"
       ],
-      "rejected": {}
+      "rejected": {
+        "not_job_posting": 1
+      }
     },
     "NH농협은행": {
       "discovered": 7,
@@ -710,12 +714,14 @@
       }
     },
     "POSCO DX": {
-      "discovered": 3,
+      "discovered": 2,
       "verified": 0,
       "sources": {
-        "bing": 3
+        "bing": 2
       },
-      "errors": [],
+      "errors": [
+        "official_page:ConnectionError"
+      ],
       "rejected": {
         "not_job_posting": 1
       }
@@ -728,9 +734,11 @@
       "rejected": {}
     },
     "HD현대": {
-      "discovered": 0,
+      "discovered": 1,
       "verified": 0,
-      "sources": {},
+      "sources": {
+        "bing": 1
+      },
       "errors": [],
       "rejected": {}
     },
@@ -819,7 +827,9 @@
       "discovered": 0,
       "verified": 0,
       "sources": {},
-      "errors": [],
+      "errors": [
+        "official_page:ConnectTimeout"
+      ],
       "rejected": {}
     },
     "NH농협손해보험": {
@@ -864,11 +874,9 @@
       "rejected": {}
     },
     "LIG D&A": {
-      "discovered": 4,
+      "discovered": 0,
       "verified": 0,
-      "sources": {
-        "official_page": 4
-      },
+      "sources": {},
       "errors": [],
       "rejected": {}
     },
@@ -937,12 +945,12 @@
       "rejected": {}
     },
     "하나카드": {
-      "discovered": 0,
+      "discovered": 1,
       "verified": 0,
-      "sources": {},
-      "errors": [
-        "official_page:ConnectTimeout"
-      ],
+      "sources": {
+        "official_page": 1
+      },
+      "errors": [],
       "rejected": {}
     }
   },
@@ -950,6 +958,6 @@
     "published": 87,
     "automatic": 86,
     "curated": 1,
-    "review": 327
+    "review": 326
   }
 }
