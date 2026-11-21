@@ -1,5 +1,5 @@
 {
-  "lastRunAt": "2026-11-21T02:49:54+09:00",
+  "lastRunAt": "2026-11-21T16:13:01+09:00",
   "companies": {
     "삼성전자": {
       "discovered": 18,
@@ -527,10 +527,10 @@
       "rejected": {}
     },
     "쏘카": {
-      "discovered": 4,
+      "discovered": 7,
       "verified": 0,
       "sources": {
-        "bing": 4
+        "bing": 7
       },
       "errors": [
         "official_page:HTTPError"
@@ -615,28 +615,29 @@
       "discovered": 0,
       "verified": 0,
       "sources": {},
-      "errors": [
-        "official_page:ConnectionError"
-      ],
+      "errors": [],
       "rejected": {}
     },
     "하나은행": {
       "discovered": 0,
       "verified": 0,
       "sources": {},
-      "errors": [],
+      "errors": [
+        "official_page:ConnectionError"
+      ],
       "rejected": {}
     },
     "우리은행": {
-      "discovered": 200,
-      "verified": 6,
+      "discovered": 199,
+      "verified": 5,
       "sources": {
-        "official_page": 200
+        "official_page": 199
       },
       "errors": [],
       "rejected": {
         "not_job_posting": 5,
-        "eligibility_unconfirmed": 12
+        "eligibility_unconfirmed": 14,
+        "career_only": 2
       }
     },
     "NH농협은행": {
@@ -717,15 +718,11 @@
       }
     },
     "POSCO DX": {
-      "discovered": 2,
+      "discovered": 0,
       "verified": 0,
-      "sources": {
-        "bing": 2
-      },
+      "sources": {},
       "errors": [],
-      "rejected": {
-        "not_job_posting": 1
-      }
+      "rejected": {}
     },
     "포스코": {
       "discovered": 0,
@@ -955,6 +952,6 @@
     "published": 91,
     "automatic": 90,
     "curated": 1,
-    "review": 345
+    "review": 349
   }
 }
