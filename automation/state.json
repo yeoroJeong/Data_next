@@ -1,5 +1,5 @@
 {
-  "lastRunAt": "2026-11-22T15:53:33+09:00",
+  "lastRunAt": "2026-11-23T02:10:31+09:00",
   "companies": {
     "삼성전자": {
       "discovered": 18,
@@ -204,11 +204,9 @@
       "rejected": {}
     },
     "LG에너지솔루션": {
-      "discovered": 1,
+      "discovered": 0,
       "verified": 0,
-      "sources": {
-        "bing": 1
-      },
+      "sources": {},
       "errors": [],
       "rejected": {}
     },
@@ -279,9 +277,7 @@
       "sources": {
         "sitemap": 25
       },
-      "errors": [
-        "official_page:ReadTimeout"
-      ],
+      "errors": [],
       "rejected": {}
     },
     "현대글로비스": {
@@ -290,9 +286,7 @@
       "sources": {
         "sitemap": 26
       },
-      "errors": [
-        "official_page:HTTPError"
-      ],
+      "errors": [],
       "rejected": {}
     },
     "현대카드": {
@@ -406,31 +400,31 @@
       "rejected": {}
     },
     "NAVER": {
-      "discovered": 41,
+      "discovered": 36,
       "verified": 2,
       "sources": {
-        "official_api": 33,
+        "official_api": 28,
         "official_page": 8
       },
       "errors": [],
       "rejected": {
-        "not_data_track": 24,
-        "eligibility_unconfirmed": 5,
+        "not_data_track": 21,
+        "eligibility_unconfirmed": 3,
         "career_only": 2,
         "not_job_posting": 2
       }
     },
     "NAVER Cloud": {
-      "discovered": 12,
+      "discovered": 11,
       "verified": 0,
       "sources": {
-        "official_api": 4,
+        "official_api": 3,
         "official_page": 8
       },
       "errors": [],
       "rejected": {
-        "eligibility_unconfirmed": 2,
         "career_only": 2,
+        "eligibility_unconfirmed": 1,
         "not_job_posting": 2
       }
     },
@@ -524,13 +518,15 @@
       "rejected": {}
     },
     "두나무": {
-      "discovered": 0,
+      "discovered": 3,
       "verified": 0,
-      "sources": {},
-      "errors": [
-        "official_page:HTTPError"
-      ],
-      "rejected": {}
+      "sources": {
+        "official_page": 3
+      },
+      "errors": [],
+      "rejected": {
+        "not_job_posting": 3
+      }
     },
     "쏘카": {
       "discovered": 0,
@@ -628,16 +624,15 @@
       "rejected": {}
     },
     "우리은행": {
-      "discovered": 194,
-      "verified": 9,
+      "discovered": 193,
+      "verified": 4,
       "sources": {
-        "official_page": 194
+        "official_page": 193
       },
       "errors": [],
       "rejected": {
         "not_job_posting": 5,
-        "eligibility_unconfirmed": 10,
-        "career_only": 1
+        "eligibility_unconfirmed": 12
       }
     },
     "NH농협은행": {
@@ -718,17 +713,11 @@
       }
     },
     "POSCO DX": {
-      "discovered": 2,
+      "discovered": 0,
       "verified": 0,
-      "sources": {
-        "bing": 2
-      },
-      "errors": [
-        "official_page:ConnectionError"
-      ],
-      "rejected": {
-        "eligibility_unconfirmed": 1
-      }
+      "sources": {},
+      "errors": [],
+      "rejected": {}
     },
     "포스코": {
       "discovered": 0,
@@ -752,11 +741,10 @@
       "rejected": {}
     },
     "아모레퍼시픽": {
-      "discovered": 19,
+      "discovered": 16,
       "verified": 0,
       "sources": {
-        "official_page": 16,
-        "bing": 3
+        "official_page": 16
       },
       "errors": [],
       "rejected": {
@@ -780,12 +768,12 @@
       "rejected": {}
     },
     "인천국제공항공사": {
-      "discovered": 0,
+      "discovered": 3,
       "verified": 0,
-      "sources": {},
-      "errors": [
-        "official_page:ConnectTimeout"
-      ],
+      "sources": {
+        "official_page": 3
+      },
+      "errors": [],
       "rejected": {}
     },
     "한국장학재단": {
@@ -803,9 +791,7 @@
       "discovered": 0,
       "verified": 0,
       "sources": {},
-      "errors": [
-        "official_page:ConnectTimeout"
-      ],
+      "errors": [],
       "rejected": {}
     },
     "한국전력공사": {
@@ -946,12 +932,12 @@
       "rejected": {}
     },
     "하나카드": {
-      "discovered": 0,
+      "discovered": 1,
       "verified": 0,
-      "sources": {},
-      "errors": [
-        "official_page:ConnectTimeout"
-      ],
+      "sources": {
+        "official_page": 1
+      },
+      "errors": [],
       "rejected": {}
     }
   },
@@ -959,6 +945,6 @@
     "published": 95,
     "automatic": 94,
     "curated": 1,
-    "review": 344
+    "review": 345
   }
 }
