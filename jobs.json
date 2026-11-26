@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-26T04:18:57+09:00",
+  "updatedAt": "2026-11-26T17:24:13+09:00",
   "jobs": [
     {
       "id": "63d395ca511a0a01",
@@ -17,7 +17,7 @@
       "source": "우리은행 공식 채용",
       "initial": "우리",
       "color": "blue",
-      "verifiedAt": "2026-11-26T04:18+09:00"
+      "verifiedAt": "2026-11-26T17:24+09:00"
     },
     {
       "id": "bf5d76443841531c",
@@ -51,7 +51,7 @@
       "source": "우리은행 공식 채용",
       "initial": "우리",
       "color": "blue",
-      "verifiedAt": "2026-11-26T04:18+09:00"
+      "verifiedAt": "2026-11-26T17:24+09:00"
     },
     {
       "id": "64a269540ceca89d",
@@ -102,7 +102,7 @@
       "source": "우리은행 공식 채용",
       "initial": "우리",
       "color": "blue",
-      "verifiedAt": "2026-11-26T04:18+09:00"
+      "verifiedAt": "2026-11-26T17:24+09:00"
     },
     {
       "id": "07523bd6a09b1288",
@@ -119,7 +119,7 @@
       "source": "NAVER 공식 채용",
       "initial": "NA",
       "color": "orange",
-      "verifiedAt": "2026-11-26T04:18+09:00"
+      "verifiedAt": "2026-11-26T17:24+09:00"
     },
     {
       "id": "905363cb7adbb2b8",
@@ -153,7 +153,7 @@
       "source": "NAVER 공식 채용",
       "initial": "NA",
       "color": "orange",
-      "verifiedAt": "2026-11-26T04:18+09:00"
+      "verifiedAt": "2026-11-26T17:24+09:00"
     },
     {
       "id": "216c945aa759be41",
@@ -170,7 +170,7 @@
       "source": "NAVER 공식 채용",
       "initial": "NA",
       "color": "orange",
-      "verifiedAt": "2026-11-26T04:18+09:00"
+      "verifiedAt": "2026-11-26T17:24+09:00"
     },
     {
       "id": "3c54954ddff22d7b",
@@ -187,7 +187,7 @@
       "source": "NAVER 공식 채용",
       "initial": "NA",
       "color": "orange",
-      "verifiedAt": "2026-11-26T04:18+09:00"
+      "verifiedAt": "2026-11-26T17:24+09:00"
     },
     {
       "id": "359424749721eb69",
@@ -204,7 +204,7 @@
       "source": "우리은행 공식 채용",
       "initial": "우리",
       "color": "blue",
-      "verifiedAt": "2026-11-26T04:18+09:00"
+      "verifiedAt": "2026-11-26T17:24+09:00"
     },
     {
       "id": "fc93c1591da1b5a2",
@@ -238,7 +238,7 @@
       "source": "카카오페이 공식 채용",
       "initial": "카카",
       "color": "green",
-      "verifiedAt": "2026-11-26T04:18+09:00"
+      "verifiedAt": "2026-11-26T17:24+09:00"
     },
     {
       "id": "ac239e4bbec74485",
@@ -255,7 +255,7 @@
       "source": "카카오페이 공식 채용",
       "initial": "카카",
       "color": "green",
-      "verifiedAt": "2026-11-26T04:18+09:00"
+      "verifiedAt": "2026-11-26T17:24+09:00"
     },
     {
       "id": "c720d7351093eca9",
@@ -272,7 +272,7 @@
       "source": "카카오페이 공식 채용",
       "initial": "카카",
       "color": "green",
-      "verifiedAt": "2026-11-26T04:18+09:00"
+      "verifiedAt": "2026-11-26T17:24+09:00"
     },
     {
       "id": "15af525206778277",
@@ -289,7 +289,7 @@
       "source": "카카오페이 공식 채용",
       "initial": "카카",
       "color": "green",
-      "verifiedAt": "2026-11-26T04:18+09:00"
+      "verifiedAt": "2026-11-26T17:24+09:00"
     },
     {
       "id": "9e18838c21fe1de5",
@@ -306,7 +306,7 @@
       "source": "카카오페이 공식 채용",
       "initial": "카카",
       "color": "green",
-      "verifiedAt": "2026-11-26T04:18+09:00"
+      "verifiedAt": "2026-11-26T17:24+09:00"
     },
     {
       "id": "e3d871299e9e192c",
@@ -753,7 +753,7 @@
       "source": "크래프톤 공식 채용",
       "initial": "크래",
       "color": "orange",
-      "verifiedAt": "2026-11-26T04:18+09:00"
+      "verifiedAt": "2026-11-26T17:24+09:00"
     },
     {
       "id": "b9fff7b28f30ab6b",
@@ -770,7 +770,7 @@
       "source": "쿠팡 공식 채용",
       "initial": "쿠팡",
       "color": "blue",
-      "verifiedAt": "2026-11-26T04:18+09:00"
+      "verifiedAt": "2026-11-26T17:24+09:00"
     },
     {
       "id": "dc028281437a94df",
@@ -787,7 +787,7 @@
       "source": "쿠팡 공식 채용",
       "initial": "쿠팡",
       "color": "blue",
-      "verifiedAt": "2026-11-26T04:18+09:00"
+      "verifiedAt": "2026-11-26T17:24+09:00"
     },
     {
       "id": "7e49e4dc2e96cffd",
@@ -804,7 +804,7 @@
       "source": "쿠팡 공식 채용",
       "initial": "쿠팡",
       "color": "blue",
-      "verifiedAt": "2026-11-26T04:18+09:00"
+      "verifiedAt": "2026-11-26T17:24+09:00"
     },
     {
       "id": "3e88b532c6923154",
@@ -872,7 +872,7 @@
       "source": "우리은행 공식 채용",
       "initial": "우리",
       "color": "blue",
-      "verifiedAt": "2026-11-26T04:18+09:00"
+      "verifiedAt": "2026-11-26T17:24+09:00"
     },
     {
       "id": "06e1e2431719059c",
@@ -889,7 +889,7 @@
       "source": "우리은행 공식 채용",
       "initial": "우리",
       "color": "blue",
-      "verifiedAt": "2026-11-26T04:18+09:00"
+      "verifiedAt": "2026-11-26T17:24+09:00"
     },
     {
       "id": "064fd84ec87d922a",
@@ -923,7 +923,7 @@
       "source": "우리은행 공식 채용",
       "initial": "우리",
       "color": "blue",
-      "verifiedAt": "2026-11-26T04:18+09:00"
+      "verifiedAt": "2026-11-26T17:24+09:00"
     },
     {
       "id": "8d79c0a2ed763082",
@@ -974,7 +974,7 @@
       "source": "우리은행 공식 채용",
       "initial": "우리",
       "color": "blue",
-      "verifiedAt": "2026-11-26T04:18+09:00"
+      "verifiedAt": "2026-11-26T17:24+09:00"
     },
     {
       "id": "6518b9dbb5d80019",
@@ -1008,7 +1008,7 @@
       "source": "우리은행 공식 채용",
       "initial": "우리",
       "color": "blue",
-      "verifiedAt": "2026-11-26T04:18+09:00"
+      "verifiedAt": "2026-11-26T17:24+09:00"
     },
     {
       "id": "2df8a9cc34fda7be",
@@ -1025,7 +1025,7 @@
       "source": "우리은행 공식 채용",
       "initial": "우리",
       "color": "blue",
-      "verifiedAt": "2026-11-26T04:18+09:00"
+      "verifiedAt": "2026-11-26T17:24+09:00"
     },
     {
       "id": "918cd09b1d9cc638",
@@ -1127,7 +1127,7 @@
       "source": "APR 공식 채용",
       "initial": "AP",
       "color": "green",
-      "verifiedAt": "2026-11-26T04:18+09:00"
+      "verifiedAt": "2026-11-26T17:24+09:00"
     },
     {
       "id": "298ebbb2cd881181",
@@ -1144,7 +1144,7 @@
       "source": "우리은행 공식 채용",
       "initial": "우리",
       "color": "blue",
-      "verifiedAt": "2026-11-26T04:18+09:00"
+      "verifiedAt": "2026-11-26T17:24+09:00"
     },
     {
       "id": "b56c74d5c538c509",
@@ -1212,7 +1212,7 @@
       "source": "우리은행 공식 채용",
       "initial": "우리",
       "color": "blue",
-      "verifiedAt": "2026-11-26T04:18+09:00"
+      "verifiedAt": "2026-11-26T17:24+09:00"
     },
     {
       "id": "d71eca550e2b911f",
@@ -1229,7 +1229,7 @@
       "source": "우리은행 공식 채용",
       "initial": "우리",
       "color": "blue",
-      "verifiedAt": "2026-11-26T04:18+09:00"
+      "verifiedAt": "2026-11-26T17:24+09:00"
     },
     {
       "id": "a8e712b6add82ff3",
@@ -1297,7 +1297,7 @@
       "source": "쿠팡 공식 채용",
       "initial": "쿠팡",
       "color": "blue",
-      "verifiedAt": "2026-11-26T04:18+09:00"
+      "verifiedAt": "2026-11-26T17:24+09:00"
     },
     {
       "id": "9003e39c91860b5c",
@@ -1314,7 +1314,7 @@
       "source": "쿠팡 공식 채용",
       "initial": "쿠팡",
       "color": "blue",
-      "verifiedAt": "2026-11-26T04:18+09:00"
+      "verifiedAt": "2026-11-26T17:24+09:00"
     },
     {
       "id": "4d32fa91ebc8ee2b",
@@ -1331,7 +1331,7 @@
       "source": "쿠팡 공식 채용",
       "initial": "쿠팡",
       "color": "blue",
-      "verifiedAt": "2026-11-26T04:18+09:00"
+      "verifiedAt": "2026-11-26T17:24+09:00"
     },
     {
       "id": "d94e30e9641aefe1",
@@ -1348,7 +1348,7 @@
       "source": "우리은행 공식 채용",
       "initial": "우리",
       "color": "blue",
-      "verifiedAt": "2026-11-26T04:18+09:00"
+      "verifiedAt": "2026-11-26T17:24+09:00"
     },
     {
       "id": "27ea38cb258e5e38",
@@ -1365,7 +1365,7 @@
       "source": "우리은행 공식 채용",
       "initial": "우리",
       "color": "blue",
-      "verifiedAt": "2026-11-26T04:18+09:00"
+      "verifiedAt": "2026-11-26T17:24+09:00"
     },
     {
       "id": "3c9f1833e8db6d8d",
@@ -1382,7 +1382,7 @@
       "source": "우리은행 공식 채용",
       "initial": "우리",
       "color": "blue",
-      "verifiedAt": "2026-11-26T04:18+09:00"
+      "verifiedAt": "2026-11-26T17:24+09:00"
     },
     {
       "id": "2635b2ae410beefb",
@@ -1416,7 +1416,7 @@
       "source": "우리은행 공식 채용",
       "initial": "우리",
       "color": "blue",
-      "verifiedAt": "2026-11-26T04:18+09:00"
+      "verifiedAt": "2026-11-26T17:24+09:00"
     },
     {
       "id": "74fee3ecf8c94942",
@@ -1450,7 +1450,7 @@
       "source": "우리은행 공식 채용",
       "initial": "우리",
       "color": "blue",
-      "verifiedAt": "2026-11-26T04:18+09:00"
+      "verifiedAt": "2026-11-26T17:24+09:00"
     },
     {
       "id": "a0e2b8b379eaeac7",
@@ -1467,7 +1467,7 @@
       "source": "SIMPAC그룹 공식 채용",
       "initial": "SI",
       "color": "green",
-      "verifiedAt": "2026-11-26T04:18+09:00"
+      "verifiedAt": "2026-11-26T17:24+09:00"
     },
     {
       "id": "118bdbb48d53b4ae",
@@ -1484,7 +1484,7 @@
       "source": "SIMPAC그룹 공식 채용",
       "initial": "SI",
       "color": "green",
-      "verifiedAt": "2026-11-26T04:18+09:00"
+      "verifiedAt": "2026-11-26T17:24+09:00"
     },
     {
       "id": "c197284bbf85ebbe",
@@ -1501,7 +1501,7 @@
       "source": "SIMPAC그룹 공식 채용",
       "initial": "SI",
       "color": "green",
-      "verifiedAt": "2026-11-26T04:18+09:00"
+      "verifiedAt": "2026-11-26T17:24+09:00"
     },
     {
       "id": "91a272f91ce88865",
@@ -1518,7 +1518,7 @@
       "source": "SIMPAC그룹 공식 채용",
       "initial": "SI",
       "color": "green",
-      "verifiedAt": "2026-11-26T04:18+09:00"
+      "verifiedAt": "2026-11-26T17:24+09:00"
     },
     {
       "id": "0c53d624815c32fa",
@@ -1535,7 +1535,7 @@
       "source": "SIMPAC그룹 공식 채용",
       "initial": "SI",
       "color": "green",
-      "verifiedAt": "2026-11-26T04:18+09:00"
+      "verifiedAt": "2026-11-26T17:24+09:00"
     },
     {
       "id": "b51d0f12433eafd5",
@@ -1552,7 +1552,7 @@
       "source": "SIMPAC그룹 공식 채용",
       "initial": "SI",
       "color": "green",
-      "verifiedAt": "2026-11-26T04:18+09:00"
+      "verifiedAt": "2026-11-26T17:24+09:00"
     },
     {
       "id": "711c5ec75be2ee02",
@@ -1569,7 +1569,7 @@
       "source": "우리은행 공식 채용",
       "initial": "우리",
       "color": "blue",
-      "verifiedAt": "2026-11-26T04:18+09:00"
+      "verifiedAt": "2026-11-26T17:24+09:00"
     },
     {
       "id": "b0e883b55bd891f7",
@@ -1586,7 +1586,7 @@
       "source": "우리은행 공식 채용",
       "initial": "우리",
       "color": "blue",
-      "verifiedAt": "2026-11-26T04:18+09:00"
+      "verifiedAt": "2026-11-26T17:24+09:00"
     },
     {
       "id": "c58ba4c654d70094",
@@ -1620,7 +1620,7 @@
       "source": "우리은행 공식 채용",
       "initial": "우리",
       "color": "blue",
-      "verifiedAt": "2026-11-26T04:18+09:00"
+      "verifiedAt": "2026-11-26T17:24+09:00"
     },
     {
       "id": "41ff6b0ed8713f54",
