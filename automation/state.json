@@ -1,5 +1,5 @@
 {
-  "lastRunAt": "2026-11-27T17:38:40+09:00",
+  "lastRunAt": "2026-11-28T04:00:28+09:00",
   "companies": {
     "삼성전자": {
       "discovered": 17,
@@ -341,37 +341,37 @@
       "rejected": {}
     },
     "롯데이노베이트": {
-      "discovered": 26,
+      "discovered": 23,
       "verified": 0,
       "sources": {
-        "official_page": 26
+        "official_page": 23
       },
       "errors": [],
       "rejected": {}
     },
     "롯데쇼핑": {
-      "discovered": 26,
+      "discovered": 23,
       "verified": 0,
       "sources": {
-        "official_page": 26
+        "official_page": 23
       },
       "errors": [],
       "rejected": {}
     },
     "롯데카드": {
-      "discovered": 26,
+      "discovered": 23,
       "verified": 0,
       "sources": {
-        "official_page": 26
+        "official_page": 23
       },
       "errors": [],
       "rejected": {}
     },
     "롯데e커머스": {
-      "discovered": 26,
+      "discovered": 23,
       "verified": 0,
       "sources": {
-        "official_page": 26
+        "official_page": 23
       },
       "errors": [],
       "rejected": {}
@@ -469,14 +469,14 @@
       "rejected": {}
     },
     "쿠팡": {
-      "discovered": 24,
+      "discovered": 18,
       "verified": 3,
       "sources": {
-        "official_page": 24
+        "official_page": 18
       },
       "errors": [],
       "rejected": {
-        "eligibility_unconfirmed": 6
+        "eligibility_unconfirmed": 3
       }
     },
     "우아한형제들": {
@@ -571,10 +571,11 @@
       "rejected": {}
     },
     "크래프톤": {
-      "discovered": 75,
+      "discovered": 79,
       "verified": 1,
       "sources": {
-        "official_page": 75
+        "official_page": 75,
+        "bing": 4
       },
       "errors": [],
       "rejected": {
@@ -614,23 +615,24 @@
       "rejected": {}
     },
     "하나은행": {
-      "discovered": 0,
+      "discovered": 2,
       "verified": 0,
-      "sources": {},
+      "sources": {
+        "bing": 2
+      },
       "errors": [],
       "rejected": {}
     },
     "우리은행": {
-      "discovered": 202,
+      "discovered": 486,
       "verified": 3,
       "sources": {
-        "official_page": 202
+        "official_page": 486
       },
       "errors": [],
       "rejected": {
         "not_job_posting": 5,
-        "eligibility_unconfirmed": 8,
-        "career_only": 2
+        "eligibility_unconfirmed": 23
       }
     },
     "NH농협은행": {
@@ -673,10 +675,11 @@
       "rejected": {}
     },
     "신세계I&C": {
-      "discovered": 1,
+      "discovered": 2,
       "verified": 0,
       "sources": {
-        "official_page": 1
+        "official_page": 1,
+        "bing": 1
       },
       "errors": [],
       "rejected": {}
@@ -716,9 +719,7 @@
       "sources": {
         "bing": 2
       },
-      "errors": [
-        "official_page:ConnectionError"
-      ],
+      "errors": [],
       "rejected": {
         "not_job_posting": 1
       }
@@ -731,9 +732,11 @@
       "rejected": {}
     },
     "HD현대": {
-      "discovered": 0,
+      "discovered": 1,
       "verified": 0,
-      "sources": {},
+      "sources": {
+        "bing": 1
+      },
       "errors": [],
       "rejected": {}
     },
@@ -751,9 +754,7 @@
         "official_page": 15
       },
       "errors": [],
-      "rejected": {
-        "eligibility_unconfirmed": 1
-      }
+      "rejected": {}
     },
     "BGF리테일": {
       "discovered": 0,
@@ -795,7 +796,9 @@
       "discovered": 0,
       "verified": 0,
       "sources": {},
-      "errors": [],
+      "errors": [
+        "official_page:ConnectTimeout"
+      ],
       "rejected": {}
     },
     "한국전력공사": {
@@ -927,10 +930,10 @@
       "rejected": {}
     },
     "롯데그룹": {
-      "discovered": 26,
+      "discovered": 23,
       "verified": 0,
       "sources": {
-        "official_page": 26
+        "official_page": 23
       },
       "errors": [],
       "rejected": {}
@@ -946,9 +949,9 @@
     }
   },
   "summary": {
-    "published": 98,
-    "automatic": 97,
+    "published": 97,
+    "automatic": 96,
     "curated": 1,
-    "review": 325
+    "review": 335
   }
 }
