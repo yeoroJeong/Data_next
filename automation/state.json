@@ -1,5 +1,5 @@
 {
-  "lastRunAt": "2026-11-28T04:00:28+09:00",
+  "lastRunAt": "2026-11-28T16:53:05+09:00",
   "companies": {
     "삼성전자": {
       "discovered": 17,
@@ -275,7 +275,9 @@
       "sources": {
         "sitemap": 25
       },
-      "errors": [],
+      "errors": [
+        "official_page:ConnectionError"
+      ],
       "rejected": {}
     },
     "현대글로비스": {
@@ -309,35 +311,45 @@
       "discovered": 0,
       "verified": 0,
       "sources": {},
-      "errors": [],
+      "errors": [
+        "official_page:HTTPError"
+      ],
       "rejected": {}
     },
     "한화시스템": {
       "discovered": 0,
       "verified": 0,
       "sources": {},
-      "errors": [],
+      "errors": [
+        "official_page:HTTPError"
+      ],
       "rejected": {}
     },
     "한화에어로스페이스": {
       "discovered": 0,
       "verified": 0,
       "sources": {},
-      "errors": [],
+      "errors": [
+        "official_page:HTTPError"
+      ],
       "rejected": {}
     },
     "한화손해보험": {
       "discovered": 0,
       "verified": 0,
       "sources": {},
-      "errors": [],
+      "errors": [
+        "official_page:HTTPError"
+      ],
       "rejected": {}
     },
     "한화비전": {
       "discovered": 0,
       "verified": 0,
       "sources": {},
-      "errors": [],
+      "errors": [
+        "official_page:HTTPError"
+      ],
       "rejected": {}
     },
     "롯데이노베이트": {
@@ -469,14 +481,14 @@
       "rejected": {}
     },
     "쿠팡": {
-      "discovered": 18,
-      "verified": 3,
+      "discovered": 21,
+      "verified": 0,
       "sources": {
-        "official_page": 18
+        "official_page": 21
       },
       "errors": [],
       "rejected": {
-        "eligibility_unconfirmed": 3
+        "eligibility_unconfirmed": 9
       }
     },
     "우아한형제들": {
@@ -571,11 +583,10 @@
       "rejected": {}
     },
     "크래프톤": {
-      "discovered": 79,
+      "discovered": 75,
       "verified": 1,
       "sources": {
-        "official_page": 75,
-        "bing": 4
+        "official_page": 75
       },
       "errors": [],
       "rejected": {
@@ -615,24 +626,24 @@
       "rejected": {}
     },
     "하나은행": {
-      "discovered": 2,
+      "discovered": 0,
       "verified": 0,
-      "sources": {
-        "bing": 2
-      },
+      "sources": {},
       "errors": [],
       "rejected": {}
     },
     "우리은행": {
-      "discovered": 486,
+      "discovered": 479,
       "verified": 3,
       "sources": {
-        "official_page": 486
+        "official_page": 479
       },
       "errors": [],
       "rejected": {
         "not_job_posting": 5,
-        "eligibility_unconfirmed": 23
+        "eligibility_unconfirmed": 19,
+        "career_only": 2,
+        "excluded_role": 1
       }
     },
     "NH농협은행": {
@@ -675,11 +686,10 @@
       "rejected": {}
     },
     "신세계I&C": {
-      "discovered": 2,
+      "discovered": 1,
       "verified": 0,
       "sources": {
-        "official_page": 1,
-        "bing": 1
+        "official_page": 1
       },
       "errors": [],
       "rejected": {}
@@ -714,15 +724,11 @@
       }
     },
     "POSCO DX": {
-      "discovered": 2,
+      "discovered": 0,
       "verified": 0,
-      "sources": {
-        "bing": 2
-      },
+      "sources": {},
       "errors": [],
-      "rejected": {
-        "not_job_posting": 1
-      }
+      "rejected": {}
     },
     "포스코": {
       "discovered": 0,
@@ -732,11 +738,9 @@
       "rejected": {}
     },
     "HD현대": {
-      "discovered": 1,
+      "discovered": 0,
       "verified": 0,
-      "sources": {
-        "bing": 1
-      },
+      "sources": {},
       "errors": [],
       "rejected": {}
     },
@@ -754,7 +758,9 @@
         "official_page": 15
       },
       "errors": [],
-      "rejected": {}
+      "rejected": {
+        "eligibility_unconfirmed": 1
+      }
     },
     "BGF리테일": {
       "discovered": 0,
@@ -796,9 +802,7 @@
       "discovered": 0,
       "verified": 0,
       "sources": {},
-      "errors": [
-        "official_page:ConnectTimeout"
-      ],
+      "errors": [],
       "rejected": {}
     },
     "한국전력공사": {
@@ -837,14 +841,18 @@
       "discovered": 0,
       "verified": 0,
       "sources": {},
-      "errors": [],
+      "errors": [
+        "official_page:HTTPError"
+      ],
       "rejected": {}
     },
     "한화자산운용": {
       "discovered": 0,
       "verified": 0,
       "sources": {},
-      "errors": [],
+      "errors": [
+        "official_page:HTTPError"
+      ],
       "rejected": {}
     },
     "한국투자공사": {
@@ -952,6 +960,6 @@
     "published": 97,
     "automatic": 96,
     "curated": 1,
-    "review": 335
+    "review": 339
   }
 }
